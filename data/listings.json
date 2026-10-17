@@ -2909,5 +2909,57 @@
     "state": "WI",
     "notes": "Free Narcan Hope Kits (two doses, test strips, CPR mask, resources) mailed to Racine County residents (one per person per month). Also available at health department and vending machines. Owning organization: City of Racine Public Health Department.",
     "organization": "City of Racine Public Health Department"
+  },
+  {
+    "id": "oklahoma-ok-im-ready-mail",
+    "name": "Oklahoma OK I'M Ready Free Naloxone by Mail",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://rehabseekers.com/resources/narcan-oklahoma/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OK",
+    "notes": "Free naloxone by mail anywhere in Oklahoma via OK I'M Ready (ODMHSAS). Complements tribal and community vending machines/boxes. Also available via NEXT Distro / OKHRA for those who cannot access locally. Owning organization: Oklahoma Department of Mental Health and Substance Abuse Services.",
+    "organization": "Oklahoma Department of Mental Health and Substance Abuse Services (OK I'M Ready)"
+  },
+  {
+    "id": "iowa-linn-county-vending",
+    "name": "Linn County IA Free Naloxone Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://linncountyiowa.gov/1678/Naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IA",
+    "notes": "Seven free naloxone and harm reduction vending machines across Linn County (Cedar Rapids area libraries, recovery centers, health facilities). Funded via Opioid Settlement Fund. Anonymous access. Owning organization: Linn County / Substance Misuse Committee.",
+    "organization": "Linn County Public Health / Substance Misuse Committee"
+  },
+  {
+    "id": "iowa-johnson-county-vending",
+    "name": "Johnson County IA Free Harm Reduction Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://johnsoncountyiowa.gov/node/15392"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IA",
+    "notes": "Free naloxone and harm reduction supplies via vending machines at Coralville and North Liberty public libraries, Deadwood Tavern (Iowa City), and outside Johnson County Health & Human Services. Funded by opioid settlement dollars. No ID required. Owning organization: Johnson County.",
+    "organization": "Johnson County (Iowa)"
+  },
+  {
+    "id": "iowa-delaware-county-vending",
+    "name": "Delaware County IA Free Naloxone Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://rehabs.org/blog/free-naloxone-now-available-in-iowa-vending-machines/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IA",
+    "notes": "Two free 24/7 naloxone and harm reduction vending machines at Regional Medical Center (Manchester) and Hopkinton Community Center. Funded with opioid settlement funds. Anonymous access. Owning organization: Delaware County Opioid Committee.",
+    "organization": "Delaware County (Iowa) Opioid Committee"
   }
 ]
