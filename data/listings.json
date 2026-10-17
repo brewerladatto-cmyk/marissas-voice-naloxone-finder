@@ -1769,5 +1769,34 @@
     "state": "NE",
     "notes": "Free naloxone by mail for Nebraska residents who cannot access it locally after short training. Plain packaging. Owning organization: NEXT Distro.",
     "organization": "NEXT Distro"
+  },
+  {
+    "id": "nevada-state-opioid-response-finder",
+    "name": "Nevada State Opioid Response Overdose Reversal Medication Finder",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://nvopioidresponse.org/overdose-prevention/overdose-reversal-medication/finder/",
+      "https://www.southernnevadahealthdistrict.org/programs/substance-use-and-overdose-prevention/harm-reduction/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NV",
+    "notes": "Statewide finder for free overdose reversal medication (naloxone) including public health centers, harm reduction programs, and other distribution sites. Southern Nevada Health District provides free naloxone and test strips at public health centers and partners. Organizations can distribute under standing order; pharmacists furnish under Board of Pharmacy protocols. Vending machines and public boxes also available in multiple areas. Owning organization: Nevada State Opioid Response / Southern Nevada Health District.",
+    "organization": "Nevada State Opioid Response / SNHD"
+  },
+  {
+    "id": "nevada-trac-b-next-distro",
+    "name": "Trac-B Exchange / NEXT Distro Free Mail & Vending Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/nevada",
+      "https://nextdistro.org/nvchoice",
+      "https://nvharmreductionshipping.com/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NV",
+    "notes": "Free injectable intramuscular naloxone by mail for Nevada residents who cannot access it locally (especially 20+ miles from Trac-B or rural areas), after short training video and quiz. Partnership with Trac-B Exchange. Also operates harm reduction vending machines with free naloxone. Plain packaging. Owning organization: Trac-B Exchange / NEXT Distro.",
+    "organization": "Trac-B Exchange / NEXT Distro"
   }
 ]
