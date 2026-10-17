@@ -2025,5 +2025,33 @@
     "state": "OH",
     "notes": "Free naloxone (Narcan nasal spray or intramuscular) and test strips mailed discreetly to any Ohio resident at no cost. Partnership with NEXT Distro and collaboration with Ohio Department of Health\u2019s Project DAWN. Also supports volunteer lay distributors. Owning organization: Harm Reduction Ohio / NEXT Distro.",
     "organization": "Harm Reduction Ohio / NEXT Distro"
+  },
+  {
+    "id": "oklahoma-ok-im-ready",
+    "name": "OK I'm Ready Free Mail Naloxone (ODMHSAS)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://oklahoma.gov/odmhsas/about/public-information/press-releases-and-other-news/2024/revamped-overdose-prevention-strategy-enhances-harm-reduction-ef.html",
+      "https://okimready.org/overdose"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OK",
+    "notes": "Free two-dose naloxone kits mailed to any Oklahoma resident after brief online registration at okimready.org/overdose. Statewide program from Oklahoma Department of Mental Health and Substance Abuse Services (ODMHSAS). Standing order allows pharmacy access. (Note: former statewide vending machine program ended in 2024; mail program continues.) Owning organization: Oklahoma ODMHSAS.",
+    "organization": "Oklahoma Department of Mental Health and Substance Abuse Services"
+  },
+  {
+    "id": "oklahoma-next-distro-okhra",
+    "name": "NEXT Distro / Oklahoma Harm Reduction Alliance Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/oklahoma",
+      "https://nextdistro.org/okchoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OK",
+    "notes": "Free injectable intramuscular naloxone by mail for people living in Oklahoma who cannot access it locally after short training video and quiz. Partnership with Oklahoma Harm Reduction Alliance (OKHRA). Plain packaging. Owning organization: NEXT Distro / OKHRA.",
+    "organization": "NEXT Distro / Oklahoma Harm Reduction Alliance"
   }
 ]
