@@ -1996,5 +1996,34 @@
     "state": "ND",
     "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for North Dakota residents who cannot access it locally (people who use drugs, recently released from jail/prison, or likely first responders) after short training video and quiz. Partnership with Grand Forks Health Department. Plain packaging. Owning organization: NEXT Distro / Grand Forks Health Department.",
     "organization": "NEXT Distro / Grand Forks Health Department"
+  },
+  {
+    "id": "ohio-project-dawn",
+    "name": "Ohio Project DAWN Free Naloxone Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://odh.ohio.gov/know-our-programs/project-dawn",
+      "https://naloxone.ohio.gov/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OH",
+    "notes": "Statewide network of over 150 active Project DAWN (Deaths Avoided With Naloxone) programs providing free overdose reversal medication and education at health departments, hospitals, libraries, fire stations, community sites, and more (covering ~83 of 88 counties). Anyone in Ohio can obtain free naloxone at these locations. Vending machines and boxes also available in multiple cities. Owning organization: Ohio Department of Health.",
+    "organization": "Ohio Department of Health"
+  },
+  {
+    "id": "ohio-harm-reduction-ohio-next-distro",
+    "name": "Harm Reduction Ohio / NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/ohio",
+      "https://www.harmreductionohio.org/order-naloxone-free-from-harm-reduction-ohio/",
+      "https://nextdistro.org/hro"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OH",
+    "notes": "Free naloxone (Narcan nasal spray or intramuscular) and test strips mailed discreetly to any Ohio resident at no cost. Partnership with NEXT Distro and collaboration with Ohio Department of Health\u2019s Project DAWN. Also supports volunteer lay distributors. Owning organization: Harm Reduction Ohio / NEXT Distro.",
+    "organization": "Harm Reduction Ohio / NEXT Distro"
   }
 ]
