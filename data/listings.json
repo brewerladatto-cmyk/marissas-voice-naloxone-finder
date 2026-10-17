@@ -2752,5 +2752,58 @@
     "state": "PA",
     "notes": "Free 24/7 Narcan and other health supplies via kiosk outside Erie County Department of Health. Funded with grants and opioid settlement funds. Complements statewide mail and community programs. Owning organization: Erie County Department of Health.",
     "organization": "Erie County Department of Health"
+  },
+  {
+    "id": "maryland-howard-county-vending",
+    "name": "Howard County MD Free 24/7 Naloxone Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.howardcountymd.gov/health/howard-county-introduces-free-247-overdose-prevention-vending-machines",
+      "https://foxbaltimore.com/news/local/free-vending-machines-naloxone-test-strips-howard-county-maryland"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MD",
+    "notes": "Two free, anonymous 24/7 outdoor vending machines offering naloxone kits, test strips, and other supplies at Grassroots Day Resource Center (Jessup) and Howard County Health Department (Columbia). Funded via Opioid Restitution Fund. Owning organization: Howard County Health Department.",
+    "organization": "Howard County Health Department"
+  },
+  {
+    "id": "virginia-richmond-harm-reduction-vending",
+    "name": "Richmond VA Free Harm Reduction Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.vpm.org/news/2025-07-30/richmond-harm-reduction-vending-machines-opioid-overdose-naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VA",
+    "notes": "Free 24/7 naloxone, fentanyl test strips, and harm reduction supplies via vending machines at Richmond Department of Social Services locations (Marshall Plaza and Southside Plaza), with additional machines planned. Funded via opioid abatement funds. Owning organization: City of Richmond.",
+    "organization": "City of Richmond"
+  },
+  {
+    "id": "maryland-frederick-county-vending",
+    "name": "Frederick County MD Free Health Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://wtop.com/frederick-county/2026/01/frederick-county-installs-new-health-vending-machine-featuring-naloxone-fentanyl-test-strips/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MD",
+    "notes": "Free naloxone, fentanyl test strips, and other supplies via health vending machine at Frederick Department of Housing and Services. Complements existing naloxone boxes. No ID required. Owning organization: Frederick County Health Department.",
+    "organization": "Frederick County Health Department"
+  },
+  {
+    "id": "south-carolina-columbia-naloxone-vending",
+    "name": "Columbia SC Free Naloxone Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.wistv.com/2026/07/01/south-carolinas-first-data-driven-naloxone-vending-machine-aims-save-lives/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SC",
+    "notes": "Free naloxone via data-driven vending machine at COMET Central (1745 Sumter Street, Columbia). Run by Innovative Solutions with South Carolina Opioid Relief Fund support. High usage reported. Owning organization: Innovative Solutions / City of Columbia.",
+    "organization": "Innovative Solutions / City of Columbia"
   }
 ]
