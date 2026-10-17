@@ -1683,5 +1683,34 @@
     "state": "MS",
     "notes": "Free injectable intramuscular naloxone or Narcan nasal spray by mail for Mississippi residents who cannot access it locally, after short training video and quiz. Partnership with Trystereo. Plain packaging. Owning organization: NEXT Distro / Trystereo.",
     "organization": "NEXT Distro / Trystereo"
+  },
+  {
+    "id": "missouri-get-mo-naloxone",
+    "name": "Get MO Naloxone (Missouri Institute of Mental Health / DMH)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://getmonaloxone.com/",
+      "https://health.mo.gov/living/families/more",
+      "https://www.mofirstresponders.org/getnaloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MO",
+    "notes": "Free naloxone available by mail or at mapped pickup locations statewide. Coordinated by Missouri Institute of Mental Health and Department of Mental Health. Includes options for individuals and organizations/first responders. Statewide standing order allows pharmacy access without a personal prescription (MO HealthNet often $0 copay). Vending machines and distribution boxes also available in multiple cities. Owning organization: Missouri Institute of Mental Health / Missouri Department of Mental Health.",
+    "organization": "Missouri Institute of Mental Health / DMH"
+  },
+  {
+    "id": "missouri-next-distro-mail",
+    "name": "Missouri NEXT Distro / MoNetwork Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/missouri",
+      "https://nextdistro.org/mochoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MO",
+    "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Missouri residents who cannot access it locally, after short training video and quiz. Partnership with MoNetwork. Plain packaging. Owning organization: NEXT Distro / MoNetwork.",
+    "organization": "NEXT Distro / MoNetwork"
   }
 ]
