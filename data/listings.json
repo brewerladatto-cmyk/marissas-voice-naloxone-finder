@@ -826,5 +826,134 @@
     "last_checked": "2026-10-17",
     "state": "TX",
     "notes": "Naloxone Texas offers free mail and regional hubs. DSHS interactive locator map for free OTC naloxone sites (clinics, vending, etc.). Good Samaritan protections. Owning organization: UT Health San Antonio / Naloxone Texas and Texas Department of State Health Services."
+  },
+  {
+    "id": "north-dakota-naloxone",
+    "name": "North Dakota HHS Free Narcan Kit Request",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.hhs.nd.gov/opioids",
+      "https://www.hhs.nd.gov/news/hhs-recognizes-international-overdose-awareness-day-shared-commitment-healing-hope-and"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ND",
+    "notes": "Free two-dose naloxone kits by request online or phone. Available at local public health units and SSPs. Standing order for Medicaid pharmacies. Mail via partners. Good Samaritan protections. Owning organization: North Dakota Health and Human Services."
+  },
+  {
+    "id": "oklahoma-naloxone",
+    "name": "OK I'M Ready Free Naloxone by Mail",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://oklahoma.gov/odmhsas/about/public-information/press-releases-and-other-news/2023/odmhsas-partners-with-the-oklahoma-turnpike-authority-to-keep-travelers-safe.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OK",
+    "notes": "OK I'M Ready (ODMHSAS) mails free naloxone kits statewide. Community partners and some vending/boxes. Standing order for pharmacies. Good Samaritan protections. Owning organization: Oklahoma Department of Mental Health and Substance Abuse Services."
+  },
+  {
+    "id": "rhode-island-naloxone",
+    "name": "Prevent Overdose RI Free Naloxone & Mail",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://preventoverdoseri.org/get-naloxone/",
+      "https://preventoverdoseri.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "RI",
+    "notes": "Free naloxone at recovery centers, harm reduction programs, fire stations, and vending machines. Free mail after short training. Standing order access. Good Samaritan protections. Owning organization: Rhode Island Department of Health / PONI / URI Community First Responder Program."
+  },
+  {
+    "id": "south-carolina-naloxone",
+    "name": "SC DPH Free Opioid Overdose Safety Kits",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dph.sc.gov/diseases-conditions/substance-use-prevention-resources/naloxone-distribution-and-opioid-overdose",
+      "https://dph.sc.gov/news/dph-aims-prevent-opioid-overdose-deaths-free-overdose-safety-kits-local-health-clinics"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SC",
+    "notes": "Free overdose safety kits (naloxone + test strips) at all DPH public health clinics. Community distributors and schools. Standing order. Good Samaritan protections. Owning organization: South Carolina Department of Public Health."
+  },
+  {
+    "id": "south-dakota-naloxone",
+    "name": "South Dakota Naloxone Project & Distribution Boxes",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://doh.sd.gov/healthcare-professionals/ems-trauma/sd-naloxone-project/",
+      "https://emilyshope.charity/find-narcan/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SD",
+    "notes": "Statewide standing order for pharmacies. Free public naloxone distribution boxes (Emily\u2019s Hope partnership) and pods. Business/workplace access. Good Samaritan protections. Owning organization: South Dakota Department of Health and Department of Social Services."
+  },
+  {
+    "id": "tennessee-naloxone",
+    "name": "Tennessee Regional Overdose Prevention Specialists (ROPS)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.tn.gov/behavioral-health/substance-abuse-services/prevention/rops.html",
+      "https://www.tn.gov/behavioral-health/substance-abuse-services/prevention/naloxone-training-information.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TN",
+    "notes": "Free training and naloxone via ROPS in all 95 counties for high-risk individuals. Free at syringe services programs. Collaborative pharmacy practice agreement. Mail via partners. Good Samaritan protections. Owning organization: Tennessee Department of Mental Health and Substance Abuse Services."
+  },
+  {
+    "id": "utah-naloxone",
+    "name": "Utah Statewide Standing Order & Utah Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://opidemic.utah.gov/naloxone/",
+      "https://www.utahnaloxone.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "UT",
+    "notes": "Statewide standing order for pharmacy access without prescription. Free naloxone at libraries, fire stations, and community partners (Utah Naloxone). Good Samaritan protections. Owning organization: Utah Department of Health and Human Services / Utah Naloxone."
+  },
+  {
+    "id": "vermont-naloxone",
+    "name": "Vermont Department of Health Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.healthvermont.gov/emergency/injury-prevention/opioid-overdose-prevention",
+      "https://www.healthvermont.gov/alcohol-drugs/overdose-response/respond-overdose"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VT",
+    "notes": "Free naloxone via community partners, recovery centers, SSPs, and free mail kits. Statewide standing order for pharmacies. Good Samaritan protections. Owning organization: Vermont Department of Health."
+  },
+  {
+    "id": "virginia-naloxone",
+    "name": "Virginia VDH Naloxone & REVIVE! Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.vdh.virginia.gov/naloxone",
+      "https://dbhds.virginia.gov/behavioral-health/substance-abuse-services/revive/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VA",
+    "notes": "No-cost naloxone via local health departments, Community Services Boards, and REVIVE! training. Statewide standing order. Free mail via partners. Good Samaritan protections. Owning organization: Virginia Department of Health and Department of Behavioral Health and Developmental Services."
+  },
+  {
+    "id": "washington-naloxone",
+    "name": "Washington DOH Naloxone Finder & OEND Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://doh.wa.gov/you-and-your-family/drug-user-health/naloxone-finder",
+      "https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WA",
+    "notes": "Naloxone Finder for free community sites. Statewide standing order. Free mail for those without local access. OEND program supplies organizations and tribes. Good Samaritan protections. Owning organization: Washington State Department of Health."
   }
 ]
