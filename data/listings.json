@@ -2111,5 +2111,20 @@
     "state": "PA",
     "notes": "Free naloxone by mail for personal use for Pennsylvania residents after short training video and quiz. Partnership between Prevention Point Pittsburgh and NEXT Distro, with support from DDAP. Plain packaging. (Separate Philadelphia request options also available.) Owning organization: Prevention Point Pittsburgh / NEXT Distro / DDAP.",
     "organization": "Prevention Point Pittsburgh / NEXT Distro / Pennsylvania DDAP"
+  },
+  {
+    "id": "rhode-island-prevent-overdose-ri",
+    "name": "Prevent Overdose RI / URI Community First Responder Program Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://preventoverdoseri.org/get-naloxone/",
+      "https://web.uri.edu/cfrp/",
+      "https://health.ri.gov/media/91546/download"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "RI",
+    "notes": "Free naloxone available by mail to Rhode Island residents after short online training (or interactive module in English/Spanish). Interactive map of free public locations including recovery community centers, harm reduction programs, Providence fire stations, and harm reduction vending machines. Bulk distribution to partner organizations. Partnership with Rhode Island Department of Health. Owning organization: Prevent Overdose RI / University of Rhode Island Community First Responder Program.",
+    "organization": "Prevent Overdose RI / URI Community First Responder Program"
   }
 ]
