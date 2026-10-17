@@ -383,5 +383,44 @@
     "last_checked": "2026-10-17",
     "state": "AZ",
     "notes": "Free naloxone available at many county health departments, libraries, community sites, and via mail through partners such as Sonoran Prevention Works. Statewide standing order for pharmacies. Owning organization: Arizona Department of Health Services and partners."
+  },
+  {
+    "id": "arkansas-naloxone",
+    "name": "Arkansas Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://humanservices.arkansas.gov/divisions-shared-services/shared-services/office-of-substance-abuse-and-mental-health/prevention-ar/narcan-request/",
+      "https://nextdistro.org/arkansas"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AR",
+    "notes": "Statewide standing order allows pharmacy dispensing. Free intramuscular naloxone available by mail via NEXT Distro partnership with Northwest Arkansas Harm Reduction. Organizations can request via Arkansas DHS. Owning organization: Arkansas Department of Human Services and partners. Unconfirmed on check date: full current stock details for all sites."
+  },
+  {
+    "id": "california-naloxone-distribution-project",
+    "name": "California Naloxone Distribution Project (NDP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhcs.ca.gov/individuals/naloxone-distribution-project/",
+      "https://www.cdph.ca.gov/programs/ccdphp/sapb/pages/naloxone.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CA",
+    "notes": "DHCS provides free naloxone (and fentanyl test strips) to eligible organizations statewide for community distribution. Over 460,000 reported reversals since 2018. Individuals can access via local programs, pharmacies, or mail partners. Owning organization: California Department of Health Care Services."
+  },
+  {
+    "id": "colorado-naloxone-bulk-fund",
+    "name": "Colorado Naloxone Bulk Purchase Fund",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://cdphe.colorado.gov/prevention-and-wellness/injury-prevention/overdose-prevention/naloxone-bulk-purchase-fund-faq-2",
+      "https://cdphe.colorado.gov/overdose-prevention"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CO",
+    "notes": "CDPHE supplies free naloxone to eligible entities (harm reduction, first responders, schools, community organizations, etc.) via the Bulk Purchase Fund. Individuals can access through local programs, pharmacies (standing order), or mail partners. Owning organization: Colorado Department of Public Health and Environment."
   }
 ]
