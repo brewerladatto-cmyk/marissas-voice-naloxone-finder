@@ -592,5 +592,109 @@
     "last_checked": "2026-10-17",
     "state": "ME",
     "notes": "Free naloxone via syringe services programs, OPTIONS liaisons, Maine Access Points (mail available), and community partners. Statewide initiative distributing state-purchased naloxone. Standing order and Good Samaritan protections. Owning organization: Maine Office of Behavioral Health / Maine Naloxone Distribution Initiative."
+  },
+  {
+    "id": "maryland-naloxone",
+    "name": "Maryland Overdose Response Program (ORP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.maryland.gov/pha/NALOXONE/Pages/home.aspx",
+      "https://stopoverdose.maryland.gov/naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MD",
+    "notes": "Free naloxone via authorized Overdose Response Programs (local health departments and community organizations). Statewide standing order for pharmacies. Mail delivery available in some counties. Good Samaritan protections. Owning organization: Maryland Department of Health, Center for Harm Reduction Services."
+  },
+  {
+    "id": "massachusetts-naloxone",
+    "name": "Massachusetts Naloxone Program Locator & Community Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.mass.gov/info-details/naloxone-program-locator",
+      "https://www.mass.gov/info-details/community-naloxone-program-cnp"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MA",
+    "notes": "Statewide standing order for pharmacies. Free naloxone via Community Naloxone Program (CNP) affiliates and OEND programs. Locator map of programs. Good Samaritan protections. Owning organization: Massachusetts Department of Public Health, Bureau of Substance Addiction Services."
+  },
+  {
+    "id": "michigan-naloxone",
+    "name": "Michigan MDHHS Naloxone Access & Portal",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.michigan.gov/opioids/find-help/naloxone-page",
+      "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/03/05/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MI",
+    "notes": "Free naloxone kits at local MDHHS offices, via community organization portal, harm reduction agencies, and vending machines. Statewide standing order. Mail available through partners. Good Samaritan protections. Owning organization: Michigan Department of Health and Human Services."
+  },
+  {
+    "id": "minnesota-naloxone",
+    "name": "Minnesota Naloxone Finder & Ordering Portal",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.health.state.mn.us/communities/overdose/harmreduce/naloxone.html",
+      "https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/alcohol-drug-other-addictions/naloxone-standing-order"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MN",
+    "notes": "Naloxone Finder map for free providers (SSPs, harm reduction, county sites). Statewide standing order and DHS Naloxone Ordering Portal for eligible organizations including mandated groups. Good Samaritan protections (Steve\u2019s Law). Owning organization: Minnesota Department of Health and Department of Human Services."
+  },
+  {
+    "id": "mississippi-naloxone",
+    "name": "Mississippi MSDH Free Naloxone Kit Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://msdh.ms.gov/opioids",
+      "https://msdh.ms.gov/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MS",
+    "notes": "Free naloxone kits mailed to any Mississippi resident after short online training, or pickup at county health departments. Organizations can request bulk. Statewide standing order for pharmacies. Good Samaritan protections. Owning organization: Mississippi State Department of Health."
+  },
+  {
+    "id": "missouri-naloxone",
+    "name": "Get MO Naloxone / Missouri Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.mo.gov/living/families/more",
+      "https://getmonaloxone.com/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MO",
+    "notes": "Free naloxone via Get MO Naloxone (mail and pickup locations), MoNetwork, and community partners. Statewide standing order for pharmacies. Vending machines and boxes in multiple areas. Good Samaritan protections. Owning organization: Missouri Department of Health and Senior Services and partners."
+  },
+  {
+    "id": "montana-naloxone",
+    "name": "Montana Opioid Education & Naloxone Distribution Program (OENDP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dphhs.mt.gov/BHDD/naloxone/wheretogetNaloxone",
+      "https://dphhs.mt.gov/amdd/naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MT",
+    "notes": "Regional OENDP hubs and community map for free naloxone distribution. Statewide standing order. Mail available through partners. Good Samaritan protections. Owning organization: Montana Department of Public Health and Human Services."
+  },
+  {
+    "id": "nebraska-naloxone",
+    "name": "Stop Overdose Nebraska (STOPODNE)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://stopodne.com/",
+      "https://dhhs.ne.gov/Pages/State-Opioid-Response.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NE",
+    "notes": "Free Narcan for Nebraska residents at participating pharmacies (no prescription) and by mail order. Vending machines and grab-n-go sites in several areas. Standing order and Good Samaritan protections. Owning organization: Nebraska Department of Health and Human Services and Nebraska Pharmacists Association."
   }
 ]
