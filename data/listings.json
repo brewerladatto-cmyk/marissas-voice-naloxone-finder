@@ -1654,5 +1654,34 @@
     "state": "MN",
     "notes": "Free injectable intramuscular naloxone by mail for Minnesota residents who cannot access it locally, after short training video and quiz. Partnership with Harm Reduction Sisters. Plain packaging. Owning organization: NEXT Distro / Harm Reduction Sisters.",
     "organization": "NEXT Distro / Harm Reduction Sisters"
+  },
+  {
+    "id": "mississippi-msdh-naloxone",
+    "name": "Mississippi State Department of Health Free Naloxone Kits",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://msdh.ms.gov/naloxone",
+      "https://odfree.org/get-naloxone",
+      "https://www.msdh.ms.gov/page/23,30328,341,1025.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MS",
+    "notes": "Free naloxone kits available to all Mississippi residents with no out-of-pocket cost. Request online (short training video required); choose mail delivery (no P.O. boxes) or pickup at a county health department. Organizations can also request bulk quantities for distribution. Over 20,000 individual kits distributed. Statewide standing order allows pharmacy access without a personal prescription. Owning organization: Mississippi State Department of Health.",
+    "organization": "Mississippi State Department of Health"
+  },
+  {
+    "id": "mississippi-next-distro-mail",
+    "name": "Mississippi NEXT Distro / Trystereo Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/mississippi",
+      "https://nextdistro.org/la-choice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MS",
+    "notes": "Free injectable intramuscular naloxone or Narcan nasal spray by mail for Mississippi residents who cannot access it locally, after short training video and quiz. Partnership with Trystereo. Plain packaging. Owning organization: NEXT Distro / Trystereo.",
+    "organization": "NEXT Distro / Trystereo"
   }
 ]
