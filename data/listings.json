@@ -168,5 +168,46 @@
     "last_checked": "2026-10-17",
     "state": "TX",
     "notes": "Starting point for substance use services in Texas. Available through local mental health authorities by region. Call 211 Texas or the OSAR in your region for confidential help. Owning organization: Texas Health and Human Services Commission."
+  },
+  {
+    "id": "211-texas",
+    "name": "211 Texas",
+    "category": "helpline",
+    "verification": "verified",
+    "source": [
+      "https://www.211texas.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "211 or 877-541-7905",
+    "state": "TX",
+    "notes": "Free, confidential 24/7 information and referral for health and human services, including mental health and substance use resources. Option 5 for mental health/substance use. Owning organization: Texas Health and Human Services Commission."
+  },
+  {
+    "id": "naloxone-texas-hub-communities-for-recovery",
+    "name": "Communities for Recovery — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "4110 Guadalupe Street, Bldg. 635",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78751",
+    "notes": "Naloxone Texas regional distribution hub. Free naloxone and training. Owning organization: Communities for Recovery / Naloxone Texas. Unconfirmed on check date: exact current availability and hours."
+  },
+  {
+    "id": "texas-targeted-opioid-response",
+    "name": "Texas Targeted Opioid Response (TTOR)",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.hhs.texas.gov/services/mental-health-substance-use/adult-substance-use/texas-targeted-opioid-response",
+      "https://txopioidresponse.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Statewide public health initiative expanding prevention, treatment, and recovery services for opioid and stimulant use disorders, including naloxone distribution. Owning organization: Texas Health and Human Services Commission."
   }
 ]
