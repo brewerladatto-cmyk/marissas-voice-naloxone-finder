@@ -39,5 +39,43 @@
     "zip": "75207",
     "phone": "214-819-2000",
     "notes": "Free community Narcan training that includes free naloxone. Monthly community trainings offered. Unconfirmed on the official page checked: exact training dates/times outside the monthly schedule, whether naloxone can be picked up outside a training session, and full office hours for walk-up."
+  },
+  {
+    "id": "naloxone-texas-mail-order",
+    "name": "Naloxone Texas (UT Health San Antonio)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://naloxonetexas.com/",
+      "https://naloxonetexas.com/distribution/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Free naloxone shipped to Texas residents (individuals and organizations). Online order form available. Also has regional distribution hubs for pickup and training. Owning organization: Naloxone Texas / UT Health San Antonio."
+  },
+  {
+    "id": "texas-dshs-naloxone-locator",
+    "name": "Texas DSHS Naloxone Locator Map",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://healthdata.dshs.texas.gov/dashboard/drugs-and-alcohol/all-drugs/naloxone-distribution-interactive-map",
+      "https://www.dshs.texas.gov/injury-prevention/texas-overdose-data-to-action/toda-resource-maps"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Interactive map of free or reduced-cost naloxone locations across Texas (clinics, recovery services, vending machines, regional sites, etc.). Maintained by Texas Overdose Data to Action (TODA) / Texas Department of State Health Services."
+  },
+  {
+    "id": "next-distro-naloxone",
+    "name": "NEXT Distro — Naloxone by Mail",
+    "category": "mail_order",
+    "verification": "partly_verified",
+    "source": [
+      "https://nextdistro.org/",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "notes": "Mail-based naloxone (and in some states other harm reduction supplies) for people who use drugs and those closely connected to them. Availability and eligibility vary by state; some states have local affiliate partners. Prioritizes people without easy local access. Owning organization: NEXT Distro. Unconfirmed: exact eligibility and stock for every state on the check date."
   }
 ]
