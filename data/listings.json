@@ -2210,5 +2210,34 @@
     "state": "TN",
     "notes": "Free naloxone nasal spray (Narcan and RiVive) and testing strips by mail for Tennessee residents after short training video and quiz. Partnership with Hellbender Harm Reduction. Unmarked packaging. Owning organization: NEXT Distro / Hellbender Harm Reduction.",
     "organization": "NEXT Distro / Hellbender Harm Reduction"
+  },
+  {
+    "id": "texas-naloxone-texas",
+    "name": "Naloxone Texas Free Naloxone (Online Order & Regional Hubs)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://naloxonetexas.com/",
+      "https://naloxonetexas.com/distribution/",
+      "https://www.dshs.texas.gov/injury-prevention/texas-overdose-data-to-action/toda-resource-maps"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Anyone in Texas can request free naloxone online for shipping to residence. Network of 10 regional community-based Naloxone Distribution Hubs for local pick-up and training. Free overdose response training available. Also supports free vending machines, dispenser stands, and wall boxes via partnership with DSHS TODA. Interactive Texas Naloxone Locator Map shows free/reduced-cost sites statewide. Standing orders available for organizations/pharmacies. Owning organization: Naloxone Texas (UT Health San Antonio) / Texas DSHS TODA.",
+    "organization": "Naloxone Texas (UT Health San Antonio) / Texas Department of State Health Services"
+  },
+  {
+    "id": "texas-next-distro-mail",
+    "name": "Texas NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/texas",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Free naloxone by mail for people who use drugs or those close to them who cannot access it locally after short training. Plain packaging. (Naloxone Texas is the primary statewide mail option.) Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
