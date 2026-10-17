@@ -2525,5 +2525,34 @@
     "state": "PR",
     "notes": "Any resident can request a free nasal naloxone kit by calling 988 or emailing fr-cara@assmca.pr.gov as part of the Plan de Saturaci\u00f3n de Naloxona. Over 190,000 kits distributed; 800+ naloxone boxes in public/high-risk areas. Complements community distribution through Centros 330, hospitals, and partners. Good Samaritan protections under Law 35 of 2021. Owning organization: ASSMCA.",
     "organization": "ASSMCA (Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n)"
+  },
+  {
+    "id": "ohio-harm-reduction-ohio-mail",
+    "name": "Ohio Harm Reduction Ohio / NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.harmreductionohio.org/",
+      "https://nextdistro.org/ohio",
+      "https://naloxone.ohio.gov/get-naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OH",
+    "notes": "Free naloxone and test strips by mail to Ohio residents at no cost. Partnership with NEXT Distro and Ohio Department of Health Project DAWN. One of the largest free mail distributors in the state. Plain packaging. Owning organization: Harm Reduction Ohio / NEXT Distro.",
+    "organization": "Harm Reduction Ohio / NEXT Distro"
+  },
+  {
+    "id": "pennsylvania-mail-to-home-naloxone",
+    "name": "Pennsylvania Statewide Mail-to-Home Naloxone Program",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.pa.gov/services/ddap/get-overdose-prevention-supplies-for-individuals",
+      "https://nextdistro.org/pennsylvania"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PA",
+    "notes": "Free naloxone by mail for personal use to Pennsylvania residents after short training video and quiz. Partnership between DDAP, Prevention Point Pittsburgh, and NEXT Distro. Plain packaging. Complements statewide free community distribution via Overdose Prevention Program. Owning organization: Pennsylvania Department of Drug and Alcohol Programs / Prevention Point Pittsburgh / NEXT Distro.",
+    "organization": "Pennsylvania Department of Drug and Alcohol Programs / Prevention Point Pittsburgh / NEXT Distro"
   }
 ]
