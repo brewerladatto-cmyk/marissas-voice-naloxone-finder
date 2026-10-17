@@ -2154,5 +2154,33 @@
     "state": "SC",
     "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, their friends/family/partners, or those who cannot access it locally after short training. Plain packaging. Owning organization: NEXT Distro.",
     "organization": "NEXT Distro"
+  },
+  {
+    "id": "south-dakota-emilys-hope-boxes",
+    "name": "Emily's Hope Free Naloxone Distribution Boxes",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://emilyshope.charity/narcan/",
+      "https://www.argusleader.com/story/news/local/2025/04/26/south-dakota-emilys-hope-to-distribute-naloxone-kits/83276255007/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SD",
+    "notes": "Free, anonymous naloxone kits available from public distribution boxes in high-traffic locations statewide (e.g., Sioux Falls, Rapid City, Watertown, Pine Ridge, and expanding). Partnership with South Dakota Department of Social Services, Department of Health, and Attorney General\u2019s Office using opioid settlement and SOR funds. Open to all. Statewide pharmacy standing order also allows access without personal prescription (DSS may cover costs for uninsured). Owning organization: Emily's Hope / South Dakota DSS & DOH.",
+    "organization": "Emily's Hope / South Dakota Department of Social Services & Department of Health"
+  },
+  {
+    "id": "south-dakota-next-distro-mail",
+    "name": "South Dakota NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/southdakota",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SD",
+    "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Plain packaging. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
