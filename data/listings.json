@@ -258,5 +258,50 @@
     "state": "TX",
     "zip": "77020",
     "notes": "Naloxone Texas regional distribution hub serving certain Houston-area counties west of I-45. Free naloxone and training. Owning organization: Center for Recovery and Wellness Resources / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "naloxone-texas-hub-central-plains",
+    "name": "Central Plains Center — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "631 Broadway",
+    "city": "Plainview",
+    "state": "TX",
+    "zip": "79072",
+    "notes": "Naloxone Texas regional distribution hub serving Regions 1 & 2. Free naloxone and training. Owning organization: Central Plains Center / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "naloxone-texas-hub-strategic-recovery",
+    "name": "Strategic Recovery Solutions — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "5144 East Sam Houston Pkwy. N. Ste. 115",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77015",
+    "notes": "Naloxone Texas regional distribution hub serving certain Houston-area counties east of I-45. Free naloxone and training. Owning organization: Strategic Recovery Solutions / Naloxone Texas. Unconfirmed on check date: exact current availability."
+  },
+  {
+    "id": "naloxone-texas-hub-el-paso-alliance",
+    "name": "El Paso Alliance — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "800 Montana Ave.",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79902",
+    "notes": "Naloxone Texas regional distribution hub for Region 10. Free naloxone and training. Owning organization: El Paso Alliance / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
   }
 ]
