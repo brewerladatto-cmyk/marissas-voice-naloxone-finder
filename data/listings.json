@@ -2053,5 +2053,34 @@
     "state": "OK",
     "notes": "Free injectable intramuscular naloxone by mail for people living in Oklahoma who cannot access it locally after short training video and quiz. Partnership with Oklahoma Harm Reduction Alliance (OKHRA). Plain packaging. Owning organization: NEXT Distro / OKHRA.",
     "organization": "NEXT Distro / Oklahoma Harm Reduction Alliance"
+  },
+  {
+    "id": "oregon-just-in-case",
+    "name": "Just in Case Oregon Free Mail Naloxone (OHA)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://justincaseoregon.org/",
+      "https://www.oregon.gov/oha/ph/preventionwellness/substanceuse/opioids/pages/get-help.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OR",
+    "notes": "Free nasal naloxone (2 boxes / 4 doses total) mailed in plain packaging to anyone in Oregon with a mailing address. No cost, no prescription, no ID check, no insurance required. Partnership between Oregon Health Authority (OHA) and community partners. Pharmacists can also prescribe/dispense naloxone to anyone who asks. Local public health and syringe service programs also provide free naloxone. Owning organization: Oregon Health Authority / Just in Case Oregon.",
+    "organization": "Oregon Health Authority / Just in Case Oregon"
+  },
+  {
+    "id": "oregon-next-distro-project-red",
+    "name": "NEXT Distro / Project RED Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/oregon",
+      "https://nextdistro.org/orchoice",
+      "https://projectredinitiative.org/request-naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OR",
+    "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for people who use drugs or those close to them (likely first responders) after short training video and quiz. Partnership with Project RED (mailed from Portland). Plain packaging. Owning organization: NEXT Distro / Project RED.",
+    "organization": "NEXT Distro / Project RED"
   }
 ]
