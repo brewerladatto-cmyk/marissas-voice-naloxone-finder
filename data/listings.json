@@ -2439,5 +2439,62 @@
     "state": "WY",
     "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Plain packaging. Owning organization: NEXT Distro.",
     "organization": "NEXT Distro"
+  },
+  {
+    "id": "california-next-distro-sane-mail",
+    "name": "California NEXT Distro / SANE Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/california",
+      "https://nextdistro.org/cadistro",
+      "https://nextdistro.org/cachoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CA",
+    "notes": "Free naloxone by mail for California residents who use drugs, those recently released from jail/prison, and their friends/family/partners after short training video and quiz. Partnership with SANE (Safer Alternatives thru Networking & Education) in Sacramento. Plain packaging. Intramuscular and nasal options available. (Statewide free community access is primarily via organizations receiving supplies from the DHCS Naloxone Distribution Project.) Owning organization: NEXT Distro / SANE.",
+    "organization": "NEXT Distro / SANE (Safer Alternatives thru Networking & Education)"
+  },
+  {
+    "id": "puerto-rico-assmca-naloxone",
+    "name": "Puerto Rico ASSMCA Free Naloxone Community Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.primerahora.com/noticias/estados-unidos/notas/assmca-reabastece-de-naloxona-intranasal-a-centros-de-servicios-330/",
+      "https://www.salud.pr.gov/CMS/DOWNLOAD/10448"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PR",
+    "notes": "Free nasal naloxone kits available through community distribution, health centers (including Centros 330), hospitals, and other partners under ASSMCA's Plan de Saturaci\u00f3n de Naloxona. Residents can request free kits by contacting ASSMCA (e.g., via 988 or fr-cara@assmca.pr.gov). Standing order allows pharmacies to dispense without a personal prescription. Good Samaritan protections under Law 35 of 2021. Owning organization: Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n (ASSMCA).",
+    "organization": "ASSMCA (Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n)"
+  },
+  {
+    "id": "puerto-rico-next-distro-mail",
+    "name": "Puerto Rico NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/puertorico",
+      "https://nextdistro.org/puertorico-es"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PR",
+    "notes": "Free naloxone by mail for Puerto Rico residents who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Plain packaging. Available in English and Spanish. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
+  },
+  {
+    "id": "guam-gbhwc-vending-machine",
+    "name": "Guam Behavioral Health Free Narcan Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://gbhwc.guam.gov/news/gbhwc-press-release-20240305-free-opioid-overdose-response-training-and-naloxone-vending",
+      "https://www.vendingtimes.com/news/narcan-vending-machines-make-their-way-to-guam"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "GU",
+    "notes": "Free Narcan (naloxone) available 24/7 via vending machine outside the Guam Behavioral Health and Wellness Center. Additional free training and community distribution efforts. Plans for more machines. Owning organization: Guam Behavioral Health and Wellness Center (GBHWC).",
+    "organization": "Guam Behavioral Health and Wellness Center (GBHWC)"
   }
 ]
