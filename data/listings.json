@@ -2126,5 +2126,33 @@
     "state": "RI",
     "notes": "Free naloxone available by mail to Rhode Island residents after short online training (or interactive module in English/Spanish). Interactive map of free public locations including recovery community centers, harm reduction programs, Providence fire stations, and harm reduction vending machines. Bulk distribution to partner organizations. Partnership with Rhode Island Department of Health. Owning organization: Prevent Overdose RI / University of Rhode Island Community First Responder Program.",
     "organization": "Prevent Overdose RI / URI Community First Responder Program"
+  },
+  {
+    "id": "south-carolina-dph-overdose-kits",
+    "name": "South Carolina DPH Free Opioid Overdose Safety Kits",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dph.sc.gov/health-wellness/injury-tobacco-and-substance-use-prevention/substance-use-prevention-resources-0",
+      "https://dph.sc.gov/news/dph-aims-prevent-opioid-overdose-deaths-free-overdose-safety-kits-local-health-clinics"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SC",
+    "notes": "Free opioid overdose safety kits available at all DPH public health clinics statewide. Each kit contains naloxone nasal spray, fentanyl and xylazine test strips, and instructions. No personal information or ID required. Call Care Line at 1-855-472-3432 or use clinic locator. Community distributors and pharmacies also provide access under joint protocol/standing order. Owning organization: South Carolina Department of Public Health.",
+    "organization": "South Carolina Department of Public Health"
+  },
+  {
+    "id": "south-carolina-next-distro-mail",
+    "name": "South Carolina NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/southcarolina",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SC",
+    "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, their friends/family/partners, or those who cannot access it locally after short training. Plain packaging. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
