@@ -1839,5 +1839,33 @@
     "state": "NH",
     "notes": "Free naloxone and fentanyl test strips by mail (or peer delivery) to New Hampshire residents. Also operates SSP services. Owning organization: Harm Reduction Circle.",
     "organization": "Harm Reduction Circle"
+  },
+  {
+    "id": "new-jersey-naloxone365",
+    "name": "Naloxone365 Free Naloxone at Participating Pharmacies",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://nj.gov/humanservices/stopoverdoses/",
+      "https://www.njoag.gov/programs/nj-cares/naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NJ",
+    "notes": "Anyone 14 years or older can acquire naloxone anonymously and at no cost at participating pharmacies statewide under the Naloxone365 program (partnership with Board of Pharmacy and DHS). No prescription or ID required. Statewide standing order allows broader pharmacy access. Owning organization: New Jersey Department of Human Services.",
+    "organization": "New Jersey Department of Human Services"
+  },
+  {
+    "id": "new-jersey-njhrc-next-distro",
+    "name": "NJ Harm Reduction Coalition / NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://njharmreduction.org/get-naloxone/",
+      "https://nextdistro.org/newjersey"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NJ",
+    "notes": "Free naloxone (Narcan) mailed discreetly and confidentially to anyone in New Jersey who requests it (prioritizing those most likely to witness an overdose). Also available by calling or texting 1-877-4NARCAN. Free naloxone at seven Harm Reduction Centers (Asbury Park, Atlantic City, Camden, Jersey City, Newark, Paterson, Trenton). Partnership with NEXT Distro. Owning organization: New Jersey Harm Reduction Coalition / NEXT Distro.",
+    "organization": "NJ Harm Reduction Coalition / NEXT Distro"
   }
 ]
