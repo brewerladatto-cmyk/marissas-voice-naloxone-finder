@@ -1,1 +1,14 @@
-$(cat /tmp/listings_updated.json)
+[
+  {
+    "id": "samhsa-national-helpline",
+    "name": "SAMHSA National Helpline",
+    "category": "helpline",
+    "verification": "verified",
+    "source": [
+      "https://www.samhsa.gov/find-help/helplines/national-helpline"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "1-800-662-HELP (4357)",
+    "notes": "Free, confidential, 24/7 treatment referral and information service in English and Spanish for mental and substance use disorders. TTY: 1-800-487-4889. Owning organization: Substance Abuse and Mental Health Services Administration (SAMHSA)."
+  }
+]
