@@ -1611,5 +1611,48 @@
     "state": "MI",
     "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners after short training video and quiz. Partnership with Grand Rapids Red Project. Plain packaging. Owning organization: NEXT Distro / Grand Rapids Red Project.",
     "organization": "NEXT Distro / Grand Rapids Red Project"
+  },
+  {
+    "id": "minnesota-dhs-mdh-naloxone",
+    "name": "Minnesota DHS Naloxone Ordering Portal & MDH Naloxone Finder",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/alcohol-drug-other-addictions/naloxone-standing-order",
+      "https://www.health.state.mn.us/communities/overdose/harmreduce/naloxone.html",
+      "https://www.health.state.mn.us/communities/overdose/response/naloxportal.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MN",
+    "notes": "Statewide Naloxone Ordering Portal provides free nasal naloxone to eligible organizations (schools, law enforcement, group homes, etc.). MDH standing order authorizes groups to obtain, possess, and distribute naloxone. Naloxone Finder map and SSP calendar list free distribution sites (syringe service programs, harm reduction organizations). Owning organization: Minnesota Department of Human Services / Minnesota Department of Health.",
+    "organization": "Minnesota DHS / MDH"
+  },
+  {
+    "id": "minnesota-steve-rummler-hope",
+    "name": "Steve Rummler HOPE Network Free Naloxone Access Points & Mail",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://steverummlerhopenetwork.org/what-we-do/naloxone-access-points/",
+      "https://steverummlerhopenetwork.org/kit-request/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MN",
+    "notes": "Free intramuscular naloxone kits available at Naloxone Access Points (NAPs) statewide (no questions asked). Also mails free IM kits to Minnesota residents who cannot pick up in person. Some areas eligible for nasal naloxone. Training available. Owning organization: Steve Rummler HOPE Network.",
+    "organization": "Steve Rummler HOPE Network"
+  },
+  {
+    "id": "minnesota-next-distro-mail",
+    "name": "Minnesota NEXT Distro / Harm Reduction Sisters Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/minnesota",
+      "https://nextdistro.org/mnchoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MN",
+    "notes": "Free injectable intramuscular naloxone by mail for Minnesota residents who cannot access it locally, after short training video and quiz. Partnership with Harm Reduction Sisters. Plain packaging. Owning organization: NEXT Distro / Harm Reduction Sisters.",
+    "organization": "NEXT Distro / Harm Reduction Sisters"
   }
 ]
