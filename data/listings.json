@@ -209,5 +209,54 @@
     "last_checked": "2026-10-17",
     "state": "TX",
     "notes": "Statewide public health initiative expanding prevention, treatment, and recovery services for opioid and stimulant use disorders, including naloxone distribution. Owning organization: Texas Health and Human Services Commission."
+  },
+  {
+    "id": "naloxone-texas-hub-unity-recovery",
+    "name": "Unity Recovery — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/",
+      "https://unityrecovery.org/weatherford"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "1704 Santa Fe Drive Suite 200",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76086",
+    "phone": "817-550-6188",
+    "notes": "Naloxone Texas regional distribution hub serving Region 3. Free naloxone, training, and peer recovery support. Owning organization: Unity Recovery / Naloxone Texas. Unconfirmed on check date: exact current stock and full hours."
+  },
+  {
+    "id": "naloxone-texas-hub-bhsst",
+    "name": "Behavioral Health Solutions of South Texas — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/",
+      "https://bhsst.org/intervention-new/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "5510 N. Cage Blvd",
+    "city": "Pharr",
+    "state": "TX",
+    "zip": "78577",
+    "phone": "956-787-7111",
+    "notes": "Naloxone Texas regional distribution hub for South Texas. Free naloxone and training. Owning organization: Behavioral Health Solutions of South Texas / Naloxone Texas. Unconfirmed on check date: exact current availability."
+  },
+  {
+    "id": "naloxone-texas-hub-center-for-recovery",
+    "name": "Center for Recovery and Wellness Resources — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "4014 Market St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77020",
+    "notes": "Naloxone Texas regional distribution hub serving certain Houston-area counties west of I-45. Free naloxone and training. Owning organization: Center for Recovery and Wellness Resources / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
   }
 ]
