@@ -2082,5 +2082,34 @@
     "state": "OR",
     "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for people who use drugs or those close to them (likely first responders) after short training video and quiz. Partnership with Project RED (mailed from Portland). Plain packaging. Owning organization: NEXT Distro / Project RED.",
     "organization": "NEXT Distro / Project RED"
+  },
+  {
+    "id": "pennsylvania-ddap-overdose-prevention",
+    "name": "Pennsylvania DDAP Overdose Prevention Program Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.pa.gov/agencies/ddap/overdose/overdose-prevention-program",
+      "https://www.pa.gov/services/ddap/get-overdose-prevention-supplies-for-individuals"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PA",
+    "notes": "Free naloxone (intranasal and intramuscular) and test strips available statewide through a network of nearly 100 Overdose Prevention Partners (walk-in, pick-up, or delivery). Hub-and-spoke model covering all counties. General Public Standing Order allows pharmacy access and community distribution. State Health Centers also provide free naloxone. Owning organization: Pennsylvania Department of Drug and Alcohol Programs (DDAP).",
+    "organization": "Pennsylvania Department of Drug and Alcohol Programs"
+  },
+  {
+    "id": "pennsylvania-mail-to-home-next-distro",
+    "name": "Pennsylvania Statewide Mail-to-Home Naloxone Program (NEXT Distro / Prevention Point Pittsburgh)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.pa.gov/services/ddap/get-overdose-prevention-supplies-for-individuals",
+      "https://nextdistro.org/pennsylvania",
+      "https://nextdistro.org/pachoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PA",
+    "notes": "Free naloxone by mail for personal use for Pennsylvania residents after short training video and quiz. Partnership between Prevention Point Pittsburgh and NEXT Distro, with support from DDAP. Plain packaging. (Separate Philadelphia request options also available.) Owning organization: Prevention Point Pittsburgh / NEXT Distro / DDAP.",
+    "organization": "Prevention Point Pittsburgh / NEXT Distro / Pennsylvania DDAP"
   }
 ]
