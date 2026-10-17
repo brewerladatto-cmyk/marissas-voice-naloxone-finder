@@ -77,5 +77,41 @@
     ],
     "last_checked": "2026-10-17",
     "notes": "Mail-based naloxone (and in some states other harm reduction supplies) for people who use drugs and those closely connected to them. Availability and eligibility vary by state; some states have local affiliate partners. Prioritizes people without easy local access. Owning organization: NEXT Distro. Unconfirmed: exact eligibility and stock for every state on the check date."
+  },
+  {
+    "id": "disaster-distress-helpline",
+    "name": "Disaster Distress Helpline",
+    "category": "crisis_safety",
+    "verification": "verified",
+    "source": [
+      "https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "1-800-985-5990",
+    "notes": "Free, confidential 24/7 crisis counseling for emotional distress related to natural or human-caused disasters. Call or text. Spanish: press 2. Available in many languages via interpretation. Owning organization: SAMHSA."
+  },
+  {
+    "id": "veterans-crisis-line",
+    "name": "Veterans Crisis Line",
+    "category": "crisis_safety",
+    "verification": "verified",
+    "source": [
+      "https://www.veteranscrisisline.net/"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "988 then press 1",
+    "notes": "Free, confidential 24/7 support for Veterans, service members, National Guard, Reserve, and their families/friends. Dial 988 then press 1, text 838255, or chat online. No VA enrollment required. Owning organization: U.S. Department of Veterans Affairs."
+  },
+  {
+    "id": "findtreatment-gov",
+    "name": "FindTreatment.gov",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://findtreatment.gov/",
+      "https://www.samhsa.gov/find-help/locators"
+    ],
+    "last_checked": "2026-10-17",
+    "notes": "Confidential online locator for mental health and substance use disorder treatment facilities across the U.S. and territories. Search by location, services, and payment options. Owning organization: SAMHSA."
   }
 ]
