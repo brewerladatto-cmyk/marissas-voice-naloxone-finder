@@ -2268,5 +2268,33 @@
     "state": "UT",
     "notes": "Free naloxone by mail prioritized for people who use drugs, those recently released from jail/prison/treatment, people on MAT, family members of high-risk individuals, and others at elevated risk after short training. Partnership with Utah Naloxone. Plain packaging. Owning organization: NEXT Distro / Utah Naloxone.",
     "organization": "NEXT Distro / Utah Naloxone"
+  },
+  {
+    "id": "vermont-vdh-naloxone-program",
+    "name": "Vermont Department of Health Free Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.healthvermont.gov/alcohol-drugs/overdose-response/respond-overdose",
+      "https://vthelplink.org/overdose-prevention/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VT",
+    "notes": "Free naloxone available through community partner distribution sites (recovery centers, harm reduction programs, health centers, syringe services) and by mail via free Overdose Prevention Kit (two doses, test strips, instructions) to any Vermont address. Standing order allows pharmacies to dispense without a personal prescription (insurers/Medicaid cover cost). Vending machines in select towns. Good Samaritan protections apply. Owning organization: Vermont Department of Health.",
+    "organization": "Vermont Department of Health"
+  },
+  {
+    "id": "vermont-uvm-next-distro-mail",
+    "name": "Vermont University of Vermont / NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/vermont",
+      "https://www.healthvermont.gov/alcohol-drugs/overdose-response/respond-overdose"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VT",
+    "notes": "Free nasal naloxone by mail for Vermont residents after short online training. Plain packaging. (Primary statewide mail option is VDH Overdose Prevention Kit.) Owning organization: University of Vermont / NEXT Distro.",
+    "organization": "University of Vermont / NEXT Distro"
   }
 ]
