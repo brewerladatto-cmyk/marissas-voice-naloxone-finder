@@ -1,0 +1,15 @@
+# Example structure — replace with real listings
+
+[
+  {
+    "id": "example-dchhs",
+    "name": "Dallas County Health & Human Services (DCHHS)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": ["https://dallascounty.org/departments/dchhs/public-health/alcohol-substance/overdose-response.php"],
+    "last_checked": "2026-10-16",
+    "city": "Dallas",
+    "state": "TX",
+    "notes": "Free community Narcan training that includes free naloxone."
+  }
+]

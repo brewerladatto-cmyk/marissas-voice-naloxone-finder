@@ -1,0 +1,17 @@
+name: Validate listings
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check JSON schema (placeholder)
+        run: |
+          echo "Add JSON schema validation here once listings are structured."
+          # Example: npx ajv-cli validate -s data/listing.schema.json -d data/listings.json

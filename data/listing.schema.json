@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Naloxone Listing",
+  "type": "object",
+  "required": ["id", "name", "category", "verification", "source", "last_checked"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "category": {
+      "type": "string",
+      "enum": ["free_naloxone", "mail_order", "recovery_treatment", "family_mental_health", "crisis_safety", "helpline"]
+    },
+    "verification": {
+      "type": "string",
+      "enum": ["verified", "partly_verified", "unconfirmed"]
+    },
+    "source": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" }
+    },
+    "last_checked": { "type": "string", "format": "date" },
+    "address": { "type": "string" },
+    "city": { "type": "string" },
+    "state": { "type": "string" },
+    "zip": { "type": "string" },
+    "phone": { "type": "string" },
+    "notes": { "type": "string" },
+    "coordinates": {
+      "type": "object",
+      "properties": {
+        "lat": { "type": "number" },
+        "lng": { "type": "number" }
+      }
+    }
+  }
+}

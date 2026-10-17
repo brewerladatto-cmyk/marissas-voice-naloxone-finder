@@ -1,0 +1,15 @@
+[build]
+  publish = "."
+  # Add build command if the site uses a framework (e.g. npm run build)
+  # command = "npm run build"
+
+# Continuous deployment: link this repo in Netlify Site settings > Build & deploy > Continuous Deployment
+# Production branch: main
+# Publish directory: . (or dist/ if built)
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
