@@ -1459,5 +1459,46 @@
     "state": "LA",
     "notes": "Free injectable intramuscular naloxone or RiVive nasal spray by mail for Louisiana residents who cannot access it locally, after short training video and quiz. Partnership with Trystereo (New Orleans-based harm reduction collective). Plain packaging. Owning organization: NEXT Distro / Trystereo.",
     "organization": "NEXT Distro / Trystereo"
+  },
+  {
+    "id": "maine-naloxone-distribution-initiative",
+    "name": "Maine Naloxone Distribution Initiative (MNDI) & OPTIONS",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://getmainenaloxone.org/",
+      "https://getmainenaloxone.org/end-user/",
+      "https://knowyouroptions.me/about-options/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ME",
+    "notes": "Statewide network of Tier 1 distributors and OPTIONS liaisons providing free naloxone and overdose education. Interactive map at GetMaineNaloxone.org. OPTIONS liaisons in every county can provide free kits. Syringe access programs also distribute free nasal and intramuscular naloxone. Owning organization: Maine Department of Health and Human Services / Office of Behavioral Health.",
+    "organization": "Maine DHHS / Office of Behavioral Health"
+  },
+  {
+    "id": "maine-access-points",
+    "name": "Maine Access Points Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.maineaccesspoints.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ME",
+    "notes": "Free naloxone prioritized for people who use drugs and those around them. Statewide community-based distribution. Call/text 207-319-8284 or email info@maineaccesspoints.org. Partners with NEXT Distro for mail orders. Owning organization: Maine Access Points.",
+    "organization": "Maine Access Points"
+  },
+  {
+    "id": "maine-next-distro-mail",
+    "name": "Maine NEXT Distro / Maine Access Points Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/maine"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ME",
+    "notes": "Free intramuscular naloxone by mail for Maine residents after short training video and quiz. Partnership with Maine Access Points. Plain packaging. Owning organization: NEXT Distro / Maine Access Points.",
+    "organization": "NEXT Distro / Maine Access Points"
   }
 ]
