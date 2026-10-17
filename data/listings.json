@@ -2496,5 +2496,34 @@
     "state": "GU",
     "notes": "Free Narcan (naloxone) available 24/7 via vending machine outside the Guam Behavioral Health and Wellness Center. Additional free training and community distribution efforts. Plans for more machines. Owning organization: Guam Behavioral Health and Wellness Center (GBHWC).",
     "organization": "Guam Behavioral Health and Wellness Center (GBHWC)"
+  },
+  {
+    "id": "puerto-rico-intercambios",
+    "name": "Puerto Rico Intercambios Puerto Rico Free Naloxone & Harm Reduction",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://intercambiospr.org/",
+      "https://nasen.org/sep/intercambios-puerto-rico-inc",
+      "https://nextdistro.org/puertorico"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PR",
+    "notes": "Community-based nonprofit providing free naloxone distribution, overdose education, syringe services, and harm reduction support in eastern Puerto Rico (Fajardo and surrounding municipalities). Outreach and clinical site services. Owning organization: Intercambios Puerto Rico, Inc.",
+    "organization": "Intercambios Puerto Rico, Inc."
+  },
+  {
+    "id": "puerto-rico-assmca-public-request",
+    "name": "Puerto Rico ASSMCA Free Naloxone Kit Request (Public)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.assmca.pr.gov/",
+      "https://www.primerahora.com/noticias/estados-unidos/notas/assmca-reabastece-de-naloxona-intranasal-a-centros-de-servicios-330/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PR",
+    "notes": "Any resident can request a free nasal naloxone kit by calling 988 or emailing fr-cara@assmca.pr.gov as part of the Plan de Saturaci\u00f3n de Naloxona. Over 190,000 kits distributed; 800+ naloxone boxes in public/high-risk areas. Complements community distribution through Centros 330, hospitals, and partners. Good Samaritan protections under Law 35 of 2021. Owning organization: ASSMCA.",
+    "organization": "ASSMCA (Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n)"
   }
 ]
