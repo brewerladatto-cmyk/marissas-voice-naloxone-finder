@@ -2239,5 +2239,34 @@
     "state": "TX",
     "notes": "Free naloxone by mail for people who use drugs or those close to them who cannot access it locally after short training. Plain packaging. (Naloxone Texas is the primary statewide mail option.) Owning organization: NEXT Distro.",
     "organization": "NEXT Distro"
+  },
+  {
+    "id": "utah-naloxone-mail-community",
+    "name": "Utah Naloxone Free Mail & Community Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.utahnaloxone.org/",
+      "https://opidemic.utah.gov/naloxone/",
+      "https://nextdistro.org/utah"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "UT",
+    "notes": "Free naloxone kits available by mail (online training) and at community locations including libraries and fire stations statewide (no questions asked at many sites). Utah Naloxone is the longest-running mail-based program in the country and NEXT Distro affiliate. Statewide standing order allows pharmacists to dispense naloxone without a personal prescription. Local health departments and harm reduction programs also provide free kits. Owning organization: Utah Naloxone / Utah Department of Health and Human Services.",
+    "organization": "Utah Naloxone / Utah Department of Health and Human Services"
+  },
+  {
+    "id": "utah-next-distro-mail",
+    "name": "Utah NEXT Distro / Utah Naloxone Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/utah",
+      "https://nextdistro.org/utgate"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "UT",
+    "notes": "Free naloxone by mail prioritized for people who use drugs, those recently released from jail/prison/treatment, people on MAT, family members of high-risk individuals, and others at elevated risk after short training. Partnership with Utah Naloxone. Plain packaging. Owning organization: NEXT Distro / Utah Naloxone.",
+    "organization": "NEXT Distro / Utah Naloxone"
   }
 ]
