@@ -2805,5 +2805,57 @@
     "state": "SC",
     "notes": "Free naloxone via data-driven vending machine at COMET Central (1745 Sumter Street, Columbia). Run by Innovative Solutions with South Carolina Opioid Relief Fund support. High usage reported. Owning organization: Innovative Solutions / City of Columbia.",
     "organization": "Innovative Solutions / City of Columbia"
+  },
+  {
+    "id": "delaware-dsamh-harm-reduction-vending",
+    "name": "Delaware DSAMH Free Harm Reduction Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/harm-reduction-vending-machines/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "DE",
+    "notes": "Five free, 24/7, confidential harm reduction vending machines across Delaware (Wilmington, Newark, Dover, Milford, Georgetown) offering naloxone kits, fentanyl test strips, wound care, and other supplies. Partnership with Brandywine Counseling. Owning organization: Delaware Division of Substance Abuse and Mental Health.",
+    "organization": "Delaware Division of Substance Abuse and Mental Health (DSAMH)"
+  },
+  {
+    "id": "new-jersey-njhrc-mail",
+    "name": "New Jersey Harm Reduction Coalition Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://njharmreduction.org/get-naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NJ",
+    "notes": "Free naloxone mailed discreetly to anyone in New Jersey who requests it (priority to those most likely to witness an overdose). Also available at harm reduction centers and via request line. Complements boxes, kiosks, and vending. Owning organization: New Jersey Harm Reduction Coalition.",
+    "organization": "New Jersey Harm Reduction Coalition"
+  },
+  {
+    "id": "massachusetts-middlesex-sheriff-vending",
+    "name": "Middlesex County MA Sheriff Free Naloxone Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.mass.gov/news/middlesex-sheriffs-office-installs-naloxone-vending-machine"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MA",
+    "notes": "Free naloxone via vending machine at Middlesex Jail & House of Correction visitor center (first such sheriff's office machine in the state). Anonymous access with brief survey. Complements statewide OEND programs and mail options. Owning organization: Middlesex Sheriff\u2019s Office.",
+    "organization": "Middlesex Sheriff\u2019s Office"
+  },
+  {
+    "id": "texas-am-san-antonio-kiosks",
+    "name": "Texas A&M-San Antonio Free Naloxone Kiosks",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://news.uthscsa.edu/vending-times-texas-am-san-antonio-installs-free-naloxone-kiosks/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Four free naloxone kiosks (Barney Boxes) at Texas A&M University-San Antonio for students and the surrounding South Side community. Supplied by Be Well Texas / UT Health San Antonio. Owning organization: Texas A&M University-San Antonio / Be Well Texas.",
+    "organization": "Texas A&M University-San Antonio / Be Well Texas"
   }
 ]
