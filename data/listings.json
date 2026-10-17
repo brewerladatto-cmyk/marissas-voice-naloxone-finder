@@ -2607,5 +2607,58 @@
     "state": "CA",
     "notes": "Eight free 24/7 public kiosks/vending machines offering Narcan and fentanyl test strips across Monterey County (colleges, fire departments, transit centers, clinics, jail). English/Spanish instructions. Funded as part of county overdose prevention expansion. Owning organization: County of Monterey Health Department.",
     "organization": "County of Monterey Health Department"
+  },
+  {
+    "id": "georgia-south-health-district-mail",
+    "name": "Georgia South Health District Free Mail-Order Narcan",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://southhealthdistrict.com/2025/08/free-narcan-mailed-to-you/",
+      "https://www.walb.com/2025/12/07/south-health-district-offering-free-mail-order-narcan-kits-across-10-counties/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "GA",
+    "notes": "Free Narcan kits mailed to residents 18+ in the 10 counties served by South Health District (Ben Hill, Berrien, Brooks, Cook, Echols, Irwin, Lanier, Lowndes, Tift, Turner). Complements statewide free distribution options. Owning organization: South Health District (Georgia).",
+    "organization": "South Health District (Georgia)"
+  },
+  {
+    "id": "texas-travis-county-central-health-vending",
+    "name": "Travis County TX Central Health Free Narcan Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.statesman.com/news/healthcare/article/naloxone-vending-machines-travis-county-22191626.php"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Network of free 24/7 naloxone vending machines and dispensers across Travis County (Austin area), expanding toward 45 locations. Anonymous access to free boxes with two doses. Funded via opioid settlement and Texas Overdose Prevention supplies. Owning organization: Central Health (Travis County).",
+    "organization": "Central Health (Travis County)"
+  },
+  {
+    "id": "texas-hidalgo-county-vending",
+    "name": "Hidalgo County TX Free Narcan Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.hchd.org/266/Opioid-Overdose-Surveillance"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Five free Narcan vending machines across Hidalgo County (clinics in Edinburg, McAllen, Weslaco, Elsa, and Adult Probation Office). Also supports pickup or delivery requests. Funded via Naloxone Texas. Owning organization: Hidalgo County Health & Human Services.",
+    "organization": "Hidalgo County Health & Human Services"
+  },
+  {
+    "id": "wisconsin-dane-county-vending",
+    "name": "Dane County WI Free Harm Reduction Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.wkow.com/news/dane-county-expands-access-to-overdose-prevention-supplies-with-new-vending-machines/article_fd055b1e-eaf2-4ae3-b932-46935e14d6d6.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WI",
+    "notes": "Free naloxone and harm reduction supplies via vending machines in Madison, Sun Prairie, Stoughton, and hospital sites. Funded with opioid settlement dollars. Expanding community access outside traditional hours. Owning organization: Dane County.",
+    "organization": "Dane County (Wisconsin)"
   }
 ]
