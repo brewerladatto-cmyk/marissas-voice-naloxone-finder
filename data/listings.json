@@ -113,5 +113,60 @@
     ],
     "last_checked": "2026-10-17",
     "notes": "Confidential online locator for mental health and substance use disorder treatment facilities across the U.S. and territories. Search by location, services, and payment options. Owning organization: SAMHSA."
+  },
+  {
+    "id": "naloxone-texas-hub-etcada",
+    "name": "East Texas Council on Alcoholism and Drug Abuse (ETCADA) — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "708 Glencrest Lane",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "75601",
+    "notes": "Naloxone Texas regional distribution hub serving East Texas counties. Free naloxone and training available. Owning organization: ETCADA / Naloxone Texas. Unconfirmed on check date: exact current stock, walk-in hours, and full county coverage details."
+  },
+  {
+    "id": "naloxone-texas-hub-corazon",
+    "name": "Corazon Ministries — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "504 Ave E.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78215",
+    "notes": "Naloxone Texas regional distribution hub. Free naloxone pickup and training. Owning organization: Corazon Ministries / Naloxone Texas. Unconfirmed on check date: exact current availability and hours."
+  },
+  {
+    "id": "be-well-texas",
+    "name": "Be Well Texas",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.dshs.texas.gov/injury-prevention/texas-overdose-data-to-action/toda-resource-maps"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "888-85-BEWELL (888-852-3935)",
+    "state": "TX",
+    "notes": "Statewide program for treatment and recovery support for alcohol or drug use. Insurance not required; virtual visits available. Owning organization: Be Well Texas (linked to Texas Targeted Opioid Response)."
+  },
+  {
+    "id": "texas-osar",
+    "name": "Texas OSAR (Outreach, Screening, Assessment and Referral)",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources/outreach-screening-assessment-referral"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Starting point for substance use services in Texas. Available through local mental health authorities by region. Call 211 Texas or the OSAR in your region for confidential help. Owning organization: Texas Health and Human Services Commission."
   }
 ]
