@@ -1359,5 +1359,34 @@
     "state": "IA",
     "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, their friends/family/partners, or anyone who cannot access it locally. Partnership with Iowa Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / Iowa Harm Reduction Coalition.",
     "organization": "NEXT Distro / Iowa Harm Reduction Coalition"
+  },
+  {
+    "id": "kansas-dccca-naloxone-program",
+    "name": "Kansas Naloxone Program (DCCCA)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dccca.org/program/kansas-naloxone-program/",
+      "https://www.kdads.ks.gov/services-programs/behavioral-health/kansas-naloxone-program",
+      "https://www.dccca.org/naloxone-vending-machines/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KS",
+    "notes": "Free naloxone (Narcan) nasal spray, fentanyl test strips, and training available to any Kansas resident or organization upon request. Funded by KDADS via SOR grant. Multiple free vending machines across the state (Pittsburg, Lawrence, Garden City, Overland Park, Hutchinson, Salina, Wichita, Kansas City, and others). Online request form available. Owning organization: DCCCA / Kansas Department for Aging and Disability Services.",
+    "organization": "DCCCA / KDADS"
+  },
+  {
+    "id": "kansas-next-distro-mail",
+    "name": "Kansas NEXT Distro / Safe Streets Wichita Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/kansas",
+      "https://nextdistro.org/kschoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KS",
+    "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Kansas residents after short training video and quiz. Partnership with Safe Streets Wichita. Plain packaging. Owning organization: NEXT Distro / Safe Streets Wichita.",
+    "organization": "NEXT Distro / Safe Streets Wichita"
   }
 ]
