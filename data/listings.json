@@ -1867,5 +1867,34 @@
     "state": "NJ",
     "notes": "Free naloxone (Narcan) mailed discreetly and confidentially to anyone in New Jersey who requests it (prioritizing those most likely to witness an overdose). Also available by calling or texting 1-877-4NARCAN. Free naloxone at seven Harm Reduction Centers (Asbury Park, Atlantic City, Camden, Jersey City, Newark, Paterson, Trenton). Partnership with NEXT Distro. Owning organization: New Jersey Harm Reduction Coalition / NEXT Distro.",
     "organization": "NJ Harm Reduction Coalition / NEXT Distro"
+  },
+  {
+    "id": "new-mexico-nmdoh-harm-reduction",
+    "name": "New Mexico Department of Health Harm Reduction Program Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.nmhealth.org/about/phd/idb/hrp",
+      "https://www.nmharmreduction.org/naloxone-saves/#order-form-start",
+      "https://www.nmhealth.org/publication/view/policy/8797"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NM",
+    "notes": "Free naloxone available at NMDOH Public Health Offices statewide (no prescription needed) and at community harm reduction/syringe programs. Free mail-order kits (two doses each, up to two kits per order) via NMHarmReduction.org or by calling 1-833-796-8773. Statewide standing order allows pharmacy access. Vending machines and public boxes also expanding. Owning organization: New Mexico Department of Health.",
+    "organization": "New Mexico Department of Health"
+  },
+  {
+    "id": "new-mexico-next-distro-mail",
+    "name": "New Mexico NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/newmexico",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NM",
+    "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Plain packaging. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
