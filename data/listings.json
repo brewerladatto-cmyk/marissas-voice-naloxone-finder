@@ -344,5 +344,44 @@
     ],
     "last_checked": "2026-10-17",
     "notes": "Directory of SAMHSA-certified opioid treatment programs (OTPs) that provide medications for opioid use disorder. Searchable by state. Owning organization: SAMHSA."
+  },
+  {
+    "id": "alabama-naloxone",
+    "name": "Alabama Free Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.alabamapublichealth.gov/pharmacy/opioid-reversal.html",
+      "https://mh.alabama.gov/faq/standing-order-for-naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AL",
+    "notes": "Free naloxone available by mail after online training (via Jefferson County Department of Health / Alabama Department of Mental Health) or at select county health departments (no ID required at Elmore and Montgomery). Statewide standing order. Owning organization: Alabama Department of Public Health / Alabama Department of Mental Health."
+  },
+  {
+    "id": "alaska-project-hope",
+    "name": "Alaska Project HOPE",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.alaska.gov/en/education/drugs-and-alcohol/opioids-prevention-and-recovery/find-naloxone/",
+      "https://health.alaska.gov/en/services/project-hope-get-naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AK",
+    "notes": "Statewide program providing free naloxone kits through partner locations and mail-order options (including via iknowmine.org). Kits include two doses of Narcan, gloves, and instructions. Owning organization: Alaska Department of Health."
+  },
+  {
+    "id": "arizona-naloxone",
+    "name": "Arizona Free Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.azdhs.gov/naloxone",
+      "https://spwaz.org/arizonanaloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AZ",
+    "notes": "Free naloxone available at many county health departments, libraries, community sites, and via mail through partners such as Sonoran Prevention Works. Statewide standing order for pharmacies. Owning organization: Arizona Department of Health Services and partners."
   }
 ]
