@@ -2382,5 +2382,34 @@
     "state": "WV",
     "notes": "Free naloxone by mail for West Virginia residents who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Partnership with Southern West Virginia Harm Redux. Plain packaging. (WV Drug Intervention Institute also offers free kit after online training.) Owning organization: NEXT Distro / Southern West Virginia Harm Redux.",
     "organization": "NEXT Distro / Southern West Virginia Harm Redux"
+  },
+  {
+    "id": "wisconsin-dhs-free-naloxone",
+    "name": "Wisconsin DHS Free Naloxone Map & Community Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhs.wisconsin.gov/aoda/naloxone.htm",
+      "https://www.dhs.wisconsin.gov/news/releases/090925.htm"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WI",
+    "notes": "Free naloxone available through interactive map of health and human services agencies, public health vending machines, and community sites statewide. DHS Naloxone Direct / Overdose Prevention Supplies Program provides no-cost naloxone to eligible agencies for free community distribution. Statewide standing orders allow pharmacists and trained nurses (outside traditional settings) to dispense/distribute without a personal prescription. Mobile Public Health Outreach and Response Team (PHORT) and Harm Reduction Response Team also distribute free supplies. Owning organization: Wisconsin Department of Health Services.",
+    "organization": "Wisconsin Department of Health Services"
+  },
+  {
+    "id": "wisconsin-bad-river-next-distro-mail",
+    "name": "Wisconsin Gwayakobimaadiziwin Bad River Harm Reduction / NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.dhs.wisconsin.gov/aoda/naloxone.htm",
+      "https://nextdistro.org/wisconsin",
+      "https://nextdistro.org/wilangchoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WI",
+    "notes": "Free naloxone by mail for Wisconsin residents who cannot or prefer not to access it in person after short training video and quiz. Partnership with Gwayakobimaadiziwin Bad River Harm Reduction. Discrete packaging. Intramuscular naloxone primarily available; nasal spray may be requested. Owning organization: Gwayakobimaadiziwin Bad River Harm Reduction / NEXT Distro.",
+    "organization": "Gwayakobimaadiziwin Bad River Harm Reduction / NEXT Distro"
   }
 ]
