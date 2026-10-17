@@ -1542,5 +1542,46 @@
     "state": "MD",
     "notes": "Free naloxone nasal spray by mail for Maryland residents after short training video and quiz. Partnership with Baltimore Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / Baltimore Harm Reduction Coalition.",
     "organization": "NEXT Distro / Baltimore Harm Reduction Coalition"
+  },
+  {
+    "id": "massachusetts-dph-naloxone-programs",
+    "name": "Massachusetts DPH Naloxone Program Locator (OEND & CNP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.mass.gov/info-details/naloxone-program-locator",
+      "https://www.mass.gov/info-details/community-naloxone-program-cnp",
+      "https://www.mass.gov/info-details/frequently-asked-questions-faqs-about-naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MA",
+    "notes": "Statewide locator map of Overdose Education and Naloxone Distribution (OEND) and Community Naloxone Program (CNP) sites providing free naloxone and training. CNP supplies organizations to distribute free kits to bystanders. Harm reduction and syringe service programs also distribute free naloxone. Statewide standing order allows pharmacy access without a personal prescription (MassHealth often $0 copay). Owning organization: Massachusetts Department of Public Health.",
+    "organization": "Massachusetts Department of Public Health"
+  },
+  {
+    "id": "massachusetts-you-can-mail",
+    "name": "You Can Free Naloxone Kit by Mail (Massachusetts)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://youcan.info/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MA",
+    "notes": "Free naloxone kit mailed to Massachusetts residents (one per person per year) after short training video. Discreet shipping. Owning organization: You Can (Massachusetts harm reduction initiative).",
+    "organization": "You Can"
+  },
+  {
+    "id": "massachusetts-next-distro-mail",
+    "name": "Massachusetts NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MA",
+    "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners in Massachusetts after short training. Plain packaging. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
