@@ -422,5 +422,56 @@
     "last_checked": "2026-10-17",
     "state": "CO",
     "notes": "CDPHE supplies free naloxone to eligible entities (harm reduction, first responders, schools, community organizations, etc.) via the Bulk Purchase Fund. Individuals can access through local programs, pharmacies (standing order), or mail partners. Owning organization: Colorado Department of Public Health and Environment."
+  },
+  {
+    "id": "connecticut-naloxone",
+    "name": "Connecticut Naloxone Initiative",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://portal.ct.gov/dmhas/programs-and-services/opioid-treatment/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CT",
+    "notes": "DMHAS distributes free naloxone through Regional Behavioral Health Action Organizations, syringe service programs, and community partners. Pharmacies can also dispense. Mail options via NEXT Distro. Owning organization: Connecticut Department of Mental Health and Addiction Services."
+  },
+  {
+    "id": "delaware-naloxone",
+    "name": "Delaware Help Is Here Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/narcan/",
+      "https://www.helpisherede.com/addiction/free-by-mail"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "DE",
+    "notes": "Free naloxone kits and training via DSAMH. Available at Bridge Clinics, syringe services, 24/7 vending machines, and by mail. Owning organization: Delaware Department of Health and Social Services."
+  },
+  {
+    "id": "florida-naloxone",
+    "name": "Florida Overdose Prevention Program (iSaveFL)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://myflfamilies.com/services/samh/opp",
+      "https://isavefl.com/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "FL",
+    "notes": "DCF Overdose Prevention Program provides free naloxone through 600+ enrolled distributors including all county health departments. Over 1.8 million kits distributed. Mail options via harm reduction partners. Owning organization: Florida Department of Children and Families."
+  },
+  {
+    "id": "georgia-naloxone",
+    "name": "Georgia Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://dph.georgia.gov/stopopioidaddiction/what-you-need-know-about-opioids/naloxone",
+      "https://georgiaoverdoseprevention.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "GA",
+    "notes": "Statewide standing order for pharmacies. Free naloxone via Georgia Overdose Prevention (mail and boxes), Georgia Harm Reduction Coalition, county health departments, and community service boards. Wesley’s Law expands school access. Owning organization: Georgia Department of Public Health and partners."
   }
 ]
