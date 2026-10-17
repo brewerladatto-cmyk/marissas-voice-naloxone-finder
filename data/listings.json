@@ -1939,5 +1939,34 @@
     "state": "NY",
     "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Available outside New York City; NYC via partnership with NYC Health Department (may take 3\u20134 weeks). Plain packaging. Owning organization: NEXT Distro.",
     "organization": "NEXT Distro"
+  },
+  {
+    "id": "north-carolina-ncdhhs-naloxone-saves",
+    "name": "NCDHHS / NaloxoneSaves-NC Free Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.ncdhhs.gov/about/department-initiatives/overdose-epidemic/syringe-and-naloxone-access",
+      "https://naloxonesaves-nc.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NC",
+    "notes": "Free or low-cost naloxone available at many local health departments and syringe services programs statewide. Interactive map and pharmacy locator at NaloxoneSaves-NC.org. Statewide standing order allows any pharmacist to dispense naloxone without a personal prescription to people at risk or those who can assist them (covered by most insurance). Owning organization: North Carolina Department of Health and Human Services.",
+    "organization": "North Carolina DHHS"
+  },
+  {
+    "id": "north-carolina-next-distro-nchrc",
+    "name": "NEXT Distro / North Carolina Harm Reduction Coalition Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/northcarolina",
+      "https://nextdistro.org/ncchoice",
+      "https://www.nchrc.org/reversals/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NC",
+    "notes": "Free intramuscular naloxone by mail for North Carolina residents who cannot access it locally (prioritized for people who use drugs, in recovery, on MAT, leaving jail/treatment, or family members of those at high risk) after short training video and quiz. Partnership with North Carolina Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / NCHRC.",
+    "organization": "NEXT Distro / North Carolina Harm Reduction Coalition"
   }
 ]
