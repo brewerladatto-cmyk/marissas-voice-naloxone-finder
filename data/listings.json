@@ -1388,5 +1388,48 @@
     "state": "KS",
     "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Kansas residents after short training video and quiz. Partnership with Safe Streets Wichita. Plain packaging. Owning organization: NEXT Distro / Safe Streets Wichita.",
     "organization": "NEXT Distro / Safe Streets Wichita"
+  },
+  {
+    "id": "kentucky-find-naloxone-now-ky",
+    "name": "Find Naloxone Now KY (Kentucky Department for Public Health)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://findnaloxone.ky.gov/",
+      "https://www.kentuckysos.com/document/find-naloxone-now-ky/",
+      "https://findnaloxone.ky.gov/Pages/faqs.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KY",
+    "notes": "Statewide naloxone access portal and locator map connecting Kentuckians to hundreds of free distribution sites (local health departments, CBOs, recovery centers, regional prevention centers). Free mail-order naloxone to any Kentucky address. Agency ordering options for grant-funded supplies. Includes training resources. Owning organization: Kentucky Department for Public Health Harm Reduction Program.",
+    "organization": "Kentucky Department for Public Health"
+  },
+  {
+    "id": "kentucky-nky-health-mail",
+    "name": "Northern Kentucky Health Department Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nkyhealth.org/savealife/",
+      "https://nkyhealth.org/harmreduction/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KY",
+    "notes": "Free naloxone kits mailed to anyone with a Kentucky mailing address. Also available in-person at county health centers and syringe access exchange programs in Northern Kentucky. Kits include two doses of nasal spray plus education materials. Owning organization: Northern Kentucky Health Department.",
+    "organization": "Northern Kentucky Health Department"
+  },
+  {
+    "id": "kentucky-next-distro-mail",
+    "name": "Kentucky NEXT Distro / Kentucky Harm Reduction Coalition Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/kentucky",
+      "https://nextdistro.org/kychoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KY",
+    "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Kentucky residents (primarily outside Louisville) after short training. Partnership with Kentucky Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / Kentucky Harm Reduction Coalition.",
+    "organization": "NEXT Distro / Kentucky Harm Reduction Coalition"
   }
 ]
