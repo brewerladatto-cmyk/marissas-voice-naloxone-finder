@@ -1968,5 +1968,33 @@
     "state": "NC",
     "notes": "Free intramuscular naloxone by mail for North Carolina residents who cannot access it locally (prioritized for people who use drugs, in recovery, on MAT, leaving jail/treatment, or family members of those at high risk) after short training video and quiz. Partnership with North Carolina Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / NCHRC.",
     "organization": "NEXT Distro / North Carolina Harm Reduction Coalition"
+  },
+  {
+    "id": "north-dakota-hhs-free-kits",
+    "name": "North Dakota HHS Free Naloxone Kit Request",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.hhs.nd.gov/opioids",
+      "https://www.hhs.nd.gov/news/hhs-expands-access-naloxone-nd-medicaid-members"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ND",
+    "notes": "Free two-dose naloxone kits available by request online at hhs.nd.gov/opioids or by calling (701) 328-8920. Local public health units and syringe services programs also distribute free Narcan. Standing order allows Medicaid-enrolled pharmacies to dispense free OTC naloxone to eligible ND Medicaid members. Owning organization: North Dakota Health and Human Services.",
+    "organization": "North Dakota Health and Human Services"
+  },
+  {
+    "id": "north-dakota-next-distro-mail",
+    "name": "North Dakota NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/northdakota",
+      "https://nextdistro.org/ndchoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ND",
+    "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for North Dakota residents who cannot access it locally (people who use drugs, recently released from jail/prison, or likely first responders) after short training video and quiz. Partnership with Grand Forks Health Department. Plain packaging. Owning organization: NEXT Distro / Grand Forks Health Department.",
+    "organization": "NEXT Distro / Grand Forks Health Department"
   }
 ]
