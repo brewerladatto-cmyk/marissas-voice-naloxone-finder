@@ -2713,5 +2713,44 @@
     "state": "CA",
     "notes": "Free NARCAN kits by mail to Santa Clara County residents via online order form. Also available in-person at drop-in sites. Complements statewide NDP and NEXT Distro options. Owning organization: County of Santa Clara Behavioral Health Services.",
     "organization": "County of Santa Clara Behavioral Health Services"
+  },
+  {
+    "id": "kentucky-find-naloxone-now-mail",
+    "name": "Kentucky Find Naloxone Now Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://findnaloxone.ky.gov/Documents/Find%20Naloxone%20Now%20KY.pdf"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KY",
+    "notes": "Free naloxone by mail to any Kentucky address via Find Naloxone Now (Kentucky Department for Public Health). Also maps 450+ no-cost pickup locations. Includes training materials. Owning organization: Kentucky Department for Public Health.",
+    "organization": "Kentucky Department for Public Health"
+  },
+  {
+    "id": "illinois-christian-county-vending",
+    "name": "Christian County IL Free Harm Reduction Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.newschannel20.com/news/christian-county-health-department-offers-harm-reduction-vending-machine/article_5305bbd0-6575-47da-8b45-c3bff6e36a5f.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IL",
+    "notes": "Free 24/7 naloxone (Narcan) and fentanyl test strips via vending machine outside Christian County Health Department in Taylorville. Funded via opioid settlement. Anonymous access. Owning organization: Christian County Health Department.",
+    "organization": "Christian County Health Department"
+  },
+  {
+    "id": "pennsylvania-erie-county-kiosk",
+    "name": "Erie County PA Free Health Kiosk with Narcan",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.vendingtimes.com/news/erie-county-health-kiosk-offers-free-supplies-around-the-clock/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PA",
+    "notes": "Free 24/7 Narcan and other health supplies via kiosk outside Erie County Department of Health. Funded with grants and opioid settlement funds. Complements statewide mail and community programs. Owning organization: Erie County Department of Health.",
+    "organization": "Erie County Department of Health"
   }
 ]
