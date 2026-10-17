@@ -2857,5 +2857,57 @@
     "state": "TX",
     "notes": "Four free naloxone kiosks (Barney Boxes) at Texas A&M University-San Antonio for students and the surrounding South Side community. Supplied by Be Well Texas / UT Health San Antonio. Owning organization: Texas A&M University-San Antonio / Be Well Texas.",
     "organization": "Texas A&M University-San Antonio / Be Well Texas"
+  },
+  {
+    "id": "mississippi-msdh-mail",
+    "name": "Mississippi State Department of Health Free Naloxone by Mail or Pickup",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://rehabseekers.com/resources/narcan-mississippi/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MS",
+    "notes": "Free naloxone kits to all Mississippi residents via online request form. Choose mail delivery (no P.O. boxes) or pickup at a county health department. No out-of-pocket cost. Complements local vending machines. Owning organization: Mississippi State Department of Health.",
+    "organization": "Mississippi State Department of Health"
+  },
+  {
+    "id": "mississippi-singing-river-vending",
+    "name": "Singing River MS Free Naloxone Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.wlox.com/2026/09/05/free-naloxone-vending-machines-help-fight-overdoses-across-south-mississippi/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MS",
+    "notes": "Free, anonymous naloxone vending machines at Singing River hospitals in Gulfport, Ocean Springs, and Pascagoula (just outside emergency rooms). Partnership with Reach Impact Institute and Fund Recovery. High distribution reported. Owning organization: Singing River Health System.",
+    "organization": "Singing River Health System"
+  },
+  {
+    "id": "alabama-mobile-county-kiosks",
+    "name": "Mobile County AL Free Prevention & Wellness Kiosks",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://mchd.org/mchd-prevention-wellness-kiosks-put-lifesaving-resources-within-reach-across-mobile-county-09-09-26/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AL",
+    "notes": "Free Narcan and other prevention supplies via community kiosks across Mobile County (Alabama\u2019s first such initiative). Also supports free mail-order Narcan. Model expanding to other Alabama counties. Owning organization: Mobile County Health Department.",
+    "organization": "Mobile County Health Department"
+  },
+  {
+    "id": "wisconsin-racine-mail-me-narcan",
+    "name": "Racine County WI Mail Me Narcan Free Mail Program",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.wpr.org/news/mail-order-narcan-access-racine-county"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WI",
+    "notes": "Free Narcan Hope Kits (two doses, test strips, CPR mask, resources) mailed to Racine County residents (one per person per month). Also available at health department and vending machines. Owning organization: City of Racine Public Health Department.",
+    "organization": "City of Racine Public Health Department"
   }
 ]
