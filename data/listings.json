@@ -1317,5 +1317,47 @@
     "state": "IN",
     "notes": "Free nasal naloxone by mail for Indiana residents, made possible by partners Ship Happens and Indiana Recovery Alliance. Short training may apply. Plain packaging. Owning organization: NEXT Distro / Indiana Recovery Alliance.",
     "organization": "NEXT Distro / Indiana Recovery Alliance"
+  },
+  {
+    "id": "iowa-hhs-naloxone-distribution",
+    "name": "Iowa HHS Naloxone Nasal Spray Distribution Initiative & Sites",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://hhs.iowa.gov/health-prevention/addiction-substance-use-disorders/medications-addiction-treatment/naloxone",
+      "https://hhs.iowa.gov/health-prevention/addiction-substance-use-disorders/medications-addiction-treatment/naloxone-distribution-sites",
+      "https://www.naloxoneiowa.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IA",
+    "notes": "Free naloxone nasal spray distributed via eligible organizations (law enforcement, fire, schools, health care, behavioral health, county health departments, etc.) for community distribution. Public list of 200+ distribution sites. Pharmacies also provide free nasal spray under HHS-supported programs (transitioning to Narcan Direct). Owning organization: Iowa Department of Health and Human Services.",
+    "organization": "Iowa Department of Health and Human Services"
+  },
+  {
+    "id": "iowa-harm-reduction-coalition",
+    "name": "Iowa Harm Reduction Coalition Free Naloxone & OEND",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.iowaharmreductioncoalition.org/overdose-education-naloxone-distribution/",
+      "https://www.iowaharmreductioncoalition.org/services/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IA",
+    "notes": "Free intramuscular naloxone kits and overdose education for individuals and organizations statewide. Services in multiple metro areas; mail options available. Largest free naloxone distribution program in the state. Call/text for kits. Owning organization: Iowa Harm Reduction Coalition.",
+    "organization": "Iowa Harm Reduction Coalition"
+  },
+  {
+    "id": "iowa-next-distro-mail",
+    "name": "Iowa NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/iowa"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IA",
+    "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, their friends/family/partners, or anyone who cannot access it locally. Partnership with Iowa Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / Iowa Harm Reduction Coalition.",
+    "organization": "NEXT Distro / Iowa Harm Reduction Coalition"
   }
 ]
