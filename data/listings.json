@@ -2660,5 +2660,58 @@
     "state": "WI",
     "notes": "Free naloxone and harm reduction supplies via vending machines in Madison, Sun Prairie, Stoughton, and hospital sites. Funded with opioid settlement dollars. Expanding community access outside traditional hours. Owning organization: Dane County.",
     "organization": "Dane County (Wisconsin)"
+  },
+  {
+    "id": "minnesota-minneapolis-narcan-vending",
+    "name": "Minneapolis MN Free NARCAN Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MN",
+    "notes": "Four free, anonymous, 24/7 NARCAN vending machines at Minneapolis fire stations. Machines have dispensed nearly 15,000 doses. Located at trusted community hubs for high-overdose areas. Owning organization: City of Minneapolis.",
+    "organization": "City of Minneapolis"
+  },
+  {
+    "id": "oregon-just-in-case-mail",
+    "name": "Oregon Just in Case Free Naloxone by Mail",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://rehabseekers.com/resources/narcan-oregon/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OR",
+    "notes": "Free naloxone mailed to anyone in Oregon with a mailing address via Just in Case Oregon (Oregon Health Authority). No prescription, ID, or insurance required. Complements community syringe services and harm reduction programs. Owning organization: Oregon Health Authority.",
+    "organization": "Oregon Health Authority (Just in Case Oregon)"
+  },
+  {
+    "id": "colorado-mesa-county-kiosks",
+    "name": "Mesa County CO Free Naloxone Kiosks",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.cpr.org/2025/02/16/mesa-county-narcan-kiosk-machines/",
+      "https://www.vendingtimes.com/news/colorado-county-releases-naloxone-kiosk-impact-report/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CO",
+    "notes": "Network of free, anonymous 24/7 naloxone kiosks across Mesa County (Grand Junction area and surrounding communities). Over 9,500 kits distributed. Partnership with Western Colorado Area Health Education Center. Owning organization: Mesa County Public Health.",
+    "organization": "Mesa County Public Health"
+  },
+  {
+    "id": "california-santa-clara-mail",
+    "name": "Santa Clara County CA Free NARCAN by Mail",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://bhsd.santaclaracounty.gov/get-prevention-services/substance-use-prevention-services/get-narcanr-kit"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CA",
+    "notes": "Free NARCAN kits by mail to Santa Clara County residents via online order form. Also available in-person at drop-in sites. Complements statewide NDP and NEXT Distro options. Owning organization: County of Santa Clara Behavioral Health Services.",
+    "organization": "County of Santa Clara Behavioral Health Services"
   }
 ]
