@@ -2554,5 +2554,58 @@
     "state": "PA",
     "notes": "Free naloxone by mail for personal use to Pennsylvania residents after short training video and quiz. Partnership between DDAP, Prevention Point Pittsburgh, and NEXT Distro. Plain packaging. Complements statewide free community distribution via Overdose Prevention Program. Owning organization: Pennsylvania Department of Drug and Alcohol Programs / Prevention Point Pittsburgh / NEXT Distro.",
     "organization": "Pennsylvania Department of Drug and Alcohol Programs / Prevention Point Pittsburgh / NEXT Distro"
+  },
+  {
+    "id": "missouri-get-mo-naloxone-mail",
+    "name": "Missouri Get MO Naloxone / MoNetwork Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://rehabseekers.com/resources/narcan-missouri/",
+      "https://nextdistro.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MO",
+    "notes": "Free naloxone by mail to Missouri residents who cannot access it locally via Get MO Naloxone (Missouri Institute of Mental Health / DMH) and MoNetwork Mail Based Naloxone Program after brief training. Complements community vending machines and boxes in multiple counties. Owning organization: Missouri Department of Mental Health / Get MO Naloxone.",
+    "organization": "Missouri Department of Mental Health / Get MO Naloxone"
+  },
+  {
+    "id": "michigan-next-distro-red-project-mail",
+    "name": "Michigan NEXT Distro / Grand Rapids Red Project Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/michigan"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MI",
+    "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners. Partnership with Grand Rapids Red Project. Plain packaging. Complements free kits at MDHHS offices and community vending/boxes. Owning organization: NEXT Distro / Grand Rapids Red Project.",
+    "organization": "NEXT Distro / Grand Rapids Red Project"
+  },
+  {
+    "id": "new-york-matters-vending-machines",
+    "name": "New York MATTERS Free Naloxone Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.thedailycatch.org/articles/red-hooks-narcan-vending-machine-is-the-most-used-in-dutchess-county-as-overdoses-decline/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NY",
+    "notes": "Free 24/7 naloxone (and often test strips) via network of ~40 vending machines placed by MATTERS (University at Buffalo partnership with NYS OASAS) across New York State municipalities and counties. No-cost access with simple instructions. Owning organization: MATTERS / NYS OASAS.",
+    "organization": "MATTERS / New York State Office of Addiction Services and Supports"
+  },
+  {
+    "id": "california-monterey-naloxone-vending",
+    "name": "Monterey County CA Free Narcan Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.countyofmonterey.gov/Home/Components/News/News/11717/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CA",
+    "notes": "Eight free 24/7 public kiosks/vending machines offering Narcan and fentanyl test strips across Monterey County (colleges, fire departments, transit centers, clinics, jail). English/Spanish instructions. Funded as part of county overdose prevention expansion. Owning organization: County of Monterey Health Department.",
+    "organization": "County of Monterey Health Department"
   }
 ]
