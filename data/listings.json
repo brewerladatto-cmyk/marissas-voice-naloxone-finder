@@ -2325,5 +2325,33 @@
     "state": "VA",
     "notes": "Free naloxone by mail for people in Virginia who cannot access it any other way after an 8-minute training video and quiz. Partnership with The Chris Atwood Foundation. Plain packaging. Owning organization: NEXT Distro / The Chris Atwood Foundation.",
     "organization": "NEXT Distro / The Chris Atwood Foundation"
+  },
+  {
+    "id": "washington-doh-naloxone-finder-oend",
+    "name": "Washington DOH Naloxone Finder & OEND Free Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution",
+      "https://doh.wa.gov/newsroom/doh-launches-tool-help-washingtonians-find-free-naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WA",
+    "notes": "Free naloxone available via interactive Naloxone Finder map of community organizations, health departments, and other sites. DOH Overdose Education and Naloxone Distribution (OEND) program provides free naloxone and training to organizations and tribes for distribution to people at risk or likely to respond to overdose. Statewide standing order allows pharmacies to dispense without a personal prescription (Apple Health/Medicaid covers with no copay). EMS leave-behind programs also available. Owning organization: Washington State Department of Health.",
+    "organization": "Washington State Department of Health"
+  },
+  {
+    "id": "washington-doh-mail-phra",
+    "name": "Washington DOH / People's Harm Reduction Alliance Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://doh.wa.gov/you-and-your-family/injury-and-violence-prevention/opioid-overdose-prevention/resources-pharmacies",
+      "https://nextdistro.org/washington"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WA",
+    "notes": "Free naloxone by mail for Washington residents who cannot easily access it at a community organization or pharmacy. Operated by DOH in partnership with People's Harm Reduction Alliance. Confidential, once per month limit, plain packaging. Owning organization: Washington State Department of Health / People's Harm Reduction Alliance.",
+    "organization": "Washington State Department of Health / People's Harm Reduction Alliance"
   }
 ]
