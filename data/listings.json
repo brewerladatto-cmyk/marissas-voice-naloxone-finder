@@ -303,5 +303,46 @@
     "state": "TX",
     "zip": "79902",
     "notes": "Naloxone Texas regional distribution hub for Region 10. Free naloxone and training. Owning organization: El Paso Alliance / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "naloxone-texas-hub-thriving-united",
+    "name": "Thriving United — Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "501 North Loraine Street",
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79701",
+    "phone": "432-701-8678",
+    "notes": "Naloxone Texas regional distribution hub for Region 9 (Permian Basin / West Texas). Free naloxone and training. Owning organization: Thriving United / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "texas-poison-center-network",
+    "name": "Texas Poison Center Network",
+    "category": "helpline",
+    "verification": "verified",
+    "source": [
+      "https://poisoncontrol.org/",
+      "https://www.dshs.texas.gov/environmental-surveillance-toxicology/home-poison-epidemiology/tpc-poison-epidemiology"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "1-800-222-1222",
+    "state": "TX",
+    "notes": "Free, confidential 24/7 expert advice for poisonings, overdoses, bites, and toxic exposures. Six regional centers across Texas. Owning organization: Texas Poison Center Network."
+  },
+  {
+    "id": "samhsa-otp-directory",
+    "name": "SAMHSA Opioid Treatment Program Directory",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.samhsa.gov/find-help/locators/opioid-treatment-program-directory"
+    ],
+    "last_checked": "2026-10-17",
+    "notes": "Directory of SAMHSA-certified opioid treatment programs (OTPs) that provide medications for opioid use disorder. Searchable by state. Owning organization: SAMHSA."
   }
 ]
