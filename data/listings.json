@@ -1740,5 +1740,34 @@
     "state": "MT",
     "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Montana residents after short training video and quiz. Partnership with Open Aid Alliance. Plain packaging. Owning organization: NEXT Distro / Open Aid Alliance.",
     "organization": "NEXT Distro / Open Aid Alliance"
+  },
+  {
+    "id": "nebraska-stop-overdose-nebraska",
+    "name": "Stop Overdose Nebraska (STOPODNE) Free Narcan",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://stopodne.com/",
+      "https://stopodne.com/order-narcan/",
+      "https://dhhs.ne.gov/Pages/State-Opioid-Response.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NE",
+    "notes": "Free Narcan nasal spray available to any Nebraska resident with a current Nebraska address. Order one box by mail online (7\u201310 business days, discreet packaging) or obtain up to five boxes at participating pharmacies statewide (no prescription or ID required; short form only). Over 60 participating pharmacies. Statewide standing order in place. Vending machines and grab-and-go sites also available in multiple communities. Owning organization: Nebraska Department of Health and Human Services / Nebraska Pharmacists Association.",
+    "organization": "Nebraska DHHS / Nebraska Pharmacists Association"
+  },
+  {
+    "id": "nebraska-next-distro-mail",
+    "name": "Nebraska NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/nebraska",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NE",
+    "notes": "Free naloxone by mail for Nebraska residents who cannot access it locally after short training. Plain packaging. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
