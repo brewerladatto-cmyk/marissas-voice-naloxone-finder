@@ -1,1 +1,1186 @@
-PLACEHOLDER_WILL_REPLACE
+[
+  {
+    "id": "samhsa-national-helpline",
+    "name": "SAMHSA National Helpline",
+    "category": "helpline",
+    "verification": "verified",
+    "source": [
+      "https://www.samhsa.gov/find-help/helplines/national-helpline"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "1-800-662-HELP (4357)",
+    "notes": "Free, confidential, 24/7 treatment referral and information service in English and Spanish for mental and substance use disorders. TTY: 1-800-487-4889. Owning organization: Substance Abuse and Mental Health Services Administration (SAMHSA)."
+  },
+  {
+    "id": "988-suicide-crisis-lifeline",
+    "name": "988 Suicide & Crisis Lifeline",
+    "category": "crisis_safety",
+    "verification": "verified",
+    "source": [
+      "https://988lifeline.org/",
+      "https://www.samhsa.gov/mental-health/988"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "988",
+    "notes": "Free, confidential 24/7 support. Call, text, or chat. For Spanish, press 2 or text AYUDA. Veterans press 1. Owning organization: 988 Suicide & Crisis Lifeline network (funded by SAMHSA)."
+  },
+  {
+    "id": "dchhs-overdose-training",
+    "name": "Dallas County Health & Human Services (DCHHS) \u2014 Overdose Response & Naloxone Training",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.dallascounty.org/departments/dchhs/public-health/alcohol-substance/overdose-response.php"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "2377 N. Stemmons Freeway",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75207",
+    "phone": "214-819-2000",
+    "notes": "Free community Narcan training that includes free naloxone. Monthly community trainings offered. Unconfirmed on the official page checked: exact training dates/times outside the monthly schedule, whether naloxone can be picked up outside a training session, and full office hours for walk-up."
+  },
+  {
+    "id": "naloxone-texas-mail-order",
+    "name": "Naloxone Texas (UT Health San Antonio)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://naloxonetexas.com/",
+      "https://naloxonetexas.com/distribution/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Free naloxone shipped to Texas residents (individuals and organizations). Online order form available. Also has regional distribution hubs for pickup and training. Owning organization: Naloxone Texas / UT Health San Antonio."
+  },
+  {
+    "id": "texas-dshs-naloxone-locator",
+    "name": "Texas DSHS Naloxone Locator Map",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://healthdata.dshs.texas.gov/dashboard/drugs-and-alcohol/all-drugs/naloxone-distribution-interactive-map",
+      "https://www.dshs.texas.gov/injury-prevention/texas-overdose-data-to-action/toda-resource-maps"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Interactive map of free or reduced-cost naloxone locations across Texas (clinics, recovery services, vending machines, regional sites, etc.). Maintained by Texas Overdose Data to Action (TODA) / Texas Department of State Health Services."
+  },
+  {
+    "id": "next-distro-naloxone",
+    "name": "NEXT Distro \u2014 Naloxone by Mail",
+    "category": "mail_order",
+    "verification": "partly_verified",
+    "source": [
+      "https://nextdistro.org/",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "notes": "Mail-based naloxone (and in some states other harm reduction supplies) for people who use drugs and those closely connected to them. Availability and eligibility vary by state; some states have local affiliate partners. Prioritizes people without easy local access. Owning organization: NEXT Distro. Unconfirmed: exact eligibility and stock for every state on the check date."
+  },
+  {
+    "id": "disaster-distress-helpline",
+    "name": "Disaster Distress Helpline",
+    "category": "crisis_safety",
+    "verification": "verified",
+    "source": [
+      "https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "1-800-985-5990",
+    "notes": "Free, confidential 24/7 crisis counseling for emotional distress related to natural or human-caused disasters. Call or text. Spanish: press 2. Available in many languages via interpretation. Owning organization: SAMHSA."
+  },
+  {
+    "id": "veterans-crisis-line",
+    "name": "Veterans Crisis Line",
+    "category": "crisis_safety",
+    "verification": "verified",
+    "source": [
+      "https://www.veteranscrisisline.net/"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "988 then press 1",
+    "notes": "Free, confidential 24/7 support for Veterans, service members, National Guard, Reserve, and their families/friends. Dial 988 then press 1, text 838255, or chat online. No VA enrollment required. Owning organization: U.S. Department of Veterans Affairs."
+  },
+  {
+    "id": "findtreatment-gov",
+    "name": "FindTreatment.gov",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://findtreatment.gov/",
+      "https://www.samhsa.gov/find-help/locators"
+    ],
+    "last_checked": "2026-10-17",
+    "notes": "Confidential online locator for mental health and substance use disorder treatment facilities across the U.S. and territories. Search by location, services, and payment options. Owning organization: SAMHSA."
+  },
+  {
+    "id": "naloxone-texas-hub-etcada",
+    "name": "East Texas Council on Alcoholism and Drug Abuse (ETCADA) \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "708 Glencrest Lane",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "75601",
+    "notes": "Naloxone Texas regional distribution hub serving East Texas counties. Free naloxone and training available. Owning organization: ETCADA / Naloxone Texas. Unconfirmed on check date: exact current stock, walk-in hours, and full county coverage details."
+  },
+  {
+    "id": "naloxone-texas-hub-corazon",
+    "name": "Corazon Ministries \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "504 Ave E.",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78215",
+    "notes": "Naloxone Texas regional distribution hub. Free naloxone pickup and training. Owning organization: Corazon Ministries / Naloxone Texas. Unconfirmed on check date: exact current availability and hours."
+  },
+  {
+    "id": "be-well-texas",
+    "name": "Be Well Texas",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.dshs.texas.gov/injury-prevention/texas-overdose-data-to-action/toda-resource-maps"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "888-85-BEWELL (888-852-3935)",
+    "state": "TX",
+    "notes": "Statewide program for treatment and recovery support for alcohol or drug use. Insurance not required; virtual visits available. Owning organization: Be Well Texas (linked to Texas Targeted Opioid Response)."
+  },
+  {
+    "id": "texas-osar",
+    "name": "Texas OSAR (Outreach, Screening, Assessment and Referral)",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources/outreach-screening-assessment-referral"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Starting point for substance use services in Texas. Available through local mental health authorities by region. Call 211 Texas or the OSAR in your region for confidential help. Owning organization: Texas Health and Human Services Commission."
+  },
+  {
+    "id": "211-texas",
+    "name": "211 Texas",
+    "category": "helpline",
+    "verification": "verified",
+    "source": [
+      "https://www.211texas.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "211 or 877-541-7905",
+    "state": "TX",
+    "notes": "Free, confidential 24/7 information and referral for health and human services, including mental health and substance use resources. Option 5 for mental health/substance use. Owning organization: Texas Health and Human Services Commission."
+  },
+  {
+    "id": "naloxone-texas-hub-communities-for-recovery",
+    "name": "Communities for Recovery \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "4110 Guadalupe Street, Bldg. 635",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78751",
+    "notes": "Naloxone Texas regional distribution hub. Free naloxone and training. Owning organization: Communities for Recovery / Naloxone Texas. Unconfirmed on check date: exact current availability and hours."
+  },
+  {
+    "id": "texas-targeted-opioid-response",
+    "name": "Texas Targeted Opioid Response (TTOR)",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.hhs.texas.gov/services/mental-health-substance-use/adult-substance-use/texas-targeted-opioid-response",
+      "https://txopioidresponse.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Statewide public health initiative expanding prevention, treatment, and recovery services for opioid and stimulant use disorders, including naloxone distribution. Owning organization: Texas Health and Human Services Commission."
+  },
+  {
+    "id": "naloxone-texas-hub-unity-recovery",
+    "name": "Unity Recovery \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/",
+      "https://unityrecovery.org/weatherford"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "1704 Santa Fe Drive Suite 200",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76086",
+    "phone": "817-550-6188",
+    "notes": "Naloxone Texas regional distribution hub serving Region 3. Free naloxone, training, and peer recovery support. Owning organization: Unity Recovery / Naloxone Texas. Unconfirmed on check date: exact current stock and full hours."
+  },
+  {
+    "id": "naloxone-texas-hub-bhsst",
+    "name": "Behavioral Health Solutions of South Texas \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/",
+      "https://bhsst.org/intervention-new/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "5510 N. Cage Blvd",
+    "city": "Pharr",
+    "state": "TX",
+    "zip": "78577",
+    "phone": "956-787-7111",
+    "notes": "Naloxone Texas regional distribution hub for South Texas. Free naloxone and training. Owning organization: Behavioral Health Solutions of South Texas / Naloxone Texas. Unconfirmed on check date: exact current availability."
+  },
+  {
+    "id": "naloxone-texas-hub-center-for-recovery",
+    "name": "Center for Recovery and Wellness Resources \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "4014 Market St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77020",
+    "notes": "Naloxone Texas regional distribution hub serving certain Houston-area counties west of I-45. Free naloxone and training. Owning organization: Center for Recovery and Wellness Resources / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "naloxone-texas-hub-central-plains",
+    "name": "Central Plains Center \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "631 Broadway",
+    "city": "Plainview",
+    "state": "TX",
+    "zip": "79072",
+    "notes": "Naloxone Texas regional distribution hub serving Regions 1 & 2. Free naloxone and training. Owning organization: Central Plains Center / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "naloxone-texas-hub-strategic-recovery",
+    "name": "Strategic Recovery Solutions \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "5144 East Sam Houston Pkwy. N. Ste. 115",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77015",
+    "notes": "Naloxone Texas regional distribution hub serving certain Houston-area counties east of I-45. Free naloxone and training. Owning organization: Strategic Recovery Solutions / Naloxone Texas. Unconfirmed on check date: exact current availability."
+  },
+  {
+    "id": "naloxone-texas-hub-el-paso-alliance",
+    "name": "El Paso Alliance \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "800 Montana Ave.",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79902",
+    "notes": "Naloxone Texas regional distribution hub for Region 10. Free naloxone and training. Owning organization: El Paso Alliance / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "naloxone-texas-hub-thriving-united",
+    "name": "Thriving United \u2014 Naloxone Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/"
+    ],
+    "last_checked": "2026-10-17",
+    "address": "501 North Loraine Street",
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79701",
+    "phone": "432-701-8678",
+    "notes": "Naloxone Texas regional distribution hub for Region 9 (Permian Basin / West Texas). Free naloxone and training. Owning organization: Thriving United / Naloxone Texas. Unconfirmed on check date: exact current stock and hours."
+  },
+  {
+    "id": "texas-poison-center-network",
+    "name": "Texas Poison Center Network",
+    "category": "helpline",
+    "verification": "verified",
+    "source": [
+      "https://poisoncontrol.org/",
+      "https://www.dshs.texas.gov/environmental-surveillance-toxicology/home-poison-epidemiology/tpc-poison-epidemiology"
+    ],
+    "last_checked": "2026-10-17",
+    "phone": "1-800-222-1222",
+    "state": "TX",
+    "notes": "Free, confidential 24/7 expert advice for poisonings, overdoses, bites, and toxic exposures. Six regional centers across Texas. Owning organization: Texas Poison Center Network."
+  },
+  {
+    "id": "samhsa-otp-directory",
+    "name": "SAMHSA Opioid Treatment Program Directory",
+    "category": "recovery_treatment",
+    "verification": "verified",
+    "source": [
+      "https://www.samhsa.gov/find-help/locators/opioid-treatment-program-directory"
+    ],
+    "last_checked": "2026-10-17",
+    "notes": "Directory of SAMHSA-certified opioid treatment programs (OTPs) that provide medications for opioid use disorder. Searchable by state. Owning organization: SAMHSA."
+  },
+  {
+    "id": "alabama-naloxone",
+    "name": "Alabama Free Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.alabamapublichealth.gov/pharmacy/opioid-reversal.html",
+      "https://mh.alabama.gov/faq/standing-order-for-naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AL",
+    "notes": "Free naloxone available by mail after online training (via Jefferson County Department of Health / Alabama Department of Mental Health) or at select county health departments (no ID required at Elmore and Montgomery). Statewide standing order. Owning organization: Alabama Department of Public Health / Alabama Department of Mental Health."
+  },
+  {
+    "id": "alaska-project-hope",
+    "name": "Alaska Project HOPE",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.alaska.gov/en/education/drugs-and-alcohol/opioids-prevention-and-recovery/find-naloxone/",
+      "https://health.alaska.gov/en/services/project-hope-get-naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AK",
+    "notes": "Statewide program providing free naloxone kits through partner locations and mail-order options (including via iknowmine.org). Kits include two doses of Narcan, gloves, and instructions. Owning organization: Alaska Department of Health."
+  },
+  {
+    "id": "arizona-naloxone",
+    "name": "Arizona Free Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.azdhs.gov/naloxone",
+      "https://spwaz.org/arizonanaloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AZ",
+    "notes": "Free naloxone available at many county health departments, libraries, community sites, and via mail through partners such as Sonoran Prevention Works. Statewide standing order for pharmacies. Owning organization: Arizona Department of Health Services and partners."
+  },
+  {
+    "id": "arkansas-naloxone",
+    "name": "Arkansas Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://humanservices.arkansas.gov/divisions-shared-services/shared-services/office-of-substance-abuse-and-mental-health/prevention-ar/narcan-request/",
+      "https://nextdistro.org/arkansas"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AR",
+    "notes": "Statewide standing order allows pharmacy dispensing. Free intramuscular naloxone available by mail via NEXT Distro partnership with Northwest Arkansas Harm Reduction. Organizations can request via Arkansas DHS. Owning organization: Arkansas Department of Human Services and partners. Unconfirmed on check date: full current stock details for all sites."
+  },
+  {
+    "id": "california-naloxone-distribution-project",
+    "name": "California Naloxone Distribution Project (NDP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhcs.ca.gov/individuals/naloxone-distribution-project/",
+      "https://www.cdph.ca.gov/programs/ccdphp/sapb/pages/naloxone.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CA",
+    "notes": "DHCS provides free naloxone (and fentanyl test strips) to eligible organizations statewide for community distribution. Over 460,000 reported reversals since 2018. Individuals can access via local programs, pharmacies, or mail partners. Owning organization: California Department of Health Care Services."
+  },
+  {
+    "id": "colorado-naloxone-bulk-fund",
+    "name": "Colorado Naloxone Bulk Purchase Fund",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://cdphe.colorado.gov/prevention-and-wellness/injury-prevention/overdose-prevention/naloxone-bulk-purchase-fund-faq-2",
+      "https://cdphe.colorado.gov/overdose-prevention"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CO",
+    "notes": "CDPHE supplies free naloxone to eligible entities (harm reduction, first responders, schools, community organizations, etc.) via the Bulk Purchase Fund. Individuals can access through local programs, pharmacies (standing order), or mail partners. Owning organization: Colorado Department of Public Health and Environment."
+  },
+  {
+    "id": "connecticut-naloxone",
+    "name": "Connecticut Naloxone Initiative",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://portal.ct.gov/dmhas/programs-and-services/opioid-treatment/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CT",
+    "notes": "DMHAS distributes free naloxone through Regional Behavioral Health Action Organizations, syringe service programs, and community partners. Pharmacies can also dispense. Mail options via NEXT Distro. Owning organization: Connecticut Department of Mental Health and Addiction Services."
+  },
+  {
+    "id": "delaware-naloxone",
+    "name": "Delaware Help Is Here Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/narcan/",
+      "https://www.helpisherede.com/addiction/free-by-mail"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "DE",
+    "notes": "Free naloxone kits and training via DSAMH. Available at Bridge Clinics, syringe services, 24/7 vending machines, and by mail. Owning organization: Delaware Department of Health and Social Services."
+  },
+  {
+    "id": "florida-naloxone",
+    "name": "Florida Overdose Prevention Program (iSaveFL)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://myflfamilies.com/services/samh/opp",
+      "https://isavefl.com/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "FL",
+    "notes": "DCF Overdose Prevention Program provides free naloxone through 600+ enrolled distributors including all county health departments. Over 1.8 million kits distributed. Mail options via harm reduction partners. Owning organization: Florida Department of Children and Families."
+  },
+  {
+    "id": "georgia-naloxone",
+    "name": "Georgia Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://dph.georgia.gov/stopopioidaddiction/what-you-need-know-about-opioids/naloxone",
+      "https://georgiaoverdoseprevention.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "GA",
+    "notes": "Statewide standing order for pharmacies. Free naloxone via Georgia Overdose Prevention (mail and boxes), Georgia Harm Reduction Coalition, county health departments, and community service boards. Wesley\u2019s Law expands school access. Owning organization: Georgia Department of Public Health and partners."
+  },
+  {
+    "id": "hawaii-naloxone",
+    "name": "Hawaii Opioid Settlement Program Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://osp.hawaii.gov/naloxone/",
+      "https://www.hhhrc.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "HI",
+    "notes": "Statewide naloxone distribution boxes and vending machines through the Hawaii Opioid Settlement Program (Department of Health). Free naloxone for individuals via Hawai\u02bbi Health & Harm Reduction Center (HHHRC) and partners; mail available for Kaua\u02bbi, Lana\u02bbi, and Moloka\u02bbi. Organizations can request free naloxone. Statewide standing order and Good Samaritan protections. Owning organization: Hawai\u02bbi State Department of Health and HHHRC."
+  },
+  {
+    "id": "idaho-naloxone",
+    "name": "Idaho DHW Naloxone Distribution Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://healthandwelfare.idaho.gov/services-programs/behavioral-health/naloxone-information",
+      "https://healthandwelfare.idaho.gov/services-programs/behavioral-health/overdose-response"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ID",
+    "notes": "Organizations can request free naloxone through the Idaho Department of Health and Welfare program (distributed via Kootenai County Fire & Rescue). Individuals access via pharmacies (no prescription needed since 2019; free with Medicaid), public health district boxes (e.g., Barney Boxes in Central District), and community partners. Standing order and Good Samaritan protections apply. Owning organization: Idaho Department of Health and Welfare."
+  },
+  {
+    "id": "illinois-naloxone",
+    "name": "Illinois Drug Overdose Prevention Program (DOPP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhs.state.il.us/page.aspx?item=58142",
+      "https://dph.illinois.gov/topics-services/opioids/overdose-reversal.html",
+      "https://www.ilsavesod.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IL",
+    "notes": "Statewide standing order for pharmacies, OEND programs, libraries, and schools. Free naloxone via IDHS/SUPR Access Narcan for registered DOPP organizations that distribute to communities. Regional OEND providers cover all counties. Good Samaritan protections. Owning organization: Illinois Department of Human Services (Division of Substance Use Prevention and Recovery) and Illinois Department of Public Health."
+  },
+  {
+    "id": "indiana-naloxone",
+    "name": "Indiana Naloxone Distribution Program & OptIN",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.in.gov/health/overdose-prevention/naloxone/naloxone-distribution-program",
+      "https://optin.in.gov/",
+      "https://www.in.gov/health/overdose-prevention/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IN",
+    "notes": "Statewide standing order (Aaron\u2019s Law). Free naloxone distributed through local health departments and registered naloxone entities listed on optIN.in.gov. NaloxBoxes and community sites available. Organizations register annually via OptIN. Owning organization: Indiana Department of Health."
+  },
+  {
+    "id": "iowa-naloxone",
+    "name": "Naloxone Iowa / Iowa HHS Naloxone Initiatives",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.naloxoneiowa.org/",
+      "https://hhs.iowa.gov/health-prevention/addiction-substance-use-disorders/medications-addiction-treatment/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IA",
+    "notes": "Free naloxone for organizations via Iowa HHS administration and distribution initiatives. Pharmacy program transitioning to Narcan Direct (no-cost at participating pharmacies). Individuals can find local free distribution sites via naloxoneiowa.org. Owning organization: Iowa Department of Health and Human Services."
+  },
+  {
+    "id": "kansas-naloxone",
+    "name": "Kansas Naloxone Program (DCCCA)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dccca.org/program/kansas-naloxone-program/",
+      "https://www.kdads.ks.gov/services-programs/behavioral-health/kansas-naloxone-program"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KS",
+    "notes": "Free naloxone (Narcan nasal spray) available to any Kansas resident or organization upon request via DCCCA (funded by KDADS SOR). Training available. Vending machines in multiple cities. Statewide pharmacist protocol. Extended usability past expiration under 2026 law. Owning organization: DCCCA / Kansas Department for Aging and Disability Services."
+  },
+  {
+    "id": "kentucky-naloxone",
+    "name": "Find Naloxone Now Kentucky",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://findnaloxone.ky.gov/",
+      "https://chfs.ky.gov/agencies/dph/Pages/harmreduction.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "KY",
+    "notes": "Statewide locator with 450+ no-cost locations and mail-order option for any Kentucky address. Local health department harm reduction programs, KORE OEND, and community sites. Pharmacy co-pay program available. Good Samaritan protections. Owning organization: Kentucky Department for Public Health."
+  },
+  {
+    "id": "louisiana-naloxone",
+    "name": "Louisiana Statewide Overdose Prevention and Response Hub",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://louisianahealthhub.org/oprh/",
+      "https://ldh.la.gov/page/2755"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "LA",
+    "notes": "Free naloxone available at parish health units, human services authorities, and approved distribution sites on the LDH network. Standing order for pharmacies. Mail options via community partners. Good Samaritan protections. Owning organization: Louisiana Department of Health (Office of Behavioral Health and Office of Public Health)."
+  },
+  {
+    "id": "maine-naloxone",
+    "name": "Maine Naloxone Distribution Initiative / Get Maine Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://getmainenaloxone.org/",
+      "https://www.maine.gov/future/opioids"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ME",
+    "notes": "Free naloxone via syringe services programs, OPTIONS liaisons, Maine Access Points (mail available), and community partners. Statewide initiative distributing state-purchased naloxone. Standing order and Good Samaritan protections. Owning organization: Maine Office of Behavioral Health / Maine Naloxone Distribution Initiative."
+  },
+  {
+    "id": "maryland-naloxone",
+    "name": "Maryland Overdose Response Program (ORP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.maryland.gov/pha/NALOXONE/Pages/home.aspx",
+      "https://stopoverdose.maryland.gov/naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MD",
+    "notes": "Free naloxone via authorized Overdose Response Programs (local health departments and community organizations). Statewide standing order for pharmacies. Mail delivery available in some counties. Good Samaritan protections. Owning organization: Maryland Department of Health, Center for Harm Reduction Services."
+  },
+  {
+    "id": "massachusetts-naloxone",
+    "name": "Massachusetts Naloxone Program Locator & Community Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.mass.gov/info-details/naloxone-program-locator",
+      "https://www.mass.gov/info-details/community-naloxone-program-cnp"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MA",
+    "notes": "Statewide standing order for pharmacies. Free naloxone via Community Naloxone Program (CNP) affiliates and OEND programs. Locator map of programs. Good Samaritan protections. Owning organization: Massachusetts Department of Public Health, Bureau of Substance Addiction Services."
+  },
+  {
+    "id": "michigan-naloxone",
+    "name": "Michigan MDHHS Naloxone Access & Portal",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.michigan.gov/opioids/find-help/naloxone-page",
+      "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/03/05/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MI",
+    "notes": "Free naloxone kits at local MDHHS offices, via community organization portal, harm reduction agencies, and vending machines. Statewide standing order. Mail available through partners. Good Samaritan protections. Owning organization: Michigan Department of Health and Human Services."
+  },
+  {
+    "id": "minnesota-naloxone",
+    "name": "Minnesota Naloxone Finder & Ordering Portal",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.health.state.mn.us/communities/overdose/harmreduce/naloxone.html",
+      "https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/alcohol-drug-other-addictions/naloxone-standing-order"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MN",
+    "notes": "Naloxone Finder map for free providers (SSPs, harm reduction, county sites). Statewide standing order and DHS Naloxone Ordering Portal for eligible organizations including mandated groups. Good Samaritan protections (Steve\u2019s Law). Owning organization: Minnesota Department of Health and Department of Human Services."
+  },
+  {
+    "id": "mississippi-naloxone",
+    "name": "Mississippi MSDH Free Naloxone Kit Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://msdh.ms.gov/opioids",
+      "https://msdh.ms.gov/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MS",
+    "notes": "Free naloxone kits mailed to any Mississippi resident after short online training, or pickup at county health departments. Organizations can request bulk. Statewide standing order for pharmacies. Good Samaritan protections. Owning organization: Mississippi State Department of Health."
+  },
+  {
+    "id": "missouri-naloxone",
+    "name": "Get MO Naloxone / Missouri Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.mo.gov/living/families/more",
+      "https://getmonaloxone.com/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MO",
+    "notes": "Free naloxone via Get MO Naloxone (mail and pickup locations), MoNetwork, and community partners. Statewide standing order for pharmacies. Vending machines and boxes in multiple areas. Good Samaritan protections. Owning organization: Missouri Department of Health and Senior Services and partners."
+  },
+  {
+    "id": "montana-naloxone",
+    "name": "Montana Opioid Education & Naloxone Distribution Program (OENDP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dphhs.mt.gov/BHDD/naloxone/wheretogetNaloxone",
+      "https://dphhs.mt.gov/amdd/naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MT",
+    "notes": "Regional OENDP hubs and community map for free naloxone distribution. Statewide standing order. Mail available through partners. Good Samaritan protections. Owning organization: Montana Department of Public Health and Human Services."
+  },
+  {
+    "id": "nebraska-naloxone",
+    "name": "Stop Overdose Nebraska (STOPODNE)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://stopodne.com/",
+      "https://dhhs.ne.gov/Pages/State-Opioid-Response.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NE",
+    "notes": "Free Narcan for Nebraska residents at participating pharmacies (no prescription) and by mail order. Vending machines and grab-n-go sites in several areas. Standing order and Good Samaritan protections. Owning organization: Nebraska Department of Health and Human Services and Nebraska Pharmacists Association."
+  },
+  {
+    "id": "nevada-naloxone",
+    "name": "Nevada Overdose Reversal Medication Finder & State Opioid Response",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://nvopioidcoe.org/resources/topic/od-prevention-reversal/",
+      "https://safernights.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NV",
+    "notes": "State Opioid Response resources and finder for free naloxone via harm reduction (Trac-B), public health centers, and community partners. Standing order/protocol access. Mail via partners. Good Samaritan protections. Owning organization: Nevada Department of Health and Human Services / Opioid Center of Excellence."
+  },
+  {
+    "id": "new-hampshire-naloxone",
+    "name": "The Doorway & NH NaloxBox Initiative",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.thedoorway.nh.gov/avoid-overdose",
+      "https://www.dhhs.nh.gov/news-and-media/new-hampshire-expands-access-naloxone-across-state"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NH",
+    "notes": "Free naloxone at Doorway locations and SSPs. Statewide NaloxBoxes for 24/7 access. Standing order for pharmacies. Mail via partners. Good Samaritan protections. Owning organization: New Hampshire Department of Health and Human Services."
+  },
+  {
+    "id": "new-jersey-naloxone",
+    "name": "NJ Naloxone365 & Naloxone Direct Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://nj.gov/humanservices/stopoverdoses/",
+      "https://dmhas.dhs.state.nj.us/NDP"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NJ",
+    "notes": "Naloxone365: free anonymous naloxone at participating pharmacies (ages 14+). Free mail via NJ Harm Reduction Coalition / NEXT. Harm reduction centers. Standing order. Good Samaritan protections. Owning organization: New Jersey Department of Human Services."
+  },
+  {
+    "id": "new-mexico-naloxone",
+    "name": "New Mexico NMDOH Harm Reduction & Naloxone Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.doseofreality.com/naloxone-narcan/",
+      "https://yes.nm.gov/s/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NM",
+    "notes": "Free naloxone at Public Health Offices and community programs. Mail via NMHarmReduction.org. Vending machines expanding. Standing order. Good Samaritan protections. Owning organization: New Mexico Department of Health / Health Care Authority."
+  },
+  {
+    "id": "new-york-naloxone",
+    "name": "New York OASAS Harm Reduction & Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://oasas.ny.gov/harm-reduction",
+      "https://www.nyc.gov/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NY",
+    "notes": "Free naloxone via Opioid Overdose Prevention Programs, pharmacies (N-CAP co-pay assistance), public health vending machines, and mail after training. Statewide standing order. Good Samaritan protections. Owning organization: New York State Office of Addiction Services and Supports (OASAS) and local health departments."
+  },
+  {
+    "id": "north-carolina-naloxone",
+    "name": "NaloxoneSaves NC & Statewide Standing Order",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.ncdhhs.gov/safe-syringe-and-naloxone",
+      "https://naloxonesaves-nc.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NC",
+    "notes": "Statewide standing order for pharmacies. Free/low-cost naloxone at syringe services programs, local health departments, and via NaloxoneSaves map. Mail via partners. Good Samaritan protections. Owning organization: North Carolina Department of Health and Human Services."
+  },
+  {
+    "id": "ohio-naloxone",
+    "name": "Ohio Project DAWN & NaloxoneOhio",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://odh.ohio.gov/know-our-programs/project-dawn",
+      "https://naloxone.ohio.gov/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OH",
+    "notes": "Project DAWN network of 150+ free naloxone distribution sites. NaloxoneOhio finder. Statewide protocol for pharmacies. Mail options. Good Samaritan protections. Owning organization: Ohio Department of Health and Department of Behavioral Health."
+  },
+  {
+    "id": "oregon-naloxone",
+    "name": "Just in Case Oregon & Save Lives Oregon",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://justincaseoregon.org/",
+      "https://www.oregon.gov/oha/ph/preventionwellness/substanceuse/opioids/pages/partner-resources.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OR",
+    "notes": "Just in Case Oregon mails free naloxone to any Oregon resident (no prescription/ID). Save Lives Oregon supplies organizations. Pharmacists can dispense without prescription. Good Samaritan protections. Owning organization: Oregon Health Authority."
+  },
+  {
+    "id": "pennsylvania-naloxone",
+    "name": "Pennsylvania Overdose Prevention Program & Mail-to-Home",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.pa.gov/agencies/ddap/overdose/overdose-prevention-program",
+      "https://www.pa.gov/agencies/health/programs/opioids/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PA",
+    "notes": "Overdose Prevention Program provides free naloxone and test strips via partners. Statewide mail-to-home for individuals. Standing order for pharmacies. Good Samaritan protections. Owning organization: Pennsylvania Department of Drug and Alcohol Programs and Department of Health."
+  },
+  {
+    "id": "texas-naloxone",
+    "name": "Naloxone Texas & DSHS Locator Map",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://naloxonetexas.com/",
+      "https://www.dshs.texas.gov/news-alerts/naloxone-locator-map-launched-part-one-pill-kills-campaign"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Naloxone Texas offers free mail and regional hubs. DSHS interactive locator map for free OTC naloxone sites (clinics, vending, etc.). Good Samaritan protections. Owning organization: UT Health San Antonio / Naloxone Texas and Texas Department of State Health Services."
+  },
+  {
+    "id": "north-dakota-naloxone",
+    "name": "North Dakota HHS Free Narcan Kit Request",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.hhs.nd.gov/opioids",
+      "https://www.hhs.nd.gov/news/hhs-recognizes-international-overdose-awareness-day-shared-commitment-healing-hope-and"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ND",
+    "notes": "Free two-dose naloxone kits by request online or phone. Available at local public health units and SSPs. Standing order for Medicaid pharmacies. Mail via partners. Good Samaritan protections. Owning organization: North Dakota Health and Human Services."
+  },
+  {
+    "id": "oklahoma-naloxone",
+    "name": "OK I'M Ready Free Naloxone by Mail",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://oklahoma.gov/odmhsas/about/public-information/press-releases-and-other-news/2023/odmhsas-partners-with-the-oklahoma-turnpike-authority-to-keep-travelers-safe.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OK",
+    "notes": "OK I'M Ready (ODMHSAS) mails free naloxone kits statewide. Community partners and some vending/boxes. Standing order for pharmacies. Good Samaritan protections. Owning organization: Oklahoma Department of Mental Health and Substance Abuse Services."
+  },
+  {
+    "id": "rhode-island-naloxone",
+    "name": "Prevent Overdose RI Free Naloxone & Mail",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://preventoverdoseri.org/get-naloxone/",
+      "https://preventoverdoseri.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "RI",
+    "notes": "Free naloxone at recovery centers, harm reduction programs, fire stations, and vending machines. Free mail after short training. Standing order access. Good Samaritan protections. Owning organization: Rhode Island Department of Health / PONI / URI Community First Responder Program."
+  },
+  {
+    "id": "south-carolina-naloxone",
+    "name": "SC DPH Free Opioid Overdose Safety Kits",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dph.sc.gov/diseases-conditions/substance-use-prevention-resources/naloxone-distribution-and-opioid-overdose",
+      "https://dph.sc.gov/news/dph-aims-prevent-opioid-overdose-deaths-free-overdose-safety-kits-local-health-clinics"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SC",
+    "notes": "Free overdose safety kits (naloxone + test strips) at all DPH public health clinics. Community distributors and schools. Standing order. Good Samaritan protections. Owning organization: South Carolina Department of Public Health."
+  },
+  {
+    "id": "south-dakota-naloxone",
+    "name": "South Dakota Naloxone Project & Distribution Boxes",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://doh.sd.gov/healthcare-professionals/ems-trauma/sd-naloxone-project/",
+      "https://emilyshope.charity/find-narcan/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "SD",
+    "notes": "Statewide standing order for pharmacies. Free public naloxone distribution boxes (Emily\u2019s Hope partnership) and pods. Business/workplace access. Good Samaritan protections. Owning organization: South Dakota Department of Health and Department of Social Services."
+  },
+  {
+    "id": "tennessee-naloxone",
+    "name": "Tennessee Regional Overdose Prevention Specialists (ROPS)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.tn.gov/behavioral-health/substance-abuse-services/prevention/rops.html",
+      "https://www.tn.gov/behavioral-health/substance-abuse-services/prevention/naloxone-training-information.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TN",
+    "notes": "Free training and naloxone via ROPS in all 95 counties for high-risk individuals. Free at syringe services programs. Collaborative pharmacy practice agreement. Mail via partners. Good Samaritan protections. Owning organization: Tennessee Department of Mental Health and Substance Abuse Services."
+  },
+  {
+    "id": "utah-naloxone",
+    "name": "Utah Statewide Standing Order & Utah Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://opidemic.utah.gov/naloxone/",
+      "https://www.utahnaloxone.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "UT",
+    "notes": "Statewide standing order for pharmacy access without prescription. Free naloxone at libraries, fire stations, and community partners (Utah Naloxone). Good Samaritan protections. Owning organization: Utah Department of Health and Human Services / Utah Naloxone."
+  },
+  {
+    "id": "vermont-naloxone",
+    "name": "Vermont Department of Health Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.healthvermont.gov/emergency/injury-prevention/opioid-overdose-prevention",
+      "https://www.healthvermont.gov/alcohol-drugs/overdose-response/respond-overdose"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VT",
+    "notes": "Free naloxone via community partners, recovery centers, SSPs, and free mail kits. Statewide standing order for pharmacies. Good Samaritan protections. Owning organization: Vermont Department of Health."
+  },
+  {
+    "id": "virginia-naloxone",
+    "name": "Virginia VDH Naloxone & REVIVE! Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.vdh.virginia.gov/naloxone",
+      "https://dbhds.virginia.gov/behavioral-health/substance-abuse-services/revive/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VA",
+    "notes": "No-cost naloxone via local health departments, Community Services Boards, and REVIVE! training. Statewide standing order. Free mail via partners. Good Samaritan protections. Owning organization: Virginia Department of Health and Department of Behavioral Health and Developmental Services."
+  },
+  {
+    "id": "washington-naloxone",
+    "name": "Washington DOH Naloxone Finder & OEND Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://doh.wa.gov/you-and-your-family/drug-user-health/naloxone-finder",
+      "https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WA",
+    "notes": "Naloxone Finder for free community sites. Statewide standing order. Free mail for those without local access. OEND program supplies organizations and tribes. Good Samaritan protections. Owning organization: Washington State Department of Health."
+  },
+  {
+    "id": "west-virginia-naloxone",
+    "name": "West Virginia Statewide Naloxone Access & Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.wvdii.org/naloxone",
+      "https://odcp.wv.gov/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WV",
+    "notes": "Free naloxone via county health department harm reduction programs, University of Charleston distribution partners, and mail after training. Statewide standing order for pharmacies. Good Samaritan protections. Owning organization: West Virginia Department of Human Services / Office of Drug Control Policy and University of Charleston."
+  },
+  {
+    "id": "wisconsin-naloxone",
+    "name": "Wisconsin DHS Free Naloxone Finder & Standing Orders",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhs.wisconsin.gov/aoda/naloxone.htm",
+      "https://www.dhs.wisconsin.gov/opioids/standing-orders.htm"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WI",
+    "notes": "Free naloxone via public health vending machines, county health departments, harm reduction programs, and free mail. Statewide standing orders for pharmacists and nurses. Good Samaritan protections. Owning organization: Wisconsin Department of Health Services."
+  },
+  {
+    "id": "wyoming-naloxone",
+    "name": "Wyoming Community Naloxone Resource Map & NARCAN for Groups",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.wyo.gov/new-online-tool-to-help-people-find-naloxone-launched-by-the-wyoming-department-of-health-2/",
+      "https://health.wyo.gov/behavioralhealth/mhsa/mat/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WY",
+    "notes": "Community Naloxone Resource Map for free local sites. Free NARCAN for groups/organizations. Pharmacists can prescribe. Free mail via partners. Good Samaritan protections. Owning organization: Wyoming Department of Health."
+  },
+  {
+    "id": "dc-naloxone",
+    "name": "LiveLongDC Free Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dbh.dc.gov/page/where-can-i-get-naloxone-dc",
+      "https://livelong.dc.gov/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "DC",
+    "notes": "Free naloxone at community sites in every ward, vending machines, and pharmacies. Text LiveLongDC to 888-811 for free delivery or pickup locations. Standing order. Good Samaritan protections. Owning organization: DC Department of Behavioral Health (LiveLongDC)."
+  },
+  {
+    "id": "alabama-dmh-mail-naloxone",
+    "name": "Alabama Department of Mental Health Free Mail Narcan",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://mh.alabama.gov/faq/standing-order-for-naloxone/",
+      "https://www.alabamapublichealth.gov/pharmacy/opioid-reversal.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AL",
+    "notes": "Free Narcan nasal spray mailed statewide after completing free online naloxone training. No ID or prescription required. Owning organization: Alabama Department of Mental Health.",
+    "organization": "Alabama Department of Mental Health"
+  },
+  {
+    "id": "alabama-jefferson-county-naloxone",
+    "name": "Jefferson County Department of Health Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.jcdh.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AL",
+    "city": "Birmingham",
+    "notes": "Free naloxone kits via online training (mail anywhere in AL or pickup). Community boxes in Jefferson County. Owning organization: Jefferson County Department of Health.",
+    "organization": "Jefferson County Department of Health"
+  },
+  {
+    "id": "alaska-anthc-mail-naloxone",
+    "name": "Alaska Native Tribal Health Consortium / iknowmine.org Mail Kits",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.iknowmine.org/topic/opioid-overdose-response-kit/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AK",
+    "notes": "Free mail-based overdose response kits (including naloxone, fentanyl/xylazine test strips) after short online training for Alaska addresses. Owning organization: Alaska Native Tribal Health Consortium.",
+    "organization": "Alaska Native Tribal Health Consortium"
+  },
+  {
+    "id": "arizona-phoenix-libraries-naloxone",
+    "name": "City of Phoenix Free Naloxone Kits at Public Libraries",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.phoenix.gov/administration/departments/health/substance-use-help/narcan-kits.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AZ",
+    "city": "Phoenix",
+    "notes": "Free naloxone overdose reversal kits available at all 17 Phoenix Public Library locations. No questions asked. Owning organization: City of Phoenix.",
+    "organization": "City of Phoenix"
+  },
+  {
+    "id": "arizona-sonoran-prevention-works",
+    "name": "Sonoran Prevention Works Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://spwaz.org/arizonanaloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AZ",
+    "notes": "Free naloxone pickup at partner sites and mail options across Arizona. Harm reduction organization. Owning organization: Sonoran Prevention Works.",
+    "organization": "Sonoran Prevention Works"
+  },
+  {
+    "id": "arkansas-next-distro-mail",
+    "name": "Arkansas NEXT Distro / Northwest Arkansas Harm Reduction Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/archoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "AR",
+    "notes": "Free intramuscular and nasal naloxone by mail for Arkansas residents after training video and quiz. Plain packaging. Partner: Northwest Arkansas Harm Reduction.",
+    "organization": "NEXT Distro / Northwest Arkansas Harm Reduction"
+  },
+  {
+    "id": "colorado-next-distro-mail",
+    "name": "Colorado NEXT Distro / Harm Reduction Action Center Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/cogate"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CO",
+    "notes": "Free intramuscular naloxone by mail for Colorado residents after training video and quiz. Plain packaging. Partner: Harm Reduction Action Center.",
+    "organization": "NEXT Distro / Harm Reduction Action Center"
+  },
+  {
+    "id": "connecticut-dmhas-naloxone",
+    "name": "Connecticut DMHAS Naloxone Initiative & Free Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://portal.ct.gov/dmhas/programs-and-services/opioid-treatment/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "CT",
+    "notes": "Free naloxone via Regional Behavioral Health Action Organizations, syringe service programs, and community partners. Statewide distribution effort. Owning organization: Connecticut Department of Mental Health and Addiction Services.",
+    "organization": "Connecticut DMHAS"
+  },
+  {
+    "id": "delaware-help-is-here-mail",
+    "name": "Help Is Here Delaware Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.helpisherede.com/addiction/free-by-mail"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "DE",
+    "notes": "Free anonymous naloxone and fentanyl test strips mailed to Delaware residents. Partnership with NEXT Distro. Owning organization: Help Is Here Delaware / DHSS.",
+    "organization": "Help Is Here Delaware"
+  },
+  {
+    "id": "florida-dcf-overdose-prevention",
+    "name": "Florida DCF Overdose Prevention Program / iSaveFL",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.myflfamilies.com/services/samh/opp",
+      "https://isavefl.com/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "FL",
+    "notes": "Free naloxone kits distributed via 600+ enrolled community organizations and all county health departments. Large-scale free distribution. Owning organization: Florida Department of Children and Families.",
+    "organization": "Florida DCF"
+  },
+  {
+    "id": "florida-harm-reduction-collective-mail",
+    "name": "Florida Harm Reduction Collective Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/flchoice",
+      "https://www.flhrc.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "FL",
+    "notes": "Free naloxone by mail for Florida residents. Partnership with NEXT Distro. Owning organization: Florida Harm Reduction Collective.",
+    "organization": "Florida Harm Reduction Collective"
+  },
+  {
+    "id": "georgia-overdose-prevention-mail",
+    "name": "Georgia Overdose Prevention Free Mail Naloxone Kits",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://georgiaoverdoseprevention.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "GA",
+    "notes": "Free naloxone rescue kits mailed to high-risk individuals and loved ones in Georgia. Also maintains map of 24-hour distribution boxes. Owning organization: Georgia Overdose Prevention.",
+    "organization": "Georgia Overdose Prevention"
+  },
+  {
+    "id": "hawaii-hhhrc-naloxone",
+    "name": "Hawai\u02bbi Health & Harm Reduction Center Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.hhhrc.org/naloxone",
+      "https://osp.hawaii.gov/naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "HI",
+    "notes": "Free naloxone kits available from HHHRC and partners; limited free mail for outer islands (Kaua\u02bbi, Lana\u02bbi, Moloka\u02bbi). Statewide boxes and vending via Opioid Settlement Program. Owning organization: Hawai\u02bbi Health & Harm Reduction Center.",
+    "organization": "Hawai\u02bbi Health & Harm Reduction Center"
+  }
+]
