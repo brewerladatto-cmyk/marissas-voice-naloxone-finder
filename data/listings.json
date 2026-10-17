@@ -2296,5 +2296,34 @@
     "state": "VT",
     "notes": "Free nasal naloxone by mail for Vermont residents after short online training. Plain packaging. (Primary statewide mail option is VDH Overdose Prevention Kit.) Owning organization: University of Vermont / NEXT Distro.",
     "organization": "University of Vermont / NEXT Distro"
+  },
+  {
+    "id": "virginia-vdh-no-cost-naloxone",
+    "name": "Virginia VDH No-Cost Naloxone Distribution & REVIVE! Training",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.vdh.virginia.gov/naloxone/",
+      "https://www.vdh.virginia.gov/naloxone/naloxone-distribution-to-community-partners/",
+      "https://dbhds.virginia.gov/behavioral-health/substance-abuse-services/revive/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VA",
+    "notes": "No-cost naloxone available through local health departments, Community Services Boards, authorized harm reduction sites, and high-impact community partners (prioritized for people who use drugs, family/friends, and those who work with them). Statewide standing order allows pharmacies and authorized organizations to dispense without a personal prescription. DBHDS REVIVE! provides free overdose response and naloxone education trainings. Owning organization: Virginia Department of Health / DBHDS.",
+    "organization": "Virginia Department of Health / Department of Behavioral Health and Developmental Services"
+  },
+  {
+    "id": "virginia-next-distro-chris-atwood",
+    "name": "Virginia NEXT Distro / Chris Atwood Foundation Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/virginia",
+      "https://nextdistro.org/caf"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "VA",
+    "notes": "Free naloxone by mail for people in Virginia who cannot access it any other way after an 8-minute training video and quiz. Partnership with The Chris Atwood Foundation. Plain packaging. Owning organization: NEXT Distro / The Chris Atwood Foundation.",
+    "organization": "NEXT Distro / The Chris Atwood Foundation"
   }
 ]
