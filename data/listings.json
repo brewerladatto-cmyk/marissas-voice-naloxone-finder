@@ -1896,5 +1896,48 @@
     "state": "NM",
     "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Plain packaging. Owning organization: NEXT Distro.",
     "organization": "NEXT Distro"
+  },
+  {
+    "id": "new-york-oasas-harm-reduction-delivered",
+    "name": "OASAS Harm Reduction Delivered Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://oasas.ny.gov/harm-reduction-delivered",
+      "https://oasas.ny.gov/harm-reduction-supply-distribution"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NY",
+    "notes": "Free naloxone (two doses of intranasal per order) and test strips mailed discreetly to any valid New York State address (arrives in about two weeks). Available to individuals statewide. Also available sooner at local Opioid Overdose Prevention Programs or pharmacies. Owning organization: New York State Office of Addiction Services and Supports (OASAS).",
+    "organization": "New York State OASAS"
+  },
+  {
+    "id": "new-york-nysdoh-oopps",
+    "name": "NYSDOH Opioid Overdose Prevention Programs (OOPP) Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.health.ny.gov/diseases/aids/general/opioid_overdose_prevention/pharmacy_standing_order.htm",
+      "https://www.nyc.gov/site/doh/health/health-topics/naloxone.page"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NY",
+    "notes": "Free naloxone available at registered Opioid Overdose Prevention Programs (OOPPs) and syringe services programs statewide, including community-based organizations. Standing order allows pharmacy access (N-CAP co-pay assistance available). NYC has free pharmacy kits, public health vending machines, and virtual training with mail kits. Owning organization: New York State Department of Health.",
+    "organization": "New York State Department of Health"
+  },
+  {
+    "id": "new-york-next-distro-mail",
+    "name": "New York NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/newyork",
+      "https://nextdistro.org/nyc",
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NY",
+    "notes": "Free naloxone by mail for people who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Available outside New York City; NYC via partnership with NYC Health Department (may take 3\u20134 weeks). Plain packaging. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
