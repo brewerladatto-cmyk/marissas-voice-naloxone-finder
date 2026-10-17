@@ -1277,5 +1277,45 @@
     "city": "Chicago",
     "notes": "Free naloxone available at all Chicago Public Library branches. Additional free access via CDPH naloxone newsstands and vending machines across the city. Owning organization: Chicago Public Library / Chicago Department of Public Health.",
     "organization": "Chicago Public Library / CDPH"
+  },
+  {
+    "id": "indiana-idoh-naloxone-distribution",
+    "name": "Indiana Department of Health Naloxone Distribution Program & OptIN",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.in.gov/health/overdose-prevention/naloxone/naloxone-distribution-program",
+      "https://optin.in.gov/faq.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IN",
+    "notes": "IDOH provides free naloxone to local health departments for community distribution (must be free to recipients). Statewide standing order via OptIN allows registered naloxone entities (pharmacies, nonprofits, LHDs, etc.) to dispense without a personal prescription. Use optin.in.gov to find locations by zip code. Owning organization: Indiana Department of Health.",
+    "organization": "Indiana Department of Health"
+  },
+  {
+    "id": "indiana-overdose-lifeline-map",
+    "name": "Overdose Lifeline Indiana Naloxone Map (NaloxBoxes, Vending, Centers)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.overdoselifeline.org/indiana-naloxone-and-distribution-centers/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IN",
+    "notes": "Interactive map of free NaloxBoxes (24/7 outdoor), repurposed vending machines (up to 300 kits, 24/7), and community distribution centers across Indiana. Also offers free naloxone by mail for Indiana residents. Owning organization: Overdose Lifeline.",
+    "organization": "Overdose Lifeline"
+  },
+  {
+    "id": "indiana-next-distro-mail",
+    "name": "Indiana NEXT Distro / Ship Happens Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/indiana"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IN",
+    "notes": "Free nasal naloxone by mail for Indiana residents, made possible by partners Ship Happens and Indiana Recovery Alliance. Short training may apply. Plain packaging. Owning organization: NEXT Distro / Indiana Recovery Alliance.",
+    "organization": "NEXT Distro / Indiana Recovery Alliance"
   }
 ]
