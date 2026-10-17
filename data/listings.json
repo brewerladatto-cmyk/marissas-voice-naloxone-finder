@@ -955,5 +955,57 @@
     "last_checked": "2026-10-17",
     "state": "WA",
     "notes": "Naloxone Finder for free community sites. Statewide standing order. Free mail for those without local access. OEND program supplies organizations and tribes. Good Samaritan protections. Owning organization: Washington State Department of Health."
+  },
+  {
+    "id": "west-virginia-naloxone",
+    "name": "West Virginia Statewide Naloxone Access & Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.wvdii.org/naloxone",
+      "https://odcp.wv.gov/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WV",
+    "notes": "Free naloxone via county health department harm reduction programs, University of Charleston distribution partners, and mail after training. Statewide standing order for pharmacies. Good Samaritan protections. Owning organization: West Virginia Department of Human Services / Office of Drug Control Policy and University of Charleston."
+  },
+  {
+    "id": "wisconsin-naloxone",
+    "name": "Wisconsin DHS Free Naloxone Finder & Standing Orders",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhs.wisconsin.gov/aoda/naloxone.htm",
+      "https://www.dhs.wisconsin.gov/opioids/standing-orders.htm"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WI",
+    "notes": "Free naloxone via public health vending machines, county health departments, harm reduction programs, and free mail. Statewide standing orders for pharmacists and nurses. Good Samaritan protections. Owning organization: Wisconsin Department of Health Services."
+  },
+  {
+    "id": "wyoming-naloxone",
+    "name": "Wyoming Community Naloxone Resource Map & NARCAN for Groups",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.wyo.gov/new-online-tool-to-help-people-find-naloxone-launched-by-the-wyoming-department-of-health-2/",
+      "https://health.wyo.gov/behavioralhealth/mhsa/mat/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WY",
+    "notes": "Community Naloxone Resource Map for free local sites. Free NARCAN for groups/organizations. Pharmacists can prescribe. Free mail via partners. Good Samaritan protections. Owning organization: Wyoming Department of Health."
+  },
+  {
+    "id": "dc-naloxone",
+    "name": "LiveLongDC Free Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dbh.dc.gov/page/where-can-i-get-naloxone-dc",
+      "https://livelong.dc.gov/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "DC",
+    "notes": "Free naloxone at community sites in every ward, vending machines, and pharmacies. Text LiveLongDC to 888-811 for free delivery or pickup locations. Standing order. Good Samaritan protections. Owning organization: DC Department of Behavioral Health (LiveLongDC)."
   }
 ]
