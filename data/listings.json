@@ -1712,5 +1712,33 @@
     "state": "MO",
     "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Missouri residents who cannot access it locally, after short training video and quiz. Partnership with MoNetwork. Plain packaging. Owning organization: NEXT Distro / MoNetwork.",
     "organization": "NEXT Distro / MoNetwork"
+  },
+  {
+    "id": "montana-dphhs-oendp",
+    "name": "Montana DPHHS Opioid Education & Naloxone Distribution Program (OENDP)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dphhs.mt.gov/BHDD/naloxone/wheretogetNaloxone",
+      "https://dphhs.mt.gov/assets/publichealth/EMSTS/opioids/Naloxone2026StandingOrder.pdf"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MT",
+    "notes": "Statewide interactive map of community naloxone and fentanyl test strip distributors through regional Opioid Education & Naloxone Distribution Program (OENDP) hubs (county health departments, tribal health programs, harm reduction groups). Free Narcan nasal spray available at mapped sites. Statewide standing order allows pharmacy and organization access. Some regions offer limited mail. Owning organization: Montana Department of Public Health and Human Services.",
+    "organization": "Montana Department of Public Health and Human Services"
+  },
+  {
+    "id": "montana-next-distro-mail",
+    "name": "Montana NEXT Distro / Open Aid Alliance Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/montana",
+      "https://nextdistro.org/mtchoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MT",
+    "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Montana residents after short training video and quiz. Partnership with Open Aid Alliance. Plain packaging. Owning organization: NEXT Distro / Open Aid Alliance.",
+    "organization": "NEXT Distro / Open Aid Alliance"
   }
 ]
