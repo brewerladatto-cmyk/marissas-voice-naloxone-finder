@@ -1222,5 +1222,60 @@
     "state": "ID",
     "notes": "Free intramuscular naloxone by mail for Idaho residents after training video and quiz. Plain packaging. Prioritizes people without easy local access. Owning organization: NEXT Distro.",
     "organization": "NEXT Distro"
+  },
+  {
+    "id": "illinois-idhs-dopp-oend",
+    "name": "Illinois IDHS Drug Overdose Prevention Program (DOPP) & OEND Network",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhs.state.il.us/page.aspx?item=58142",
+      "https://www.dhs.state.il.us/page.aspx?item=137653"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IL",
+    "notes": "Statewide network of funded Overdose Education and Naloxone Distribution (OEND) programs covering every county. Organizations can enroll in DOPP to order free naloxone for community distribution. Individuals can contact regional OEND providers or the Illinois Helpline (1-833-234-6343) for free kits. Owning organization: Illinois Department of Human Services.",
+    "organization": "Illinois Department of Human Services"
+  },
+  {
+    "id": "illinois-live4lali-mail",
+    "name": "Live4Lali Free Mail Naloxone (Illinois)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://cookcountypublichealth.org/where-to-get-free-naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IL",
+    "notes": "Free, discreet shipping of naloxone and fentanyl test strips statewide in Illinois. Call/text 224-297-4393 or use online request form. Priority to Illinois residents. Owning organization: Live4Lali.",
+    "organization": "Live4Lali"
+  },
+  {
+    "id": "illinois-next-distro-mail",
+    "name": "Illinois NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IL",
+    "notes": "Free naloxone by mail for people who use drugs or those closely connected to them in Illinois. Short training required. Plain packaging. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
+  },
+  {
+    "id": "illinois-chicago-public-libraries-naloxone",
+    "name": "Chicago Public Libraries Free Naloxone",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.dhs.state.il.us/page.aspx?item=137653",
+      "https://www.cityofchicago.org/content/city/en/depts/cdph/provdrs/health_protection_and_response/news/2026/may/cdph-naloxone-26th-33rd-wards.html"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "IL",
+    "city": "Chicago",
+    "notes": "Free naloxone available at all Chicago Public Library branches. Additional free access via CDPH naloxone newsstands and vending machines across the city. Owning organization: Chicago Public Library / Chicago Department of Public Health.",
+    "organization": "Chicago Public Library / CDPH"
   }
 ]
