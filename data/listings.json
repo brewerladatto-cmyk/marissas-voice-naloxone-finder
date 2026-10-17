@@ -1500,5 +1500,47 @@
     "state": "ME",
     "notes": "Free intramuscular naloxone by mail for Maine residents after short training video and quiz. Partnership with Maine Access Points. Plain packaging. Owning organization: NEXT Distro / Maine Access Points.",
     "organization": "NEXT Distro / Maine Access Points"
+  },
+  {
+    "id": "maryland-mdh-overdose-response-programs",
+    "name": "Maryland Department of Health Overdose Response Programs (ORPs)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://health.maryland.gov/pha/NALOXONE/Pages/home.aspx",
+      "https://health.maryland.gov/pha/NALOXONE/Pages/Approved-Entities.aspx",
+      "https://stopoverdose.maryland.gov/naloxone/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MD",
+    "notes": "Statewide network of authorized Overdose Response Programs (local health departments, CBOs, etc.) that provide free naloxone, fentanyl test strips, and xylazine test strips plus education. Interactive map available. Some ORPs offer mail delivery. Statewide standing order allows pharmacy access without a personal prescription. Owning organization: Maryland Department of Health Center for Harm Reduction Services.",
+    "organization": "Maryland Department of Health"
+  },
+  {
+    "id": "maryland-bhsb-mail",
+    "name": "Behavioral Health System Baltimore Free Overdose Prevention Supplies by Mail",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://www.bhsbaltimore.org/mail-order/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MD",
+    "notes": "Free naloxone (nasal spray) and drug checking test strips mailed to anyone with a Maryland mailing address. No insurance, ID, or payment required. Confidential and discreet shipping (typically 7\u201310 business days). Short training video and quiz required. Owning organization: Behavioral Health System Baltimore.",
+    "organization": "Behavioral Health System Baltimore"
+  },
+  {
+    "id": "maryland-next-distro-mail",
+    "name": "Maryland NEXT Distro / Baltimore Harm Reduction Coalition Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/maryland",
+      "https://nextdistro.org/maryland-language"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "MD",
+    "notes": "Free naloxone nasal spray by mail for Maryland residents after short training video and quiz. Partnership with Baltimore Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / Baltimore Harm Reduction Coalition.",
+    "organization": "NEXT Distro / Baltimore Harm Reduction Coalition"
   }
 ]
