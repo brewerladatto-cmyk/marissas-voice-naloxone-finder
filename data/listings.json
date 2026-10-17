@@ -696,5 +696,135 @@
     "last_checked": "2026-10-17",
     "state": "NE",
     "notes": "Free Narcan for Nebraska residents at participating pharmacies (no prescription) and by mail order. Vending machines and grab-n-go sites in several areas. Standing order and Good Samaritan protections. Owning organization: Nebraska Department of Health and Human Services and Nebraska Pharmacists Association."
+  },
+  {
+    "id": "nevada-naloxone",
+    "name": "Nevada Overdose Reversal Medication Finder & State Opioid Response",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://nvopioidcoe.org/resources/topic/od-prevention-reversal/",
+      "https://safernights.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NV",
+    "notes": "State Opioid Response resources and finder for free naloxone via harm reduction (Trac-B), public health centers, and community partners. Standing order/protocol access. Mail via partners. Good Samaritan protections. Owning organization: Nevada Department of Health and Human Services / Opioid Center of Excellence."
+  },
+  {
+    "id": "new-hampshire-naloxone",
+    "name": "The Doorway & NH NaloxBox Initiative",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.thedoorway.nh.gov/avoid-overdose",
+      "https://www.dhhs.nh.gov/news-and-media/new-hampshire-expands-access-naloxone-across-state"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NH",
+    "notes": "Free naloxone at Doorway locations and SSPs. Statewide NaloxBoxes for 24/7 access. Standing order for pharmacies. Mail via partners. Good Samaritan protections. Owning organization: New Hampshire Department of Health and Human Services."
+  },
+  {
+    "id": "new-jersey-naloxone",
+    "name": "NJ Naloxone365 & Naloxone Direct Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://nj.gov/humanservices/stopoverdoses/",
+      "https://dmhas.dhs.state.nj.us/NDP"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NJ",
+    "notes": "Naloxone365: free anonymous naloxone at participating pharmacies (ages 14+). Free mail via NJ Harm Reduction Coalition / NEXT. Harm reduction centers. Standing order. Good Samaritan protections. Owning organization: New Jersey Department of Human Services."
+  },
+  {
+    "id": "new-mexico-naloxone",
+    "name": "New Mexico NMDOH Harm Reduction & Naloxone Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.doseofreality.com/naloxone-narcan/",
+      "https://yes.nm.gov/s/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NM",
+    "notes": "Free naloxone at Public Health Offices and community programs. Mail via NMHarmReduction.org. Vending machines expanding. Standing order. Good Samaritan protections. Owning organization: New Mexico Department of Health / Health Care Authority."
+  },
+  {
+    "id": "new-york-naloxone",
+    "name": "New York OASAS Harm Reduction & Naloxone Access",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://oasas.ny.gov/harm-reduction",
+      "https://www.nyc.gov/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NY",
+    "notes": "Free naloxone via Opioid Overdose Prevention Programs, pharmacies (N-CAP co-pay assistance), public health vending machines, and mail after training. Statewide standing order. Good Samaritan protections. Owning organization: New York State Office of Addiction Services and Supports (OASAS) and local health departments."
+  },
+  {
+    "id": "north-carolina-naloxone",
+    "name": "NaloxoneSaves NC & Statewide Standing Order",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.ncdhhs.gov/safe-syringe-and-naloxone",
+      "https://naloxonesaves-nc.org/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "NC",
+    "notes": "Statewide standing order for pharmacies. Free/low-cost naloxone at syringe services programs, local health departments, and via NaloxoneSaves map. Mail via partners. Good Samaritan protections. Owning organization: North Carolina Department of Health and Human Services."
+  },
+  {
+    "id": "ohio-naloxone",
+    "name": "Ohio Project DAWN & NaloxoneOhio",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://odh.ohio.gov/know-our-programs/project-dawn",
+      "https://naloxone.ohio.gov/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OH",
+    "notes": "Project DAWN network of 150+ free naloxone distribution sites. NaloxoneOhio finder. Statewide protocol for pharmacies. Mail options. Good Samaritan protections. Owning organization: Ohio Department of Health and Department of Behavioral Health."
+  },
+  {
+    "id": "oregon-naloxone",
+    "name": "Just in Case Oregon & Save Lives Oregon",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://justincaseoregon.org/",
+      "https://www.oregon.gov/oha/ph/preventionwellness/substanceuse/opioids/pages/partner-resources.aspx"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "OR",
+    "notes": "Just in Case Oregon mails free naloxone to any Oregon resident (no prescription/ID). Save Lives Oregon supplies organizations. Pharmacists can dispense without prescription. Good Samaritan protections. Owning organization: Oregon Health Authority."
+  },
+  {
+    "id": "pennsylvania-naloxone",
+    "name": "Pennsylvania Overdose Prevention Program & Mail-to-Home",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.pa.gov/agencies/ddap/overdose/overdose-prevention-program",
+      "https://www.pa.gov/agencies/health/programs/opioids/naloxone"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "PA",
+    "notes": "Overdose Prevention Program provides free naloxone and test strips via partners. Statewide mail-to-home for individuals. Standing order for pharmacies. Good Samaritan protections. Owning organization: Pennsylvania Department of Drug and Alcohol Programs and Department of Health."
+  },
+  {
+    "id": "texas-naloxone",
+    "name": "Naloxone Texas & DSHS Locator Map",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://naloxonetexas.com/",
+      "https://www.dshs.texas.gov/news-alerts/naloxone-locator-map-launched-part-one-pill-kills-campaign"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "TX",
+    "notes": "Naloxone Texas offers free mail and regional hubs. DSHS interactive locator map for free OTC naloxone sites (clinics, vending, etc.). Good Samaritan protections. Owning organization: UT Health San Antonio / Naloxone Texas and Texas Department of State Health Services."
   }
 ]
