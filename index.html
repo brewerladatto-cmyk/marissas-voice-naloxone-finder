@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Marissa’s Voice Naloxone Finder</title>
+<meta name="description" content="Find free naloxone, treatment, and support near you. Every listing shows its source and last-checked date.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --purple: #4A1C6B;
+  --purple-deep: #2D0F47;
+  --teal: #0D9488;
+  --teal-soft: #14B8A6;
+  --gold: #C9A227;
+  --gold-soft: #E8D48B;
+  --lavender: #F7F4FB;
+  --lavender-dark: #EDE6F5;
+  --text: #2A2433;
+  --muted: #6B6275;
+  --white: #FFFFFF;
+  --verified: #0D9488;
+  --partly: #C9A227;
+  --unconfirmed: #9B8AA8;
+  --shadow: 0 8px 30px rgba(74, 28, 107, 0.08);
+  --radius: 16px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: "Open Sans", system-ui, sans-serif;
+  background: var(--lavender);
+  color: var(--text);
+  line-height: 1.55;
+}
+header {
+  background: linear-gradient(135deg, var(--purple-deep) 0%, var(--purple) 60%, #5B2C6F 100%);
+  color: white;
+  padding: 1.5rem 1.25rem 2rem;
+  position: relative;
+  overflow: hidden;
+}
+header::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 90% 20%, rgba(201, 162, 39, 0.18), transparent 40%);
+  pointer-events: none;
+}
+.header-inner { max-width: 1100px; margin: 0 auto; position: relative; z-index: 1; }
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: 0.75rem;
+}
+.logo {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  color: var(--purple-deep);
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+.brand h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+.tagline {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  opacity: 0.95;
+  margin: 0.15rem 0 0;
+}
+.header-links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+.header-links a { color: var(--gold-soft); text-decoration: none; }
+.header-links a:hover { text-decoration: underline; }
+
+.emergency {
+  background: #C0392B;
+  color: white;
+  text-align: center;
+  padding: 0.65rem 1rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+.emergency a { color: white; text-decoration: underline; }
+
+.container { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+
+.search-card {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.25rem;
+  margin-top: -1.5rem;
+  position: relative;
+  z-index: 2;
+}
+.search-row {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+.search-row input[type="search"] {
+  flex: 1 1 220px;
+  padding: 0.85rem 1rem;
+  border: 2px solid var(--lavender-dark);
+  border-radius: 12px;
+  font-size: 1rem;
+  font-family: inherit;
+}
+.search-row input:focus {
+  outline: none;
+  border-color: var(--teal);
+}
+.search-row button, .filter-btn {
+  background: var(--purple);
+  color: white;
+  border: none;
+  padding: 0.85rem 1.2rem;
+  border-radius: 12px;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+}
+.search-row button:hover, .filter-btn:hover { background: var(--purple-deep); }
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.9rem;
+}
+.filters button {
+  background: var(--lavender);
+  color: var(--text);
+  border: 1px solid transparent;
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.filters button.active {
+  background: var(--teal);
+  color: white;
+}
+.filters button:hover:not(.active) { border-color: var(--teal); }
+
+.stats {
+  margin: 1.25rem 0 0.75rem;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.results { display: grid; gap: 0.85rem; }
+.card {
+  background: white;
+  border-radius: var(--radius);
+  padding: 1.1rem 1.2rem;
+  box-shadow: 0 2px 12px rgba(74, 28, 107, 0.06);
+  border-left: 4px solid var(--teal);
+}
+.card.mail_order { border-left-color: var(--gold); }
+.card.helpline, .card.crisis_safety { border-left-color: #C0392B; }
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.card h3 {
+  margin: 0 0 0.35rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.05rem;
+  color: var(--purple);
+}
+.badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.badge.verified { background: #E6F7F5; color: var(--verified); }
+.badge.partly_verified { background: #FBF6E8; color: #8A6F12; }
+.badge.unconfirmed { background: #F3EEF6; color: var(--unconfirmed); }
+.card p { margin: 0.4rem 0; font-size: 0.95rem; }
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 0.5rem;
+}
+.meta a { color: var(--teal); text-decoration: none; }
+.meta a:hover { text-decoration: underline; }
+.sources { font-size: 0.8rem; margin-top: 0.5rem; }
+.sources a { color: var(--muted); word-break: break-all; }
+
+footer {
+  background: var(--purple-deep);
+  color: white;
+  padding: 2rem 1.25rem 1.5rem;
+  margin-top: 2rem;
+}
+.footer-inner { max-width: 1100px; margin: 0 auto; }
+.memorial {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-size: 1.15rem;
+  margin-bottom: 0.75rem;
+}
+footer a { color: var(--gold-soft); }
+.disclaimer { font-size: 0.82rem; opacity: 0.85; margin-top: 1rem; }
+
+@media (max-width: 600px) {
+  .brand h1 { font-size: 1.2rem; }
+  .search-row button { width: 100%; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <div class="brand">
+      <div class="logo">MV</div>
+      <div>
+        <h1>Marissa’s Voice</h1>
+        <p class="tagline">Carry naloxone. Be informed. Save a life.</p>
+      </div>
+    </div>
+    <div class="header-links">
+      <a href="https://www.marissasvoice.org" target="_blank" rel="noopener">marissasvoice.org</a>
+      <span>·</span>
+      <span>Free · Confidential · Updated Oct 2026</span>
+    </div>
+  </div>
+</header>
+
+<div class="emergency">
+  In an emergency, call <a href="tel:911">911</a>. Struggling? Call or text <a href="tel:988">988</a>. &nbsp; LAY • SPRAY • STAY
+</div>
+
+<div class="container">
+  <div class="search-card">
+    <div class="search-row">
+      <input type="search" id="q" placeholder="Search by state, city, program, or keyword…" aria-label="Search listings">
+      <button type="button" id="searchBtn">Find help</button>
+    </div>
+    <div class="filters" id="filters">
+      <button type="button" data-cat="" class="active">All</button>
+      <button type="button" data-cat="free_naloxone">Free naloxone</button>
+      <button type="button" data-cat="mail_order">Mail-order</button>
+      <button type="button" data-cat="helpline">Helplines</button>
+      <button type="button" data-cat="recovery_treatment">Recovery</button>
+    </div>
+  </div>
+
+  <div class="stats" id="stats">Loading listings…</div>
+  <div class="results" id="results"></div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="memorial">In memory of Marissa Caitlyn Ladatto · Forever 21</div>
+    <p>Prevention begins before risk becomes tragedy.</p>
+    <p>
+      Marissa’s Voice Inc. · <a href="https://www.marissasvoice.org">www.marissasvoice.org</a><br>
+      Questions or corrections: <a href="tel:4694018018">469-401-8018</a>
+    </p>
+    <p class="disclaimer">
+      Listings are gathered from public sources, can change without notice, and appear here for reference only.
+      This is not medical advice or an endorsement. Helplines are run by the organizations named on each listing.
+    </p>
+  </div>
+</footer>
+
+<script>
+const DATA_URL = 'data/listings.json';
+let all = [];
+let activeCat = '';
+
+async function load() {
+  try {
+    const res = await fetch(DATA_URL);
+    all = await res.json();
+    render();
+  } catch (e) {
+    document.getElementById('stats').textContent = 'Could not load listings. Please try again later.';
+  }
+}
+
+function matches(item, q) {
+  if (!q) return true;
+  const hay = [
+    item.name, item.state, item.city, item.notes, item.organization, item.category
+  ].filter(Boolean).join(' ').toLowerCase();
+  return hay.includes(q.toLowerCase());
+}
+
+function render() {
+  const q = document.getElementById('q').value.trim();
+  const filtered = all.filter(item => {
+    if (activeCat && item.category !== activeCat) return false;
+    return matches(item, q);
+  });
+
+  const verified = filtered.filter(i => i.verification === 'verified').length;
+  document.getElementById('stats').textContent =
+    `${filtered.length} listings · ${verified} verified`;
+
+  const el = document.getElementById('results');
+  el.innerHTML = filtered.map(item => {
+    const badge = item.verification || 'unconfirmed';
+    const state = item.state ? `<span>${item.state}</span>` : '';
+    const phone = item.phone ? `<a href="tel:${item.phone.replace(/[^0-9+]/g,'')}">${item.phone}</a>` : '';
+    const sources = (item.source || []).slice(0, 2).map(s =>
+      `<a href="${s}" target="_blank" rel="noopener">${new URL(s).hostname}</a>`
+    ).join(' · ');
+    return `
+      <article class="card ${item.category || ''}">
+        <div class="card-header">
+          <h3>${escapeHtml(item.name)}</h3>
+          <span class="badge ${badge}">${badge.replace('_',' ')}</span>
+        </div>
+        ${item.notes ? `<p>${escapeHtml(item.notes)}</p>` : ''}
+        <div class="meta">
+          ${state}
+          ${phone}
+          ${item.last_checked ? `<span>Checked ${item.last_checked}</span>` : ''}
+        </div>
+        ${sources ? `<div class="sources">${sources}</div>` : ''}
+      </article>
+    `;
+  }).join('') || '<p>No matches. Try a different search or filter.</p>';
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]));
+}
+
+document.getElementById('searchBtn').onclick = render;
+document.getElementById('q').oninput = render;
+document.getElementById('filters').onclick = e => {
+  if (e.target.tagName !== 'BUTTON') return;
+  document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  activeCat = e.target.dataset.cat || '';
+  render();
+};
+
+load();
+</script>
+</body>
+</html>
