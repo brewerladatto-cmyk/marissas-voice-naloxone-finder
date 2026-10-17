@@ -2353,5 +2353,34 @@
     "state": "WA",
     "notes": "Free naloxone by mail for Washington residents who cannot easily access it at a community organization or pharmacy. Operated by DOH in partnership with People's Harm Reduction Alliance. Confidential, once per month limit, plain packaging. Owning organization: Washington State Department of Health / People's Harm Reduction Alliance.",
     "organization": "Washington State Department of Health / People's Harm Reduction Alliance"
+  },
+  {
+    "id": "west-virginia-community-harm-reduction",
+    "name": "West Virginia County Health Department & Community Free Naloxone Distribution",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://odcp.wv.gov/",
+      "https://www.wvbop.com/naloxone.asp",
+      "https://rehabseekers.com/resources/narcan-west-virginia/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WV",
+    "notes": "Free naloxone available through county health department harm reduction programs, Quick Response Teams, recovery centers, and community organizations statewide. Bureau for Behavioral Health / University of Charleston distributes tens of thousands of free kits annually to eligible partners. Statewide standing order allows pharmacies to dispense without a personal prescription (Medicaid low or no cost). Naloxone boxes and limited vending machines in some communities. Owning organization: West Virginia Department of Human Services / Bureau for Behavioral Health & county health departments.",
+    "organization": "West Virginia Department of Human Services / Bureau for Behavioral Health"
+  },
+  {
+    "id": "west-virginia-next-distro-mail",
+    "name": "West Virginia NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/westvirginia",
+      "https://nextdistro.org/wvchoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "WV",
+    "notes": "Free naloxone by mail for West Virginia residents who use drugs, those recently released from jail/prison, and their friends/family/partners after short training. Partnership with Southern West Virginia Harm Redux. Plain packaging. (WV Drug Intervention Institute also offers free kit after online training.) Owning organization: NEXT Distro / Southern West Virginia Harm Redux.",
+    "organization": "NEXT Distro / Southern West Virginia Harm Redux"
   }
 ]
