@@ -1431,5 +1431,33 @@
     "state": "KY",
     "notes": "Free injectable intramuscular naloxone and Narcan nasal spray by mail for Kentucky residents (primarily outside Louisville) after short training. Partnership with Kentucky Harm Reduction Coalition. Plain packaging. Owning organization: NEXT Distro / Kentucky Harm Reduction Coalition.",
     "organization": "NEXT Distro / Kentucky Harm Reduction Coalition"
+  },
+  {
+    "id": "louisiana-ldh-overdose-prevention-hub",
+    "name": "Louisiana Department of Health Statewide Overdose Prevention and Response Hub",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://louisianahealthhub.org/oprh/",
+      "https://ldh.la.gov/page/2755"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "LA",
+    "notes": "Centralized hub where community organizations apply to become free naloxone distribution sites. Approved sites distribute free Narcan nasal spray (4mg), fentanyl test strips, and educational materials to the public. Parish health units, human services authorities, and harm reduction programs participate. Statewide standing order allows pharmacy access without a personal prescription (free/low-cost with Medicaid). Owning organization: Louisiana Department of Health.",
+    "organization": "Louisiana Department of Health"
+  },
+  {
+    "id": "louisiana-next-distro-trystereo-mail",
+    "name": "Louisiana NEXT Distro / Trystereo Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/louisiana",
+      "https://nextdistro.org/la-choice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "LA",
+    "notes": "Free injectable intramuscular naloxone or RiVive nasal spray by mail for Louisiana residents who cannot access it locally, after short training video and quiz. Partnership with Trystereo (New Orleans-based harm reduction collective). Plain packaging. Owning organization: NEXT Distro / Trystereo.",
+    "organization": "NEXT Distro / Trystereo"
   }
 ]
