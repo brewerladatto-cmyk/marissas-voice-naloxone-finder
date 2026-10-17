@@ -1182,5 +1182,45 @@
     "state": "HI",
     "notes": "Free naloxone kits available from HHHRC and partners; limited free mail for outer islands (Kaua\u02bbi, Lana\u02bbi, Moloka\u02bbi). Statewide boxes and vending via Opioid Settlement Program. Owning organization: Hawai\u02bbi Health & Harm Reduction Center.",
     "organization": "Hawai\u02bbi Health & Harm Reduction Center"
+  },
+  {
+    "id": "idaho-dhw-naloxone-distribution",
+    "name": "Idaho DHW Naloxone Distribution Program",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://healthandwelfare.idaho.gov/services-programs/behavioral-health/naloxone-information",
+      "https://healthandwelfare.idaho.gov/services-programs/behavioral-health/overdose-response"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ID",
+    "notes": "Free naloxone kits for Idaho organizations (first responders, treatment providers, public health, shelters, etc.) via request form. Distributed by Kootenai County Fire & Rescue. Organizations may further distribute to the public. Owning organization: Idaho Department of Health and Welfare.",
+    "organization": "Idaho Department of Health and Welfare"
+  },
+  {
+    "id": "idaho-central-district-health-narcan",
+    "name": "Central District Health Free Narcan (Mail & Pickup)",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://cdh.idaho.gov/narcan/"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ID",
+    "notes": "Free Narcan nasal spray for individuals (up to 5 doses). Free shipping statewide or local pickup in Boise, McCall, and Mountain Home. Also maintains publicly accessible naloxone boxes (Barney Boxes) in Ada, Boise, Elmore, and Valley counties. Owning organization: Central District Health.",
+    "organization": "Central District Health"
+  },
+  {
+    "id": "idaho-next-distro-mail",
+    "name": "Idaho NEXT Distro Free Mail Naloxone",
+    "category": "mail_order",
+    "verification": "verified",
+    "source": [
+      "https://nextdistro.org/idchoice"
+    ],
+    "last_checked": "2026-10-17",
+    "state": "ID",
+    "notes": "Free intramuscular naloxone by mail for Idaho residents after training video and quiz. Plain packaging. Prioritizes people without easy local access. Owning organization: NEXT Distro.",
+    "organization": "NEXT Distro"
   }
 ]
