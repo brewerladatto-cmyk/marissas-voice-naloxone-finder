@@ -315,6 +315,18 @@ footer a:hover { text-decoration: underline; }
   line-height: 1.5;
   max-width: 720px;
 }
+.footer-links {
+  margin: 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.footer-links a {
+  color: var(--gold-soft);
+  text-decoration: none;
+  font-weight: 500;
+}
+.footer-links a:hover { text-decoration: underline; }
 
 @media (max-width: 640px) {
   header { padding: 1.6rem 1rem 2.8rem; }
@@ -370,6 +382,11 @@ footer a:hover { text-decoration: underline; }
   <div class="footer-inner">
     <div class="memorial">In memory of Marissa Caitlyn Ladatto · Forever 21</div>
     <p class="mission">Prevention begins before risk becomes tragedy.</p>
+    <div class="footer-links">
+      <a href="/privacy">Privacy Policy</a>
+      <a href="https://www.marissasvoice.org" target="_blank" rel="noopener">Donate</a>
+      <a href="https://www.marissasvoice.org" target="_blank" rel="noopener">About Marissa’s Voice</a>
+    </div>
     <p>
       Marissa’s Voice Inc. · <a href="https://www.marissasvoice.org">www.marissasvoice.org</a><br>
       Questions or corrections: <a href="tel:4694018018">469-401-8018</a>
