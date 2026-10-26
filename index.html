@@ -154,11 +154,11 @@ header::before {
 .hero-banner {
   text-align: center;
   margin: 1.5rem auto 2rem;
-  max-width: 520px;
+  max-width: 700px;
 }
 .hero-banner img {
   width: 100%;
-  max-width: 480px;
+  max-width: 520px;
   height: auto;
   border-radius: 24px;
   box-shadow: 0 12px 40px rgba(74, 28, 107, 0.25);
@@ -405,7 +405,7 @@ footer a:hover { text-decoration: underline; }
 
 <div class="container">
   <div class="hero-banner">
-    <img src="images/find-naloxone-square.jpg" alt="Find Naloxone. One spray can save a life. Marissa’s Voice featuring Marissa Caitlyn Ladatto">
+    <img src="images/find-naloxone-square.jpg" alt="FIND NALOXONE. One spray can save a life. Marissa’s Voice — featuring Marissa Caitlyn Ladatto">
   </div>
 
   <div class="search-card">
@@ -521,7 +521,7 @@ function render() {
 }
 
 function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]));
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
 function setupShareButtons() {
