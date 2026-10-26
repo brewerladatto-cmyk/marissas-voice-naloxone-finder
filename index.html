@@ -114,6 +114,29 @@ header::before {
   opacity: 0.9;
   font-size: 0.9rem;
 }
+.share-buttons {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-left: 0.5rem;
+}
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+  transition: opacity 0.15s, transform 0.1s;
+}
+.share-btn:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+.share-btn.facebook { background: #1877F2; }
+.share-btn.x { background: #000000; }
 
 .emergency {
   background: linear-gradient(90deg, #B91C1C 0%, #C0392B 100%);
@@ -351,6 +374,7 @@ footer a:hover { text-decoration: underline; }
   .search-card { padding: 1.2rem; }
   .card { padding: 1.1rem 1.15rem; }
   .hero-banner { margin: 1rem auto 1.5rem; }
+  .share-buttons { margin-left: 0; margin-top: 0.5rem; }
 }
 </style>
 </head>
@@ -367,6 +391,10 @@ footer a:hover { text-decoration: underline; }
     <div class="header-links">
       <a href="https://www.marissasvoice.org" target="_blank" rel="noopener">marissasvoice.org</a>
       <span class="header-meta">Free · Confidential · Updated Oct 2026</span>
+      <div class="share-buttons">
+        <a id="shareFacebook" class="share-btn facebook" href="#" target="_blank" rel="noopener" aria-label="Share on Facebook">Facebook</a>
+        <a id="shareX" class="share-btn x" href="#" target="_blank" rel="noopener" aria-label="Share on X">X</a>
+      </div>
     </div>
   </div>
 </header>
@@ -496,6 +524,15 @@ function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, c => ({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]));
 }
 
+function setupShareButtons() {
+  const url = encodeURIComponent(window.location.href);
+  const text = encodeURIComponent("Find free naloxone and support near you. Carry naloxone. Be informed. Save a life. — Marissa’s Voice");
+  const fb = document.getElementById('shareFacebook');
+  const x = document.getElementById('shareX');
+  if (fb) fb.href = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+  if (x) x.href = `https://twitter.com/intent/tweet?text=${text}&url=${url}`;
+}
+
 document.getElementById('searchBtn').onclick = render;
 document.getElementById('q').oninput = render;
 document.getElementById('filters').onclick = e => {
@@ -506,6 +543,7 @@ document.getElementById('filters').onclick = e => {
   render();
 };
 
+setupShareButtons();
 load();
 </script>
 </body>
