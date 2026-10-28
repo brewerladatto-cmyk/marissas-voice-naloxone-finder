@@ -5605,5 +5605,317 @@
     "zip": "",
     "phone": "",
     "notes": "Active funding period. Hours: Varies. Type: Community distribution"
+  },
+  {
+    "id": "fl-all-67-counties-florida-dcf-overdose-prev",
+    "name": "Florida DCF Overdose Prevention Program + DOH",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DCF official + DOH",
+      "https://www.myflfamilies.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "All county health departments",
+    "city": "All 67 counties",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "notes": "1.8M+ kits distributed. Hours: Varies. Type: Organizational distribution + CHD walk-in"
+  },
+  {
+    "id": "ga-multiple-121-sites-georgia-overdose-preventi",
+    "name": "Georgia Overdose Prevention + DPH partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Atlanta News First + GOP map",
+      "https://ganaloxone.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "GaNaloxone.com map; Little Five Points Pharmacy kiosk Atlanta; Newton County Detention Center; etc.",
+    "city": "Multiple (121+ sites)",
+    "state": "GA",
+    "zip": "",
+    "phone": "",
+    "notes": "121 sites, 40+ 24hr. Hours: Many 24/7. Type: Boxes + Vending + Map"
+  },
+  {
+    "id": "ga-covington-newton-county-detention-c",
+    "name": "Newton County Detention Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "FOX 5 Atlanta"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Detention Center (token access)",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "",
+    "phone": "",
+    "notes": "First in state. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "pa-multiple-regional-drug--alcohol-c",
+    "name": "Regional drug & alcohol commissions",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Union Progress"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "NaloxBoxes in every school district (Armstrong/Indiana/Clarion); 16 vending machines across counties; NaloxBoxes in Butler and Lawrence",
+    "city": "Multiple",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 some. Type: NaloxBoxes + vending machines"
+  },
+  {
+    "id": "pa-allentown-lehigh-county-drug-and-al",
+    "name": "Lehigh County Drug and Alcohol",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Valley Ledger"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Slatington: D&L Trailhead Pavilion 89 Main St; Allentown: Treatment Trends 24 South 5th St (naloxone + hygiene + harm reduction, free, anonymous)",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: 24/7 Public Health Kiosks"
+  },
+  {
+    "id": "tx-tilden-area-mcmullen-county",
+    "name": "McMullen County",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "South Texas News"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "McMullen County Emergency Operations Center (24/7 free anonymous naloxone)",
+    "city": "Tilden area",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - could not re-confirm on 2026-10-28. Active | Re-verified 2026-10-28 (UNCONFIRMED): Could not re-confirm. Several searches found no article or county page on a McMullen County EOC naloxone vending machine; original South Texas News source not located. | Second-source search 2026-10-28 (STILL_SINGLE): Multiple searches (including extended) found no article or county page about a McMullen County EOC naloxone vending machine; Texas vending coverage did not name the county.. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "tx-edinburg-hidalgo-county-health--h",
+    "name": "Hidalgo County Health & Human Services",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Texas Border Business"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Five machines: Adult Probation Office (since Nov 2025) + county clinics in Edinburg, McAllen, Weslaco, Elsa (free, no prescription)",
+    "city": "Edinburg",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ca-eureka-humboldt-dhhs--open-door",
+    "name": "Humboldt DHHS + Open Door + MCAVHN partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Humboldt DHHS flyer"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple: Open Door clinics, So Hum Health Garberville, Hoopa Tsewenaldin Inn vending (code 1234#), Community Resource Centers, etc.",
+    "city": "Eureka",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Walk-in + Vending"
+  },
+  {
+    "id": "ca-ukiah-mcavhn",
+    "name": "MCAVHN",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MCAVHN official",
+      "https://mcavhn.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "148 Clara Ave., Ukiah + countywide outreach including remote/tribal",
+    "city": "Ukiah",
+    "state": "CA",
+    "zip": "",
+    "phone": "(707) 462-1932",
+    "notes": "Active. Hours: Weekdays. Type: Outreach + distribution"
+  },
+  {
+    "id": "ca-truckee-county-health-vending-pro",
+    "name": "County Health Vending Programs",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CDPH / county reports"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "14 machines in Greater Sierra Sacramento region (Truckee Joseph Center, Grass Valley Commons, North San Juan, Yolo/Plumas sites)",
+    "city": "Truckee",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ca-salinas-monterey-county-health",
+    "name": "Monterey County Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Monterey County / KSBW"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple 24/7 sites (Salinas transit, Soledad Fire, Castroville, Marina, jails, etc.)",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Many 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "ca-marysville-yuba-county-hhsd",
+    "name": "Yuba County HHSD",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "EMS1 / Appeal-Democrat; https://www.jems.com/news/ca-county-approves-vending-machines-to-dispense-free-narcan/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Life Building Center (Marysville) + Yuba County HHSD lobby (Linda)",
+    "city": "Marysville",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Approved / rolling out | Re-verified 2026-10-28 (PARTIAL): Feb 2026 report: supervisors unanimously approved a contract for two machines (Life Building Center, Marysville; HHSD lobby, Linda). No install or opening date given; rollout not confirmed.. Hours: TBD. Type: Vending Machines (approved)"
+  },
+  {
+    "id": "ct-various-dmhas-ssps--next-distro",
+    "name": "DMHAS SSPs + NEXT Distro",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DMHAS / NEXT",
+      "https://nextdistro.org/connecticut"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online mail + syringe service program sites",
+    "city": "Various",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Mail-Order + nearest SSP"
+  },
+  {
+    "id": "mi-grayling-harm-reduction-michigan",
+    "name": "Harm Reduction Michigan + local",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHD10 PDF + Harm Reduction Journal; https://dhd10.org/wp-content/uploads/2024/10/Naloxone-Narcan-Locations-FINAL-8.pdf; https://www.cadillacnews.com/news/wexford-co-jail-site-of-free-naloxone-vending-machine/article_d30f515c-38e4-11ec-9900-b789e9bb3f30.html",
+      "https://dhd10.org/wp-content/uploads/2024/10/Naloxone-Narcan-Locations-FINAL-8.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Examples: Crawford County Sheriff lobby vending; Kalkaska box on 4th St next to Kalkushka; Manistee County Sheriff lobby vending; Wexford County Sheriff lobby vending; multiple library and store boxes",
+    "city": "Grayling",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): DHD#10 location list (Oct 2024) confirms lobby vending machines at Crawford, Manistee and Wexford sheriff offices and a Kalkaska box on 4th St by Kalkushka; hours not listed. Wexford jail machine free to anyone per Cadillac News.. Hours: Varies / many 24/7. Type: Boxes + Vending"
+  },
+  {
+    "id": "sd-eagle-butte-emily-s-hope-naloxone-pod",
+    "name": "Emily\u2019s Hope Naloxone Pods",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://www.avera.org/news-media/news/2025/naloxone-emilys-hope/; https://www.sdaho.org/2025/07/18/emilys-hope-expands-statewide-naloxone-access-in-partnership-with-the-south-dakota-departments-of-social-services-and-health/",
+      "https://emilyshope.charity/our-impact/life-saving-tools"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Pods at gas stations, thrift stores, laundromats, post offices, city halls, courthouses in small towns (e.g. Newell Post Office, Belle Fourche City Hall, Grant County Courthouse Milbank)",
+    "city": "Eagle Butte",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Emily's Hope active in 2025 (Avera boxes in Sioux Falls/Yankton; statewide box expansion, gas stations/libraries typical). Specific small-town pod sites (Newell, Belle Fourche, Milbank) not verified.. Hours: Varies. Type: Pods / Boxes"
+  },
+  {
+    "id": "tx-eagle-pass-safe-ep",
+    "name": "SAFE EP",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "The Maverick Times"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Downtown Eagle Pass Fire Station, 590 Quarry St (launched Oct 2026)",
+    "city": "Eagle Pass",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "id-mccall-ignite-idaho--st-luke-s",
+    "name": "Ignite Idaho + St. Luke\u2019s + Cascade Food Pantry",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Courage to Connect + RehabSeekers; https://couragetoconnectidaho.com/overdose-prevention/; https://www.mccallstarnews.com/?p=101164; https://cdh.idaho.gov/news/drug-overdose-support-resources-available-to-valley-county-residents/",
+      "https://couragetoconnectidaho.com/overdose-prevention/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "St. Luke\u2019s McCall Medical Center 1000 State St (24/7); Cascade Food Pantry 1470 S Main Hwy 55 Cascade (24/7)",
+    "city": "McCall",
+    "state": "ID",
+    "zip": "",
+    "phone": "St. Luke's McCall 208-630-2450; Cascade Food Pantry 208-880-1071; Ignite Idaho 208-994-5537",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): State-backed Courage to Connect lists free naloxone in newspaper-style boxes at St. Luke's McCall (1000 State St) and Cascade Food Pantry; these are boxes, not vending machines. Hours not stated; 24/7 unverified.. Hours: 24/7. Type: Naloxone boxes (Barney Box)"
+  },
+  {
+    "id": "id-kellogg-shoshone-county-fire--fa",
+    "name": "Shoshone County Fire + Father Bill\u2019s Kitchen",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Panhandle Health District; https://cdapress.com/news/2023/dec/04/narcan-stations-add-lifesaving-tools; https://www.kxly.com/news/free-narcan-vending-machines-now-available-in-kootenai-shoshone-counties/article_f100a38e-92fe-11ee-9637-e3068c24fae1.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Shoshone County Fire District #2 911 Bunker Ave Kellogg; Father Bill\u2019s Kitchen 1317 N 1st Street Coeur d\u2019Alene",
+    "city": "Kellogg",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): CDA Press (12/2023): Kellogg machine at Shoshone Co Fire Dist 2, 911 Bunker Ave, 24 hours; CDA machine at St. Vincent de Paul Pantry, 1317 N First St, M-F 8-5, some Saturdays; free to anyone. Father Bill's not named there. No 2025-26 confirmation.. Hours: Kellogg 24 hrs; Coeur d'Alene pantry M-F 8am-5pm, some Saturdays (per Dec 2023 report). Type: Vending Machines"
+  },
+  {
+    "id": "wy-fort-washakie-area--22-counties-eastern-shoshone-tri",
+    "name": "Eastern Shoshone Tribal Health + Community Naloxone Resource Map",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers + WyoFile",
+      "https://health.wyo.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Eastern Shoshone Tribal Health machines (Tribal Health office and Rocky Mountain Hall); ~30 sites across 22 of 23 counties including public health offices in Rawlins, Lusk, etc.",
+    "city": "Fort Washakie area + 22 counties",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending + Walk-in"
   }
 ]
