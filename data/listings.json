@@ -8864,5 +8864,447 @@
     "zip": "",
     "phone": "",
     "notes": "Machine installed with Harm Reduction Coalition of San Diego support. Exact machine placement relative to casino entrances not given; no phone listed. Casino is an adult venue; confirm public access on arrival.. Hours: 24/7 (per Indian Health Council); KPBS does not state hours. Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "nc-cherokee-ebci-tsalagi-public-healt",
+    "name": "EBCI Tsalagi Public Health - Public Health Vending Machine Initiative (12-13 machines)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "EBCI Public Health and Human Services",
+      "Vending Machine Initiative brochure (https://phhs.ebci-nsn.gov/wp-content/uploads/2026/02/Brochure-Vending-Machine-Initiative.pdf); Cherokee One Feather",
+      "'EBCI Public Health expands Public Health Vending Machine Initiative'"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Per EBCI brochure: Big Cove Kolanvyi Community Center 8765 Big Cove Rd; Big Y Community Club & Gym 2641 Wrights Creek Rd; Cherokee Indian Hospital (brochure: 1 Hospital Rd; One Feather: Analenisgi Wing, 113 Cherokee Hospital Loop); Cherokee County Indian Community Club 300 Airport Rd, Marble; Cherokee Tribal Food Distribution 2266 Old Mission Rd; EBCI PHHS Administration 43 John Crowe Hill; Food Lion 16 Cherokee Crossing, Whittier; Pamela Dawn Taylor Gym & Community Center 10 Old Gap Rd; Peaches Squirrell Sports & Recreation Center 1212 Birdtown Rd; Snowbird Jacob Cornsilk Complex 60 Snowbird School Rd, Robbinsville; Qualla Boundary Head Start 897 Acquoni Rd; Yellowhill Elawodihi Activity Center 1416 Acquoni Rd",
+    "city": "Cherokee",
+    "state": "NC",
+    "zip": "",
+    "phone": "828-359-6240 (Tsalagi Public Health)",
+    "notes": "Eligibility: brochure says users enter the numeric part of their enrollment number to use a machine, so access appears limited to enrolled EBCI members (not stated explicitly); do not list as open to the public without tribal confirmation. One Feather noted the Food Lion machine was out of service in Sept 2025. Hospital address differs between sources.. Hours: Machines 24/7; Tsalagi Public Health team office Mon-Fri 7:45 AM-4:30 PM. Type: Tribal public health vending machines (naloxone among items)"
+  },
+  {
+    "id": "sc-rock-hill-catawba-indian-nation--h",
+    "name": "Catawba Indian Nation - Harm Reduction Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WRHI",
+      "'The Catawba Indian Nation announces new harm reduction vending machine for citizens'",
+      "Jan 2025 (https://www.wrhi.com/2025/01/the-catawba-indian-nation-announces-new-harm-reduction-vending-machine-for-citizens-195993)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Entry room of the Catawba Food Distribution Center, Avenue of Nations Road, Rock Hill, SC (street number not given in source)",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. Source describes the machine as serving Catawba citizens; public access not stated. Access inside a food distribution center suggests business-hours access only; confirm with the Nation. | Second-source search 2026-10-28 (STILL_SINGLE): Only the WRHI January 2025 report found; no tribal or other independent page confirming the machine, access, or hours.. Hours: Not stated. Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "ok-tahlequah-cherokee-nation-harm-redu",
+    "name": "Cherokee Nation Harm Reduction Program (walk-in site)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KJRH",
+      "'Cherokee Nation opens harm reduction clinic in Tahlequah' (https://www.kjrh.com/news/local-news/cherokee-nation-opens-harm-reduction-clinic-in-tahlequah); Cherokee Nation / Anadisgoi",
+      "'Cherokee Nation opens new harm reduction program' (https://anadisgoi.com/index.php/government-stories/cherokee-nation-opens-new-harm-reduction-program)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "214 N. Bliss Avenue, Tahlequah, OK",
+    "city": "Tahlequah",
+    "state": "OK",
+    "zip": "",
+    "phone": "539-234-3785 (Harm Reduction Program); 539-234-3500 (Behavioral Health)",
+    "notes": "KJRH says open to anyone, anonymous, judgment-free; Anadisgoi says tribal citizens and members of the public who need services. Distinct from the Cherokee Nation mobile van already in the directory.. Hours: Mon-Fri 8:00 AM-5:00 PM; no appointment needed. Type: Tribal harm reduction program"
+  },
+  {
+    "id": "mt-st-ignatius-cskt-tribal-health--narc",
+    "name": "CSKT Tribal Health - Narcan dispensary boxes and pharmacy Narcan",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KPAX",
+      "'Emergency Narcan dispensary boxes placed across the Flathead Indian Reservation'",
+      "2023-12-22 (https://www.kpax.com/emergency-narcan-dispensary-boxes-placed-across-the-flathead-indian-reservation); Valley Journal"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Narcan box at St. Ignatius Police Department (24-hour access; street address not stated); Tribal Health pharmacies in Polson and St. Ignatius (addresses not stated); boxes planned for Dixon and Pablo",
+    "city": "St. Ignatius",
+    "state": "MT",
+    "zip": "",
+    "phone": "Naloxone training contact Marcia Cordova 406-745-3525 ext. 6161 (per Valley Journal)",
+    "notes": "Valley Journal does not name CSKT explicitly; affiliation inferred from Polson/St. Ignatius locations and KPAX naming Tribal Health's Opioid Response Grant team. Dec 2023 article; confirm which additional boxes were installed. CSKT vending machines/kiosks (Pablo, Polson, St. Ignatius) are already covered by an existing directory row.. Hours: St. Ignatius box 24 hours; pharmacy hours not stated. Type: Tribal health program - public Narcan box + pharmacy"
+  },
+  {
+    "id": "wa-grand-mound-chehalis-tribe--free-nal",
+    "name": "Chehalis Tribe - Free Naloxone Vending Machine (End of the Trail) and Behavioral Health Narcan",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Chehalis Tribe 'Vending Machine Article' PDF (https://www.chehalistribe.org/wp-content/uploads/2026/03/Vending-Machine-Article.pdf); Chehalis Tribal Newsletter July-Aug 2025",
+      "p. 11 (https://www.chehalistribe.org/newsletter/archives/2025-08/files/basic-html/page11.html)",
+      "https://www.chehalistribe.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "End of the Trail gas station, Grand Mound, WA (street address not given); Chehalis Tribe Behavioral Health clinic also offers Narcan training/supply (address not given)",
+    "city": "Grand Mound",
+    "state": "WA",
+    "zip": "",
+    "phone": "Care Coordinator Allysa Klene (360) 709-1688; substance use services (360) 709-1733",
+    "notes": "Both sources are Chehalis Tribe publications. Vending article says products are 'easily accessible for the community'; newsletter mentions the Behavioral Health clinic Narcan but does not state cost. Exact address and hours not published.. Hours: Not stated. Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "az-salt-river-pima-maricopa-indian-community-salt-river",
+    "name": "Salt River Integrated Health Care - 'Not One More' Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "IHS Blog",
+      "'Salt River providers train community members on naloxone use'",
+      "Oct 2020 (https://www.ihs.gov/newsroom/ihs-blog/october2020/salt-river-providers-train-community-members-on-naloxone-use/); O'odham Action News"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Salt River Integrated Health Care Pharmacy (street address not given in sources); kits also handed out at community outreach events",
+    "city": "Salt River Pima-Maricopa Indian Community",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Both sources are 2020-2021 and describe past events and mandatory naloxone co-prescribing; current walk-in availability not confirmed. OAN says community members taking opioids for pain get Narcan at the pharmacy and families at outreach events may receive a kit.. Type: Tribal health program - pharmacy and community naloxone"
+  },
+  {
+    "id": "sd-sisseton-sisseton-wahpeton-oyate-t",
+    "name": "Sisseton Wahpeton Oyate Tribal Opioid Response (TOR) Team - Asniyapi Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "IHS Injury Prevention",
+      "2023 Rick Smith Injury Prevention Award - Sisseton Wahpeton Oyate (https://www.ihs.gov/sites/injuryprevention/themes/responsive2017/display_objects/documents/Rick_Smith_Injury_Prevention_Award_2023_Sisseton_Wahpeton_Oyate.pdf); https://dakotaathome.sd.gov/search/6fbf6def-10fa-54df-9979-8a8b56205b84; https://dakotaathome.sd.gov/search/f5291c9c-6059-55bd-82db-ddf71de15b00"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Asniyapi Field Health Primary Care Clinic, 114 Lake Traverse Drive, Suite F17, Sisseton, SD 57262",
+    "city": "Sisseton",
+    "state": "SD",
+    "zip": "",
+    "phone": "(833) 674-3444 (Asniyapi clinic)",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. 2023 award summary: 144 kits distributed plus 12 from SD DOH, 291 first responders and 131 community members trained. City 'Agency Village' not stated in source - left for tribe to confirm. Walk-in public access and eligibility not stated. | Second-source search 2026-10-28 (UPGRADED): SD state directory (undated) lists Sisseton-Wahpeton Tribal Opioid Response and Asniyapi Field Health clinic, 114 Lake Traverse Dr Suite F17, Sisseton, (833) 674-3444, M-F 8-4:30, registered American Indians. Naloxone kits not mentioned there.. Hours: Clinic Mon-Fri 8:00 AM-4:30 PM CT. Type: Tribal health program - naloxone kits and training"
+  },
+  {
+    "id": "ct-mashantucket-pequot-health-care--free",
+    "name": "Pequot Health Care - Free Naloxone Kits for Tribal Nations (10-year opioid settlement program)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "PR Newswire",
+      "Pequot Health Care release 2024-01-24 (https://prnewswire.com/news-releases/pequot-health-care-to-distribute-lifesaving-naloxone-kits-to-tribal-nations-in-groundbreaking-ten-year-initiative-302043711.html); Native News Online",
+      "'Tribes have until October 15 to apply for a decade of free naloxone under tribal opioid settlement' (https://nativenewsonline.net/health/tribes-have-until-october-15-to-apply-for-a-decade-of-free-naloxone-under-tribal-opioid-settlement)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Kits ship to a tribal pharmacy, IHS facility, or other recipient designated by the tribe. Not a walk-in site.",
+    "city": "Mashantucket",
+    "state": "CT",
+    "zip": "",
+    "phone": "Email: lpotter@mptn-nsn.gov (Lori Potter, per press release)",
+    "notes": "Eligibility is tribal governments, not individuals; the interest-form deadline in the article was Oct 15, 2023, so current enrollment status is unknown. Individuals should ask their tribal pharmacy/health office. Teva settlement allocation per Native News Online.. Type: National program shipping free naloxone to tribes"
+  },
+  {
+    "id": "or-roseburg-cow-creek-behavioral-heal",
+    "name": "Cow Creek Behavioral Health / Public Health - Narcan for Tribal Members",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Cow Creek Band",
+      "'Counselors Work to Supply Tribal Members with Narcan for Opiate Overdoses'",
+      "2022-08-25 (https://www.cowcreek-nsn.gov/?p=10296); https://www.cowcreek-nsn.gov/cow-creek-umpqua-narcan-opioid-overdoses/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Behavioral Health mailing address: 2589 NW Edenbower Blvd., Roseburg, OR 97471",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "",
+    "phone": "Behavioral Health (541) 672-8533 press 5; Government offices (541) 672-9405 or (800) 929-8229; info@cowcreek-nsn.gov",
+    "notes": "NOT VERIFIED - single source. 2022 article: Narcan distributed at July 2022 pow wow; addressed to Tribal members. Address given is a mailing address in the source. Current availability not confirmed. | Second-source search 2026-10-28 (STILL_SINGLE): Only the 2022 tribe article found; no current page confirms Narcan availability or hours. Behavioral Health number and mailing address match the article. Narcan was not yet regularly available then.. Type: Tribal behavioral health program - naloxone and training"
+  },
+  {
+    "id": "ak-ketchikan-ketchikan-indian-communit",
+    "name": "Ketchikan Indian Community - Behavioral Health and Ketchikan Indian Health Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Ketchikan",
+    "state": "AK",
+    "zip": "",
+    "phone": "Behavioral Health 907-228-9203; Clinic 907-228-4900",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers.  | Second-source search 2026-10-28 (STILL_SINGLE): Searches found only state Project HOPE list and generic provider directories; no independent page confirming naloxone at this site, address, or hours.. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "ak-fairbanks-fairbanks-native-associat",
+    "name": "Fairbanks Native Association",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-452-6251",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers.  | Second-source search 2026-10-28 (STILL_SINGLE): No independent page found showing Fairbanks Native Association stocks or gives out Project HOPE naloxone; only the state list confirms it.. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "ak-cordova-native-village-of-eyak",
+    "name": "Native Village of Eyak",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone); https://www.cityofcordova.net/wp-content/uploads/2025/08/8-2-25-Opioids-Press-Release-Final.pdf; https://www.eyak-nsn.gov/?p=501100"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Cordova",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-424-8257",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers.  | Second-source search 2026-10-28 (STILL_SINGLE): No source names Native Village of Eyak as a naloxone site. City of Cordova 2025 lists Ilanka (907-424-3622), which eyak-nsn.gov shows as the NVE clinic number, but the link is inferred and not stated.. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "ak-sitka-sitka-tribe-of-alaska",
+    "name": "Sitka Tribe of Alaska",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Sitka",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-747-3207",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers.  | Second-source search 2026-10-28 (STILL_SINGLE): No independent source found tying Sitka Tribe of Alaska to naloxone distribution; a 2017 KCAW story covers a state-led Sitka event, not the Tribe.. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "ak-ninilchik-ninilchik-traditional-cou",
+    "name": "Ninilchik Traditional Council and Ninilchik Community Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone); https://www.ninilchiktribe-nsn.gov/?p=20162; https://www.ninilchiktribe-nsn.gov/health/",
+      "https://www.ninilchiktribe-nsn.gov/health/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "15765 Kingsley Rd, Ninilchik, AK 99639 (Ninilchik Community Clinic)",
+    "city": "Ninilchik",
+    "state": "AK",
+    "zip": "",
+    "phone": "Council 907-740-3330; Clinic 907-567-3970",
+    "notes": "Two-source verified 2026-10-28. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers. | Second-source search 2026-10-28 (UPGRADED): Tribe's own clinic page lists Ninilchik Community Clinic at 15765 Kingsley Rd, (907) 567-3970, Mon-Fri 9-5; its MAT program offers naloxone kits and Project HOPE naloxone training. Clinics welcome IHS-eligible and non-IHS patients.. Hours: Clinic Mon-Fri 9 AM-5 PM. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "ak-aniak-yukon-kuskokwim-health-co",
+    "name": "Yukon-Kuskokwim Health Corporation (YKHC) - Aniak Sub-Regional Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone); https://www.ykhc.org/?p=12530"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Aniak",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-675-4556",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers.  | Second-source search 2026-10-28 (STILL_SINGLE): YKHC's own 2022 article lists the Aniak Sub-Regional Clinic at 907-675-4556 and says villages get naloxone via the health aide, but it does not state Aniak stocks it. Too indirect to upgrade.. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "ak-anchorage-southcentral-foundation",
+    "name": "Southcentral Foundation - PCC Pharmacy / 4 Directions / Dena A Coy",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "",
+    "phone": "PCC Pharmacy 907-729-4172; 4 Directions 907-729-6300; Dena A Coy 907-729-5298",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers. Southcentral Foundation services are primarily for eligible Alaska Native/American Indian beneficiaries; this is not stated in the source for naloxone. | Second-source search 2026-10-28 (STILL_SINGLE): Searches found no independent page naming Southcentral Foundation PCC Pharmacy, 4 Directions or Dena A Coy as free naloxone sites; only the state Project HOPE materials appear.. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "nc-cherokee-ebci-tsalagi-public-healt",
+    "name": "EBCI Tsalagi Public Health - Public Health Vending Machine Initiative (12-13 machines)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "EBCI Public Health and Human Services",
+      "Vending Machine Initiative brochure (https://phhs.ebci-nsn.gov/wp-content/uploads/2026/02/Brochure-Vending-Machine-Initiative.pdf); Cherokee One Feather",
+      "'EBCI Public Health expands Public Health Vending Machine Initiative'"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Per EBCI brochure: Big Cove Kolanvyi Community Center 8765 Big Cove Rd; Big Y Community Club & Gym 2641 Wrights Creek Rd; Cherokee Indian Hospital (brochure: 1 Hospital Rd; One Feather: Analenisgi Wing, 113 Cherokee Hospital Loop); Cherokee County Indian Community Club 300 Airport Rd, Marble; Cherokee Tribal Food Distribution 2266 Old Mission Rd; EBCI PHHS Administration 43 John Crowe Hill; Food Lion 16 Cherokee Crossing, Whittier; Pamela Dawn Taylor Gym & Community Center 10 Old Gap Rd; Peaches Squirrell Sports & Recreation Center 1212 Birdtown Rd; Snowbird Jacob Cornsilk Complex 60 Snowbird School Rd, Robbinsville; Qualla Boundary Head Start 897 Acquoni Rd; Yellowhill Elawodihi Activity Center 1416 Acquoni Rd",
+    "city": "Cherokee",
+    "state": "NC",
+    "zip": "",
+    "phone": "828-359-6240 (Tsalagi Public Health)",
+    "notes": "Eligibility: brochure says users enter the numeric part of their enrollment number to use a machine, so access appears limited to enrolled EBCI members (not stated explicitly); do not list as open to the public without tribal confirmation. One Feather noted the Food Lion machine was out of service in Sept 2025. Hospital address differs between sources.. Hours: Machines 24/7; Tsalagi Public Health team office Mon-Fri 7:45 AM-4:30 PM. Type: Tribal public health vending machines (naloxone among items)"
+  },
+  {
+    "id": "sc-rock-hill-catawba-indian-nation--h",
+    "name": "Catawba Indian Nation - Harm Reduction Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WRHI",
+      "'The Catawba Indian Nation announces new harm reduction vending machine for citizens'",
+      "Jan 2025 (https://www.wrhi.com/2025/01/the-catawba-indian-nation-announces-new-harm-reduction-vending-machine-for-citizens-195993)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Entry room of the Catawba Food Distribution Center, Avenue of Nations Road, Rock Hill, SC (street number not given in source)",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. Source describes the machine as serving Catawba citizens; public access not stated. Access inside a food distribution center suggests business-hours access only; confirm with the Nation. | Second-source search 2026-10-28 (STILL_SINGLE): Only the WRHI January 2025 report found; no tribal or other independent page confirming the machine, access, or hours.. Hours: Not stated. Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "ok-tahlequah-cherokee-nation-harm-redu",
+    "name": "Cherokee Nation Harm Reduction Program (walk-in site)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KJRH",
+      "'Cherokee Nation opens harm reduction clinic in Tahlequah' (https://www.kjrh.com/news/local-news/cherokee-nation-opens-harm-reduction-clinic-in-tahlequah); Cherokee Nation / Anadisgoi",
+      "'Cherokee Nation opens new harm reduction program' (https://anadisgoi.com/index.php/government-stories/cherokee-nation-opens-new-harm-reduction-program)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "214 N. Bliss Avenue, Tahlequah, OK",
+    "city": "Tahlequah",
+    "state": "OK",
+    "zip": "",
+    "phone": "539-234-3785 (Harm Reduction Program); 539-234-3500 (Behavioral Health)",
+    "notes": "KJRH says open to anyone, anonymous, judgment-free; Anadisgoi says tribal citizens and members of the public who need services. Distinct from the Cherokee Nation mobile van already in the directory.. Hours: Mon-Fri 8:00 AM-5:00 PM; no appointment needed. Type: Tribal harm reduction program"
+  },
+  {
+    "id": "mt-st-ignatius-cskt-tribal-health--narc",
+    "name": "CSKT Tribal Health - Narcan dispensary boxes and pharmacy Narcan",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KPAX",
+      "'Emergency Narcan dispensary boxes placed across the Flathead Indian Reservation'",
+      "2023-12-22 (https://www.kpax.com/emergency-narcan-dispensary-boxes-placed-across-the-flathead-indian-reservation); Valley Journal"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Narcan box at St. Ignatius Police Department (24-hour access; street address not stated); Tribal Health pharmacies in Polson and St. Ignatius (addresses not stated); boxes planned for Dixon and Pablo",
+    "city": "St. Ignatius",
+    "state": "MT",
+    "zip": "",
+    "phone": "Naloxone training contact Marcia Cordova 406-745-3525 ext. 6161 (per Valley Journal)",
+    "notes": "Valley Journal does not name CSKT explicitly; affiliation inferred from Polson/St. Ignatius locations and KPAX naming Tribal Health's Opioid Response Grant team. Dec 2023 article; confirm which additional boxes were installed. CSKT vending machines/kiosks (Pablo, Polson, St. Ignatius) are already covered by an existing directory row.. Hours: St. Ignatius box 24 hours; pharmacy hours not stated. Type: Tribal health program - public Narcan box + pharmacy"
+  },
+  {
+    "id": "wa-grand-mound-chehalis-tribe--free-nal",
+    "name": "Chehalis Tribe - Free Naloxone Vending Machine (End of the Trail) and Behavioral Health Narcan",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Chehalis Tribe 'Vending Machine Article' PDF (https://www.chehalistribe.org/wp-content/uploads/2026/03/Vending-Machine-Article.pdf); Chehalis Tribal Newsletter July-Aug 2025",
+      "p. 11 (https://www.chehalistribe.org/newsletter/archives/2025-08/files/basic-html/page11.html)",
+      "https://www.chehalistribe.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "End of the Trail gas station, Grand Mound, WA (street address not given); Chehalis Tribe Behavioral Health clinic also offers Narcan training/supply (address not given)",
+    "city": "Grand Mound",
+    "state": "WA",
+    "zip": "",
+    "phone": "Care Coordinator Allysa Klene (360) 709-1688; substance use services (360) 709-1733",
+    "notes": "Both sources are Chehalis Tribe publications. Vending article says products are 'easily accessible for the community'; newsletter mentions the Behavioral Health clinic Narcan but does not state cost. Exact address and hours not published.. Hours: Not stated. Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "az-salt-river-pima-maricopa-indian-community-salt-river",
+    "name": "Salt River Integrated Health Care - 'Not One More' Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "IHS Blog",
+      "'Salt River providers train community members on naloxone use'",
+      "Oct 2020 (https://www.ihs.gov/newsroom/ihs-blog/october2020/salt-river-providers-train-community-members-on-naloxone-use/); O'odham Action News"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Salt River Integrated Health Care Pharmacy (street address not given in sources); kits also handed out at community outreach events",
+    "city": "Salt River Pima-Maricopa Indian Community",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Both sources are 2020-2021 and describe past events and mandatory naloxone co-prescribing; current walk-in availability not confirmed. OAN says community members taking opioids for pain get Narcan at the pharmacy and families at outreach events may receive a kit.. Type: Tribal health program - pharmacy and community naloxone"
+  },
+  {
+    "id": "sd-sisseton-sisseton-wahpeton-oyate-t",
+    "name": "Sisseton Wahpeton Oyate Tribal Opioid Response (TOR) Team - Asniyapi Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "IHS Injury Prevention",
+      "2023 Rick Smith Injury Prevention Award - Sisseton Wahpeton Oyate (https://www.ihs.gov/sites/injuryprevention/themes/responsive2017/display_objects/documents/Rick_Smith_Injury_Prevention_Award_2023_Sisseton_Wahpeton_Oyate.pdf); https://dakotaathome.sd.gov/search/6fbf6def-10fa-54df-9979-8a8b56205b84; https://dakotaathome.sd.gov/search/f5291c9c-6059-55bd-82db-ddf71de15b00"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Asniyapi Field Health Primary Care Clinic, 114 Lake Traverse Drive, Suite F17, Sisseton, SD 57262",
+    "city": "Sisseton",
+    "state": "SD",
+    "zip": "",
+    "phone": "(833) 674-3444 (Asniyapi clinic)",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. 2023 award summary: 144 kits distributed plus 12 from SD DOH, 291 first responders and 131 community members trained. City 'Agency Village' not stated in source - left for tribe to confirm. Walk-in public access and eligibility not stated. | Second-source search 2026-10-28 (UPGRADED): SD state directory (undated) lists Sisseton-Wahpeton Tribal Opioid Response and Asniyapi Field Health clinic, 114 Lake Traverse Dr Suite F17, Sisseton, (833) 674-3444, M-F 8-4:30, registered American Indians. Naloxone kits not mentioned there.. Hours: Clinic Mon-Fri 8:00 AM-4:30 PM CT. Type: Tribal health program - naloxone kits and training"
+  },
+  {
+    "id": "ct-mashantucket-pequot-health-care--free",
+    "name": "Pequot Health Care - Free Naloxone Kits for Tribal Nations (10-year opioid settlement program)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "PR Newswire",
+      "Pequot Health Care release 2024-01-24 (https://prnewswire.com/news-releases/pequot-health-care-to-distribute-lifesaving-naloxone-kits-to-tribal-nations-in-groundbreaking-ten-year-initiative-302043711.html); Native News Online",
+      "'Tribes have until October 15 to apply for a decade of free naloxone under tribal opioid settlement' (https://nativenewsonline.net/health/tribes-have-until-october-15-to-apply-for-a-decade-of-free-naloxone-under-tribal-opioid-settlement)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Kits ship to a tribal pharmacy, IHS facility, or other recipient designated by the tribe. Not a walk-in site.",
+    "city": "Mashantucket",
+    "state": "CT",
+    "zip": "",
+    "phone": "Email: lpotter@mptn-nsn.gov (Lori Potter, per press release)",
+    "notes": "Eligibility is tribal governments, not individuals; the interest-form deadline in the article was Oct 15, 2023, so current enrollment status is unknown. Individuals should ask their tribal pharmacy/health office. Teva settlement allocation per Native News Online.. Type: National program shipping free naloxone to tribes"
+  },
+  {
+    "id": "or-roseburg-cow-creek-behavioral-heal",
+    "name": "Cow Creek Behavioral Health / Public Health - Narcan for Tribal Members",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Cow Creek Band",
+      "'Counselors Work to Supply Tribal Members with Narcan for Opiate Overdoses'",
+      "2022-08-25 (https://www.cowcreek-nsn.gov/?p=10296); https://www.cowcreek-nsn.gov/cow-creek-umpqua-narcan-opioid-overdoses/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Behavioral Health mailing address: 2589 NW Edenbower Blvd., Roseburg, OR 97471",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "",
+    "phone": "Behavioral Health (541) 672-8533 press 5; Government offices (541) 672-9405 or (800) 929-8229; info@cowcreek-nsn.gov",
+    "notes": "NOT VERIFIED - single source. 2022 article: Narcan distributed at July 2022 pow wow; addressed to Tribal members. Address given is a mailing address in the source. Current availability not confirmed. | Second-source search 2026-10-28 (STILL_SINGLE): Only the 2022 tribe article found; no current page confirms Narcan availability or hours. Behavioral Health number and mailing address match the article. Narcan was not yet regularly available then.. Type: Tribal behavioral health program - naloxone and training"
   }
 ]
