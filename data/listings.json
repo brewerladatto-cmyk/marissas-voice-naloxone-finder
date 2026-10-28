@@ -4646,5 +4646,316 @@
     "zip": "",
     "phone": "",
     "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "ny-bronx-ramon-velez-health-center",
+    "name": "Ramon Velez Health Center / MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "754 E 151st St, Bronx, NY 10455 (24/7)",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ny-bronx-the-doe-fund--matters",
+    "name": "The Doe Fund / MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1420 Crotona Park E, Bronx, NY 10460 (24/7)",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "oh-akron-summit-county-public-heal",
+    "name": "Summit County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SCPH",
+      "https://www.scph.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Barberton Municipal Building 576 W Park St; Community Health Center 725 E Market St; Open M Ministry 941 Princeton St; Choices 320 E South St; Robert K Pfaff Transit Center 631 S Broadway; SCPH 1867 W Market St; SCPH WIC 1400 S Arlington St; IBH 1601 S Main St (most 24/7 outdoor)",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 many. Type: Vending Machines"
+  },
+  {
+    "id": "oh-toledo-harbor--project-dawn",
+    "name": "Harbor / Project DAWN",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ODH Project DAWN list; https://www.bgindependentmedia.org/preventative-narcan-vending-machines-installed-in-3-county-locations/; https://www.13abc.com/2023/08/18/narcan-vending-machines-available-throughout-wood-county"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Harbor Lobby Vending Machine 3909 Woodley Rd, Toledo",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - could not re-confirm on 2026-10-28. Active | Re-verified 2026-10-28 (UNCONFIRMED): Found no source for a Harbor vending machine at 3909 Woodley Rd, Toledo. The only Harbor machine found is 800 Commerce Dr, Perrysburg (Wood County ADAMHS, 2023). Could not be re-confirmed. | Second-source search 2026-10-28 (STILL_SINGLE): Still no source for a Harbor vending machine at 3909 Woodley Rd, Toledo; Wood County coverage (BG Independent, Aug 2023) lists Harbor only at 800 Commerce Dr, Perrysburg. Address remains unconfirmed.. Hours: Business hours. Type: Vending Machine"
+  },
+  {
+    "id": "nc-warrenton-warren-county-health-depa",
+    "name": "Warren County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Warren County HD"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Warren County Memorial Library 119 S Front St Warrenton; Warren County Courthouse 109 S Main St Warrenton; Trinity Baptist Church 778 Porter Road Hollister; Arcola Fire Station 2169 NC Highway 43 Warrenton; Lake Gaston Regional Chamber of Commerce 2357 Eaton Ferry Road Littleton",
+    "city": "Warrenton",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "tn-gallatin-sumner-prevention-coaliti",
+    "name": "Sumner Prevention Coalition",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Main Street Media; https://digital-release.wkrn.com/?p=2299869"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "117 East Winchester Street, Gallatin (on coalition grounds)",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): WKRN (8/29/2025): a Gallatin, Sumner County naloxone vending machine, bought with opioid settlement funds, is maintained by Volunteer Behavioral Health. No street address given; the 117 E Winchester address and coalition as operator are not verified. | Second-source search 2026-10-28 (STILL_SINGLE): No new source found for the Gallatin machine or the 117 E Winchester St address; a Sumner County item mentions the coalition but could not be read.. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "tx-san-antonio-texas-a-m-university-san",
+    "name": "Texas A&M University-San Antonio",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Vending Times; https://www.vendingtimes.com/news/texas-am-san-antonio-installs-free-naloxone-kiosks/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Central Academic Building Commuter Lounge and Student Counseling Center lobby (Barney Boxes); two wall-mounted in residence halls (Be Well Texas / UT Health)",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Vending Times (Sept 11, 2026): four free kiosks at TAMU-SA, two Barney Boxes (Commuter Lounge, Counseling Center lobby) and two in residence halls, supplied by Be Well Texas. Open to students and neighboring community.. Hours: Varies. Type: Kiosks / Boxes"
+  },
+  {
+    "id": "tx-regional-hubs-naloxone-texas",
+    "name": "Naloxone Texas",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Naloxone Texas",
+      "https://naloxonetexas.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Central Plains Center 631 Broadway Plainview; Unity Recovery 1704 Santa Fe Dr Ste 200 Weatherford; ETCADA 708 Glencrest Lane Longview; Center for Recovery and Wellness Resources 4014 Market St Houston; Strategic Recovery Solutions 5144 E Sam Houston Pkwy N Ste 115 Houston; Communities for Recovery 4110 Guadalupe St Bldg 635 Austin; Corazon Ministries 504 Ave E San Antonio; Behavioral Health Solutions 5510 N Cage Blvd Ste A Pharr",
+    "city": "Regional Hubs",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Distribution Hubs"
+  },
+  {
+    "id": "pa-multiple-juniata-valley-tri-county",
+    "name": "Juniata Valley Tri-County Drug & Alcohol Commission",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "PennWatch + DDAP"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Barney Boxes in all school districts; Huntingdon Borough Police; Huntingdon County Children\u2019s Services; Juniata and Mifflin food pantries; Geisinger Lewistown Hospital (nearly 1,200 doses distributed)",
+    "city": "Multiple",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Barney Boxes + distribution"
+  },
+  {
+    "id": "sc-all-counties-sc-dph-clinics--communit",
+    "name": "SC DPH clinics + community distributors",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SC DPH + distributors list",
+      "https://dph.sc.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free opioid overdose kits at one or more Public Health Clinics in every county; community distributors (e.g. Aiken Center 1105 Gregg Hwy Aiken; Cornerstone 103 Whitehall St Abbeville; etc.)",
+    "city": "All counties",
+    "state": "SC",
+    "zip": "",
+    "phone": "1-855-472-3432",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in kits"
+  },
+  {
+    "id": "tn-greeneville-greene-county-anti-drug-c",
+    "name": "Greene County Anti-Drug Coalition + ACTION Recovery",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Greeneville Sun; https://rehabs.org/news/free-naloxone-boxes-now-available-in-rural-east-tennessee/; https://www.greenevillesun.com/news/local_news/naloxone-distribution-site-opens-tuesday-afternoon/article_1f7a9189-a79f-4264-8c37-97f466b1bc52.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Community Pharmacy of Greeneville 1402 Tusculum Blvd (box scheduled May 2026); Baileyton Town Hall 6530 Horton Hwy",
+    "city": "Greeneville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Apr 28, 2026 report: Baileyton Town Hall (6530 Horton Hwy) box already installed; Community Pharmacy box scheduled May 6. ACTION Recovery supplies, Ballad Health grant funds. Free, anonymous, no ID. A Greeneville Sun item also shows pharmacy pop-up.. Hours: Varies. Type: Naloxone Distribution Boxes"
+  },
+  {
+    "id": "ut-provo--libraries-utah-county-health-depart",
+    "name": "Utah County Health Department + libraries",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Utah County Health"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Health Promotion Office 151 S University Ave Suite 2700 Provo; free kits at many city libraries (American Fork, Eagle Mountain, Payson, Provo, Salem, Saratoga Springs, Spanish Fork, Springville)",
+    "city": "Provo + libraries",
+    "state": "UT",
+    "zip": "",
+    "phone": "801-851-7095",
+    "notes": "Active. Hours: Varies. Type: Walk-in kits"
+  },
+  {
+    "id": "wa-vancouver-swach--partners",
+    "name": "SWACH + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SWACH + DOH Finder",
+      "https://www.southwestach.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "XChange Church 21810 NE 37th Ave Ridgefield; Lifeline Connections 1601 E Fourth Plain Blvd Vancouver; Recovery Caf\u00e9 3312 E Fourth Plain Blvd Vancouver; Clark County Jail lobby 707 W 13th St Vancouver; Legacy Salmon Creek 2121 NE 139th St Vancouver; One Community Health Northshore 875 SW Rock Creek Dr Stevenson; Klickitat Valley Health 317 Sanders Way Goldendale",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / some 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "wa-olympia-thurston-county-public-he",
+    "name": "Thurston County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DOH Naloxone Finder"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Kiosk on pillar near entrance 412 Lilly Rd NE Olympia (24/7); vending machine at back of Syringe Services Program 704 Franklin St SE Olympia (24/7)",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Kiosks / machines"
+  },
+  {
+    "id": "wv-morgantown-wise-path-recovery-center",
+    "name": "Wise Path Recovery Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WBOY + WAJR; https://wajr.com/first-naloxone-vending-machine-in-the-state-moved-to-24-7-access-location/; https://www.wdtv.com/2024/04/08/narcan-vending-machine-moved-wise-path-recovery-center; https://www.yahoo.com/news/vending-machine-westover-offers-free-035900465.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "900 Fairmont Road (vestibule; 24/7 free)",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): WAJR, WDTV and Yahoo/WBOY (Apr 2024) confirm the machine moved to Wise Path, 900 Fairmont Rd, in a vestibule with 24/7 access, Narcan free-standing, no staff needed (WV Sober Living, county QRT). No 2025-26 source found.. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "wv-branchland-lincoln-county-community",
+    "name": "Lincoln County Community Outreach",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://www.herald-dispatch.com/news/narcan-dispensing-machine-placed-in-lincoln-county/article_d31e70e7-ec5d-4baf-9f9d-bf0872ea17f1.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "McClellan\u2019s Convenience Store (naloxone + FTS)",
+    "city": "Branchland",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Herald-Dispatch (July 2, 2025): Lincoln County Community Outreach Program machine at McClellan's Convenience Store, Branchland, dispensing naloxone and fentanyl test strips; county's only one. No hours; no 2026 source.. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "wi-milwaukee-milwaukee-county-bhs",
+    "name": "Milwaukee County BHS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Milwaukee County",
+      "https://county.milwaukee.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple machines across county; free naloxone + FTS + other supplies; also Vivent Health Depot mail/delivery",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "wi-madison-dane-county",
+    "name": "Dane County",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HNG News + Patch"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside SSM Health St. Mary\u2019s Hospital Park St Madison; UW Health University Hospital ED Highland Ave Madison; Sunshine Place 18 Rickel Rd Sun Prairie (outside south end); Stoughton Health ED vestibule 900 Ridge St Stoughton (24/7)",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 some. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "wy-tribal-eastern-shoshone-tribal-h",
+    "name": "Eastern Shoshone Tribal Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://www.wyomingpublicmedia.org/open-spaces/2026-03-20/eastern-shoshone-tribal-health-launches-harm-reduction-vending-machines"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Eastern Shoshone Tribal Health office (inside front door) and Rocky Mountain Hall community center; free after one-time PIN from the office",
+    "city": "Tribal",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Wyoming Public Media (3/20/2026): free machines at the tribal health office and Rocky Mountain Hall, due to open in April; a one-time PIN from the office is required. Opening not confirmed. Locations are Wind River area, Fremont County.. Hours: Varies. Type: Vending Machines"
   }
 ]
