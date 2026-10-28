@@ -1,1 +1,19 @@
-PLACEHOLDER_WILL_REPLACE
+[
+  {
+    "id": "tx-woodville-icon-vape-nation",
+    "name": "UT Health Houston ICON / Vape Nation Store Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.easttexasnews.com/stories/narcan-vending-machine-installed-in-woodville,35988",
+      "https://www.ktre.com/2025/04/29/ut-health-installs-free-narcan-vending-machine-tyler-county/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "523 South Magnolia Street (outside Vape Nation Store)",
+    "city": "Woodville",
+    "state": "TX",
+    "zip": "75979",
+    "coordinates": { "lat": 30.7695, "lng": -94.4147 },
+    "notes": "Free anonymous 24/7 naloxone vending machine. Rural East Texas (Tyler County). Provided through UT Health Houston ICON program. Call ahead or check source; availability can change."
+  }
+]
