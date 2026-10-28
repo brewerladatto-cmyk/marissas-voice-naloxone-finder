@@ -6427,5 +6427,479 @@
     "zip": "",
     "phone": "",
     "notes": "Active mail. Hours: Mail. Type: Mail-Order primary"
+  },
+  {
+    "id": "wv-all-wv-odcp--university-of-c",
+    "name": "WV ODCP / University of Charleston + mail",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ODCP + SOAR"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free naloxone to registered partners (harm reduction, health depts, corrections, etc.); free mail via WV Drug Intervention Institute / First Choice after training",
+    "city": "All",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Distribution partners + mail"
+  },
+  {
+    "id": "wi-black-river-falls-jackson-county-public-hea",
+    "name": "Jackson County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Jackson County PH; https://www.wxow.com/news/jackson-county-starts-public-health-vending-machine/article_7f39c4d4-a79c-11ef-bf93-2f72cd39351b.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Jackson County Health and Human Services, 421 County Road R, Black River Falls (24/7)",
+    "city": "Black River Falls",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): WXOW (Nov 2024) says Jackson County's machine is outside Health and Human Services, 421 County Road R, Black River Falls, open 24/7 with free Narcan, test strips, Deterra and gun locks; state DHS grant. Single news source, no 2026 check.. Hours: 24/7. Type: Public Health Vending Machine"
+  },
+  {
+    "id": "wi-all-wi-dhs--gwayakobimaadizi",
+    "name": "WI DHS + Gwayakobimaadiziwin Bad River / NEXT",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WI DHS",
+      "https://www.dhs.wisconsin.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Interactive map of free sites; free mail to any WI address after training",
+    "city": "All",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Map + mail"
+  },
+  {
+    "id": "wy-jackson-teton-county-health-depar",
+    "name": "Teton County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Buckrail; https://buckrail.com/resource-map-to-find-free-narcan-released-by-wyo-department-of-health/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "460 E Pearl Ave Jackson (free Narcan)",
+    "city": "Jackson",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Buckrail 4/28/2026: Teton County Health Department, 460 E Pearl Ave, Jackson, offers free Narcan; address matches. Hours not stated. Single news source; no restrictions noted.. Hours: Varies. Type: Walk-in"
+  },
+  {
+    "id": "wy-22-of-23-counties-wyoming-department-of-hea",
+    "name": "Wyoming Department of Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WDH + WyoFile",
+      "https://health.wyo.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Map of ~30 free sites (public health offices, libraries, fire departments, etc.); free Narcan for Groups (agencies/businesses/orgs) via order form; free mail via NEXT Distro for individuals at risk",
+    "city": "22 of 23 counties",
+    "state": "WY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Community Naloxone Resource Map + groups"
+  },
+  {
+    "id": "ut-ogden-ogden-police-department",
+    "name": "Ogden Police Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ABC4"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Francom Public Safety Building 2186 Lincoln Avenue lobby (code 1234; free anonymous)",
+    "city": "Ogden",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "ut-moab-moab-free-health-clinic",
+    "name": "Moab Free Health Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://opidemic.utah.gov/naloxone/free-naloxone; https://moabsunnews.com/local/moab-free-health-clinic"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "182 N 500 W, Moab UT 84532 (Grand Center; clinic operates weekly, call for hours); listed by Utah as free naloxone source; clinic serves uninsured/underinsured Grand & San Juan residents",
+    "city": "Moab",
+    "state": "UT",
+    "zip": "",
+    "phone": "435-259-1113",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Utah state naloxone page lists Moab Free Health Clinic (435-259-1113) among free naloxone sources, advises calling ahead. Clinic page (182 N 500 W) does not mention naloxone; serves uninsured/underinsured Grand/San Juan residents; weekly at Grand Center.. Hours: Varies. Type: Walk-in"
+  },
+  {
+    "id": "wa-white-salmon-skyline-hospital--klicki",
+    "name": "Skyline Hospital + Klickitat County Jail",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SWACH; https://khaki-cylinder-7tph.squarespace.com/vending; https://www.columbiagorgenews.com/news/generator-narcan-vending-machine-installed-at-jail/article_08615ab8-a8af-4875-ad59-0f097c67b6e5.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Skyline Hospital ER waiting area 211 NE Skyline Drive White Salmon; Klickitat County Jail lobby 205 S Columbus Ave Goldendale",
+    "city": "White Salmon",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): SWACH vending page lists Skyline Hospital ER waiting area (211 NE Skyline Dr, White Salmon) and Klickitat County Jail lobby (205 S Columbus Ave, Goldendale); local news confirms jail machine. No hours or dates found.. Hours: Varies. Type: Vending / Box"
+  },
+  {
+    "id": "wa-clarkston-asotin-county-health-dist",
+    "name": "Asotin County Health District",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DOH Naloxone Finder; https://doh.wa.gov/you-and-your-family/drug-user-health/naloxone-finder; https://www.koze.com/?p=57550; https://www.dailyfly.com/?p=82591; https://www.koze.com/?p=59014",
+      "https://ac-hd.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "719 5th St Clarkston (24/7)",
+    "city": "Clarkston",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - could not re-confirm on 2026-10-28. Active | Re-verified 2026-10-28 (UNCONFIRMED): Could not find the Asotin County Health District entry or a 24/7 box at 719 5th St in the DOH Naloxone Finder pages reviewed; a local report says the district provides naloxone but names no box. Could not be re-confirmed. | Second-source search 2026-10-28 (CONTRADICTED): Daily Fly says free naloxone is given at Asotin County Health District offices in Clarkston and Asotin; KOZE says district office is 719 5th St. No source supports a 24/7 box, vending, or mail-order; looks like staffed-office distribution.. Hours: Not confirmed - free naloxone at district offices; 24/7 access not supported by sources. Type: Box / Vending"
+  },
+  {
+    "id": "wa-grandview-astria-health-centers",
+    "name": "Astria Health Centers",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DOH Naloxone Finder; https://www.astria.health/news/astria-health-expands-access-to-life-saving-naloxone-at-sunnyside-and-toppenish-hospitals-and-five-health-centers; https://doh.wa.gov/pa/node/29651?page=6; https://www.fox41yakima.com/?p=823298"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Lobbies: 208 N Euclid Rd Grandview; 355 Chardonnay Ave Prosser; 1812 E Edison Ave Sunnyside; 1420 Ahtanum Ridge Dr Union Gap",
+    "city": "Grandview",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. Active | Re-verified 2026-10-28 (PARTIAL): Astria (3/13/2025): free naloxone boxes, no check-in, at Sunnyside and Toppenish hospital ERs plus five unnamed health centers. Specific lobby addresses and hours | Second-source search 2026-10-28 (UPGRADED): WA DOH Naloxone Finder lists Astria Health Centers in Grandview, Prosser, Sunnyside and Union Gap at the recorded addresses (hours: see website). Fox 41 Yakima confirms free no-questions naloxone boxes at two hospital ERs plus five Astria health centers, restocked monthly.. Hours: Varies. Type: Naloxone boxes"
+  },
+  {
+    "id": "wv-buckhannon-one-unique-recovery-house",
+    "name": "One Unique Recovery House / Our House",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WDTV; https://www.wdtv.com/2026/08/28/buckhannon-recovery-house-installs-free-narcan-box/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Upshur Parish House (24/7 free, no questions)",
+    "city": "Buckhannon",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): WDTV (8/28/2026): One Unique Recovery House (Our House) installed a free naloxone box outside the Upshur Parish House, Buckhannon; available 24/7, no appointment, restocked regularly. One news source; no official page found.. Hours: 24/7. Type: Distribution Box"
+  },
+  {
+    "id": "wv-charleston-vandalia-health-camc",
+    "name": "Vandalia Health CAMC",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "The Real WV + Herald-Dispatch"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "CAMC General, Memorial, Teays Valley, and Women and Children\u2019s hospitals (public access)",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Distribution Boxes"
+  },
+  {
+    "id": "wv-parkersburg-area-westbrook-health-services",
+    "name": "Westbrook Health Services",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Rehabs.org; https://rehabs.org/news/free-naloxone-distributed-across-8-west-virginia-counties/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Main office 2121 7th St Parkersburg and offices across Tyler, Roane, Jackson and other counties in region; free kits + peer training",
+    "city": "Parkersburg area",
+    "state": "WV",
+    "zip": "",
+    "phone": "304-485-1721",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Rehabs.org (Sept 2026): free naloxone kits and peer training year-round at Westbrook offices across its eight-county area; Parkersburg main office 2121 7th St; general line 304-485-1721; 24/7 crisis 304-485-1725.. Hours: Varies. Type: Walk-in year-round"
+  },
+  {
+    "id": "wi-menomonee-falls-waukesha-county-dhhs--ar",
+    "name": "Waukesha County DHHS + ARC",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "GM Today; https://www.wisn.com/article/narcan-vending-machine-in-waukesha-county/40925225; https://www.waukeshacounty.gov/health-and-human-services/clinical-services/overdose-prevention/naloxone/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "North Hills Health Center Menomonee Falls (Froedtert); ProHealth Waukesha Memorial Hospital ED Mukwonago (naloxone + FTS + xylazine strips)",
+    "city": "Menomonee Falls",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - could not re-confirm on 2026-10-28. Active | Re-verified 2026-10-28 (UNCONFIRMED): Could not re-confirm the two listed sites. Only found 2022 WISN report of an Addiction Resource Council vending machine in Waukesha County; no current source for North Hills or Mukwonago machines. | Second-source search 2026-10-28 (STILL_SINGLE): Waukesha County's naloxone page lists no vending machines or the two named sites; only a 2022 WISN story (Addiction Resource Council machine, site unnamed) found. Could not confirm North Hills or Mukwonago.. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "wi-appleton-outagamie-county-public-h",
+    "name": "Outagamie County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Outagamie County + WNCY; https://www.outagamie.gov/PHVM",
+      "https://www.outagamie.gov/PHVM"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Govt Center vestibule 320 S Walnut St, Appleton; Grand Chute Fire Station 2 exterior 3900 W Spencer St (24/7); Grand Chute PD lobby 1900 W Grand Chute Blvd",
+    "city": "Appleton",
+    "state": "WI",
+    "zip": "",
+    "phone": "920-832-5100 / PHQuestions@outagamie.org",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Official county page lists machines at Govt Center 320 S Walnut St (building hours), Grand Chute Fire Station 2 3900 W Spencer St (24/7), Grand Chute PD lobby 1900 W Grand Chute Blvd. Courthouse/Town Hall not listed. Phone 920-832-5100.. Hours: Govt Center: M 7:30-7, Tu 7:30-9, W 7:30-6, Th 7:30-7, F 7:30-5, closed weekends; Fire Station 2: 24/7. Type: Public Health Vending Machines"
+  },
+  {
+    "id": "wi-multiple-counties-wi-dhs-funded-machines",
+    "name": "WI DHS funded machines",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WPR + DHS",
+      "https://www.dhs.wisconsin.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "50+ machines funded by DHS across the state (including Green Bay/Brown County ~13, Winnebago ~24, etc.)",
+    "city": "Multiple counties",
+    "state": "WI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / many 24/7. Type: Public Health Vending Machines"
+  },
+  {
+    "id": "ok-all-ok-i-m-ready-odmhsas",
+    "name": "OK I\u2019m Ready (ODMHSAS)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ODMHSAS official + NEXT Distro",
+      "https://okimready.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online order form",
+    "city": "All",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active primary access; former state vending program discontinued 2024. Hours: Mail. Type: Mail-Order"
+  },
+  {
+    "id": "ok-tulsa-hope-clinic",
+    "name": "HOPE Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KTUL + local reports"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4720 E. 51st Street, Tulsa (exterior vestibule)",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active; machine relocated for 24/7 access. Hours: 24/7. Type: Harm Reduction Vending Machine"
+  },
+  {
+    "id": "ok-shawnee-citizen-potawatomi-nation",
+    "name": "Citizen Potawatomi Nation",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Potawatomi.org + RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "FireLake Discount Foods; FireLake Entertainment Center; Grand Casino Hotel & Resort",
+    "city": "Shawnee",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active tribal machines. Hours: Public access. Type: Narcan Vending Machines"
+  },
+  {
+    "id": "id-mccall-cdh--ignite-idaho--st",
+    "name": "CDH / Ignite Idaho / St. Luke\u2019s",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CDH official + local",
+      "https://cdh.idaho.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "St. Luke\u2019s McCall ED; Cascade Food Pantry; Ignite Idaho Resource Center; CDH McCall",
+    "city": "McCall",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 some. Type: Vending + Barney Boxes"
+  },
+  {
+    "id": "il-multiple-towns-will-county-health-depart",
+    "name": "Will County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Farmers Weekly Review"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "20+ red boxes (libraries, campuses, community centers, village halls)",
+    "city": "Multiple towns",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 many. Type: Red Distribution Boxes"
+  },
+  {
+    "id": "il-pekin-tazewell-county-sites--j",
+    "name": "Tazewell County sites + Jolt",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "211HOI"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Police depts 24/7 (Creve Coeur, Washington); Justice Center; Jolt Peoria vending",
+    "city": "Pekin",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 some. Type: Distribution Boxes + Vending"
+  },
+  {
+    "id": "il-rock-island-rock-island-county-health",
+    "name": "Rock Island County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KWQC"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "County HD office (anonymous, no questions)",
+    "city": "Rock Island",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Weekdays. Type: Walk-in kits"
+  },
+  {
+    "id": "il-oend-providers-idhs-oend-network-egypti",
+    "name": "IDHS OEND network (Egyptian PH, Chestnut, etc.)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "IDHS OEND list",
+      "https://www.dhs.state.il.us"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Regional OEND providers covering rural counties (Alexander, Clay, Franklin, etc.)",
+    "city": "OEND providers",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational distribution"
+  },
+  {
+    "id": "in-kokomo-kokomo-howard-county-publ",
+    "name": "Kokomo-Howard County Public Library",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WTHR"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Library vestibule (library hours) + exterior NaloxBox",
+    "city": "Kokomo",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 box. Type: Vending Machine + NaloxBox"
+  },
+  {
+    "id": "ia-dubuque-dubuque-county-public-hea",
+    "name": "Dubuque County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KCRG"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "ASAC 1940 Elm St; Hillcrest Peterson building; rural boxes at Asbury & Dyersville city halls",
+    "city": "Dubuque",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending + Boxes"
+  },
+  {
+    "id": "ia-county-health-depts-iowa-hhs-distribution-ini",
+    "name": "Iowa HHS Distribution Initiative",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Iowa HHS",
+      "https://hhs.iowa.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "216+ listed sites including rural county partners (ASAC Anamosa, ADDS, etc.)",
+    "city": "County health depts",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational sites"
+  },
+  {
+    "id": "ky-all-counties-find-naloxone-now-ky",
+    "name": "Find Naloxone Now KY",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KDPH official",
+      "https://findnaloxone.ky.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "findnaloxone.ky.gov (450+ no-cost locations including rural LHD, CBOs); mail-order statewide; portable kiosks supported",
+    "city": "All counties",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 kiosks. Type: Locator map + mail + kiosks"
+  },
+  {
+    "id": "ky-murray-calloway-county-sites",
+    "name": "Calloway County sites",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Calloway County Health Department, Murray Housing Authority, city park",
+    "city": "Murray",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Narcan Boxes"
   }
 ]
