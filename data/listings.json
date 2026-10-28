@@ -39,7 +39,7 @@
       "lat": 32.5081,
       "lng": -94.7467
     },
-    "notes": "Free 24/7 naloxone vending machine outside ETCADA. Official Naloxone Texas regional hub for East Texas (serves ~23–35 rural counties). Dispensed 150+ containers in first month of operation. No ID or payment required."
+    "notes": "Free 24/7 naloxone vending machine outside ETCADA. Official Naloxone Texas regional hub for East Texas (serves ~23\u201335 rural counties). Dispensed 150+ containers in first month of operation. No ID or payment required."
   },
   {
     "id": "tx-new-boston-heartstart-vending",
@@ -64,7 +64,7 @@
   },
   {
     "id": "tx-texarkana-randy-sams-vending",
-    "name": "Randy Sams’ Outreach Center / Heartstart Heroes Naloxone Vending",
+    "name": "Randy Sams\u2019 Outreach Center / Heartstart Heroes Naloxone Vending",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -73,7 +73,7 @@
       "https://randysams.org/contact-us"
     ],
     "last_checked": "2026-10-28",
-    "address": "402 Oak Street (lobby of Randy Sams’ Outreach Center)",
+    "address": "402 Oak Street (lobby of Randy Sams\u2019 Outreach Center)",
     "city": "Texarkana",
     "state": "TX",
     "zip": "75501",
@@ -185,7 +185,7 @@
       "lat": 32.2824,
       "lng": -95.2804
     },
-    "notes": "Free walk-in naloxone (Narcan) available Monday–Friday, roughly 9 a.m.–4 p.m. East Texas nonprofit serving rural communities. Basic contact info may be requested for grant reporting; no cost."
+    "notes": "Free walk-in naloxone (Narcan) available Monday\u2013Friday, roughly 9 a.m.\u20134 p.m. East Texas nonprofit serving rural communities. Basic contact info may be requested for grant reporting; no cost."
   },
   {
     "id": "tx-dallas-metrocare-lancaster-kiest-vending",
@@ -207,7 +207,7 @@
       "lat": 32.7035,
       "lng": -96.7875
     },
-    "notes": "Free public health vending machine with naloxone (Narcan) and other supplies at Metrocare Lancaster-Kiest Adult Mental Health Clinic. Launched January 2026 in partnership with Dallas County Health and Human Services (DCHHS). Clinic hours Mon–Fri 8 a.m.–5 p.m.; confirm vending access and stock on site. No cost."
+    "notes": "Free public health vending machine with naloxone (Narcan) and other supplies at Metrocare Lancaster-Kiest Adult Mental Health Clinic. Launched January 2026 in partnership with Dallas County Health and Human Services (DCHHS). Clinic hours Mon\u2013Fri 8 a.m.\u20135 p.m.; confirm vending access and stock on site. No cost."
   },
   {
     "id": "tx-denton-rubber-gloves-vending",
@@ -269,7 +269,7 @@
       "lat": 32.7845,
       "lng": -96.782
     },
-    "notes": "Free Narcan (naloxone) vending machine at Deep Ellum Community Center. Installed September 2024 by Conscience Conduit and LIVEGY; artful design. Additional machines in the area. Call or check for current hours/stock; community center open Wed–Sun noon–7 p.m."
+    "notes": "Free Narcan (naloxone) vending machine at Deep Ellum Community Center. Installed September 2024 by Conscience Conduit and LIVEGY; artful design. Additional machines in the area. Call or check for current hours/stock; community center open Wed\u2013Sun noon\u20137 p.m."
   },
   {
     "id": "tx-dallas-apaa-mlk-vending",
@@ -333,7 +333,7 @@
       "lat": 32.759,
       "lng": -97.797
     },
-    "notes": "Free anonymous 24/7 naloxone vending machine at Unity Recovery’s Weatherford Recovery Community Center. Official Naloxone Texas regional hub for Region 3 (Tarrant County and surrounding western DFW counties). No ID or payment required. Also offers peer support and training."
+    "notes": "Free anonymous 24/7 naloxone vending machine at Unity Recovery\u2019s Weatherford Recovery Community Center. Official Naloxone Texas regional hub for Region 3 (Tarrant County and surrounding western DFW counties). No ID or payment required. Also offers peer support and training."
   },
   {
     "id": "tx-weatherford-ntace-dispenser",
@@ -905,7 +905,7 @@
       "lat": 29.762,
       "lng": -95.39
     },
-    "notes": "Free naloxone (Narcan) vending machine in the coffee lounge. Accessible during regular business hours (approx Mon-Thu 8:30am–9pm, Fri 8:30am–5pm, Sat 8:30am-1:30pm). No cost, no personal information required. Naloxone Texas style unit."
+    "notes": "Free naloxone (Narcan) vending machine in the coffee lounge. Accessible during regular business hours (approx Mon-Thu 8:30am\u20139pm, Fri 8:30am\u20135pm, Sat 8:30am-1:30pm). No cost, no personal information required. Naloxone Texas style unit."
   },
   {
     "id": "ny-redhook-matters-vending",
@@ -1719,5 +1719,301 @@
       "lng": -110.8798
     },
     "notes": "Free Pima County Health Department vending machine with naloxone, fentanyl test strips and other supplies; open to the public, not just patients. Asks a few anonymous demographic questions. Hours not stated."
+  },
+  {
+    "id": "al-montgomery-montgomery-county-health-depar",
+    "name": "Montgomery County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ADPH official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "3060 Mobile Highway",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: M-F 7:30-5. Free naloxone via Kiosk. Urban."
+  },
+  {
+    "id": "az-flagstaff-coconino-county-hhs",
+    "name": "Coconino County HHS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CCHHS official + news",
+      "https://www.coconino.az.gov/vendingmachine"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2625 N. King St. (lobby), Flagstaff Medical Center, Page sites, Fredonia, etc.",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Weekdays 8-5 (main); 24/7 some. Free naloxone via Vending Machine + Sites. Northern rural."
+  },
+  {
+    "id": "ca-multiple-la-county-dph-community-health",
+    "name": "LA County DPH Community Health Stations",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "LA DPH official",
+      "ph.lacounty.gov/CommunityHealthStation"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "51+ stations (pharmacies, health centers, shelters, etc.)",
+    "city": "Multiple",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding to 100. Hours: Varies / many extended. Free naloxone via Vending Machines. Large urban + surrounding."
+  },
+  {
+    "id": "ct-new-haven-yale-community-health-care-van",
+    "name": "Yale Community Health Care Van / APNH / APT",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Yale / CHCV",
+      "medicine.yale.edu"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1302 Chapel St (24/7); APT Front Ave; mobile van; 270 Congress Ave",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 some; clinic hours others. Free naloxone via Vending Machines + Mobile + Storefront. Urban."
+  },
+  {
+    "id": "al-birmingham-jcdh-central",
+    "name": "JCDH Central",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official list",
+      "https://jcdh.org/naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1400 6th Ave. S., Birmingham, AL 35233",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Lobby hours. Free naloxone via Community Box. Urban."
+  },
+  {
+    "id": "al-roebuck-jcdh-eastern",
+    "name": "JCDH Eastern",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official",
+      "https://jcdh.org/naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "601 West Blvd., Roebuck, AL 35206",
+    "city": "Roebuck",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Lobby hours. Free naloxone via Community Box. Urban."
+  },
+  {
+    "id": "al-birmingham-jcdh-western",
+    "name": "JCDH Western",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official",
+      "https://jcdh.org/naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "631 Bessemer Super Hwy, Birmingham, AL 35228",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Lobby hours. Free naloxone via Community Box. Urban."
+  },
+  {
+    "id": "al-birmingham-amtrak-transit-station",
+    "name": "Amtrak Transit Station",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official",
+      "https://jcdh.org/naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "801 Morris Ave., Birmingham, AL 35203",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Transit hours. Free naloxone via Community Box. Urban."
+  },
+  {
+    "id": "al-birmingham-woodlawn-transit-station",
+    "name": "Woodlawn Transit Station",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "5631 1st Ave. N., Birmingham, AL 35212",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Transit hours. Free naloxone via Community Box. Urban."
+  },
+  {
+    "id": "al-birmingham-crossplex-transit-station",
+    "name": "Crossplex Transit Station",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2337 Bessemer Rd., Birmingham, AL 35208",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Transit hours. Free naloxone via Community Box. Urban."
+  },
+  {
+    "id": "al-hoover-hoover-public-library",
+    "name": "Hoover Public Library",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "200 Municipal Dr., Hoover, AL 35216",
+    "city": "Hoover",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Library hours. Free naloxone via Community Box. Suburban."
+  },
+  {
+    "id": "al-mobile-vista-medical-kiosk",
+    "name": "Vista Medical Kiosk",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MCHD / FOX10"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1359 Spring Hill Avenue, Mobile, AL 36604",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - high traffic. Hours: Clinic hours. Free naloxone via Vending/Kiosk. Urban."
+  },
+  {
+    "id": "al-mobile-b-bob-s-bar-kiosk",
+    "name": "B-Bob\u2019s Bar Kiosk",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MCHD / local news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "213 Conti Street, Mobile, AL 36602",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Bar hours. Free naloxone via Vending/Kiosk. Urban."
+  },
+  {
+    "id": "al-mobile-shell-health-kiosk",
+    "name": "Shell Health Kiosk",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MCHD official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4321 Downtowner Loop North, Mobile, AL 36609",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Clinic hours. Free naloxone via Vending/Kiosk. Urban."
+  },
+  {
+    "id": "al-semmes-semmes-pharmacy-kiosk",
+    "name": "Semmes Pharmacy Kiosk",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MCHD official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "8985 Moffett Road, Semmes, AL 36575",
+    "city": "Semmes",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Pharmacy hours. Free naloxone via Vending/Kiosk. Suburban."
+  },
+  {
+    "id": "az-flagstaff-cchhs-flagstaff-office-vending",
+    "name": "CCHHS Flagstaff Office Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CCHHS official",
+      "https://www.coconino.az.gov/vendingmachine"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2625 N. King Street, Flagstaff, AZ 86004",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "",
+    "phone": "(928) 679-7264",
+    "notes": "Active. Hours: M-F 8am-5pm. Free naloxone via Vending Machine. Urban/rural hub."
+  },
+  {
+    "id": "az-flagstaff-flagstaff-medical-center-vendi",
+    "name": "Flagstaff Medical Center Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NAH / CCHHS"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1200 N. Beaver Street, Flagstaff, AZ 86001 (near ED)",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Free naloxone via Vending Machine. Urban."
+  },
+  {
+    "id": "al-parrish-project-h-e-r-o-vending-machi",
+    "name": "Project H.E.R.O. Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news / Oxford American / WBRC"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Old First National Bank parking lot / new Parrish Town Hall area, County Road 269, Parrish, AL",
+    "city": "Parrish",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - first in state, high volume. Hours: 24/7. Free naloxone via Vending Machine. Rural Appalachian."
   }
 ]
