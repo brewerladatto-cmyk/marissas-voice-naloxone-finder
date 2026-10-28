@@ -4957,5 +4957,338 @@
     "zip": "",
     "phone": "",
     "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Wyoming Public Media (3/20/2026): free machines at the tribal health office and Rocky Mountain Hall, due to open in April; a one-time PIN from the office is required. Opening not confirmed. Locations are Wind River area, Fremont County.. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "al-all-alabama-department-of-men",
+    "name": "Alabama Department of Mental Health / Jefferson County DH",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ADPH / ADMH official",
+      "https://www.alabamapublichealth.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online / Local HD",
+    "city": "All",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active primary access. Hours: Online. Type: Mail-Order + Standing Order"
+  },
+  {
+    "id": "ak-all-project-hope-ak-dept-of",
+    "name": "Project HOPE (AK Dept of Health)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Official DOH",
+      "https://health.alaska.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Partner map + online",
+    "city": "All",
+    "state": "AK",
+    "zip": "",
+    "phone": "doh.osmap.info@alaska.gov",
+    "notes": "Active statewide. Hours: Varies by partner. Type: Partner Sites + Mail-Order"
+  },
+  {
+    "id": "az-all-sodaz--sonoran-preventio",
+    "name": "SODAz / Sonoran Prevention Works / NEXT Distro",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Official / SPW",
+      "https://spwaz.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online / map",
+    "city": "All",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Mail-Order + Community Sites"
+  },
+  {
+    "id": "ar-all-next-distro--nwa-harm-re",
+    "name": "NEXT Distro / NWA Harm Reduction / Central AR Harm Reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NEXT + local orgs",
+      "https://nextdistro.org/arkansas"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online / Fayetteville / Little Rock",
+    "city": "All",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active primary. Hours: Online / site hours. Type: Mail-Order + Local Drop-in"
+  },
+  {
+    "id": "ca-all-58-counties-dhcs-naloxone-distributio",
+    "name": "DHCS Naloxone Distribution Project (NDP)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHCS official",
+      "https://www.dhcs.ca.gov/individuals/naloxone-distribution-project/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online application for orgs",
+    "city": "All 58 counties",
+    "state": "CA",
+    "zip": "",
+    "phone": "Naloxone@dhcs.ca.gov",
+    "notes": "Active - millions of kits distributed. Type: Organizational Distribution (then local free)"
+  },
+  {
+    "id": "co-all-cdphe-naloxone-bulk-purch",
+    "name": "CDPHE Naloxone Bulk Purchase Fund + NEXT Distro / HRAC",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CDPHE official",
+      "https://cdphe.colorado.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online",
+    "city": "All",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Bulk for Orgs + Mail-Order + Local Sites"
+  },
+  {
+    "id": "hi-various-maui-aids-foundation--hh",
+    "name": "Maui AIDS Foundation + HHHRC mail",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HHHRC",
+      "https://www.hhhrc.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Wailuku clinic; mail for outer islands",
+    "city": "Various",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Walk-in + Mail"
+  },
+  {
+    "id": "la-parish-health-units--partners-ldh-overdose-preventio",
+    "name": "LDH Overdose Prevention and Response Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "LDH official",
+      "https://louisianahealthhub.org/oprh/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "louisianahealthhub.org/oprh/ geo-map of distribution sites; parish health units",
+    "city": "Parish health units + partners",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational distribution + map"
+  },
+  {
+    "id": "pr-san-juan-gua-kia",
+    "name": "Gua\u2019kia",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HarmReductionFinder"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "San Juan PR 00925 (R\u00edo Piedras area outreach); call to confirm",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "(787) 605-9906",
+    "notes": "Active. Hours: Varies. Type: Harm Reduction / SSP"
+  },
+  {
+    "id": "pr-san-juan-el-punto-en-la-monta\u00f1a-i",
+    "name": "El Punto en la Monta\u00f1a, Inc",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HarmReductionFinder",
+      "http://www.elpuntopr.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "San Juan PR 00929; Wednesdays 9am-3pm (mountain/rural focus)",
+    "city": "San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "(787) 773-1842",
+    "notes": "Active. Hours: Wed 9-3. Type: Harm Reduction / SSP"
+  },
+  {
+    "id": "pr-island-wide-assmca-administraci\u00f3n-de",
+    "name": "ASSMCA (Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ASSMCA + Primera Hora + WIPR"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free kits via 988 or fr-cara@assmca.pr.gov; >190,000 kits distributed; >800 naloxone boxes in public/high-risk areas; saturation plan with Centros 330",
+    "city": "Island-wide",
+    "state": "PR",
+    "zip": "",
+    "phone": "1-800-981-0023 / 988",
+    "notes": "Active. Hours: Varies. Type: Kits + 800+ naloxone boxes"
+  },
+  {
+    "id": "pr-viejo-san-juan-assmca-event-distribution",
+    "name": "ASSMCA event distribution",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Metro PR + Primera Hora"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Distributed to merchants and artisans during Fiestas de la Calle San Sebasti\u00e1n (and similar large events) for rapid access",
+    "city": "Viejo San Juan",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Event-based. Type: Temporary community kits"
+  },
+  {
+    "id": "pr-all-next-distro",
+    "name": "NEXT Distro",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NEXT Distro",
+      "https://nextdistro.org/puertorico"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free mail to any Puerto Rico address for people who use drugs, recently released, or their networks",
+    "city": "All",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mail. Type: Mail-order"
+  },
+  {
+    "id": "pr-hospitals-departamento-de-salud-de",
+    "name": "Departamento de Salud de Puerto Rico",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Salud PR",
+      "https://www.salud.pr.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "List of hospitals and diagnostic/treatment centers with naloxone available (updated July 2026); also postal mailing of naloxone",
+    "city": "Hospitals",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Institutional distribution"
+  },
+  {
+    "id": "pr-casa-bazar-solidaria-hermanxs-de-la-calle-por",
+    "name": "Hermanxs de la Calle por Puerto Rico",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Instagram (org post)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Exterior of Casa Bazar Solidaria program (free 24/7 access, regularly restocked)",
+    "city": "Casa Bazar Solidaria",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Naloxone Box"
+  },
+  {
+    "id": "pr-fajardo-intercambios-puerto-rico",
+    "name": "Intercambios Puerto Rico",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN + Intercambios site",
+      "https://intercambiospr.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Clinic: 165 Calle Diego Zalduondo, Altos, Fajardo PR 00738 (and new site #14 Calle Antonio R. Barcel\u00f3); La M\u00f3vil RV and outreach to Can\u00f3vanas, Lo\u00edza, R\u00edo Grande, Luquillo, Naguabo, Humacao, Yabucoa, Juncos, Gurabo, Caguas and more",
+    "city": "Fajardo",
+    "state": "PR",
+    "zip": "",
+    "phone": "(787) 399-9334",
+    "notes": "Active. Hours: Mon-Fri 9-5 (clinic); mobile varies. Type: Clinic + Mobile SSP + Naloxone"
+  },
+  {
+    "id": "pr-sabana-seca-community-naloxone-statio",
+    "name": "Community naloxone stations",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Instagram (nnepuertorico)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4 stations: Sector Los Bravos (Calle del Carmen), Sector El Parque (Calle Parque), ACUTAS (Calle Bell\u00edsima), Barrio Ingenio (Villas del Sol); restocked Mondays",
+    "city": "Sabana Seca",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Community access. Type: Distribution stations"
+  },
+  {
+    "id": "pr-adjuntas-cdts-and-centros-330-with",
+    "name": "CDTs and Centros 330 with naloxone",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Salud PR listado",
+      "https://www.salud.pr.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Examples: CDT Adjuntas (Calle Rius Rivera); Aguada Medical Center (Carr 115 KM 24.5 Bo. Asomante); Policl\u00ednica Familiar Factor (Bo. Factor km 65.6 Carr PR 2, Animas/Arecibo); full list updated July 2026 by Salud PR",
+    "city": "Adjuntas",
+    "state": "PR",
+    "zip": "",
+    "phone": "Varies",
+    "notes": "Active. Hours: Varies. Type: Walk-in institutional"
+  },
+  {
+    "id": "pr-multiple-neomed-center--medicina",
+    "name": "NeoMed Center / Medicina en la Calle",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Metro PR"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Mobile unit distributes naloxone and clean syringes in vulnerable communities (Trujillo Alto, San Juan, Carolina and others); also fixed clinics in Gurabo, Trujillo Alto, Aguas Buenas, Naguabo, Juncos, San Lorenzo",
+    "city": "Multiple",
+    "state": "PR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mobile schedule. Type: Mobile outreach"
+  },
+  {
+    "id": "pr-all-municipalities-assmca-postal--988-reque",
+    "name": "ASSMCA postal + 988 request",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ASSMCA + Salud PR"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Any resident can request free kit by calling 988 or emailing fr-cara@assmca.pr.gov; also postal mailing supported by Salud PR",
+    "city": "All municipalities",
+    "state": "PR",
+    "zip": "",
+    "phone": "988 / 1-800-981-0023",
+    "notes": "Active. Hours: Request anytime. Type: Mail / phone request"
   }
 ]
