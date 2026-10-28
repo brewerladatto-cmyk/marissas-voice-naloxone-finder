@@ -1195,5 +1195,529 @@
     "state": "MO",
     "zip": "63133",
     "notes": "Free naloxone vending machine as part of St. Louis County 'I Carry for My Community' campaign. One of multiple county machines."
+  },
+  {
+    "id": "ca-petaluma-library-vending",
+    "name": "Sonoma County Health To Go Vending - Petaluma Library",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://sonomacounty.gov/vendingmachines",
+      "https://www.krcb.org/20260423100831/news-feed/sonoma-county-expands-free-health-to-go-vending-machines-2"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "100 Fairgrounds Dr",
+    "city": "Petaluma",
+    "state": "CA",
+    "zip": "94952",
+    "coordinates": {
+      "lat": 38.2428,
+      "lng": -122.6317
+    },
+    "notes": "Free, anonymous Sonoma County Public Health 'Health To Go' vending machine, open 24/7. Dispenses Narcan, fentanyl test strips and other health supplies; three-item limit, a few optional demographic questions."
+  },
+  {
+    "id": "ca-sonoma-valley-library-vending",
+    "name": "Sonoma County Health To Go Vending - Sonoma Valley Library",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://sonomacounty.gov/vendingmachines",
+      "https://www.krcb.org/20260423100831/news-feed/sonoma-county-expands-free-health-to-go-vending-machines-2"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "755 W Napa St",
+    "city": "Sonoma",
+    "state": "CA",
+    "zip": "95476",
+    "coordinates": {
+      "lat": 38.2933,
+      "lng": -122.4727
+    },
+    "notes": "Free, anonymous Sonoma County Public Health 'Health To Go' vending machine, open 24/7. Dispenses Narcan, fentanyl test strips and other health supplies; three-item limit, a few optional demographic questions."
+  },
+  {
+    "id": "ca-santarosa-roseland-library-vending",
+    "name": "Sonoma County Health To Go Vending - Roseland Library",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://sonomacounty.gov/vendingmachines",
+      "https://www.krcb.org/20260423100831/news-feed/sonoma-county-expands-free-health-to-go-vending-machines-2"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "470 Sebastopol Rd",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95407",
+    "coordinates": {
+      "lat": 38.4304,
+      "lng": -122.7259
+    },
+    "notes": "Free, anonymous Sonoma County Public Health 'Health To Go' vending machine, open 24/7. Dispenses Narcan, fentanyl test strips and other health supplies; three-item limit, a few optional demographic questions."
+  },
+  {
+    "id": "ca-rohnertpark-peoples-service-center-vending",
+    "name": "Sonoma County Health To Go Vending - Peoples Service Center",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://sonomacounty.gov/vendingmachines",
+      "https://www.krcb.org/20260423100831/news-feed/sonoma-county-expands-free-health-to-go-vending-machines-2"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "6800 Hunter Dr, Ste B",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "zip": "94928",
+    "coordinates": {
+      "lat": 38.3453,
+      "lng": -122.7086
+    },
+    "notes": "Free, anonymous Sonoma County Public Health 'Health To Go' vending machine, open 24/7. Dispenses Narcan, fentanyl test strips and other health supplies; three-item limit, a few optional demographic questions."
+  },
+  {
+    "id": "ca-cloverdale-la-familia-sana-vending",
+    "name": "Sonoma County Health To Go Vending - La Familia Sana",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://sonomacounty.gov/vendingmachines",
+      "https://www.krcb.org/20260423100831/news-feed/sonoma-county-expands-free-health-to-go-vending-machines-2"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "439 N Cloverdale Blvd",
+    "city": "Cloverdale",
+    "state": "CA",
+    "zip": "95425",
+    "coordinates": {
+      "lat": 38.8103,
+      "lng": -123.0208
+    },
+    "notes": "Free, anonymous Sonoma County Public Health 'Health To Go' vending machine, open 24/7. Dispenses Narcan, fentanyl test strips and other health supplies; three-item limit, a few optional demographic questions."
+  },
+  {
+    "id": "ca-mammothlakes-library-vending",
+    "name": "Mono County Public Health Vending - Mammoth Lakes Library",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://monocounty.ca.gov/1619/Mono-County-Launches-Public-Health-Vendi"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "400 Sierra Park Rd",
+    "city": "Mammoth Lakes",
+    "state": "CA",
+    "zip": "93546",
+    "notes": "Free, confidential Mono County Public Health vending machine with naloxone (Narcan), fentanyl test strips and other health supplies. County describes 24/7 access, but this machine is at the library; confirm access hours by calling 760-924-1830."
+  },
+  {
+    "id": "fl-dadecity-baycare-vending",
+    "name": "BayCare Behavioral Health Harm Reduction Vending - Dade City",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://baycare.org/newsroom/2026/february/baycare-launches-harm-reduction-vending-machines-to-expand-behavioral-health-access-in-pasco-county",
+      "https://pasco.floridahealth.gov/2025/12/09/doh-pasco-introduces-harm-reduction-vending-machines/",
+      "https://www.tampabay28.com/news/region-pasco/harm-reduction-vending-machines-in-pasco-county-provide-free-resources-to-the-community"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Behind BayCare Behavioral Health facility (call for exact location)",
+    "city": "Dade City",
+    "state": "FL",
+    "notes": "Free, anonymous 24/7 harm-reduction vending machine with NARCAN, fentanyl and HIV test strips. DOH-Pasco / BayCare / Alliance for Healthy Communities program. Call 727-619-0300 to confirm the exact location."
+  },
+  {
+    "id": "fl-jacksonville-doh-duval-pharmacy",
+    "name": "Florida Department of Health in Duval County - Free NARCAN (Pharmacy Center)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://duval.floridahealth.gov/programs-and-services/wellness-programs/od2a-overdose-data-to-action/narcan-distribution/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "515 West 6th St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32206",
+    "coordinates": {
+      "lat": 30.3437,
+      "lng": -81.661
+    },
+    "notes": "Free NARCAN from DOH-Duval during business hours at its 515 W 6th St campus and other DOH-Duval sites. Call 904-253-1488 to confirm hours and stock."
+  },
+  {
+    "id": "oh-barberton-municipal-building-vending",
+    "name": "Summit County Public Health Vending - Barberton Municipal Building",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.scph.org/vending"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "576 W Park Ave",
+    "city": "Barberton",
+    "state": "OH",
+    "zip": "44203",
+    "coordinates": {
+      "lat": 41.0137,
+      "lng": -81.6107
+    },
+    "notes": "Free Summit County Public Health vending machine with naloxone, fentanyl test strips and other health supplies. Indoor machine listed as 24/7. Stock can change; check the source."
+  },
+  {
+    "id": "oh-akron-choices-vending",
+    "name": "Summit County Public Health Vending - Choices Community Social Center",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.scph.org/vending"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "320 E South St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44311",
+    "coordinates": {
+      "lat": 41.0617,
+      "lng": -81.5158
+    },
+    "notes": "Free Summit County Public Health vending machine with naloxone, fentanyl test strips and other health supplies. Outdoor machine, 24/7. Stock can change; check the source."
+  },
+  {
+    "id": "oh-akron-community-health-center-vending",
+    "name": "Summit County Public Health Vending - Community Health Center",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.scph.org/vending"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "725 E Market St (behind building)",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44305",
+    "coordinates": {
+      "lat": 41.076,
+      "lng": -81.495
+    },
+    "notes": "Free Summit County Public Health vending machine with naloxone, fentanyl test strips and other health supplies. Outdoor machine behind the building, 24/7. Stock can change; check the source."
+  },
+  {
+    "id": "oh-akron-ibh-firestone-park-vending",
+    "name": "Summit County Public Health Vending - IBH Firestone Park",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.scph.org/vending"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1601 S Main St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44301",
+    "coordinates": {
+      "lat": 41.044,
+      "lng": -81.5271
+    },
+    "notes": "Free Summit County Public Health vending machine with naloxone, fentanyl test strips and other health supplies. Outdoor machine, 24/7. Stock can change; check the source."
+  },
+  {
+    "id": "oh-akron-open-m-ministry-vending",
+    "name": "Summit County Public Health Vending - Open M Ministry",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.scph.org/vending"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "941 Princeton St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44311",
+    "coordinates": {
+      "lat": 41.061,
+      "lng": -81.5345
+    },
+    "notes": "Free Summit County Public Health vending machine with naloxone, fentanyl test strips and other health supplies. Outdoor machine, 24/7. Stock can change; check the source."
+  },
+  {
+    "id": "oh-akron-scph-market-st-vending",
+    "name": "Summit County Public Health Vending - SCPH Main Office",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.scph.org/vending"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1867 W Market St (outdoor machine by Building C)",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44313",
+    "notes": "Free Summit County Public Health vending machine with naloxone, fentanyl test strips and other health supplies. Outdoor machine by Building C is 24/7; indoor machine in Building A 8am-4pm. Stock can change; check the source."
+  },
+  {
+    "id": "oh-columbus-fcph-innis-rd-vending",
+    "name": "Franklin County Public Health Vending - Innis Road",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://myfcph.org/overdose-prevention/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2139 Innis Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43224",
+    "coordinates": {
+      "lat": 40.0371,
+      "lng": -82.9565
+    },
+    "notes": "Free Franklin County Public Health vending machine with NARCAN, fentanyl test strips and other supplies. 24/7 outdoor access in food shed."
+  },
+  {
+    "id": "oh-columbus-fcph-hague-ave-vending",
+    "name": "Franklin County Public Health Vending - North Hague Avenue",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://myfcph.org/overdose-prevention/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "342 N Hague Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43204",
+    "coordinates": {
+      "lat": 39.9618,
+      "lng": -83.0759
+    },
+    "notes": "Free Franklin County Public Health vending machine with NARCAN, fentanyl test strips and other supplies. 24/7 outdoor access in food shed."
+  },
+  {
+    "id": "oh-columbus-fcph-cleveland-ave-vending",
+    "name": "Franklin County Public Health Vending - Cleveland Avenue",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://myfcph.org/overdose-prevention/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "3820 Cleveland Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43224",
+    "coordinates": {
+      "lat": 40.0468,
+      "lng": -82.9562
+    },
+    "notes": "Free Franklin County Public Health vending machine with NARCAN, fentanyl test strips and other supplies. 24/7 outdoor access in food shed."
+  },
+  {
+    "id": "oh-norwalk-huron-county-health-vending",
+    "name": "Huron County Public Health Harm Reduction Vending",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.huroncohealth.com/harm-reduction"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "28 Executive Dr",
+    "city": "Norwalk",
+    "state": "OH",
+    "zip": "44857",
+    "coordinates": {
+      "lat": 41.2298,
+      "lng": -82.6006
+    },
+    "notes": "Free 24/7/365 naloxone (Kloxxado) vending machine at Huron County Public Health, plus other supplies while they last. Phone 419-668-1652."
+  },
+  {
+    "id": "mi-clintontownship-henry-ford-macomb-vending",
+    "name": "Henry Ford Macomb Hospital Emergency Department Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.henryford.com/news/2026/05/free-naloxone-now-available-through-vending-machine-at-henry-ford-macomb-hospital"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "15855 19 Mile Rd (Emergency Department front entrance)",
+    "city": "Clinton Township",
+    "state": "MI",
+    "zip": "48038",
+    "notes": "Free naloxone nasal spray vending machine at the Emergency Department front entrance, 24/7 access. Open to the public; not just patients."
+  },
+  {
+    "id": "mi-jackson-county-health-dept-vending",
+    "name": "Jackson County Health Department Narcan Vending",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.co.jackson.mi.us/DocumentCenter/View/22868/Narcan-Vending-Machine-Locations",
+      "https://www.mijackson.org/DocumentCenter/View/22879/JCHD-Naloxone-Flyer"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1715 Lansing Ave",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49202",
+    "coordinates": {
+      "lat": 42.269,
+      "lng": -84.416
+    },
+    "notes": "Free Narcan vending machine at the Jackson County Health Department (county list updated June 2026). Hours not stated; call 517-788-4420."
+  },
+  {
+    "id": "nc-durham-st-josephs-vending",
+    "name": "Durham County Naloxone Vending - St. Joseph's Episcopal Church",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dconc.gov/DurhamCo-News/Public-Health/Morse-Clinic-Naloxone.htm",
+      "https://dconc.gov/DurhamCo-News/Public-Health/New-Naloxone-Vending-Machine-at-St.-Josephs-Episcopal-Church.htm"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1902 W Main St (outside front entrance)",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27705",
+    "coordinates": {
+      "lat": 36.0064,
+      "lng": -78.9211
+    },
+    "notes": "Free Durham County Department of Public Health naloxone vending machine, outside the church entrance, available 24/7. No cost, no questions asked."
+  },
+  {
+    "id": "nc-durham-morse-clinic-vending",
+    "name": "Durham County Naloxone Vending - Morse Clinic",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dconc.gov/DurhamCo-News/Public-Health/Morse-Clinic-Naloxone.htm",
+      "https://dconc.gov/DurhamCo-News/Public-Health/New-Naloxone-Vending-Machine-at-St.-Josephs-Episcopal-Church.htm"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4119 Capitol St (outside clinic)",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27704",
+    "coordinates": {
+      "lat": 36.047,
+      "lng": -78.898
+    },
+    "notes": "Free Durham County Department of Public Health naloxone vending machine, outside Morse Clinic, available 24/7 to everyone. No cost, no questions asked."
+  },
+  {
+    "id": "nc-durham-detention-center-vending",
+    "name": "Durham County Naloxone Vending - Detention Center Lobby",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dconc.gov/DurhamCo-News/Public-Health/Morse-Clinic-Naloxone.htm",
+      "https://dconc.gov/DurhamCo-News/Public-Health/New-Naloxone-Vending-Machine-at-St.-Josephs-Episcopal-Church.htm"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "219 S Mangum St (lobby)",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27701",
+    "coordinates": {
+      "lat": 35.9938,
+      "lng": -78.9014
+    },
+    "notes": "Free Durham County Department of Public Health naloxone vending machine, in the Detention Center lobby, available 24/7. No cost, no questions asked."
+  },
+  {
+    "id": "nc-hillsborough-orange-detention-vending",
+    "name": "Orange County Naloxone Vending - Detention Center",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://orangecountync.gov/2804/Community-Resource-Guide"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1200 US 70 West (across from the DMV)",
+    "city": "Hillsborough",
+    "state": "NC",
+    "zip": "27278",
+    "coordinates": {
+      "lat": 36.082,
+      "lng": -79.0795
+    },
+    "notes": "Free Orange County naloxone kits plus fentanyl and xylazine test strips, open 24/7."
+  },
+  {
+    "id": "nc-fayetteville-cumberland-detention-vending",
+    "name": "Cumberland County Naloxone Vending - Detention Center Lobby",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.co.cumberland.nc.us/departments/public-health-group/public-health/community-services/c-fort-(opioid-response)/opioid-help"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Cumberland County Detention Center lobby",
+    "city": "Fayetteville",
+    "state": "NC",
+    "notes": "Free naloxone kits from a Cumberland County Department of Public Health vending machine, 24/7 access. Call 910-433-3672 for the exact location."
+  },
+  {
+    "id": "az-flagstaff-medical-center-vending",
+    "name": "Flagstaff Medical Center Harm Reduction Vending",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.nahealth.com/wp-content/uploads/2026/02/NAH-2026-Fact-Sheet.pdf",
+      "https://www.nahealth.com/arizona-daily-sun-nah-helps-with-a-compassionate-approach-to-drug-addiction-recovery/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1200 N Beaver St (outside Emergency Department)",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "86001",
+    "coordinates": {
+      "lat": 35.209,
+      "lng": -111.645
+    },
+    "notes": "Free naloxone and fentanyl test strips, available around the clock outside the Emergency Department. Northern Arizona Healthcare and Coconino County program; restocked by the county."
+  },
+  {
+    "id": "az-cottonwood-verde-valley-medical-center-vending",
+    "name": "Verde Valley Medical Center Harm Reduction Vending",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.nahealth.com/wp-content/uploads/2026/02/NAH-2026-Fact-Sheet.pdf",
+      "https://www.nahealth.com/arizona-daily-sun-nah-helps-with-a-compassionate-approach-to-drug-addiction-recovery/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "269 S Candy Ln (outside Emergency Department)",
+    "city": "Cottonwood",
+    "state": "AZ",
+    "zip": "86326",
+    "coordinates": {
+      "lat": 34.7353,
+      "lng": -112.0315
+    },
+    "notes": "Free naloxone and fentanyl test strips, available around the clock outside the Emergency Department. Northern Arizona Healthcare and county health department program."
+  },
+  {
+    "id": "az-tucson-tmc-ed-vending",
+    "name": "Pima County Public Health Vending - Tucson Medical Center ED",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://tmcaz.com/en/tmc-health-news/in-the-news/tmc-ed-receives-public-health-vending-machine",
+      "https://www.kvoa.com/news/good-news/free-health-supplies-now-easier-to-get-at-tucson-medical-center/article_bef2d2e6-f99e-4a48-8c00-1d8e13fb99a0.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "5301 E Grant Rd (Emergency Department)",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85712",
+    "coordinates": {
+      "lat": 32.2507,
+      "lng": -110.8798
+    },
+    "notes": "Free Pima County Health Department vending machine with naloxone, fentanyl test strips and other supplies; open to the public, not just patients. Asks a few anonymous demographic questions. Hours not stated."
   }
 ]
