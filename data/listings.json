@@ -8361,5 +8361,508 @@
     "zip": "",
     "phone": "",
     "notes": "Address agreed by two outlets; no official page found; hours not published. Sept 2024 reports; confirm still operating.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-wichita-falls-faith-mission-downtown-a",
+    "name": "Faith Mission downtown; Action Against Opioids",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Yahoo/Times Record News Faith Mission installs Narcan vending machine (https://www.yahoo.com/news/faith-mission-installs-narcan-vending-080837588.html); KAUZ/NewsChannel 6 Action Against Opioids implements local NARCAN vending machine",
+      "Nov 2025 (https://www.newschannel6now.com/2025/11/18/action-against-opioids-implements-local-narcan-vending-machine); KAUZ Narcan vending machine unveiled at Faith Mission (https://www.newschannel6now.com/2024/05/20/narcan-vending-machine-unveiled-faith-mission)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Faith Mission, 1300 Travis St, Wichita Falls, TX",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Installed May 2024. Two doses per box; enter zip code at screen. Hours from 2024 report; confirm.. Hours: 24/7 per KAUZ (2024). Type: Vending Machine"
+  },
+  {
+    "id": "tx-wichita-falls-faith-mission-retail-stor",
+    "name": "Faith Mission retail store; Action Against Opioids",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KAUZ/NewsChannel 6 Action Against Opioids implements local NARCAN vending machine",
+      "Nov 2025 (https://www.newschannel6now.com/2025/11/18/action-against-opioids-implements-local-narcan-vending-machine); https://www.yahoo.com/news/faith-mission-installs-narcan-vending-080837588.html; https://www.newschannel6now.com/2024/05/20/narcan-vending-machine-unveiled-faith-mission"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Faith Mission retail store, 4502 Old Jacksboro Hwy, Wichita Falls, TX",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. New machine showcased Nov 2025 at retail store; no second source or official page; hours not published. A separate 2024 report mentions a city-funded second machine possibly at Midwestern State University (unconfirmed, no site named). | Second-source search 2026-10-28 (STILL_SINGLE): 2025 retail-store machine at 4502 Old Jacksboro Hwy has no second source. The 2024 Yahoo/KAUZ reports cover a separate downtown Faith Mission machine at 1300 Travis St (24/7, free), which is a different site.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-corpus-christi-south-texas-substance-abu",
+    "name": "South Texas Substance Abuse Recovery Services (STSARS); Naloxone Texas",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KRIS 6 New Narcan vending machine empowers Coastal Bend to save lives",
+      "Sep 13 2025 (https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/new-narcan-vending-machine-empowers-coastal-bend-to-save-lives); Sports Radio CC Narcan Vending Machine Launches in Corpus Christi (https://sportsradiocc.com/?p=4857)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "907 Antelope St, Corpus Christi, TX (outside STSARS building)",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Two local sources agree on address; no official page found. Obtained via Naloxone Texas per Sports Radio CC. Confirm still operating.. Hours: 24/7 per KRIS. Type: Vending Machine"
+  },
+  {
+    "id": "tx-el-paso-utep-student-union-recov",
+    "name": "UTEP Student Union; Recovery Alliance (Region 10 naloxone hub); funded by Be Well Texas",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KFOX14 UTEP installs El Paso's first free Narcan vending machine (https://kfoxtv.com/news/local/utep-installs-el-pasos-first-free-narcan-vending-machine-to-help-prevent-overdoses); Hoodline UTEP's new vending machine spits out Narcan",
+      "not snacks",
+      "Mar 18 2026 (https://hoodline.com/2026/03/utep-s-new-vending-machine-spits-out-narcan-not-snacks/); AOL First free Narcan vending machine arrives at UTEP (https://www.aol.com/articles/first-free-narcan-vending-machine-025103591.html)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Inside UTEP Student Union, El Paso, TX (no building street address or floor in sources)",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "No sign-up, name or phone required per Hoodline. Install date not published (about Feb-Mar 2026). Street address of Student Union not stated in sources.. Hours: UTEP says during regular building hours (AOL/El Paso report); exact hours not published. Type: Vending Machine"
+  },
+  {
+    "id": "tx-laredo-laredo-public-health-depa",
+    "name": "Laredo Public Health Department (City of Laredo)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "City of Laredo press release on Narcan cabinets (https://cityoflaredo.com/home/showpublisheddocument/13907/638416879527830000); Laredo's News Laredo Public Health Narcan cabinets installed across the city",
+      "Nov 2023 (https://laredosnews.com/2023/11/30/laredo-public-health-narcan-cabinets-installed-across-the-city); KGNS Laredo overdose deaths drop",
+      "prompting more Narcan vending machines"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Citywide cabinets in community centers, libraries, parks (no list published); vending machine at Preventive Care Clinic on McPherson (no street number); planned unit at TAMIU tennis complex",
+    "city": "Laredo",
+    "state": "TX",
+    "zip": "",
+    "phone": "956-857-7474 (press contact on 2023 release)",
+    "notes": "Exact site addresses not published in any source found; ask Laredo Public Health (press contact on release: 956-857-7474) for the site list before listing individual addresses.. Type: Naloxone Cabinets / Vending Machines"
+  },
+  {
+    "id": "tx-san-marcos-hays-county-jail-sheriff",
+    "name": "Hays County Jail (Sheriff's Office); Hays County Health Department Behavioral Health Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KSAT Hays County unveils Narcan vending machine at jail",
+      "May 9 2025 (https://ksat.com/news/local/2025/05/09/hays-county-unveils-narcan-vending-machine-at-jail); San Marcos Record Jail introduces Narcan vending machine (https://www.sanmarcosrecord.com/article/30191",
+      "jail-introduces-narcan-vending-machine-to-combat-opioid-overdose-crisis); Community Impact Hays County Jail offers free Narcan (https://communityimpact.com/austin/san-marcos-buda-kyle/government/2025/05/12/hays-county-jail-offers-free-narcan-to-reduce-opioid-deaths)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Jail lobby, Hays County Jail, San Marcos, TX (street address not stated in sources)",
+    "city": "San Marcos",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Hours and street address not published; access likely tied to jail lobby hours. Verify with Hays County Sheriff's Office.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-tyler-university-of-texas-at-ty",
+    "name": "University of Texas at Tyler Naloxone Access Initiative",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Tyler Morning Telegraph UT Tyler launches Naloxone Access Initiative",
+      "Oct 2024 (https://tylerpaper.com/?p=35589); KTBB UT Tyler naloxone distribution",
+      "Oct 30 2024 (https://ktbb.com/post/?p=1365611)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Tyler campus: University Center welcome desk; School of Pharmacy Student Affairs Office (W.T. Brookshire Hall, WTB 120); Robert R. Muntz Library front desk. Longview University Center Room 104. Palestine site not yet determined at time of report",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Reports are from Oct 2024 and say 20 doses per site; official UT Tyler page (uttyler.edu/title-ix/swoop-in/naloxone-access) could not be fetched. Verify current sites and whether non-students may use them.. Type: Campus Naloxone Pickup Points"
+  },
+  {
+    "id": "tx-amarillo-texas-panhandle-overdose",
+    "name": "Texas Panhandle Overdose Awareness (Angie Duncan)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NewsChannel 10 Overdose awareness group partnering with Amarillo businesses",
+      "Feb 2025 (https://www.newschannel10.com/2025/02/18/overdose-awareness-group-partnering-with-amarillo-businesses/); https://kissfm969.com/amarillo-narcan-lady-saves-lives/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Participating Amarillo businesses; list posted on group's Facebook page (not accessible)",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. No business names, addresses or hours available; do not publish as site-level records until the Facebook list is obtained and confirmed. | Second-source search 2026-10-28 (UPGRADED): KISS FM (Aug 2025) reports Angie Duncan's group distributes free Narcan at pickup spots across the region and held its first Overdose Awareness Day Aug 23, 2025. Group is active; individual business partner sites still not listed.. Type: Business Naloxone Partner Sites"
+  },
+  {
+    "id": "ca-valley-center-indian-health-council-in",
+    "name": "Indian Health Council, Inc. (IHC) - Valley Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Indian Health Council 'Save a Life with Narcan' (https://www.indianhealth.com/post/save-a-life-with-narcan); IHS California Area - IHC Valley Center profile (https://www.ihs.gov/california/index.cfm/health-programs/southern-california/ihc-valley-cntr)",
+      "https://www.indianhealth.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "50100 Golsh Road, Valley Center, CA 92082",
+    "city": "Valley Center",
+    "state": "CA",
+    "zip": "",
+    "phone": "760-749-1410 (Narcan info/training: 760-749-1410 ext. 5334)",
+    "notes": "Eligibility: IHS page states IHS health services are for members of federally recognized Tribes and refers to a separate Eligibility Statement; the Narcan page states 'free upon request' without stating an eligibility limit. Confirm by phone whether non-patients may request Narcan.. Hours: Clinic: Mon-Fri 8:00 AM-4:30 PM; Medical and Pharmacy until 7:00 PM (per IHS page). Free Narcan listed as available 'upon request' (no separate hours given).. Type: Tribal health program / IHS-funded clinic"
+  },
+  {
+    "id": "ca-pauma-valley-casino-pauma--free-nalox",
+    "name": "Casino Pauma - Free Naloxone Vending Machine (Pauma Band)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KPBS",
+      "'New harm reduction technology reaches tribal land at Casino Pauma'",
+      "2024-08-12 (https://kpbs.org/news/health/2024/08/12/new-harm-reduction-technology-reaches-tribal-land-at-casino-pauma); Indian Health Council (https://www.indianhealth.com/post/save-a-life-with-narcan)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "777 Pauma Reservation Rd, Pauma Valley, CA 92061 (machine located outside the casino in a 'discreet location' per KPBS)",
+    "city": "Pauma Valley",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Machine installed with Harm Reduction Coalition of San Diego support. Exact machine placement relative to casino entrances not given; no phone listed. Casino is an adult venue; confirm public access on arrival.. Hours: 24/7 (per Indian Health Council); KPBS does not state hours. Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "ca-pala-pala-social-services-fre",
+    "name": "Pala Social Services (free Narcan on request)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Indian Health Council 'Save a Life with Narcan' (https://www.indianhealth.com/post/save-a-life-with-narcan); https://www.palatribe.com/directory/pala-social-services-calac-adobe/; https://www.palatribe.com/public-safety/pala-social-services"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "12196 Pala Mission Rd, Pala, CA 92059",
+    "city": "Pala",
+    "state": "CA",
+    "zip": "",
+    "phone": "760-891-3567",
+    "notes": "NOT VERIFIED - single source. No phone or hours listed in source. Separate from the Pala Fire Department vending machine already in the directory. | Second-source search 2026-10-28 (STILL_SINGLE): Pala tribe site lists Social Services (Calac Adobe) at 12200 Pala Mission Rd, 760-891-3567, M-F 8-4:30, but does not mention Narcan, so naloxone remains single-sourced (Indian Health Council, June 2025). Address varies 12196/12200.. Hours: Mon-Fri 8:00 AM-4:30 PM (per Pala tribe directory; Narcan hours not stated). Type: Tribal social services / naloxone on request"
+  },
+  {
+    "id": "ca-valley-center-rincon-fire-department",
+    "name": "Rincon Fire Department - Free Narcan Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Indian Health Council 'Save a Life with Narcan' (https://www.indianhealth.com/post/save-a-life-with-narcan)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "33485 Valley Center Road, Valley Center, CA 92082 (Rincon Fire Department)",
+    "city": "Valley Center",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. ZIP shown as listed by the source (92082). No phone listed. Confirm machine is still in service. | Second-source search 2026-10-28 (STILL_SINGLE): Only the Indian Health Council post (June 2025) describes the machine. Rincon tribe's fire dept page does not mention it; no other outlet found. Unconfirmed as still in service.. Hours: 24/7 (per source). Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "ca-santa-ysabel-santa-ysabel-reservation",
+    "name": "Santa Ysabel Reservation Fire Department (free Narcan on request)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Indian Health Council 'Save a Life with Narcan' (https://www.indianhealth.com/post/save-a-life-with-narcan)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "911 School House Canyon Rd, Santa Ysabel, CA 92070",
+    "city": "Santa Ysabel",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. No phone or hours listed in source. | Second-source search 2026-10-28 (STILL_SINGLE): No second publisher found; only the Indian Health Council page lists this fire department for free Narcan on request. Searches of tribal and county sources returned nothing independent.. Type: Tribal fire department / naloxone on request"
+  },
+  {
+    "id": "ca-porterville-tule-river-indian-reservation-tule-river",
+    "name": "Tule River Indian Health Center - Wellness Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "The Recorder (Porterville)",
+      "'Tule River unveils wellness vending machine' (https://www.recorderonline.com/gallery/tule-river-unveils-wellness-vending-machine/article_0c441c2c-f11b-4952-b175-8458b2dc2862.html); IHS California Area - Tule River profile (https://www.ihs.gov/california/index.cfm/health-programs/central-california/tule-river/)",
+      "https://tulerivertribe-nsn.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Located at the Tule River Indian Health Center on the Tule River Indian Reservation (street address of the machine not stated). IHS lists Tule River Tribe main office at 340 N Reservation Road, Porterville, CA 93257.",
+    "city": "Porterville (Tule River Indian Reservation)",
+    "state": "CA",
+    "zip": "",
+    "phone": "Tule River Tribe main office 559-781-4271 (IHS listing). Article says to call the health center at 784-2316 (area code not stated in article) for access codes.",
+    "notes": "Article states access codes are for tribal community members. The IHS page confirms the Tule River Tribe program and address but does not mention the machine, so the machine itself rests on one news source; article date not stated. Treat as tribal-community access only until the tribe confirms public access.. Hours: 24 hours a day (per article). Type: Tribal harm reduction vending machine"
+  },
+  {
+    "id": "ca-eureka-yurok-tribe-public-access",
+    "name": "Yurok Tribe Public Access Naloxone Network (18 sites)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Yurok Tribe Public Access Naloxone Locations list PDF (https://flyacv.com/DocumentCenter/View/147563/Yurok-Tribe-Public-Access-Naloxone-Locations-list-PDF); KOBI-TV",
+      "'Narcan distribution boxes installed' (https://kobi5.com/?p=311632)",
+      "https://www.yuroktribe.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Sites per Yurok Tribe list: Eureka Tribal Court Office 930 3rd St (24/7 outdoor); Eureka YHHS Client Services 1034 6th St (lobby); Hey-we-choh Housing, Nerh-Pery Ct, Arcata (24/7); Orick Market 121175 S-101 (24/7); Stone Lagoon Visitor Center 15336 US-101, Trinidad; Klamath Main Office 190 Klamath Blvd; Pem-Mey Fuel Mart 125 Ehlers Way, Klamath (24/7); Yurok Justice Center 230 Klamath Blvd Ste A; North District Aawok Marjorie Buckskin Bldg 1485 Parkway Dr, Crescent City; Maiden Manor Housing 245 Maiden Lane, Crescent City (24/7); East District Office 39171 CA-199, Willow Creek; Willow Creek Community Health Center 38883 CA-299 (24/7); Pek-Tah Fuel Mart 22822 CA-96, Weitchpec (24/7); Weitchpec Tribal Office 23023 Hwy 96; Tulley Creek YHHS Office 50 Owl Creek Rd; plus community centers and Wautec Laundry Building (addresses not fully listed). Also Del Norte Ambulance Station 2 (Moorhead Rd, Crescent City) and Station 3 (US-101, Klamath) boxes per KOBI.",
+    "city": "Eureka",
+    "state": "CA",
+    "zip": "",
+    "phone": "Email: ytwcteam@yuroktribe.nsn.us (Yurok Tribe Wellness Coalition, per list); no phone listed",
+    "notes": "List is a Yurok Tribe document but is hosted on a county site (flyacv.com); confirm current status of individual boxes. Eligibility: KOBI says anyone may take naloxone from the ambulance-station boxes; the Yurok list does not state eligibility.. Hours: Outdoor boxes 24/7; lobby sites typically Mon-Fri 8:30 AM-5:00 PM; Stone Lagoon Visitor Center Tue-Sun 9 AM-4 PM (per list). Type: Tribal public-access naloxone boxes / lobby sites"
+  },
+  {
+    "id": "ca-redwood-valley-consolidated-tribal-healt",
+    "name": "Consolidated Tribal Health Project, Inc. (CTHP)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KZYX",
+      "'Combating opioid crisis in Indian Country'",
+      "Feb 2020 (https://www.kzyx.org/post/combating-opioid-crisis-indian-country); IHS California Area - Consolidated Tribal Health Project profile (https://ihs.gov/california/index.cfm/health-programs/northern-california/consolidated-redwood-valley)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "6991 N. State Street, Redwood Valley, CA 95470",
+    "city": "Redwood Valley",
+    "state": "CA",
+    "zip": "",
+    "phone": "707-485-5115 (IHS clinic listing); KZYX 2020 listed 707-467-5616 and substance abuse counselor 707-467-5660",
+    "notes": "Naloxone offer rests on a 2020 article; IHS page confirms the clinic but does not mention naloxone. IHS page refers to an Eligibility Statement for IHS services (Indian patients of member tribes); the 2020 article does not state who may receive naloxone. Phone numbers differ between sources; confirm.. Hours: Mon-Fri 8:00 AM-5:00 PM (per IHS listing). Type: Tribal health program / IHS-funded clinic"
+  },
+  {
+    "id": "ca-sacramento-program-office-dhcs-naloxone-distributio",
+    "name": "DHCS Naloxone Distribution Project - Tribal Outreach (free naloxone for tribal entities)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHCS 2025 NDP Tribal Outreach Legislative Report (https://www.dhcs.ca.gov/zh-cn/formsandpubs/Documents/Legislative%20Reports/2025-DHCS-NDP-Tribal-Outreach-Legislative-Report.pdf); DHCS '2025 Naloxone Distribution Project Tribal Government Outreach' (https://www.dhcs.ca.gov/file/2025-naloxone-distribution-project-tribal-government-outreach/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Ships to the tribal entity's service location (tribal governments, clinics, schools, justice systems, libraries, SUD programs). Not a walk-in site.",
+    "city": "Sacramento (program office)",
+    "state": "CA",
+    "zip": "",
+    "phone": "Email: naloxone@dhcs.ca.gov (program inbox); Maya.Gopalan@dhcs.ca.gov (tribal outreach contact in the report)",
+    "notes": "Both sources are DHCS documents (not independent). Intended for tribal organizations that then distribute to community; individuals should contact their tribal health program.. Type: State program serving tribes - free naloxone shipped to tribal entities"
+  },
+  {
+    "id": "wi-odanah-bad-river--gwayakobimaad",
+    "name": "Bad River - Gwayakobimaadiziwin Harm Reduction (mail-order naloxone with NEXT Distro)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN listing (https://nasen.org/sep/bad-river-gwayakobimaadiziwin-exchange-program); Great Lakes Inter-Tribal Council 'Bad River Harm Reduction' (https://www.glitc.org/2020/wp-content/uploads/2024/07/Bad-River-Harm-Reduction.pdf); Wisconsin Public Radio (https://www.wpr.org/health/new-program-bad-river-tribe-free-opioid-reversal-drugs-through-the-mail-naloxone-gwayakobimaadiziwin); Vital Strategies (https://www.vitalstrategies.org/as-overdose-deaths-in-indigenous-and-rural-communities-climb-new-program-will-mail-wisconsinites-naloxone-and-harm-reduction-supplies/)",
+      "https://www.badriverharmreduction.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "72718 Maple St, PO Box 249, Odanah, WI 54861 (listing says deliveries only; call before visiting)",
+    "city": "Odanah",
+    "state": "WI",
+    "zip": "",
+    "phone": "715-292-3500; badriverharmreduction@gmail.com; peer support line (715) 682-7111 per Vital Strategies",
+    "notes": "GLITC: needs-based, 'serves anyone who presents'; Wisconsin residents can request at no cost. Mail supply type (intramuscular vs nasal) may vary; badriverharmreduction.org could not be fetched in this run (not on tool allowlist) but is cited by the sources.. Hours: Office Mon-Fri 8:00 AM-4:30 PM (NASEN listing; 'deliveries only, please call'). Type: Tribal harm reduction program / mail-order naloxone"
+  },
+  {
+    "id": "mi-online-statewide-michigan-inter-tribal-council-of-m",
+    "name": "Inter-Tribal Council of Michigan - Free Naloxone by Mail (NEXT Distro)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Little Traverse Bay Bands of Odawa Indians",
+      "'Inter-Tribal Council Partners with nextdistro.org to Get Free Narcan to Tribal Communities' (https://ltbbodawa-nsn.gov/?p=15974); NEXT Distro Michigan/ITCMI page (https://nextdistro.org/itcmi)",
+      "https://nextdistro.org/itcmi"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online enrollment; no walk-in site listed",
+    "city": "Online (statewide Michigan)",
+    "state": "MI",
+    "zip": "",
+    "phone": "Program: info@nextdistro.org; remote trainings: Lmoran@itcmi.org",
+    "notes": "Mail/online program with no physical site listed in sources. NEXT Distro page frames eligibility as people who 'may qualify' because they cannot access naloxone locally. Posted by LTBB 2023 (29 Jun); confirm enrollment is still open.. Type: Tribal consortium - mail-order naloxone"
+  },
+  {
+    "id": "tx-wichita-falls-faith-mission-downtown-a",
+    "name": "Faith Mission downtown; Action Against Opioids",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Yahoo/Times Record News Faith Mission installs Narcan vending machine (https://www.yahoo.com/news/faith-mission-installs-narcan-vending-080837588.html); KAUZ/NewsChannel 6 Action Against Opioids implements local NARCAN vending machine",
+      "Nov 2025 (https://www.newschannel6now.com/2025/11/18/action-against-opioids-implements-local-narcan-vending-machine); KAUZ Narcan vending machine unveiled at Faith Mission (https://www.newschannel6now.com/2024/05/20/narcan-vending-machine-unveiled-faith-mission)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Faith Mission, 1300 Travis St, Wichita Falls, TX",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Installed May 2024. Two doses per box; enter zip code at screen. Hours from 2024 report; confirm.. Hours: 24/7 per KAUZ (2024). Type: Vending Machine"
+  },
+  {
+    "id": "tx-wichita-falls-faith-mission-retail-stor",
+    "name": "Faith Mission retail store; Action Against Opioids",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KAUZ/NewsChannel 6 Action Against Opioids implements local NARCAN vending machine",
+      "Nov 2025 (https://www.newschannel6now.com/2025/11/18/action-against-opioids-implements-local-narcan-vending-machine); https://www.yahoo.com/news/faith-mission-installs-narcan-vending-080837588.html; https://www.newschannel6now.com/2024/05/20/narcan-vending-machine-unveiled-faith-mission"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Faith Mission retail store, 4502 Old Jacksboro Hwy, Wichita Falls, TX",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. New machine showcased Nov 2025 at retail store; no second source or official page; hours not published. A separate 2024 report mentions a city-funded second machine possibly at Midwestern State University (unconfirmed, no site named). | Second-source search 2026-10-28 (STILL_SINGLE): 2025 retail-store machine at 4502 Old Jacksboro Hwy has no second source. The 2024 Yahoo/KAUZ reports cover a separate downtown Faith Mission machine at 1300 Travis St (24/7, free), which is a different site.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-corpus-christi-south-texas-substance-abu",
+    "name": "South Texas Substance Abuse Recovery Services (STSARS); Naloxone Texas",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KRIS 6 New Narcan vending machine empowers Coastal Bend to save lives",
+      "Sep 13 2025 (https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/new-narcan-vending-machine-empowers-coastal-bend-to-save-lives); Sports Radio CC Narcan Vending Machine Launches in Corpus Christi (https://sportsradiocc.com/?p=4857)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "907 Antelope St, Corpus Christi, TX (outside STSARS building)",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Two local sources agree on address; no official page found. Obtained via Naloxone Texas per Sports Radio CC. Confirm still operating.. Hours: 24/7 per KRIS. Type: Vending Machine"
+  },
+  {
+    "id": "tx-el-paso-utep-student-union-recov",
+    "name": "UTEP Student Union; Recovery Alliance (Region 10 naloxone hub); funded by Be Well Texas",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KFOX14 UTEP installs El Paso's first free Narcan vending machine (https://kfoxtv.com/news/local/utep-installs-el-pasos-first-free-narcan-vending-machine-to-help-prevent-overdoses); Hoodline UTEP's new vending machine spits out Narcan",
+      "not snacks",
+      "Mar 18 2026 (https://hoodline.com/2026/03/utep-s-new-vending-machine-spits-out-narcan-not-snacks/); AOL First free Narcan vending machine arrives at UTEP (https://www.aol.com/articles/first-free-narcan-vending-machine-025103591.html)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Inside UTEP Student Union, El Paso, TX (no building street address or floor in sources)",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "No sign-up, name or phone required per Hoodline. Install date not published (about Feb-Mar 2026). Street address of Student Union not stated in sources.. Hours: UTEP says during regular building hours (AOL/El Paso report); exact hours not published. Type: Vending Machine"
+  },
+  {
+    "id": "tx-laredo-laredo-public-health-depa",
+    "name": "Laredo Public Health Department (City of Laredo)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "City of Laredo press release on Narcan cabinets (https://cityoflaredo.com/home/showpublisheddocument/13907/638416879527830000); Laredo's News Laredo Public Health Narcan cabinets installed across the city",
+      "Nov 2023 (https://laredosnews.com/2023/11/30/laredo-public-health-narcan-cabinets-installed-across-the-city); KGNS Laredo overdose deaths drop",
+      "prompting more Narcan vending machines"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Citywide cabinets in community centers, libraries, parks (no list published); vending machine at Preventive Care Clinic on McPherson (no street number); planned unit at TAMIU tennis complex",
+    "city": "Laredo",
+    "state": "TX",
+    "zip": "",
+    "phone": "956-857-7474 (press contact on 2023 release)",
+    "notes": "Exact site addresses not published in any source found; ask Laredo Public Health (press contact on release: 956-857-7474) for the site list before listing individual addresses.. Type: Naloxone Cabinets / Vending Machines"
+  },
+  {
+    "id": "tx-san-marcos-hays-county-jail-sheriff",
+    "name": "Hays County Jail (Sheriff's Office); Hays County Health Department Behavioral Health Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KSAT Hays County unveils Narcan vending machine at jail",
+      "May 9 2025 (https://ksat.com/news/local/2025/05/09/hays-county-unveils-narcan-vending-machine-at-jail); San Marcos Record Jail introduces Narcan vending machine (https://www.sanmarcosrecord.com/article/30191",
+      "jail-introduces-narcan-vending-machine-to-combat-opioid-overdose-crisis); Community Impact Hays County Jail offers free Narcan (https://communityimpact.com/austin/san-marcos-buda-kyle/government/2025/05/12/hays-county-jail-offers-free-narcan-to-reduce-opioid-deaths)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Jail lobby, Hays County Jail, San Marcos, TX (street address not stated in sources)",
+    "city": "San Marcos",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Hours and street address not published; access likely tied to jail lobby hours. Verify with Hays County Sheriff's Office.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-tyler-university-of-texas-at-ty",
+    "name": "University of Texas at Tyler Naloxone Access Initiative",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Tyler Morning Telegraph UT Tyler launches Naloxone Access Initiative",
+      "Oct 2024 (https://tylerpaper.com/?p=35589); KTBB UT Tyler naloxone distribution",
+      "Oct 30 2024 (https://ktbb.com/post/?p=1365611)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Tyler campus: University Center welcome desk; School of Pharmacy Student Affairs Office (W.T. Brookshire Hall, WTB 120); Robert R. Muntz Library front desk. Longview University Center Room 104. Palestine site not yet determined at time of report",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Reports are from Oct 2024 and say 20 doses per site; official UT Tyler page (uttyler.edu/title-ix/swoop-in/naloxone-access) could not be fetched. Verify current sites and whether non-students may use them.. Type: Campus Naloxone Pickup Points"
+  },
+  {
+    "id": "tx-amarillo-texas-panhandle-overdose",
+    "name": "Texas Panhandle Overdose Awareness (Angie Duncan)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NewsChannel 10 Overdose awareness group partnering with Amarillo businesses",
+      "Feb 2025 (https://www.newschannel10.com/2025/02/18/overdose-awareness-group-partnering-with-amarillo-businesses/); https://kissfm969.com/amarillo-narcan-lady-saves-lives/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Participating Amarillo businesses; list posted on group's Facebook page (not accessible)",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. No business names, addresses or hours available; do not publish as site-level records until the Facebook list is obtained and confirmed. | Second-source search 2026-10-28 (UPGRADED): KISS FM (Aug 2025) reports Angie Duncan's group distributes free Narcan at pickup spots across the region and held its first Overdose Awareness Day Aug 23, 2025. Group is active; individual business partner sites still not listed.. Type: Business Naloxone Partner Sites"
+  },
+  {
+    "id": "ca-valley-center-indian-health-council-in",
+    "name": "Indian Health Council, Inc. (IHC) - Valley Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Indian Health Council 'Save a Life with Narcan' (https://www.indianhealth.com/post/save-a-life-with-narcan); IHS California Area - IHC Valley Center profile (https://www.ihs.gov/california/index.cfm/health-programs/southern-california/ihc-valley-cntr)",
+      "https://www.indianhealth.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "50100 Golsh Road, Valley Center, CA 92082",
+    "city": "Valley Center",
+    "state": "CA",
+    "zip": "",
+    "phone": "760-749-1410 (Narcan info/training: 760-749-1410 ext. 5334)",
+    "notes": "Eligibility: IHS page states IHS health services are for members of federally recognized Tribes and refers to a separate Eligibility Statement; the Narcan page states 'free upon request' without stating an eligibility limit. Confirm by phone whether non-patients may request Narcan.. Hours: Clinic: Mon-Fri 8:00 AM-4:30 PM; Medical and Pharmacy until 7:00 PM (per IHS page). Free Narcan listed as available 'upon request' (no separate hours given).. Type: Tribal health program / IHS-funded clinic"
+  },
+  {
+    "id": "ca-pauma-valley-casino-pauma--free-nalox",
+    "name": "Casino Pauma - Free Naloxone Vending Machine (Pauma Band)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KPBS",
+      "'New harm reduction technology reaches tribal land at Casino Pauma'",
+      "2024-08-12 (https://kpbs.org/news/health/2024/08/12/new-harm-reduction-technology-reaches-tribal-land-at-casino-pauma); Indian Health Council (https://www.indianhealth.com/post/save-a-life-with-narcan)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "777 Pauma Reservation Rd, Pauma Valley, CA 92061 (machine located outside the casino in a 'discreet location' per KPBS)",
+    "city": "Pauma Valley",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Machine installed with Harm Reduction Coalition of San Diego support. Exact machine placement relative to casino entrances not given; no phone listed. Casino is an adult venue; confirm public access on arrival.. Hours: 24/7 (per Indian Health Council); KPBS does not state hours. Type: Tribal harm reduction vending machine"
   }
 ]
