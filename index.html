@@ -10,6 +10,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo" crossorigin=""></script>
 <style>
 :root {
   --purple: #4A1C6B;
@@ -84,8 +86,8 @@ nav .espanol { border: 1.5px solid var(--purple); }
 .left p { font-size: 1.05rem; max-width: 480px; line-height: 1.55; opacity: 0.95; }
 .emergency-cards { display: flex; gap: 0.75rem; margin-top: 1.5rem; flex-wrap: wrap; }
 .emergency-cards .card {
-  background: rgba(255,255,255,0.12);
-  border: 1px solid rgba(255,255,255,0.2);
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
   border-radius: 12px;
   padding: 0.85rem 1rem;
   min-width: 140px;
@@ -310,6 +312,14 @@ nav .espanol { border: 1.5px solid var(--purple); }
   </div>
 </div>
 
+<div style="max-width:1200px;margin:1.5rem auto;padding:0 1.5rem;">
+  <div class="view-toggle" style="display:flex;gap:0.5rem;margin-bottom:0.8rem;">
+    <button type="button" id="listViewBtn" class="active" style="background:var(--purple);color:white;border:none;padding:0.45rem 1rem;border-radius:999px;font-weight:600;cursor:pointer;">List</button>
+    <button type="button" id="mapViewBtn" style="background:#f3eef8;color:var(--purple);border:none;padding:0.45rem 1rem;border-radius:999px;font-weight:600;cursor:pointer;">Map</button>
+  </div>
+  <div id="map" style="height:480px;width:100%;border-radius:20px;display:none;background:#e8e4ef;"></div>
+</div>
+
 <div class="results" id="results" style="max-width:1200px;margin:0 auto 3rem;padding:0 1.5rem;"></div>
 
 <script>
@@ -401,6 +411,57 @@ function applyLang(lang) {
 
 document.getElementById("langToggle").onclick = () => applyLang(currentLang === "en" ? "es" : "en");
 
+let map = null;
+let markers = [];
+let currentView = "list";
+
+function initMap() {
+  if (map) return;
+  map = L.map("map").setView([31.0, -97.0], 6);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "&copy; OpenStreetMap",
+    maxZoom: 18
+  }).addTo(map);
+}
+
+function updateMap(filtered) {
+  if (!map) return;
+  markers.forEach(m => map.removeLayer(m));
+  markers = [];
+  const withCoords = filtered.filter(i => i.coordinates && typeof i.coordinates.lat === "number");
+  withCoords.forEach(item => {
+    const marker = L.marker([item.coordinates.lat, item.coordinates.lng]).addTo(map);
+    marker.bindPopup(`<strong>${item.name}</strong><br>${item.city || ""} ${item.state || ""}`);
+    markers.push(marker);
+  });
+  if (withCoords.length) {
+    const group = L.featureGroup(markers);
+    map.fitBounds(group.getBounds().pad(0.2));
+  }
+}
+
+document.getElementById("listViewBtn").onclick = () => {
+  currentView = "list";
+  document.getElementById("listViewBtn").style.background = "var(--purple)";
+  document.getElementById("listViewBtn").style.color = "white";
+  document.getElementById("mapViewBtn").style.background = "#f3eef8";
+  document.getElementById("mapViewBtn").style.color = "var(--purple)";
+  document.getElementById("map").style.display = "none";
+  document.getElementById("results").style.display = "grid";
+};
+document.getElementById("mapViewBtn").onclick = () => {
+  currentView = "map";
+  document.getElementById("mapViewBtn").style.background = "var(--purple)";
+  document.getElementById("mapViewBtn").style.color = "white";
+  document.getElementById("listViewBtn").style.background = "#f3eef8";
+  document.getElementById("listViewBtn").style.color = "var(--purple)";
+  document.getElementById("results").style.display = "none";
+  document.getElementById("map").style.display = "block";
+  if (!map) initMap();
+  if (map) setTimeout(() => map.invalidateSize(), 100);
+  updateMap(all.filter(item => matches(item, document.getElementById("q").value.trim(), document.getElementById("state").value, activeFilters, null, null)));
+};
+
 function haversine(lat1, lon1, lat2, lon2) {
   const R = 3958.8;
   const dLat = (lat2 - lat1) * Math.PI / 180;
@@ -467,6 +528,7 @@ function render() {
     el.innerHTML = `<div style="background:white;color:#2A2433;padding:1.5rem;border-radius:14px;text-align:center;">${i18n[currentLang].noResults}</div>`;
     return;
   }
+  if (currentView === 'map') updateMap(filtered);
   el.innerHTML = filtered.slice(0, 30).map(item => `
     <article class="result-card">
       <span class="badge">${(item.verification || 'unconfirmed').replace('_',' ')}</span>
