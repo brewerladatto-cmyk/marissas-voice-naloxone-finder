@@ -2015,5 +2015,336 @@
     "zip": "",
     "phone": "",
     "notes": "Active - first in state, high volume. Hours: 24/7. Free naloxone via Vending Machine. Rural Appalachian."
+  },
+  {
+    "id": "az-phoenix-city-of-phoenix-public-libra",
+    "name": "City of Phoenix Public Libraries",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "City official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "All 17 libraries + Bookmobile",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Library hours. Type: Walk-in Kits. Urban"
+  },
+  {
+    "id": "ar-various-(incl.-mountain-home)-end-overdose",
+    "name": "End Overdose",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news / End Overdose"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "12 rural sites (claimed rapidly)",
+    "city": "Various (incl. Mountain Home)",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active rural expansion. Hours: Varies. Type: Naloxone Cabinets / Boxes. Rural focus"
+  },
+  {
+    "id": "az-page-canyonlands-healthcare",
+    "name": "Canyonlands Healthcare",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CCHHS official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "467 Vista Ave, Page, AZ 86040",
+    "city": "Page",
+    "state": "AZ",
+    "zip": "",
+    "phone": "(928) 645-8123",
+    "notes": "Active. Hours: M-F 8am-6pm. Type: Walk-in. Rural"
+  },
+  {
+    "id": "az-page-page-community-center",
+    "name": "Page Community Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CCHHS official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "699 S Navajo Dr, Page, AZ 86040",
+    "city": "Page",
+    "state": "AZ",
+    "zip": "",
+    "phone": "(928) 645-2600",
+    "notes": "Active. Hours: M-Th 10am-4pm. Type: Walk-in. Rural"
+  },
+  {
+    "id": "al-empire-project-h-e-r-o-box--the-b",
+    "name": "Project H.E.R.O. Box - The Blue Store",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WBRC / Mountaineagle"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "5595 Coon Creek Rd., Empire, AL",
+    "city": "Empire",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Distribution Box. Rural"
+  },
+  {
+    "id": "al-carbon-hill-project-h-e-r-o-box--rolli",
+    "name": "Project H.E.R.O. Box - Rolling T Truck Stop",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WBRC / Mountaineagle"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2830 Nauvoo Rd., Rolling T Truck Stop, Carbon Hill, AL",
+    "city": "Carbon Hill",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - high traffic. Hours: 24/7. Type: Distribution Box. Rural"
+  },
+  {
+    "id": "al-jasper-project-h-e-r-o-box--healt",
+    "name": "Project H.E.R.O. Box - Health Connect America",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WBRC 2025"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1700 Fifth Ave. S., Jasper, AL (Health Connect America)",
+    "city": "Jasper",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Distribution Box. Rural town"
+  },
+  {
+    "id": "al-wetumpka-elmore-county-health-departm",
+    "name": "Elmore County Health Department Kiosk",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ADPH official / local news",
+      "https://www.alabamapublichealth.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "6501 Highway 231 North, Wetumpka, AL",
+    "city": "Wetumpka",
+    "state": "AL",
+    "zip": "",
+    "phone": "(334) 567-1171",
+    "notes": "Active. Hours: M-F 7:30am-5pm. Type: Kiosk. Rural / River Region"
+  },
+  {
+    "id": "al-citronelle-mchd-wic-center-kiosk",
+    "name": "MCHD WIC Center Kiosk",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MCHD official",
+      "https://mchd.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "19255 North Main Street, Citronelle, AL",
+    "city": "Citronelle",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: WIC hours. Type: Kiosk. Rural town"
+  },
+  {
+    "id": "de-wilmington-brandywine-counseling--comm",
+    "name": "Brandywine Counseling & Community Services / DHSS DSAMH",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHSS official + RehabSeekers",
+      "https://dhss.delaware.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2713 Lancaster Ave.",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active 24/7. Hours: 24/7. Type: Harm-Reduction Vending Machine. Statewide coverage via 5 machines"
+  },
+  {
+    "id": "de-newark-brandywine-counseling--comm",
+    "name": "Brandywine Counseling & Community Services",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHSS",
+      "https://dhss.delaware.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "24 Brookhill Drive",
+    "city": "Newark",
+    "state": "DE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm-Reduction Vending Machine. Urban/suburban"
+  },
+  {
+    "id": "de-dover-brandywine-counseling--comm",
+    "name": "Brandywine Counseling & Community Services",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHSS",
+      "https://dhss.delaware.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "698 S. Bay Road",
+    "city": "Dover",
+    "state": "DE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm-Reduction Vending Machine. Central DE"
+  },
+  {
+    "id": "de-milford-brandywine-counseling--comm",
+    "name": "Brandywine Counseling & Community Services",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHSS",
+      "https://dhss.delaware.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "769 E. Masten Circle",
+    "city": "Milford",
+    "state": "DE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm-Reduction Vending Machine. Southern DE"
+  },
+  {
+    "id": "de-georgetown-springboard-pallet-village",
+    "name": "Springboard Pallet Village / DHSS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DHSS",
+      "https://dhss.delaware.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "411 Kimmey St.",
+    "city": "Georgetown",
+    "state": "DE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm-Reduction Vending Machine. Rural southern"
+  },
+  {
+    "id": "fl-jail-lobbies-broward-sheriff-s-office",
+    "name": "Broward Sheriff\u2019s Office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Police1 / local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4 jail public areas + Detention office",
+    "city": "Jail lobbies",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active for justice-involved. Hours: Public lobby hours. Type: Vending Machines. Urban"
+  },
+  {
+    "id": "ga-macon-macon-recovers--river-edge",
+    "name": "Macon Recovers / River Edge",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Macon Telegraph"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "595 Wimbish Rd; 1235 Ash St; 175 Emery Hwy; 174 Walnut St",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 many. Type: Overdose Aid Kits / Boxes. Central GA"
+  },
+  {
+    "id": "hi-hilo-hhhrc--bisac--hawai\u02bbi-isla",
+    "name": "HHHRC + BISAC + Hawai\u02bbi Island Fentanyl Task Force",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HHHRC + HIFT official",
+      "https://www.hhhrc.org/naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Hilo: YMCA 300 W Lanikaula; BISAC sites (24/7 some); hubs in Kohala, Kamuela, Honoka\u02bba",
+    "city": "Hilo",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies / 24/7 some. Type: Vending Machines + Hubs. Neighbor islands / rural"
+  },
+  {
+    "id": "hi-honolulu-hhhrc--partners",
+    "name": "HHHRC + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HHHRC + DOH",
+      "https://www.hhhrc.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "677 Ala Moana Blvd + 30+ machines statewide (jails, clinics, etc.)",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "",
+    "phone": "(808) 521-2437",
+    "notes": "Active. Hours: Varies. Type: Vending + Distribution. Urban + neighbor mail"
+  },
+  {
+    "id": "id-coeur-d\u2019alene-panhandle-health-district",
+    "name": "Panhandle Health District",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "PHD press",
+      "https://panhandlehealthdistrict.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "St. Vincent de Paul Pantry 1317 N 1st St (business hours); Shoshone County Fire 911 Bunker Ave (24/7)",
+    "city": "Coeur d\u2019Alene",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7. Type: Vending Machines. Rural Panhandle"
+  },
+  {
+    "id": "id-boise-central-district-health",
+    "name": "Central District Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CDH official",
+      "https://cdh.idaho.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "20+ stand-alone boxes in EDs and community sites",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: 24/7 many. Type: Barney Boxes + shipping. Mix urban/rural"
   }
 ]
