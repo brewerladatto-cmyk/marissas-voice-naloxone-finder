@@ -3034,5 +3034,332 @@
     "zip": "",
     "phone": "",
     "notes": "Active expanding. Hours: Varies / 24/7 some. Type: Vending Machines + Kiosks"
+  },
+  {
+    "id": "co-denver-dpd-district-2-station",
+    "name": "DPD District 2 Station",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DPD / Naloxone Project"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "3921 N. Holly St., Denver, CO",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "co-denver-dpd-district-6-station",
+    "name": "DPD District 6 Station",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DPD / Naloxone Project"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1566 N. Washington St., Denver, CO",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ks-abilene-ckf-addiction-treatment",
+    "name": "CKF Addiction Treatment",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KSAL news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Expanding to Abilene, Fredonia, Junction City, Manhattan, McPherson, Wamego, Hays",
+    "city": "Abilene",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ky-multiple-madison-county-harm-reduc",
+    "name": "Madison County Harm Reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Kiosk Marketplace"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Galaxy Bowling, Ethan Health, Spero Health, G and A Counseling, Botany Bay",
+    "city": "Multiple",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Narcan Kiosks"
+  },
+  {
+    "id": "la-innis-arbor-family-health",
+    "name": "Arbor Family Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WAFB"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4 library branches: Innis, Livonia, Morganza, New Roads",
+    "city": "Innis",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Library hours. Type: Distribution Boxes"
+  },
+  {
+    "id": "ma-billerica-area-middlesex-sheriff-s-offic",
+    "name": "Middlesex Sheriff\u2019s Office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Mass.gov",
+      "https://www.mass.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Middlesex Jail & House of Correction visitor center",
+    "city": "Billerica area",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Visitor hours. Type: Vending Machine"
+  },
+  {
+    "id": "ma-worcester-aids-project-worcester",
+    "name": "AIDS Project Worcester",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Southbridge Street entrance (24/7)",
+    "city": "Worcester",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "mi-local-mdhhs-offices--partners-michigan-dhhs-naloxone",
+    "name": "Michigan DHHS Naloxone Direct Portal",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MDHHS official",
+      "https://www.michigan.gov/mdhhs"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free kits at local MDHHS offices; 1.7M+ kits distributed since 2020",
+    "city": "Local MDHHS offices + partners",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Business hours. Type: Walk-in + organizational"
+  },
+  {
+    "id": "mi-ann-arbor-michigan-open",
+    "name": "Michigan OPEN",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Michigan OPEN",
+      "https://michigan-open.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "OPEN program: multiple vending machines and newspaper-style boxes across counties (e.g., Michigan Medicine ED, Muskegon Trinity Health sites, others)",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies / 24/7 some. Type: Vending Machines + Distribution Boxes"
+  },
+  {
+    "id": "mn-minneapolis-city-of-minneapolis",
+    "name": "City of Minneapolis",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "City of Minneapolis",
+      "https://www.minneapolismn.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4 machines at Fire Stations 5 (2700 Bloomington Ave S), 12 (5401 33rd Ave S), 14 (2002 Lowry Ave N), 21 (3209 E 38th St) - 24/7",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - nearly 15,000 doses. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "mn-austin-recovery-is-happening",
+    "name": "Recovery is Happening",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Austin Daily Herald"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Mower County Government Center",
+    "city": "Austin",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "ms-county-health-depts--mail-mississippi-state-departm",
+    "name": "Mississippi State Department of Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MSDH official",
+      "https://msdh.ms.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free kits at county health departments or mailed (20,000+ kits distributed); odfree.org request form",
+    "city": "County health depts + mail",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "ms-jackson-jackson-medical-mall",
+    "name": "Jackson Medical Mall",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Mississippi Today"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Jackson Medical Mall (Fund Recovery / REACH)",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "mo-lee-s-summit-jackson-county-public-hea",
+    "name": "Jackson County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KCTV5 + Vending Times"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Lee\u2019s Summit HQ area; Raytown Synergy One Lending (expanding to Independence, Grandview, etc.)",
+    "city": "Lee\u2019s Summit",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - 3,000+ uses first machine. Hours: 24/7. Type: Bluebox Vending Machines"
+  },
+  {
+    "id": "mo-sedalia-pettis-county-health-cent",
+    "name": "Pettis County Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KOMU"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Health Center 911 E 16th St; Municipal Building 200 S Osage Ave; State Fair Community College Fielding Building",
+    "city": "Sedalia",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "mt-oendp-map-montana-dphhs-oendp",
+    "name": "Montana DPHHS OENDP",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DPHHS official",
+      "https://dphhs.mt.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "dphhs.mt.gov interactive map of community distributors; regional lead organizations",
+    "city": "OENDP map",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational + map"
+  },
+  {
+    "id": "mt-helena-lewis-and-clark-county",
+    "name": "Lewis and Clark County",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KFF Health News"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Three machines distributing free Narcan (operational over a year)",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ne-pharmacies--mail-stop-overdose-nebraska-s",
+    "name": "Stop Overdose Nebraska (STOPODNE)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "STOPODNE + NPA",
+      "https://www.stopodne.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "stopodne.com online order; 150+ participating pharmacies",
+    "city": "Pharmacies + mail",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mail / pharmacy. Type: Mail + pharmacy"
+  },
+  {
+    "id": "ne-lincoln-nebraska-pharmacists-asso",
+    "name": "Nebraska Pharmacists Association + Region 5",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news + NPA"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "CenterPointe Campus lobby; The Bridge Behavioral Health; Matt Talbot Kitchen; HealthToGo machines at LLCHD, F Street Community Center, Union Plaza, Carriage Park Garage, Elaine Hammer Bridge",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies. Type: Vending Machines + Grab-N-Go"
+  },
+  {
+    "id": "nv-las-vegas-trac-b-exchange--snhd",
+    "name": "Trac-B Exchange + SNHD",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SNHD + local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple HRVMs (The Center, Center for Behavioral Health, TIM CARE, etc.); SNHD public health centers",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Harm Reduction Vending Machines"
   }
 ]
