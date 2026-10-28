@@ -2707,5 +2707,332 @@
     "zip": "",
     "phone": "",
     "notes": "Active - 587+ units dispensed. Hours: Varies. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "al-parrish-project-h-e-r-o--jubile",
+    "name": "Project H.E.R.O. / Jubilee House",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news / Oxford American"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Parrish (former bank parking), Empire, Carbon Hill",
+    "city": "Parrish",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - high distribution volume. Hours: 24/7 for main machine. Type: Vending Machine + Boxes"
+  },
+  {
+    "id": "co-northern-colorado-north-colorado-health-all",
+    "name": "North Colorado Health Alliance",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NCHA official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online form + local points",
+    "city": "Northern Colorado",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Online. Type: Mail-Order + Vending/Kiosks"
+  },
+  {
+    "id": "co-denver-colorado-coalition-for-th",
+    "name": "Colorado Coalition for the Homeless",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Denver Post / Naloxone Project"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2130 Stout St., Denver, CO",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - high volume. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "il-taylorville-christian-county-health-d",
+    "name": "Christian County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WICS news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Health Department building",
+    "city": "Taylorville",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machine"
+  },
+  {
+    "id": "il-alton-centerstone--chestnut-he",
+    "name": "Centerstone / Chestnut Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Telegraph"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2615 Edwards St Alton (business hours); others",
+    "city": "Alton",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Business hours. Type: Vending Machines"
+  },
+  {
+    "id": "in-jeffersonville-overdose-lifeline--hospi",
+    "name": "Overdose Lifeline / hospitals / libraries",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news + OL",
+      "https://www.overdoselifeline.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Clark Memorial ED; Kokomo-Howard Library vestibule; St. Joseph Jail; others",
+    "city": "Jeffersonville",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies / 24/7 some. Type: Vending Machines"
+  },
+  {
+    "id": "ia-cedar-rapids-linn-county-substance-mis",
+    "name": "Linn County Substance Misuse Committee",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Linn County official",
+      "https://linncountyiowa.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "7 machines: Mental Health Access Center, CRUSH Recovery, Hiawatha & Marion Libraries, Gary's Foods, Ryan White Building, CTC",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ia-manchester-delaware-county-opioid-co",
+    "name": "Delaware County Opioid Committee",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Rehabs.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Regional Medical Center Manchester; Hopkinton Community Center",
+    "city": "Manchester",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "ks-multiple-cities-dccca-kansas-naloxone-pro",
+    "name": "DCCCA Kansas Naloxone Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DCCCA official + news",
+      "https://www.dccca.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Machines in Pittsburg (Crawford MH), Lawrence Transit, Garden City (Compass), Overland Park (Catholic Charities), Hutchinson (Crossover), Salina (CKF), Wichita (DCCCA), KCK Public Library",
+    "city": "Multiple cities",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies. Type: Vending Machines + mail"
+  },
+  {
+    "id": "ks-lawrence-city--dccca--heartland",
+    "name": "City + DCCCA + Heartland",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Lawrence Times + Heartland"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Homeless Resource Center 944 Kentucky St.; Lawrence Community Shelter; Heartland CHC; Transit Center",
+    "city": "Lawrence",
+    "state": "KS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ky-136-free-sites--kiosks-find-naloxone-now-ky-kdp",
+    "name": "Find Naloxone Now KY (KDPH)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KDPH official",
+      "https://findnaloxone.ky.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "findnaloxone.ky.gov map (LHD, CBOs, recovery centers); mail-order available; many kiosks/vending",
+    "city": "136+ free sites + kiosks",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 kiosks. Type: Locator map + mail + kiosks"
+  },
+  {
+    "id": "ky-covington-nky-health",
+    "name": "NKY Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers + local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Anonymous wellness kiosks in Covington, Newport, Erlanger, Hebron, Highland Heights, Williamstown",
+    "city": "Covington",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Wellness Kiosks"
+  },
+  {
+    "id": "la-monroe-northeast-delta-hsa--pho",
+    "name": "Northeast Delta HSA / Phoenix Peer Support",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news + RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Phoenix Peer Support Center 722 Adams St.; Northeast Delta peer support center",
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "la-baton-rouge-capitol-area-reentry-prog",
+    "name": "Capitol Area Reentry Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Capitol Area Reentry Program",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "me-presque-isle-mi-kmaq-nation-health-dep",
+    "name": "Mi'kmaq Nation Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Native News Online"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Mi'kmaq Nation Health Department entryway (24/7 unlocked door + code)",
+    "city": "Presque Isle",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "me-damariscotta-mainehealth-lincoln-hospi",
+    "name": "MaineHealth Lincoln Hospital",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Miles Campus ED (24/7, coupon from brochure holder)",
+    "city": "Damariscotta",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "md-columbia-howard-county-health-depa",
+    "name": "Howard County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Howard County official",
+      "https://www.howardcountymd.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Grassroots Day Resource Center 10390 Guilford Rd Jessup; HCHD 8930 Stanford Blvd Columbia (under green awning)",
+    "city": "Columbia",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "md-frederick-frederick-county-health-d",
+    "name": "Frederick County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WTOP"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Department of Housing 6040 New Design Rd; 12+ naloxone boxes countywide",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine + Boxes"
+  },
+  {
+    "id": "ma-oend--cnp-map-massachusetts-dph",
+    "name": "Massachusetts DPH",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Mass.gov official",
+      "https://www.mass.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "mass.gov Naloxone Program Locator (OEND and Community Naloxone Program sites)",
+    "city": "OEND + CNP map",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Program locator map + organizational"
+  },
+  {
+    "id": "ma-boston-boston-public-health-comm",
+    "name": "Boston Public Health Commission",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Boston.gov + local news",
+      "https://www.boston.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple: BPHC Recovery Services Finland Building, Southampton Street Shelter, EnVision Hotel, North End Waterfront CHC Charlestown, Codman Square Health Center, NeighborHealth East Boston, Bridge Over Troubled Waters, etc.",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies / 24/7 some. Type: Vending Machines + Kiosks"
   }
 ]
