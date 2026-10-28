@@ -905,5 +905,227 @@
       "lng": -95.39
     },
     "notes": "Free naloxone (Narcan) vending machine in the coffee lounge. Accessible during regular business hours (approx Mon-Thu 8:30am\u20139pm, Fri 8:30am\u20135pm, Sat 8:30am-1:30pm). No cost, no personal information required. Naloxone Texas style unit."
+  },
+  {
+    "id": "ny-redhook-matters-vending",
+    "name": "Dutchess County / MATTERS Naloxone Vending - Red Hook",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.thedailycatch.org/articles/red-hooks-narcan-vending-machine-is-the-most-used-in-dutchess-county-as-overdoses-decline/",
+      "https://mattersnetwork.org/vm/",
+      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "7467 S. Broadway (outside Village Hall)",
+    "city": "Red Hook",
+    "state": "NY",
+    "zip": "12571",
+    "coordinates": {
+      "lat": 41.995,
+      "lng": -73.875
+    },
+    "notes": "Free anonymous 24/7 naloxone (Narcan) and test strip vending machine. Part of Dutchess County / MATTERS Network program. Most used of six county machines. Enter code 8377 + birth year + zip. No cost."
+  },
+  {
+    "id": "ny-amenia-matters-vending",
+    "name": "Dutchess County / MATTERS Naloxone Vending - Amenia",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://mattersnetwork.org/vm/",
+      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4988 NY-22 (Amenia Town Hall)",
+    "city": "Amenia",
+    "state": "NY",
+    "zip": "12501",
+    "coordinates": {
+      "lat": 41.847,
+      "lng": -73.555
+    },
+    "notes": "Free anonymous 24/7 naloxone and harm reduction supplies via MATTERS Network. Dutchess County program. Enter 8377 + birth year + zip."
+  },
+  {
+    "id": "ny-millbrook-matters-vending",
+    "name": "Dutchess County / MATTERS Naloxone Vending - Millbrook",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://mattersnetwork.org/vm/",
+      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "131 County House Rd (Eastern Dutchess Government Center)",
+    "city": "Millbrook",
+    "state": "NY",
+    "zip": "12545",
+    "coordinates": {
+      "lat": 41.785,
+      "lng": -73.695
+    },
+    "notes": "Free 24/7 outdoor naloxone vending machine. MATTERS Network / Dutchess County. No ID required."
+  },
+  {
+    "id": "ny-beacon-matters-vending",
+    "name": "Dutchess County / MATTERS Naloxone Vending - Beacon",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://mattersnetwork.org/vm/",
+      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "223 Main St (Beacon Government Center)",
+    "city": "Beacon",
+    "state": "NY",
+    "zip": "12508",
+    "coordinates": {
+      "lat": 41.504,
+      "lng": -73.969
+    },
+    "notes": "Free 24/7 naloxone vending machine. Part of Dutchess County MATTERS program. Enter 8377 + birth year + zip."
+  },
+  {
+    "id": "ny-poughkeepsie-stabilization-vending",
+    "name": "Dutchess County Stabilization Center / MATTERS Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://mattersnetwork.org/vm/",
+      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "230 North Rd",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "zip": "12601",
+    "coordinates": {
+      "lat": 41.705,
+      "lng": -73.921
+    },
+    "notes": "Free 24/7 naloxone vending machine at Dutchess County Stabilization Center. MATTERS Network."
+  },
+  {
+    "id": "ny-poughkeepsie-rose-vending",
+    "name": "Dutchess County / MATTERS Naloxone Vending - Rose St / Fallkill Commons",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://mattersnetwork.org/vm/",
+      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "17 Rose St (rear of building)",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "zip": "12601",
+    "coordinates": {
+      "lat": 41.701,
+      "lng": -73.917
+    },
+    "notes": "Free 24/7 outdoor naloxone vending machine. Dutchess County / MATTERS. Machine at rear of building."
+  },
+  {
+    "id": "pa-pittsburgh-smithfield-vending",
+    "name": "Allegheny County Human Services Naloxone Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.cbsnews.com/pittsburgh/news/outdoor-naloxone-vending-machine-installed-in-downtown-pittsburgh/",
+      "https://www.harmreductionallegheny.org/list-of-resources",
+      "https://content.govdelivery.com/accounts/PAALLEGHENYCO/bulletins/4043a7d"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1 Smithfield Street (outdoor, outside Human Services Building)",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222",
+    "coordinates": {
+      "lat": 40.442,
+      "lng": -79.997
+    },
+    "notes": "Free anonymous 24/7 outdoor naloxone vending machine. Allegheny County Health Department / DHS. No questions asked. Installed January 2026."
+  },
+  {
+    "id": "wi-stoughton-health-vending",
+    "name": "Stoughton Health Harm Reduction Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.stoughtonnews.com/news/public_safety/stoughton-health-adds-vending-machine/article_ca0296b5-5cf9-4489-82ac-c244e32b1179.html",
+      "https://www.danecounty.gov/PressDetail/11979"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "900 Ridge St (emergency department entrance)",
+    "city": "Stoughton",
+    "state": "WI",
+    "zip": "53589",
+    "coordinates": {
+      "lat": 42.917,
+      "lng": -89.217
+    },
+    "notes": "Free harm reduction vending machine with naloxone and other supplies. Dane County opioid settlement funded. Near ED entrance. Installed October 2026."
+  },
+  {
+    "id": "wi-sun-prairie-sunshine-vending",
+    "name": "Sunshine Place / Dane County Harm Reduction Vending",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.wkow.com/news/dane-county-expands-access-to-overdose-prevention-supplies-with-new-vending-machines/article_fd055b1e-eaf2-4ae3-b932-46935e14d6d6.html",
+      "https://www.danecounty.gov/PressDetail/11979"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "18 Rickel Road (outside Sunshine Place)",
+    "city": "Sun Prairie",
+    "state": "WI",
+    "zip": "53590",
+    "coordinates": {
+      "lat": 43.183,
+      "lng": -89.213
+    },
+    "notes": "Free 24/7 outdoor harm reduction vending machine with naloxone, test strips, and personal care items. Dane County program. Installed October 2026."
+  },
+  {
+    "id": "tx-hays-county-jail-vending",
+    "name": "Hays County Jail Lobby Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://communityimpact.com/austin/san-marcos-buda-kyle/government/2025/05/12/hays-county-jail-offers-free-narcan-to-reduce-opioid-deaths/",
+      "https://www.kxan.com/news/local/hays/saving-lives-hays-county-jail-installs-narcan-vending-machine/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1307 Uhland Rd (lobby)",
+    "city": "San Marcos",
+    "state": "TX",
+    "zip": "78666",
+    "coordinates": {
+      "lat": 29.88,
+      "lng": -97.94
+    },
+    "notes": "Free naloxone (Narcan) available in jail lobby for public and discharged individuals. Partnership with Hays County Health / ICON. Lobby open 24/7. Educational materials on site."
+  },
+  {
+    "id": "mo-stlouis-arca-vending",
+    "name": "ARCA Assisted Recovery Centers Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.arcamidwest.com/naloxone-vending-machine"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1430 Olive Street",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63103",
+    "phone": "314-645-6840",
+    "coordinates": {
+      "lat": 38.631,
+      "lng": -90.199
+    },
+    "notes": "Free naloxone (nasal and injectable) vending machine at ARCA. No appointment needed for walk-in treatment; machine provides anonymous access. Confirm current stock."
   }
 ]
