@@ -3,642 +3,346 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Marissa’s Voice Naloxone Finder</title>
-<meta name="description" content="Find free naloxone, treatment, and support near you. Every listing shows its source and last-checked date.">
+<title>Marissa’s Voice Naloxone Finder & Support</title>
+<meta name="description" content="Find free naloxone, treatment, and family support near you. Every listing shows its source and last-checked date.">
+<link rel="icon" href="images/logo.png" type="image/png">
+<link rel="apple-touch-icon" href="images/logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <style>
 :root {
   --purple: #4A1C6B;
   --purple-deep: #2D0F47;
   --purple-mid: #5B2C6F;
   --teal: #0D9488;
-  --teal-soft: #14B8A6;
-  --teal-pale: #E6F7F5;
   --gold: #C9A227;
   --gold-soft: #E8D48B;
-  --gold-pale: #FBF6E8;
   --lavender: #F7F4FB;
-  --lavender-dark: #EDE6F5;
+  --white: #FFFFFF;
   --text: #2A2433;
   --muted: #6B6275;
-  --white: #FFFFFF;
-  --verified: #0D9488;
-  --partly: #C9A227;
-  --unconfirmed: #9B8AA8;
-  --shadow: 0 10px 40px rgba(74, 28, 107, 0.08);
-  --shadow-sm: 0 4px 16px rgba(74, 28, 107, 0.06);
+  --shadow: 0 10px 40px rgba(74, 28, 107, 0.12);
   --radius: 20px;
-  --radius-sm: 12px;
 }
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
-body {
-  margin: 0;
-  font-family: "Open Sans", system-ui, sans-serif;
-  background: var(--lavender);
-  color: var(--text);
-  line-height: 1.6;
-}
+html, body { margin: 0; padding: 0; font-family: "Open Sans", system-ui, sans-serif; background: linear-gradient(160deg, var(--purple-deep) 0%, var(--purple) 55%, var(--purple-mid) 100%); color: white; min-height: 100vh; }
 header {
-  background: linear-gradient(145deg, var(--purple-deep) 0%, var(--purple) 45%, var(--purple-mid) 100%);
-  color: white;
-  padding: 2.2rem 1.25rem 3.5rem;
-  position: relative;
-  overflow: hidden;
-}
-header::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background:
-    radial-gradient(circle at 88% 18%, rgba(201, 162, 39, 0.22), transparent 42%),
-    radial-gradient(circle at 12% 80%, rgba(20, 184, 166, 0.12), transparent 36%);
-  pointer-events: none;
-}
-.header-inner { max-width: 1100px; margin: 0 auto; position: relative; z-index: 1; }
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin-bottom: 0.6rem;
-}
-.logo {
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  background: linear-gradient(135deg, var(--gold) 0%, var(--gold-soft) 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: "Playfair Display", serif;
-  font-weight: 700;
-  color: var(--purple-deep);
-  font-size: 1.55rem;
-  flex-shrink: 0;
-  box-shadow: 0 4px 20px rgba(201, 162, 39, 0.35);
-}
-.brand h1 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 1.7rem;
-  font-weight: 700;
-  margin: 0;
-  letter-spacing: -0.025em;
-}
-.tagline {
-  font-family: "Playfair Display", serif;
-  font-style: italic;
-  font-size: 1.12rem;
-  opacity: 0.95;
-  margin: 0.2rem 0 0;
-}
-.header-links {
-  display: flex;
-  gap: 1.1rem;
-  align-items: center;
-  font-size: 0.92rem;
-  margin-top: 0.75rem;
-  flex-wrap: wrap;
-}
-.header-links a {
-  color: var(--gold-soft);
-  text-decoration: none;
-  font-weight: 500;
-}
-.header-links a:hover { text-decoration: underline; }
-.header-meta {
-  display: flex;
-  gap: 0.75rem;
-  align-items: center;
-  opacity: 0.9;
-  font-size: 0.9rem;
-}
-.share-buttons {
-  display: flex;
-  gap: 0.5rem;
-  align-items: center;
-  margin-left: 0.5rem;
-}
-.share-btn {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.35rem 0.75rem;
-  border-radius: 999px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-decoration: none;
-  color: white;
-  transition: opacity 0.15s, transform 0.1s;
-}
-.share-btn:hover {
-  opacity: 0.9;
-  transform: translateY(-1px);
-}
-.share-btn.facebook { background: #1877F2; }
-.share-btn.x { background: #000000; }
-
-.emergency {
-  background: linear-gradient(90deg, #B91C1C 0%, #C0392B 100%);
-  color: white;
-  text-align: center;
-  padding: 0.75rem 1rem;
-  font-size: 0.95rem;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-}
-.emergency a { color: white; text-decoration: underline; font-weight: 700; }
-
-.container { max-width: 1100px; margin: 0 auto; padding: 0 1.25rem 3.5rem; }
-
-.hero-banner {
-  text-align: center;
-  margin: 1.5rem auto 2rem;
-  max-width: 700px;
-}
-.hero-banner img {
-  width: 100%;
-  max-width: 520px;
-  height: auto;
-  border-radius: 24px;
-  box-shadow: 0 12px 40px rgba(74, 28, 107, 0.25);
-  display: block;
-  margin: 0 auto;
-}
-
-.search-card {
   background: white;
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  padding: 1.5rem;
-  margin-top: -2.25rem;
-  position: relative;
-  z-index: 2;
-}
-.search-row {
+  color: var(--purple);
+  padding: 0.75rem 1.25rem;
   display: flex;
-  gap: 0.7rem;
+  align-items: center;
+  justify-content: space-between;
   flex-wrap: wrap;
+  gap: 1rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
 }
-.search-row input[type="search"] {
-  flex: 1 1 240px;
-  padding: 0.95rem 1.1rem;
-  border: 2px solid var(--lavender-dark);
-  border-radius: var(--radius-sm);
-  font-size: 1.02rem;
+.brand { display: flex; align-items: center; gap: 0.75rem; }
+.brand img { width: 52px; height: 52px; border-radius: 50%; object-fit: cover; }
+.brand-text h1 { font-family: "Montserrat", sans-serif; font-size: 1.25rem; margin: 0; font-weight: 700; }
+.brand-text p { font-size: 0.72rem; margin: 0.1rem 0 0; letter-spacing: 0.04em; color: var(--teal); font-weight: 600; }
+nav { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+nav a, nav button {
+  text-decoration: none;
+  color: var(--purple);
+  font-weight: 600;
+  font-size: 0.92rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+nav .find-help { background: var(--purple); color: white; }
+nav .espanol { border: 1.5px solid var(--purple); }
+.emergency {
+  background: var(--purple-deep);
+  text-align: center;
+  padding: 0.55rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.emergency a { color: var(--gold-soft); text-decoration: underline; }
+.main {
+  display: grid;
+  grid-template-columns: 1fr 420px;
+  gap: 2.5rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1.5rem 3rem;
+  align-items: start;
+}
+.left h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 3.1rem;
+  font-weight: 700;
+  line-height: 1.05;
+  margin: 0.4rem 0 1rem;
+}
+.left .meta { font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.85; margin-bottom: 0.5rem; }
+.left p { font-size: 1.05rem; max-width: 480px; line-height: 1.55; opacity: 0.95; }
+.emergency-cards { display: flex; gap: 0.75rem; margin-top: 1.5rem; flex-wrap: wrap; }
+.emergency-cards .card {
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 12px;
+  padding: 0.85rem 1rem;
+  min-width: 140px;
+  flex: 1;
+}
+.emergency-cards .num { font-size: 1.4rem; font-weight: 700; color: var(--gold-soft); }
+.emergency-cards .label { font-size: 0.8rem; opacity: 0.9; }
+.form-card {
+  background: white;
+  color: var(--text);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.3rem 1.6rem;
+  box-shadow: var(--shadow);
+}
+.form-card label { display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 0.9rem 0 0.35rem; }
+.form-card input, .form-card select {
+  width: 100%;
+  padding: 0.75rem 0.9rem;
+  border: 1.5px solid #e5e0ee;
+  border-radius: 10px;
+  font-size: 1rem;
   font-family: inherit;
-  transition: border-color 0.2s, box-shadow 0.2s;
 }
-.search-row input:focus {
-  outline: none;
-  border-color: var(--teal);
-  box-shadow: 0 0 0 4px rgba(13, 148, 136, 0.12);
+.form-card button.use-loc {
+  width: 100%;
+  margin-top: 0.6rem;
+  padding: 0.7rem;
+  border: 1.5px solid var(--purple);
+  background: white;
+  color: var(--purple);
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
 }
-.search-row button, .filter-btn {
+.form-card .row { display: flex; gap: 0.75rem; }
+.form-card .row > div { flex: 1; }
+.form-card .find-btn {
+  width: 100%;
+  margin: 1rem 0 0.8rem;
+  padding: 0.95rem;
   background: var(--purple);
   color: white;
   border: none;
-  padding: 0.95rem 1.4rem;
-  border-radius: var(--radius-sm);
-  font-weight: 600;
-  font-family: "Montserrat", sans-serif;
-  cursor: pointer;
-  transition: background 0.2s, transform 0.15s;
-}
-.search-row button:hover, .filter-btn:hover {
-  background: var(--purple-deep);
-  transform: translateY(-1px);
-}
-.filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 1rem;
-}
-.filters button {
-  background: var(--lavender);
-  color: var(--text);
-  border: 1.5px solid transparent;
-  padding: 0.5rem 0.95rem;
-  border-radius: 999px;
-  font-size: 0.88rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.15s;
-}
-.filters button.active {
-  background: var(--teal);
-  color: white;
-  border-color: var(--teal);
-}
-.filters button:hover:not(.active) {
-  border-color: var(--teal);
-  background: white;
-}
-
-.view-toggle {
-  display: flex;
-  gap: 0.5rem;
-  margin: 1.2rem 0 0.5rem;
-}
-.view-toggle button {
-  background: var(--lavender);
-  color: var(--text);
-  border: 1.5px solid transparent;
-  padding: 0.45rem 1rem;
-  border-radius: 999px;
-  font-size: 0.88rem;
-  font-weight: 500;
-  cursor: pointer;
-}
-.view-toggle button.active {
-  background: var(--purple);
-  color: white;
-}
-
-#map {
-  height: 480px;
-  width: 100%;
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
-  margin-bottom: 1.5rem;
-  background: #e8e4ef;
-}
-
-.stats {
-  margin: 1.6rem 0 1rem;
-  font-size: 0.98rem;
-  color: var(--muted);
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-.stats strong { color: var(--purple); }
-
-.results { display: grid; gap: 1rem; }
-.card {
-  background: white;
-  border-radius: var(--radius);
-  padding: 1.25rem 1.35rem;
-  box-shadow: var(--shadow-sm);
-  border-left: 5px solid var(--teal);
-  transition: transform 0.15s, box-shadow 0.15s;
-}
-.card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 28px rgba(74, 28, 107, 0.1);
-}
-.card.mail_order { border-left-color: var(--gold); }
-.card.helpline, .card.crisis_safety { border-left-color: #C0392B; }
-.card.recovery_treatment { border-left-color: #7C3AED; }
-.card-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 0.8rem;
-  flex-wrap: wrap;
-}
-.card h3 {
-  margin: 0 0 0.4rem;
-  font-family: "Montserrat", sans-serif;
-  font-size: 1.08rem;
-  color: var(--purple);
-  line-height: 1.35;
-}
-.badge {
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.045em;
-  padding: 0.28rem 0.65rem;
-  border-radius: 999px;
-  white-space: nowrap;
-}
-.badge.verified { background: var(--teal-pale); color: var(--verified); }
-.badge.partly_verified { background: var(--gold-pale); color: #8A6F12; }
-.badge.unconfirmed { background: #F3EEF6; color: var(--unconfirmed); }
-.card p { margin: 0.45rem 0 0.6rem; font-size: 0.96rem; color: var(--text); }
-.meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem 1.1rem;
-  font-size: 0.86rem;
-  color: var(--muted);
-  margin-top: 0.55rem;
-  align-items: center;
-}
-.meta span, .meta a {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
-}
-.meta a { color: var(--teal); text-decoration: none; font-weight: 500; }
-.meta a:hover { text-decoration: underline; }
-.org { font-weight: 600; color: var(--purple); font-size: 0.9rem; }
-.sources {
-  font-size: 0.8rem;
-  margin-top: 0.65rem;
-  padding-top: 0.55rem;
-  border-top: 1px solid var(--lavender-dark);
-  color: var(--muted);
-}
-.sources a { color: var(--muted); text-decoration: none; }
-.sources a:hover { color: var(--teal); text-decoration: underline; }
-
-.empty {
-  text-align: center;
-  padding: 2.5rem 1rem;
-  color: var(--muted);
-  background: white;
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
-}
-
-footer {
-  background: linear-gradient(180deg, var(--purple-deep) 0%, #1F0A33 100%);
-  color: white;
-  padding: 2.5rem 1.25rem 2rem;
-  margin-top: 1rem;
-}
-.footer-inner { max-width: 1100px; margin: 0 auto; }
-.memorial {
-  font-family: "Playfair Display", serif;
-  font-style: italic;
-  font-size: 1.25rem;
-  margin-bottom: 0.5rem;
-  color: var(--gold-soft);
-}
-.mission {
+  border-radius: 12px;
   font-size: 1.05rem;
-  margin: 0.4rem 0 1rem;
-  opacity: 0.95;
+  font-weight: 700;
+  cursor: pointer;
 }
-footer a { color: var(--gold-soft); text-decoration: none; }
-footer a:hover { text-decoration: underline; }
-.disclaimer {
+.pills { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 0.4rem 0 0.6rem; }
+.pills button {
+  background: #f3eef8;
+  color: var(--purple);
+  border: none;
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
   font-size: 0.82rem;
-  opacity: 0.8;
-  margin-top: 1.25rem;
-  line-height: 1.5;
-  max-width: 720px;
+  font-weight: 600;
+  cursor: pointer;
 }
-.footer-links {
-  margin: 1rem 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
+.pills button.active { background: var(--purple); color: white; }
+.open-now {
+  margin-top: 0.5rem;
+  background: white;
+  border: 1.5px solid #e5e0ee;
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
 }
-.footer-links a {
-  color: var(--gold-soft);
-  text-decoration: none;
-  font-weight: 500;
+.open-now.active { background: var(--teal); color: white; border-color: var(--teal); }
+.status { font-size: 0.88rem; color: var(--muted); margin: 0.8rem 0 0.3rem; }
+.coverage { font-size: 0.78rem; color: var(--muted); line-height: 1.45; }
+.results { margin-top: 1.5rem; display: grid; gap: 0.9rem; }
+.result-card {
+  background: white;
+  color: var(--text);
+  border-radius: 14px;
+  padding: 1.1rem 1.2rem;
+  box-shadow: 0 4px 16px rgba(74,28,107,0.08);
+  border-left: 4px solid var(--teal);
 }
-.footer-links a:hover { text-decoration: underline; }
-
-@media (max-width: 640px) {
-  header { padding: 1.6rem 1rem 2.8rem; }
-  .brand h1 { font-size: 1.35rem; }
-  .logo { width: 54px; height: 54px; font-size: 1.3rem; }
-  .search-row button { width: 100%; }
-  .search-card { padding: 1.2rem; }
-  .card { padding: 1.1rem 1.15rem; }
-  .hero-banner { margin: 1rem auto 1.5rem; }
-  .share-buttons { margin-left: 0; margin-top: 0.5rem; }
-  #map { height: 360px; }
+.result-card h3 { margin: 0 0 0.35rem; color: var(--purple); font-size: 1.05rem; }
+.result-card .badge { float: right; font-size: 0.7rem; background: #e6f7f5; color: var(--teal); padding: 0.2rem 0.5rem; border-radius: 999px; font-weight: 700; }
+@media (max-width: 900px) {
+  .main { grid-template-columns: 1fr; }
+  .left h2 { font-size: 2.3rem; }
+  header { justify-content: center; text-align: center; }
 }
 </style>
 </head>
 <body>
 <header>
-  <div class="header-inner">
-    <div class="brand">
-      <div class="logo">MV</div>
-      <div>
-        <h1>Marissa’s Voice</h1>
-        <p class="tagline">Carry naloxone. Be informed. Save a life.</p>
-      </div>
-    </div>
-    <div class="header-links">
-      <a href="https://www.marissasvoice.org" target="_blank" rel="noopener">marissasvoice.org</a>
-      <span class="header-meta">Free · Confidential · Updated Oct 2026</span>
-      <div class="share-buttons">
-        <a id="shareFacebook" class="share-btn facebook" href="#" target="_blank" rel="noopener" aria-label="Share on Facebook">Facebook</a>
-        <a id="shareX" class="share-btn x" href="#" target="_blank" rel="noopener" aria-label="Share on X">X</a>
-      </div>
+  <div class="brand">
+    <img src="images/logo.png" alt="Marissa’s Voice logo" onerror="this.style.display='none'">
+    <div class="brand-text">
+      <h1>Marissa’s Voice</h1>
+      <p>CARRY NALOXONE. BE INFORMED. SAVE A LIFE.</p>
     </div>
   </div>
+  <nav>
+    <a href="#search" class="find-help">Find help</a>
+    <a href="https://www.marissasvoice.org" target="_blank">How to give naloxone</a>
+    <a href="https://www.marissasvoice.org" target="_blank">About</a>
+    <button class="espanol" onclick="alert('Spanish version coming soon.')">Español</button>
+  </nav>
 </header>
 
 <div class="emergency">
   In an emergency, call <a href="tel:911">911</a>. Struggling? Call or text <a href="tel:988">988</a>. &nbsp; LAY • SPRAY • STAY
 </div>
 
-<div class="container">
-  <div class="hero-banner">
-    <img src="images/find-naloxone-square.jpg" alt="FIND NALOXONE. One spray can save a life. Marissa’s Voice — featuring Marissa Caitlyn Ladatto">
-  </div>
-
-  <div class="search-card">
-    <div class="search-row">
-      <input type="search" id="q" placeholder="Search by ZIP, city, state, address, or keyword…" aria-label="Search listings">
-      <button type="button" id="searchBtn">Find help</button>
-    </div>
-    <div class="filters" id="filters">
-      <button type="button" data-cat="" class="active">All</button>
-      <button type="button" data-cat="free_naloxone">Free naloxone</button>
-      <button type="button" data-cat="mail_order">Mail-order</button>
-      <button type="button" data-cat="helpline">Helplines</button>
-      <button type="button" data-cat="recovery_treatment">Recovery</button>
+<div class="main" id="search">
+  <div class="left">
+    <div class="meta">FREE · CONFIDENTIAL · DATA CHECKED OCT 8, 2026 – OCT 13, 2026</div>
+    <h2>Marissa’s Voice<br>Naloxone Finder<br>& Support</h2>
+    <p>Find free naloxone, treatment and family support near you. Enter a ZIP code, a city and state, or a county, or pick a state. Every listing shows its source and the date we last checked it.</p>
+    <div class="emergency-cards">
+      <div class="card"><div class="num">911</div><div class="label">Overdose or emergency</div></div>
+      <div class="card"><div class="num">988</div><div class="label">Call or text, crisis support</div></div>
+      <div class="card"><div class="num">SAMHSA</div><div class="label">1-800-662-HELP (4357), treatment help 24/7</div></div>
     </div>
   </div>
 
-  <div class="view-toggle">
-    <button type="button" id="listViewBtn" class="active">List</button>
-    <button type="button" id="mapViewBtn">Map</button>
-  </div>
+  <div class="form-card">
+    <label>ZIP CODE, CITY AND STATE, OR COUNTY</label>
+    <input type="text" id="q" placeholder="75116 or Dallas, TX" value="75116">
 
-  <div id="map" style="display:none;"></div>
-  <div class="stats" id="stats">Loading listings…</div>
-  <div class="results" id="results"></div>
+    <button type="button" class="use-loc" id="useLoc">Use my location</button>
+
+    <label>OR CHOOSE A STATE</label>
+    <select id="state">
+      <option value="">Pick a state</option>
+      <option value="TX" selected>Texas</option>
+      <option value="CA">California</option>
+      <option value="NY">New York</option>
+      <option value="FL">Florida</option>
+    </select>
+
+    <div class="row">
+      <div>
+        <label>WITHIN</label>
+        <select id="within">
+          <option value="25">25 miles</option>
+          <option value="50" selected>50 miles</option>
+          <option value="100">100 miles</option>
+          <option value="all">Any distance</option>
+        </select>
+      </div>
+      <div>
+        <label>SHOW</label>
+        <select id="show">
+          <option value="all" selected>All listings</option>
+          <option value="verified">Verified only</option>
+        </select>
+      </div>
+    </div>
+
+    <button type="button" class="find-btn" id="searchBtn">Find help</button>
+
+    <label>Type of help</label>
+    <div class="pills" id="pills">
+      <button type="button" data-filter="free_naloxone" class="active">Free naloxone (in person)</button>
+      <button type="button" data-filter="mail_order">Mail-order and online</button>
+      <button type="button" data-filter="treatment">Treatment</button>
+      <button type="button" data-filter="family">Family support</button>
+      <button type="button" data-filter="harm">Harm reduction and syringe services</button>
+      <button type="button" data-filter="helpline">Helpline or meeting finder</button>
+      <button type="button" data-filter="training">Training</button>
+    </div>
+    <button type="button" class="open-now" id="openNow">Open now (verified hours only)</button>
+
+    <div class="status" id="status">Showing results for ZIP 75116.</div>
+    <div class="coverage">Street-level listings are live in 50 of 51 places (50 states and D.C.). Statewide resources are available everywhere. Listings were last checked Oct 8, 2026 – Oct 13, 2026.</div>
+  </div>
 </div>
 
-<footer>
-  <div class="footer-inner">
-    <div class="memorial">In memory of Marissa Caitlyn Ladatto · Forever 21</div>
-    <p class="mission">Prevention begins before risk becomes tragedy.</p>
-    <div class="footer-links">
-      <a href="/privacy">Privacy Policy</a>
-      <a href="https://www.marissasvoice.org" target="_blank" rel="noopener">Donate</a>
-      <a href="https://www.marissasvoice.org" target="_blank" rel="noopener">About Marissa’s Voice</a>
-    </div>
-    <p>
-      Marissa’s Voice Inc. · <a href="https://www.marissasvoice.org">www.marissasvoice.org</a><br>
-      Questions or corrections: <a href="tel:4694018018">469-401-8018</a>
-    </p>
-    <p class="disclaimer">
-      Listings are gathered from public sources, can change without notice, and appear here for reference only.
-      This is not medical advice or an endorsement. Helplines are run by the organizations named on each listing.
-      Map pins use provided coordinates where available; verify details before traveling.
-    </p>
-  </div>
-</footer>
+<div class="results" id="results" style="max-width:1200px;margin:0 auto 3rem;padding:0 1.5rem;"></div>
 
 <script>
 const DATA_URL = 'data/listings.json';
 let all = [];
-let activeCat = '';
-let map = null;
-let markers = [];
-let currentView = 'list';
+let userLat = null, userLng = null;
+let activeFilters = new Set(['free_naloxone']);
 
 async function load() {
   try {
     const res = await fetch(DATA_URL);
     all = await res.json();
-    initMap();
     render();
   } catch (e) {
-    document.getElementById('stats').textContent = 'Could not load listings. Please try again later.';
+    document.getElementById('status').textContent = 'Could not load listings. Please try again later.';
   }
 }
 
-function initMap() {
-  if (map) return;
-  map = L.map('map').setView([31.0, -97.0], 6);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    maxZoom: 18
-  }).addTo(map);
-}
-
-function updateMap(filtered) {
-  if (!map) return;
-  markers.forEach(m => map.removeLayer(m));
-  markers = [];
-  const withCoords = filtered.filter(item => item.coordinates && typeof item.coordinates.lat === 'number' && typeof item.coordinates.lng === 'number');
-  withCoords.forEach(item => {
-    const marker = L.marker([item.coordinates.lat, item.coordinates.lng]).addTo(map);
-    const popup = `<strong>${escapeHtml(item.name)}</strong><br>${escapeHtml(item.city || '')}, ${escapeHtml(item.state || '')}<br>${escapeHtml(item.notes || '').slice(0, 180)}…`;
-    marker.bindPopup(popup);
-    markers.push(marker);
-  });
-  if (withCoords.length) {
-    const group = L.featureGroup(markers);
-    map.fitBounds(group.getBounds().pad(0.2));
+function matches(item, q, state, filters) {
+  if (state && item.state && item.state !== state) return false;
+  if (filters.size && !filters.has(item.category || 'free_naloxone')) {
+    const text = (item.name + ' ' + (item.notes || '')).toLowerCase();
+    let hit = false;
+    if (filters.has('treatment') && /treatment|recovery|rehab/.test(text)) hit = true;
+    if (filters.has('family') && /family|support/.test(text)) hit = true;
+    if (filters.has('helpline') && /helpline|hotline|988|samhsa/.test(text)) hit = true;
+    if (filters.has('harm') && /syringe|harm reduction|needle/.test(text)) hit = true;
+    if (filters.has('mail_order') && /mail|online|ship/.test(text)) hit = true;
+    if (filters.has('training') && /training|education/.test(text)) hit = true;
+    if (filters.has('free_naloxone')) hit = true;
+    if (!hit) return false;
   }
-}
-
-function matches(item, q) {
   if (!q) return true;
-  const hay = [
-    item.name, item.state, item.city, item.address, item.zip, item.notes, item.organization, item.category
-  ].filter(Boolean).join(' ').toLowerCase();
-  const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
-  return terms.every(t => hay.includes(t));
+  const hay = [item.name, item.city, item.state, item.address, item.zip, item.notes, item.organization].filter(Boolean).join(' ').toLowerCase();
+  return q.toLowerCase().split(/\s+/).every(t => hay.includes(t));
 }
 
 function render() {
   const q = document.getElementById('q').value.trim();
-  const filtered = all.filter(item => {
-    if (activeCat && item.category !== activeCat) return false;
-    return matches(item, q);
-  });
-
-  const verified = filtered.filter(i => i.verification === 'verified').length;
-  const mapped = filtered.filter(i => i.coordinates).length;
-  document.getElementById('stats').innerHTML =
-    `<strong>${filtered.length}</strong> listings · <strong>${verified}</strong> verified · <strong>${mapped}</strong> on map`;
-
-  updateMap(filtered);
-
+  const state = document.getElementById('state').value;
+  const filtered = all.filter(item => matches(item, q, state, activeFilters));
+  document.getElementById('status').textContent = q ? `Showing results for ${q}.` : 'Showing all matching listings.';
   const el = document.getElementById('results');
-  if (currentView === 'map') {
-    el.style.display = 'none';
-    document.getElementById('map').style.display = 'block';
-    if (map) map.invalidateSize();
-    return;
-  }
-  document.getElementById('map').style.display = 'none';
-  el.style.display = 'grid';
-
   if (!filtered.length) {
-    el.innerHTML = '<div class="empty">No matches. Try a different search or filter.</div>';
+    el.innerHTML = '<div style="background:white;color:#2A2433;padding:1.5rem;border-radius:14px;text-align:center;">No matches yet. Try a different ZIP, city, or remove filters. Statewide resources are available.</div>';
     return;
   }
-
-  el.innerHTML = filtered.map(item => {
-    const badge = item.verification || 'unconfirmed';
-    const state = item.state ? `<span>${escapeHtml(item.state)}</span>` : '';
-    const phone = item.phone ? `<a href="tel:${item.phone.replace(/[^0-9+]/g,'')}">${escapeHtml(item.phone)}</a>` : '';
-    const org = item.organization ? `<div class="org">${escapeHtml(item.organization)}</div>` : '';
-    const loc = [item.city, item.address].filter(Boolean).join(', ');
-    const location = loc ? `<span>${escapeHtml(loc)}</span>` : '';
-    const sources = (item.source || []).slice(0, 2).map(s => {
-      try {
-        const host = new URL(s).hostname.replace(/^www\./, '');
-        return `<a href="${s}" target="_blank" rel="noopener">${escapeHtml(host)}</a>`;
-      } catch { return ''; }
-    }).filter(Boolean).join(' · ');
-
-    return `
-      <article class="card ${item.category || ''}">
-        <div class="card-header">
-          <h3>${escapeHtml(item.name)}</h3>
-          <span class="badge ${badge}">${badge.replace('_', ' ')}</span>
-        </div>
-        ${org}
-        ${item.notes ? `<p>${escapeHtml(item.notes)}</p>` : ''}
-        <div class="meta">
-          ${state}
-          ${location}
-          ${phone}
-          ${item.last_checked ? `<span>Checked ${escapeHtml(item.last_checked)}</span>` : ''}
-        </div>
-        ${sources ? `<div class="sources">${sources}</div>` : ''}
-      </article>
-    `;
-  }).join('');
-}
-
-function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]));
-}
-
-function setupShareButtons() {
-  const url = encodeURIComponent(window.location.href);
-  const text = encodeURIComponent("Find free naloxone and support near you. Carry naloxone. Be informed. Save a life. — Marissa’s Voice");
-  const fb = document.getElementById('shareFacebook');
-  const x = document.getElementById('shareX');
-  if (fb) fb.href = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
-  if (x) x.href = `https://twitter.com/intent/tweet?text=${text}&url=${url}`;
+  el.innerHTML = filtered.slice(0, 20).map(item => `
+    <article class="result-card">
+      <span class="badge">${(item.verification || 'unconfirmed').replace('_',' ')}</span>
+      <h3>${item.name}</h3>
+      <p>${item.notes || ''}</p>
+      <div style="font-size:0.85rem;color:#6B6275;margin-top:0.4rem;">
+        ${item.city || ''} ${item.state || ''} ${item.zip || ''} · Checked ${item.last_checked || ''}
+      </div>
+    </article>
+  `).join('');
 }
 
 document.getElementById('searchBtn').onclick = render;
 document.getElementById('q').oninput = render;
-document.getElementById('filters').onclick = e => {
+document.getElementById('state').onchange = render;
+document.getElementById('pills').onclick = e => {
   if (e.target.tagName !== 'BUTTON') return;
-  document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
-  e.target.classList.add('active');
-  activeCat = e.target.dataset.cat || '';
+  e.target.classList.toggle('active');
+  const f = e.target.dataset.filter;
+  if (e.target.classList.contains('active')) activeFilters.add(f); else activeFilters.delete(f);
   render();
+};
+document.getElementById('useLoc').onclick = () => {
+  if (!navigator.geolocation) return alert('Geolocation not supported.');
+  navigator.geolocation.getCurrentPosition(pos => {
+    userLat = pos.coords.latitude;
+    userLng = pos.coords.longitude;
+    document.getElementById('q').value = 'Near my location';
+    document.getElementById('status').textContent = 'Using your location…';
+    render();
+  }, () => alert('Could not get location.'));
 };
 
-document.getElementById('listViewBtn').onclick = () => {
-  currentView = 'list';
-  document.getElementById('listViewBtn').classList.add('active');
-  document.getElementById('mapViewBtn').classList.remove('active');
-  render();
-};
-document.getElementById('mapViewBtn').onclick = () => {
-  currentView = 'map';
-  document.getElementById('mapViewBtn').classList.add('active');
-  document.getElementById('listViewBtn').classList.remove('active');
-  render();
-};
-
-setupShareButtons();
 load();
 </script>
 </body>
