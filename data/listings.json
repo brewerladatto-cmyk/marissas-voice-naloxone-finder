@@ -13,6 +13,7 @@
     "city": "Woodville",
     "state": "TX",
     "zip": "75979",
+    "coordinates": { "lat": 30.7695, "lng": -94.4147 },
     "notes": "Free anonymous 24/7 naloxone vending machine. Rural East Texas (Tyler County). Provided through UT Health Houston ICON program. Call ahead or check source; availability can change."
   },
   {
@@ -31,6 +32,7 @@
     "state": "TX",
     "zip": "75601",
     "phone": "(903) 753-7633",
+    "coordinates": { "lat": 32.5081, "lng": -94.7467 },
     "notes": "Free 24/7 naloxone vending machine outside ETCADA. Official Naloxone Texas regional hub for East Texas (serves ~23\u201335 rural counties). Dispensed 150+ containers in first month of operation. No ID or payment required."
   },
   {
@@ -48,6 +50,7 @@
     "city": "New Boston",
     "state": "TX",
     "zip": "75570",
+    "coordinates": { "lat": 33.4645, "lng": -94.4116 },
     "notes": "Free naloxone vending machine at Smokin Joker convenience store. Installed April 2026 via Heartstart Heroes and Naloxone Texas / UT Health San Antonio. 24/7 access. Serves rural Bowie County area."
   },
   {
@@ -66,6 +69,7 @@
     "state": "TX",
     "zip": "75501",
     "phone": "(903) 792-7024",
+    "coordinates": { "lat": 33.4251, "lng": -94.0477 },
     "notes": "Free naloxone vending machine in the lobby. Installed April 2026 via Heartstart Heroes and Naloxone Texas. ADA-accessible. Serves surrounding rural East Texas communities. Call ahead for current stock."
   },
   {
@@ -83,6 +87,7 @@
     "state": "TX",
     "zip": "78640",
     "phone": "(512) 662-1031",
+    "coordinates": { "lat": 29.9891, "lng": -97.8772 },
     "notes": "Free 24/7 naloxone vending machine outside Red Heart CPR. First private-business machine in Hays County via Naloxone Texas / Be Well Texas / UT Health San Antonio. Limit of two boxes; no personal information required."
   },
   {
@@ -100,6 +105,7 @@
     "state": "TX",
     "zip": "78072",
     "phone": "(361) 274-3213",
+    "coordinates": { "lat": 28.4619, "lng": -98.5492 },
     "notes": "Free anonymous 24/7 naloxone vending machine at the county EOC. Rural frontier access via Naloxone Texas / UT Health San Antonio Be Well Institute grant. Call ahead for current stock."
   },
   {
@@ -116,6 +122,7 @@
     "state": "TX",
     "zip": "77951",
     "phone": "(361) 281-4126",
+    "coordinates": { "lat": 28.6478, "lng": -96.8925 },
     "notes": "Free naloxone vending machine at Bloomington Volunteer Fire Department. Partnership of UT Health Houston Texas ICON and Naloxone Texas. Rural access; stocked and maintained locally."
   },
   {
@@ -132,6 +139,7 @@
     "city": "Eagle Pass",
     "state": "TX",
     "zip": "78852",
+    "coordinates": { "lat": 28.7093, "lng": -100.5010 },
     "notes": "Free naloxone vending machine launched October 2026 by SAFE EP and the City of Eagle Pass at the downtown fire station. Rural/border community access via Naloxone Texas. No cost; call ahead for hours or stock if needed."
   },
   {
@@ -149,6 +157,7 @@
     "state": "TX",
     "zip": "75703",
     "phone": "(903) 710-1929",
+    "coordinates": { "lat": 32.2824, "lng": -95.2804 },
     "notes": "Free walk-in naloxone (Narcan) available Monday\u2013Friday, roughly 9 a.m.\u20134 p.m. East Texas nonprofit serving rural communities. Basic contact info may be requested for grant reporting; no cost."
   }
 ]
