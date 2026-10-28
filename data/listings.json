@@ -3361,5 +3361,331 @@
     "zip": "",
     "phone": "",
     "notes": "Active. Hours: Varies. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "co-denver-dpd-administration-buildi",
+    "name": "DPD Administration Building",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DPD / Naloxone Project"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1331 Cherokee St., Denver, CO",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "co-denver-denver-health-outpatient",
+    "name": "Denver Health Outpatient Behavioral Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Denver Health official",
+      "https://www.denverhealth.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Pavilion K / near 777 Bannock St. area, Denver Health campus",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "mi-muskegon-muskegon-county--trinity",
+    "name": "Muskegon County + Trinity Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "EMS1 / local news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Trinity Health Hackley, North Muskegon, Urgent Care, Lakes Village; Muskegon County Public Health Marquette Campus",
+    "city": "Muskegon",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "mi-multiple-sites-munson-healthcare--harm",
+    "name": "Munson Healthcare + Harm Reduction Michigan",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Munson Healthcare"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "25 NARCAN boxes at 7 hospitals, 2 urgent cares, 16 clinics (e.g., Cadillac, Charlevoix, Boyne City)",
+    "city": "Multiple sites",
+    "state": "MI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 many. Type: Distribution Boxes"
+  },
+  {
+    "id": "mn-burnsville-dakota-county--steve-rum",
+    "name": "Dakota County + Steve Rummler HOPE Network",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Dakota County + Hoodline",
+      "https://www.co.dakota.mn.us"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Burnhaven Library machine; multiple public health offices and libraries as Naloxone Access Points",
+    "city": "Burnsville",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending + Access Points"
+  },
+  {
+    "id": "ms-hattiesburg-hattiesburg-fire-station",
+    "name": "Hattiesburg Fire Station No. 6",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WDAM"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Fire Station No. 6, 3802 Montague Blvd (near USM)",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ms-oxford-communicare--city-of-oxf",
+    "name": "Communicare + City of Oxford",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WTVA"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Downtown parking garage (Square)",
+    "city": "Oxford",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - nearly 800 uses. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "mo-springfield-springfield-fire-departme",
+    "name": "Springfield Fire Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KTTN"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "14 boxes at fire stations and training campus",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Distribution Boxes"
+  },
+  {
+    "id": "mo-columbia-columbia-boone-county-phh",
+    "name": "Columbia/Boone County PHHS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ABC17"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Fire Stations 1,2,4,5,6,7,8,9,11; ARC; Flat Branch Park; PHHS office",
+    "city": "Columbia",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Distribution Boxes"
+  },
+  {
+    "id": "mt-missoula-dose-of-hope--united-way",
+    "name": "Dose of Hope / United Way",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Montana Free Press + local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Mountain Line Transfer Center (24/7 outdoor); Missoula Food Bank; Johnson Street Shelter; Hope Rescue Mission",
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "mt-bozeman-hrdc-warming-centers",
+    "name": "HRDC Warming Centers",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NBC Montana; https://www.bozemandailychronicle.com/news/fentanyl-overdose-prevention-kiosks-to-be-placed-in-bozeman/article_8bcac236-609b-11ef-9abc-8f4a6d046e6c.html; https://www.montanarightnow.com/bozeman/bozeman-warming-shelter-to-receive-state-funded-narcan-kiosks-addressing-opioid-crisis/article_d743bdf4-71d9-11ef-9866-07f187bb09bb.html; https://www.montanarightnow.com/montana/montana-aims-to-combat-alarming-rise-in-fentanyl-and-opioid-overdoses-with-new-wellness-kiosks/article_a5301c0e-5c03-11ef-87bf-fbf341b99882.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "HRDC Warming Centers in Bozeman and Livingston",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - could not re-confirm on 2026-10-28. Active / planned | Re-verified 2026-10-28 (UNCONFIRMED): 2024 reports say state wellness kiosks are planned for HRDC warming centers in Bozeman/Livingston, but HRDC had not yet received them and no timeline was given. Could not find evidence of installation or current operation; could not be re-confirmed. | Second-source search 2026-10-28 (STILL_SINGLE): State and news coverage (2024) describe wellness kiosks only as planned; nothing found showing kiosks installed or operating at HRDC warming centers in Bozeman or Livingston.. Hours: Varies. Type: Wellness Kiosks"
+  },
+  {
+    "id": "ne-omaha-ponca-tribe-of-nebraska",
+    "name": "Ponca Tribe of Nebraska",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Health and wellness centers in Omaha, Lincoln, Norfolk, Niobrara",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "ne-wayne-northeast-nebraska-public",
+    "name": "Northeast Nebraska Public Health Dept",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NNPHD"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Short Stop 1034 Main St (24/7)",
+    "city": "Wayne",
+    "state": "NE",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Health Resource Vending Machine"
+  },
+  {
+    "id": "nv-reno-trac-b--partners",
+    "name": "Trac-B + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers + local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Life Change Center, Mill Street Care Center, Washoe County Detention Center; Black Wall Street Reno boxes",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines + Boxes"
+  },
+  {
+    "id": "nv-carson-city-partnership-douglas-count",
+    "name": "Partnership Douglas County / Wake Up Nevada public naloxone boxes",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://www.pdcnv.org/naloxone-box-locations/; https://www.kolotv.com/2025/11/10/carson-city-receives-first-narcan-box-dedication/",
+      "https://www.pdcnv.org/naloxone-box-locations/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Gardnerville boxes along US-395 N and Waterloo Ln (see pdcnv.org list); Carson City box program (wakeupnv.org/resources)",
+    "city": "Carson City",
+    "state": "NV",
+    "zip": "",
+    "phone": "775-782-8611",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Partnership Douglas County lists 12+ naloxone box sites in Gardnerville (e.g., Carson Valley Health, Community & Senior Center); Carson City dedicated its first Narcan box Nov 2025. Box hours depend on host site.. Hours: Varies. Type: Naloxone Boxes"
+  },
+  {
+    "id": "nh-littleton-north-country-health-cons",
+    "name": "North Country Health Consortium",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NHPR + AskPETRA",
+      "https://askpetra.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Mt. Eustis Commons, 262 Cottage Street (24/7, anonymous, up to 3 boxes)",
+    "city": "Littleton",
+    "state": "NH",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "nj-hopatcong-center-for-prevention--c",
+    "name": "Center for Prevention & Counseling",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Center for Prevention",
+      "https://centerforprevention.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Hopatcong Senior Center 32 Lakeside Blvd; Vernon Lake Wanda Store 812 Canistear Rd; Newton Busy Bee 86 Mill St; Wantage Church of the Good Shepherd 200 NJ-23 (24/7)",
+    "city": "Hopatcong",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "nj-asbury-park-prevention-resource-netwo",
+    "name": "Prevention Resource Network",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Asbury Park 816 Sunset Avenue; Toms River Suburban Health Clinic on Mule Road",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "nm-albuquerque-nm-health-care-authority",
+    "name": "NM Health Care Authority / partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Dose of Reality + local",
+      "https://www.doseofreality.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Serenity Mesa Healing 3701 Condershire Dr SW; Turning Point Recovery Center 9201 Montgomery Blvd NE; multiple NMDOH Public Health Offices",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "notes": "Active / expanding. Hours: Varies. Type: Vending Machines + Public Health Offices"
+  },
+  {
+    "id": "nm-los-lunas-los-lunas-fire-department",
+    "name": "Los Lunas Fire Department + Women in Leadership",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "News-Bulletin + KOB; https://www.news-bulletin.com/news/thinking-inside-the-box-llfd-teams-with-organizations-to-offer-free-narcan-dispenser-to-combat-overdoses/306132"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "LLFD Station No. 2 (west of I-25 off Main Street) - free Narcan + gun locks",
+    "city": "Los Lunas",
+    "state": "NM",
+    "zip": "",
+    "phone": "505-866-2116",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): News-Bulletin (Aug 2025): dispenser at LLFD Station No. 2, west of I-25 off Main St; open 8am-5pm Mon-Fri, public may call 505-866-2116 after hours. Single source reviewed; no official page found.. Hours: 8am-5pm Mon-Fri; call 505-866-2116 after hours. Type: Vending Machine"
   }
 ]
