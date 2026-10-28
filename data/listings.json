@@ -6901,5 +6901,497 @@
     "zip": "",
     "phone": "",
     "notes": "Active. Hours: Varies. Type: Narcan Boxes"
+  },
+  {
+    "id": "ok-stigler-choctaw-nation-health",
+    "name": "Choctaw Nation Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers + tribal reports"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Stigler and McAlester health clinics",
+    "city": "Stigler",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active; open to community. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "ok-wewoka-east-central-oklahoma-fam",
+    "name": "East Central Oklahoma Family Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Oklahoma Watch + local reports; https://www.publicradiotulsa.org/2026-07-23/oklahomas-ballyhooed-naloxone-vending-machine-program-is-gone-leaving-communities-scrambling-to-fill-the-gap"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Clinic lobbies in Wewoka, Henryetta, Wetumka",
+    "city": "Wewoka",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active; received machines from prior state program | Re-verified 2026-10-28 (CONFIRMED): Public Radio Tulsa (Jul 2026): state program ended, but this clinic received 3 machines (Wewoka, Henryetta, Wetumka), lobbies, 52 hrs/week each; CEO says it will fund restocking. 49 kits and 50 test strips given out so far.. Hours: Clinic lobby hours (about 52 hours/week per site). Type: Vending Machines (lobby)"
+  },
+  {
+    "id": "ok-stillwater-osu--local-partners",
+    "name": "OSU / local partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://www.publicradiotulsa.org/2026-07-23/oklahomas-ballyhooed-naloxone-vending-machine-program-is-gone-leaving-communities-scrambling-to-fill-the-gap; https://news9.com/story/658ebc1ef4bef70649ec6a1f/life-saving-vending-machines-reach-success-across-state"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "OSU Colvin Recreation Center",
+    "city": "Stillwater",
+    "state": "OK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active (community-operated) | Re-verified 2026-10-28 (PARTIAL): State vending program ended late 2024; machines moved and ownership passing to partners (2026). OSU wellness staff say a campus machine exists with HOPE, but Stillwater/Colvin location is not named. Stocking depends on grants.. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "or-all-just-in-case-oregon-oha",
+    "name": "Just in Case Oregon (OHA)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Oregon Health Authority official",
+      "https://www.oregon.gov/oha"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online request form",
+    "city": "All",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active primary free mail access. Hours: Mail. Type: Mail-Order"
+  },
+  {
+    "id": "or-portland-outside-in",
+    "name": "Outside In",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "OHA + RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple Portland sites",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Walk-in Harm Reduction"
+  },
+  {
+    "id": "or-eugene-hiv-alliance",
+    "name": "HIV Alliance",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers + local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Eugene and Roseburg sites",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Walk-in / Outreach"
+  },
+  {
+    "id": "or-oregon-city-clackamas-county-sheriff",
+    "name": "Clackamas County Sheriff\u2019s Office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KATU + KPTV + HarmReductionFinder"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Jail Lobby 2206 Kaen Rd; Transition Center 2219 Kaen Rd; Parole & Probation 1024 Main St",
+    "city": "Oregon City",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active 3 machines. Hours: Public access. Type: Narcan Vending Machines"
+  },
+  {
+    "id": "or-mission-yellowhawk-tribal-health",
+    "name": "Yellowhawk Tribal Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Yellowhawk.org official",
+      "https://yellowhawk.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Mission Market; Wildhorse Resort & Casino",
+    "city": "Mission",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active tribal outdoor-rated machines. Hours: 24/7 preferred. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "or-southern-oregon-max-s-mission",
+    "name": "Max\u2019s Mission",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Oregon Perinatal Collaborative + local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online for Jackson, Josephine, Klamath residents",
+    "city": "Southern Oregon",
+    "state": "OR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active regional mail. Hours: Mail. Type: Mail-Order"
+  },
+  {
+    "id": "nd-fargo-fargo-cass-public-health",
+    "name": "Fargo Cass Public Health (main office)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Fargo Cass Public Health naloxone page https://www.fargond.gov/city-government/departments/fargo-cass-public-health/harm-reduction-division/harm-reduction-center/naloxone-distribution-overdose-response-training; ND HHS opioid settlement SSP plan (Fargo Cass) https://hhs.nd.gov/sites/www/files/documents/BH/Opioids/Settlement/FargoCassPublicHealth_SSP_6-27-24.pdf",
+      "https://www.fargond.gov/city-government/departments/fargo-cass-public-health/harm-reduction-division/harm-reduction-center/naloxone-distribution-overdose-response-training"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1240 25th Street South, Fargo, ND 58103",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "",
+    "phone": "701-241-1360",
+    "notes": "Main office address; the separate Harm Reduction Center (510 5th St N) is already in the master workbook. Plan document also mentions a 'vending machine @ DEC' (8am-5pm, 7 days) with no address - not added.. Hours: Mon-Fri 7:45 AM-4:30 PM except legal holidays. Type: County/City Health Department"
+  },
+  {
+    "id": "nd-bismarck-bismarck-burleigh-public",
+    "name": "Bismarck-Burleigh Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "City of Bismarck Substance Abuse Prevention page https://bismarcknd.gov/1867/Substance-Abuse-Prevention; BBPH Narcan training notice https://www.bismarcknd.gov/CivicAlerts.aspx?AID=8774 (Sept 2025 session",
+      "each attendee received a kit)",
+      "https://bismarcknd.gov/1867/Substance-Abuse-Prevention"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "407 S 26th St, Bismarck, ND 58504",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "",
+    "phone": "701-355-1540 (office); 701-355-1597 (Narcan training registration)",
+    "notes": "Official page describes training and does not itself state kit pickup without training. Confirm whether kits are available outside scheduled trainings.. Hours: Mon-Fri 8:00 AM-12:00 PM and 1:00 PM-5:00 PM. Type: County/City Health Department"
+  },
+  {
+    "id": "nd-devils-lake-lake-region-district-heal",
+    "name": "Lake Region District Health Unit",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ND HHS opioid settlement plan",
+      "Lake Region (Aug 2025) https://www.hhs.nd.gov/sites/www/files/documents/BH/Opioids/Settlement/LakeRegion.2025.8.4.pdf; https://nasen.org/sep/lake-region-syringe-services-and-harm-reduction-program"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Harm reduction/syringe services program: 413 4th St NE, Suite 1, Devils Lake, ND 58301 (per NASEN); Ramsey County main office 524 4th Ave NE #9 (per ND plan)",
+    "city": "Devils Lake",
+    "state": "ND",
+    "zip": "",
+    "phone": "701-662-7035 (main); 701-662-7036 (syringe services program, per NASEN)",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. Plan names planned boxes/vending machine but no box addresses and does not say the office distributes naloxone. Call before listing as a pick-up point. | Second-source search 2026-10-28 (UPGRADED): NASEN directory (updated Oct 2026) lists Lake Region syringe services and harm reduction program with naloxone distribution and overdose education, Mon and Fri 1-4 PM, 413 4th St NE Ste 1. Secondary source; confirms program is operating, not only planned.. Hours: Mon and Fri 1:00-4:00 PM (harm reduction program, per NASEN). Type: County/District Health Department"
+  },
+  {
+    "id": "nd-multiple-communities-ndsu-one-program--one-bo",
+    "name": "NDSU ONE Program - ONE Boxes (naloxone cabinets)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NDSU news https://ndsu.edu/news/ndsu-helping-north-dakota-treat-opioid-emergencies; https://news.prairiepublic.org/local-news/2024-10-25/ndsus-one-program-awarded-grant; https://www.kvrr.com/?p=4842580",
+      "https://one-program.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Locations not published in the source; boxes reported in schools, churches, libraries, community centers, city buildings, fire departments, recovery centers, fairgrounds and other sites",
+    "city": "Multiple communities",
+    "state": "ND",
+    "zip": "",
+    "phone": "",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. No individual addresses obtained; one-program.org was not fetchable. Use local public health unit or ONE Program for exact box sites. | Second-source search 2026-10-28 (UPGRADED): Prairie Public (Oct 25, 2024) reports ONE Boxes placed beside AEDs at various sites, used at least 5 times, backed by a $500k state HHS grant; KVRR describes rollout with local public health units. Free cost and 250+ count not stated.. Type: Naloxone Box Network"
+  },
+  {
+    "id": "va-milford-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - Caroline Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "17202 Richmond Turnpike, Milford, VA",
+    "city": "Milford",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-king-george-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - King George Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "8097 Kings Highway, King George, VA",
+    "city": "King George",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-stafford-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - Stafford Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1300 Courthouse Road, Stafford, VA",
+    "city": "Stafford",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-fredericksburg-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - Fredericksburg Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "608 Jackson Street, Fredericksburg, VA",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-spotsylvania-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - Spotsylvania Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "9104 Courthouse Road, Spotsylvania, VA",
+    "city": "Spotsylvania",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-danville-council-of-community-serv",
+    "name": "Council of Community Services - Harm Reduction Services, Drop-In Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Virginia 211 listing https://search.211virginia.org/search/0371bde3-211e-5e66-a3a9-4011e5cb9a4c; https://www.vdh.virginia.gov/content/uploads/sites/8/2023/10/Comprehensive-Harm-Reduction-for-HHR-10.2.23.v2-2.pdf; https://nasen.org/sep/the-drop-in-center"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "159 Executive Drive, Danville, VA 24541",
+    "city": "Danville",
+    "state": "VA",
+    "zip": "",
+    "phone": "(434) 421-6079 (listed as both voice and fax - confirm)",
+    "notes": "NOT VERIFIED - single source. Listing says contact an eligibility specialist for an appointment and complete an intake packet - may not be walk-in. | Second-source search 2026-10-28 (STILL_SINGLE): No independent confirmation of the Danville drop-in center. A 2023 VDH document lists Danville only as a comprehensive harm reduction site in development; the Council's Roanoke site is the one with confirmed naloxone listings.. Hours: Not listed; appointment/intake required. Type: Harm Reduction Org"
+  },
+  {
+    "id": "la-monroe-northeast-delta-hsa",
+    "name": "Northeast Delta HSA",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Phoenix Peer Support Center 722 Adams St.; Northeast Delta peer support center",
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "la-parish-health-units-ldh-overdose-prevention-h",
+    "name": "LDH Overdose Prevention Hub",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "LDH",
+      "https://louisianahealthhub.org/oprh/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "louisianahealthhub.org/oprh/ geo-map; parish health units serve rural areas",
+    "city": "Parish health units",
+    "state": "LA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational + map"
+  },
+  {
+    "id": "me-fort-kent-1st-mile-active-recovery",
+    "name": "1st Mile Active Recovery",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Bangor Daily News; https://thecounty.me/?p=284934"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Exterior cabinets at Two Rivers Lunch Allagash, Joe's Convenience St. Francis, Bald Eagle Eagle Lake, Crystal Condo's insurance business Fort Kent",
+    "city": "Fort Kent",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Sept 2024 The County article confirms 24/7 cabinets at Two Rivers Lunch (Allagash), Joe's Convenience (St. Francis), Bald Eagle (Eagle Lake), Crystal Condo's insurance business (Fort Kent). No phone listed; no 2026 source.. Hours: 24/7. Type: Naloxone Cabinets"
+  },
+  {
+    "id": "me-all-counties-maine-access-points--mnd",
+    "name": "Maine Access Points + MNDI",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MAP + Maine DHHS",
+      "https://getmainenaloxone.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Statewide mail via MAP / NEXT; mobile outreach; syringe access in Bangor, Calais, Machias, Sanford, etc.; OPTIONS Liaisons",
+    "city": "All counties",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mail / varies. Type: Mail + mobile + SSP"
+  },
+  {
+    "id": "ma-local-programs-massachusetts-dph-oend",
+    "name": "Massachusetts DPH OEND / CNP",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Mass.gov",
+      "https://www.mass.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "mass.gov Naloxone Program Locator covers rural and western MA via local OEND and Community Naloxone Program sites",
+    "city": "Local programs",
+    "state": "MA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Program locator map"
+  },
+  {
+    "id": "nd-devils-lake-lake-region-district-heal",
+    "name": "Lake Region District Health Unit",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ND HHS opioid settlement plan",
+      "Lake Region (Aug 2025) https://www.hhs.nd.gov/sites/www/files/documents/BH/Opioids/Settlement/LakeRegion.2025.8.4.pdf; https://nasen.org/sep/lake-region-syringe-services-and-harm-reduction-program"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Harm reduction/syringe services program: 413 4th St NE, Suite 1, Devils Lake, ND 58301 (per NASEN); Ramsey County main office 524 4th Ave NE #9 (per ND plan)",
+    "city": "Devils Lake",
+    "state": "ND",
+    "zip": "",
+    "phone": "701-662-7035 (main); 701-662-7036 (syringe services program, per NASEN)",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. Plan names planned boxes/vending machine but no box addresses and does not say the office distributes naloxone. Call before listing as a pick-up point. | Second-source search 2026-10-28 (UPGRADED): NASEN directory (updated Oct 2026) lists Lake Region syringe services and harm reduction program with naloxone distribution and overdose education, Mon and Fri 1-4 PM, 413 4th St NE Ste 1. Secondary source; confirms program is operating, not only planned.. Hours: Mon and Fri 1:00-4:00 PM (harm reduction program, per NASEN). Type: County/District Health Department"
+  },
+  {
+    "id": "nd-multiple-communities-ndsu-one-program--one-bo",
+    "name": "NDSU ONE Program - ONE Boxes (naloxone cabinets)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NDSU news https://ndsu.edu/news/ndsu-helping-north-dakota-treat-opioid-emergencies; https://news.prairiepublic.org/local-news/2024-10-25/ndsus-one-program-awarded-grant; https://www.kvrr.com/?p=4842580",
+      "https://one-program.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Locations not published in the source; boxes reported in schools, churches, libraries, community centers, city buildings, fire departments, recovery centers, fairgrounds and other sites",
+    "city": "Multiple communities",
+    "state": "ND",
+    "zip": "",
+    "phone": "",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. No individual addresses obtained; one-program.org was not fetchable. Use local public health unit or ONE Program for exact box sites. | Second-source search 2026-10-28 (UPGRADED): Prairie Public (Oct 25, 2024) reports ONE Boxes placed beside AEDs at various sites, used at least 5 times, backed by a $500k state HHS grant; KVRR describes rollout with local public health units. Free cost and 250+ count not stated.. Type: Naloxone Box Network"
+  },
+  {
+    "id": "va-milford-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - Caroline Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "17202 Richmond Turnpike, Milford, VA",
+    "city": "Milford",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-king-george-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - King George Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "8097 Kings Highway, King George, VA",
+    "city": "King George",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-spotsylvania-vdh-rappahannock-area-hea",
+    "name": "VDH Rappahannock Area Health District - Spotsylvania Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH Rappahannock Area Health District press release (naloxone availability",
+      "Apr 2023) https://www.vdh.virginia.gov/content/uploads/sites/114/2023/04/RAHD-Press-Release-Naloxone-Availability.pdf; VDH Rappahannock naloxone dispensing page https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/",
+      "https://www.vdh.virginia.gov/rappahannock/services/naloxone-dispensing-and-training/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "9104 Courthouse Road, Spotsylvania, VA",
+    "city": "Spotsylvania",
+    "state": "VA",
+    "zip": "",
+    "phone": "540-899-4797 (district)",
+    "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
   }
 ]
