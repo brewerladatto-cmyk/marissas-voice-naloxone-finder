@@ -9306,5 +9306,39 @@
     "zip": "",
     "phone": "Behavioral Health (541) 672-8533 press 5; Government offices (541) 672-9405 or (800) 929-8229; info@cowcreek-nsn.gov",
     "notes": "NOT VERIFIED - single source. 2022 article: Narcan distributed at July 2022 pow wow; addressed to Tribal members. Address given is a mailing address in the source. Current availability not confirmed. | Second-source search 2026-10-28 (STILL_SINGLE): Only the 2022 tribe article found; no current page confirms Narcan availability or hours. Behavioral Health number and mailing address match the article. Narcan was not yet regularly available then.. Type: Tribal behavioral health program - naloxone and training"
+  },
+  {
+    "id": "ak-chickaloon-chickaloon-native-village",
+    "name": "Chickaloon Native Village",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone); https://www.chickaloon-nsn.gov/health-social-services/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Chickaloon",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-745-0794",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers.  | Second-source search 2026-10-28 (STILL_SINGLE): Tribe's own page confirms a clinic at 11495 N Callison St, Sutton (M-F 8-5, main line 907-745-0704) but never mentions naloxone and does not list 745-0794. No independent naloxone confirmation.. Type: Tribal health program - Project HOPE naloxone partner"
+  },
+  {
+    "id": "ak-chickaloon-chickaloon-native-village",
+    "name": "Chickaloon Native Village",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Dept. of Health Project HOPE Partner Contacts (https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf); Alaska Dept. of Health",
+      "Project HOPE: Get Naloxone (https://health.alaska.gov/en/services/project-hope-get-naloxone); https://www.chickaloon-nsn.gov/health-social-services/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "",
+    "city": "Chickaloon",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-745-0794",
+    "notes": "NOT VERIFIED - single source. Listed as a Project HOPE partner contact; the contacts list gives phone only (no street address, hours, or email). Eligibility for Alaska Native/tribal-health enrollees versus the general public is not stated in sources; confirm by phone before directing public callers.  | Second-source search 2026-10-28 (STILL_SINGLE): Tribe's own page confirms a clinic at 11495 N Callison St, Sutton (M-F 8-5, main line 907-745-0704) but never mentions naloxone and does not list 745-0794. No independent naloxone confirmation.. Type: Tribal health program - Project HOPE naloxone partner"
   }
 ]
