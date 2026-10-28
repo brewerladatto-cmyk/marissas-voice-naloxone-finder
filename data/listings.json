@@ -7876,5 +7876,490 @@
     "zip": "",
     "phone": "(603) 276-9698 or (603) 306-1105",
     "notes": "VDH page confirms H2RC mobile SSP for Orange and Windsor counties VT and select NH counties; address from NASEN only.. Hours: By appointment; staff come to you. Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "nh-lebanon-kilton-library--naloxbox",
+    "name": "Kilton Library - NaloxBox",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NHPR https://www.nhpr.org/health/2023-02-11/now-available-at-a-public-library-in-lebanon-naloxone-an-opioid-reversal-drug; https://thelebanontimes.com/opioid-overdose-prevention-partnershipbetween-dartmouth-health-and-lebanon-public-libraries/; https://www.wcax.com/2023/02/10/how-an-upper-valley-library-system-is-working-help-save-lives/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Kilton Library, Lebanon, NH (street address not stated in source)",
+    "city": "Lebanon",
+    "state": "NH",
+    "zip": "",
+    "phone": "",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. 2023 article; confirm box is still installed and stocked. | Second-source search 2026-10-28 (UPGRADED): Lebanon Times (Feb 2023, different publisher) and WCAX (Feb 2023) confirm a Narcan/NaloxBox at Kilton Library, provided via Dartmouth Health; no current-status proof. Free not explicit; address/hours not given.. Hours: Not stated. Type: Naloxone Box (library)"
+  },
+  {
+    "id": "ak-juneau-tlingit--haida-community",
+    "name": "Tlingit & Haida Community Health Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Tlingit & Haida dedication notice https://tlingitandhaida.gov/event/community-health-vending-machine-grand-dedication/; Alaska Public Media (Oct 2026) names a Juneau ANTHC machine https://alaskapublic.org/news/health/rural-health/2026-10-21/unalaskas-free-wellness-vending-machine-is-part-of-an-effort-to-fill-rural-health-gaps",
+      "https://tlingitandhaida.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "410 Willoughby Ave, Juneau, AK 99801",
+    "city": "Juneau",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-463-7305 or 1-800-344-1432 ext. 7305",
+    "notes": "Master lists Juneau generically in the ANTHC row; exact address added. Dedication notice has no year - confirm machine is operating.. Hours: Not stated. Type: Vending Machine"
+  },
+  {
+    "id": "ak-anchorage-four-a-s-alaskan-aids-as",
+    "name": "Four A's (Alaskan AIDS Assistance Association) - Syringe Access Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/four-as-syringe-access-program; Alaska Project HOPE partner list https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1057 W Fireweed Ln, #102, Anchorage, AK 99503",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "",
+    "phone": "(907) 263-2050 (NASEN); Project HOPE list shows (907) 263-2048",
+    "notes": "Phones differ between sources. Confirm naloxone availability by phone.. Hours: Mon-Fri 1-5 PM; mobile unit locations by phone. Type: Harm Reduction / Syringe Services"
+  },
+  {
+    "id": "ak-juneau-four-a-s-juneau",
+    "name": "Four A's Juneau",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/four-as-syringe-access-program; Alaska Project HOPE partner list https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "8711 Teal St, Juneau, AK",
+    "city": "Juneau",
+    "state": "AK",
+    "zip": "",
+    "phone": "(907) 500-7465 (Project HOPE list)",
+    "notes": "Confirm naloxone availability by phone.. Hours: Mon-Fri 1-5 PM (per NASEN). Type: Harm Reduction / Syringe Services"
+  },
+  {
+    "id": "ak-homer-homer-exchange-megan-s-p",
+    "name": "Homer Exchange (Megan's Place) - syringe exchange",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/homer-exchange; Alaska Project HOPE partner list https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; Alaska Public Media https://alaskapublic.org/2024/05/31/a-homer-needle-exchange-offers-safer-supplies-for-rural-alaskans-and-a-bridge-to-recovery"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4014 Lake St, Homer, AK 99603",
+    "city": "Homer",
+    "state": "AK",
+    "zip": "",
+    "phone": "(907) 299-7460 (NASEN); Project HOPE lists Homer Syringe Exchange (907) 841-7204",
+    "notes": "Alaska Public confirms a volunteer-run Homer exchange but gives no address; phones differ between sources.. Hours: First and third Tuesday of each month, 5-7 PM. Type: Harm Reduction / Syringe Services"
+  },
+  {
+    "id": "ak-fairbanks-fairbanks-fire-department",
+    "name": "Fairbanks Fire Department (Project HOPE naloxone site)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "City of Fairbanks Project HOPE release (Mar 2018) https://www.fairbanksalaska.us/sites/default/files/fileattachments/fire/page/3711/03-01-18-project-hope.pdf; Alaska Project HOPE partner list https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1101 Cushman Street, Fairbanks, AK",
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-450-6650 (Project HOPE list); 2018 city release lists 450-6600",
+    "notes": "Address source dates from 2018; call ahead to confirm current pickup point and station.. Hours: Not listed. Type: Fire Department / Project HOPE Partner"
+  },
+  {
+    "id": "ak-cordova-ilanka-community-health-c",
+    "name": "Ilanka Community Health Center (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://www.cityofcordova.net/wp-content/uploads/2025/08/8-2-25-Opioids-Press-Release-Final.pdf; https://www.thecordovatimes.com/?p=17479"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Cordova",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-424-3622",
+    "notes": "Two-source verified 2026-10-28. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (UPGRADED): City of Cordova Aug 2025 press release says Narcan is free at Ilanka Community Health Center, 907-424-3622, with brief training and fentanyl test strips. Street address not given.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-ninilchik-ninilchik-community-clini",
+    "name": "Ninilchik Community Clinic (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://ninilchiktribe-nsn.gov/?p=20162"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "15765 Kingsley Rd, Ninilchik, AK 99639",
+    "city": "Ninilchik",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-567-3970",
+    "notes": "Two-source verified 2026-10-28. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (UPGRADED): Ninilchik Tribe's clinic page confirms the clinic at 15765 Kingsley Rd, phone 907-567-3970, Mon-Fri 9-5, naloxone kits via its MAT program and naloxone training; IHS-eligible people seen, non-IHS welcome.. Hours: Mon-Fri 9am-5pm (clinic hours). Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-yakutat-yakutat-health-center-pr",
+    "name": "Yakutat Health Center (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Yakutat",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-784-3275",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): No independent page found confirming naloxone kits at Yakutat Health Center; results were generic tribal/Alaska articles that did not name the site.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-fort-yukon-yukon-flats-health-center",
+    "name": "Yukon Flats Health Center (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://www.catg.org/departments/health-services"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Fort Yukon",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-662-2460",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): Council of Athabascan Tribal Governments page confirms Yukon Flats Health Center in Fort Yukon with phone (907) 662-2460 (matches), but no street address, hours or naloxone mention. Naloxone availability remains single-sourced.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-skagway-dahl-memorial-clinic-pro",
+    "name": "Dahl Memorial Clinic (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://skagwaynews.com/?p=45274; https://khns.org/skagway-public-safety-committee-discusses-response-to-recent-overdoses"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Skagway",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-983-2255",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): Skagway News (Jan 2023) says the town clinic, Skagway Traditional Council and municipality are distributing naloxone kits, but the clinic is not named as Dahl or as a Project HOPE partner. No address/hours found. Not a clear independent confirmation.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-dillingham-bristol-bay-health-corpor",
+    "name": "Bristol Bay Health Corporation - Jake's Place (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://health.alaska.gov/dbh/Pages/ResidentialSUD/facilities/Jakes-Place.aspx; https://www.kdlg.org/public-safety/2023-06-08/dillingham-grapples-with-recent-opioid-overdoses-shares-resources-for-emergencies-and-prevention"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "6000 Kanakanak Rd, Dillingham, AK 99576 (per Alaska DBH facility page; residential treatment program)",
+    "city": "Dillingham",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-842-5266",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): State DBH facility page confirms Jake's Place (BBAHC residential treatment, 6000 Kanakanak Rd, same phone) but is under revision and never mentions naloxone. No independent naloxone source; 2023 KDLG lists other Dillingham sites.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-kodiak-kodiak-area-native-associ",
+    "name": "Kodiak Area Native Association - pharmacy (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Kodiak",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-486-9870",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): No independent source found for KANA pharmacy naloxone; searches returned only the state Project HOPE list and general Kodiak news. Street address still unpublished.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "tx-abilene-book-therapy-host--tayl",
+    "name": "Book Therapy (host); Taylor Alliance for Prevention / Abilene Recovery Council",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KTXS First Narcan vending machine unveiled in Abilene (https://ktxs.com/news/local/first-narcan-vending-machine-unveiled-in-abilene); Vending Times Abilene",
+      "Texas home to free Narcan vending machine (https://www.vendingtimes.com/news/abilene-texas-home-to-free-narcan-vending-machine/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1017 Butternut St, Abilene, TX (in front of Book Therapy, used bookstore)",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Two news sources, no official page; address from KTXS only (Vending Times gives no street address). Grant-funded; stocked by West Texas Harm Reduction and Big Country Reentry Coalition per KTXS. Articles dated Aug 2024; confirm machine still operating.. Hours: 24/7 per Vending Times. Type: Vending Machine"
+  },
+  {
+    "id": "tx-bastrop-bastrop-county-cares-uth",
+    "name": "Bastrop County Cares (UTHealth Houston Texas ICON placement)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KVUE Narcan vending machine Bastrop (https://kvue.com/article/news/local/narcan-vending-machine-bastrop-texas/269-f2425477-2a31-467c-a28a-4c0aee885f98); Elgin Courier Narcan vending machine debuts in Bastrop (https://www.elgincourier.com/article/2994",
+      "narcan-vending-machine-debuts-in-bastrop); Hoodline UT Health Houston introduces free naloxone vending machine in Bastrop (https://hoodline.com/2024/09/ut-health-houston-introduces-free-naloxone-vending-machine-in-bastrop-amid-texas-opioid-crisis/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "806 Water St, Bastrop, TX (outside Bastrop County Cares)",
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Address agreed by two outlets; no official page found; hours not published. Sept 2024 reports; confirm still operating.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-texarkana-randy-sams-outreach-cent",
+    "name": "Randy Sams' Outreach Center (host); Heartstart Heroes with UT Health San Antonio / Naloxone Texas",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KSLA Narcan vending machines offer free overdose treatment in Texarkana (https://ksla.com/2026/05/11/narcan-vending-machines-offer-free-overdose-treatment-texarkana/); KTBS New Narcan vending machines set up in Bowie County (https://www.ktbs.com/news/texarkana/new-narcan-vending-machines-set-up-in-bowie-county/article_48065b02-d1e4-4d5e-8235-31e1c51b608d.html); Rehabs.org Free Narcan Vending Machines Now Available in Texarkana (https://rehabs.org/news/free-narcan-vending-machines-now-available-in-texarkana/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Lobby of Randy Sams' Outreach Center, Texarkana, TX (street address not published in sources)",
+    "city": "Texarkana",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Launched about late April 2026; over 600 boxes taken in first week (KSLA). Street address and hours not published; do not guess. Free naloxone supplied through UT Health San Antonio Be Well Texas / Naloxone Texas per KTBS.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-new-boston-heartstart-heroes--ut-he",
+    "name": "Heartstart Heroes / UT Health San Antonio (host business not named)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KSLA Narcan vending machines offer free overdose treatment in Texarkana (https://ksla.com/2026/05/11/narcan-vending-machines-offer-free-overdose-treatment-texarkana/); KTBS New Narcan vending machines set up in Bowie County (https://www.ktbs.com/news/texarkana/new-narcan-vending-machines-set-up-in-bowie-county/article_48065b02-d1e4-4d5e-8235-31e1c51b608d.html); KTFS Free Narcan vending machines added in Texarkana and New Boston (https://www.ktfsradio.com/news/local/free-narcan-vending-machines-added-in-texarkana-and-new-boston/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Corner of East Hoskins St and North Center St, New Boston, TX",
+    "city": "New Boston",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Cross-street location only; no street number or hours published. Host business not named. Launched about late April 2026.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-longview-scotty-s-convenience-stor",
+    "name": "Scotty's Convenience Store; GLOW (Greater Longview Optimal Wellness) and Longview Partners in Prevention",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KLTV NARCAN vending machine installed at Longview convenience store",
+      "Mar 16 2026 (https://www.kltv.com/2026/03/16/narcan-vending-machine-installed-longview-convenience-store/); KNUE NARCAN Vending Machine Installed in Longview Texas",
+      "Mar 19 2026 (https://knue.com/narcan-vending-machine-longview-texas/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Scotty's convenience store, corner of Hawkins and McCann Rd, Longview, TX (no street number published)",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Two local outlets, no official page. Machine was not yet stocked when reported; expected operational within weeks. Confirm it is stocked and open before listing as live.. Type: Vending Machine"
+  },
+  {
+    "id": "tx-beaumont-texas-treatment-services",
+    "name": "Texas Treatment Services (UTHealth Houston added machine)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "12NewsNow Life-saving drug is now more available in Beaumont (https://12newsnow.com/article/news/local/life-saving-drug-is-now-more-available-in-beaumont/502-fb2dae82-f823-4710-8551-01d9e1928930); CopeCompass Texas Treatment Services Beaumont directory (https://copecompass.com/find-help/texas-treatment-services-llc/beaumont-tx/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Corner of Calder Ave and 11th St, Beaumont, TX; provider directory lists 2688 Calder St, Beaumont, TX 77702",
+    "city": "Beaumont",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Cross-street from news; street address from a secondary directory only. Install date unknown. Anyone may get naloxone, not only patients (12NewsNow). Verify hours with provider.. Hours: Machine available only during clinic hours, 4:30 a.m. to 10:30 a.m. per 12NewsNow. Type: Vending Machine"
+  },
+  {
+    "id": "ak-homer-homer-exchange-megan-s-p",
+    "name": "Homer Exchange (Megan's Place) - syringe exchange",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/homer-exchange; Alaska Project HOPE partner list https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; Alaska Public Media https://alaskapublic.org/2024/05/31/a-homer-needle-exchange-offers-safer-supplies-for-rural-alaskans-and-a-bridge-to-recovery"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "4014 Lake St, Homer, AK 99603",
+    "city": "Homer",
+    "state": "AK",
+    "zip": "",
+    "phone": "(907) 299-7460 (NASEN); Project HOPE lists Homer Syringe Exchange (907) 841-7204",
+    "notes": "Alaska Public confirms a volunteer-run Homer exchange but gives no address; phones differ between sources.. Hours: First and third Tuesday of each month, 5-7 PM. Type: Harm Reduction / Syringe Services"
+  },
+  {
+    "id": "ak-cordova-ilanka-community-health-c",
+    "name": "Ilanka Community Health Center (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://www.cityofcordova.net/wp-content/uploads/2025/08/8-2-25-Opioids-Press-Release-Final.pdf; https://www.thecordovatimes.com/?p=17479"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Cordova",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-424-3622",
+    "notes": "Two-source verified 2026-10-28. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (UPGRADED): City of Cordova Aug 2025 press release says Narcan is free at Ilanka Community Health Center, 907-424-3622, with brief training and fentanyl test strips. Street address not given.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-ninilchik-ninilchik-community-clini",
+    "name": "Ninilchik Community Clinic (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://ninilchiktribe-nsn.gov/?p=20162"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "15765 Kingsley Rd, Ninilchik, AK 99639",
+    "city": "Ninilchik",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-567-3970",
+    "notes": "Two-source verified 2026-10-28. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (UPGRADED): Ninilchik Tribe's clinic page confirms the clinic at 15765 Kingsley Rd, phone 907-567-3970, Mon-Fri 9-5, naloxone kits via its MAT program and naloxone training; IHS-eligible people seen, non-IHS welcome.. Hours: Mon-Fri 9am-5pm (clinic hours). Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-yakutat-yakutat-health-center-pr",
+    "name": "Yakutat Health Center (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Yakutat",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-784-3275",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): No independent page found confirming naloxone kits at Yakutat Health Center; results were generic tribal/Alaska articles that did not name the site.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-fort-yukon-yukon-flats-health-center",
+    "name": "Yukon Flats Health Center (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://www.catg.org/departments/health-services"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Fort Yukon",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-662-2460",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): Council of Athabascan Tribal Governments page confirms Yukon Flats Health Center in Fort Yukon with phone (907) 662-2460 (matches), but no street address, hours or naloxone mention. Naloxone availability remains single-sourced.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-skagway-dahl-memorial-clinic-pro",
+    "name": "Dahl Memorial Clinic (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://skagwaynews.com/?p=45274; https://khns.org/skagway-public-safety-committee-discusses-response-to-recent-overdoses"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Skagway",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-983-2255",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): Skagway News (Jan 2023) says the town clinic, Skagway Traditional Council and municipality are distributing naloxone kits, but the clinic is not named as Dahl or as a Project HOPE partner. No address/hours found. Not a clear independent confirmation.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-dillingham-bristol-bay-health-corpor",
+    "name": "Bristol Bay Health Corporation - Jake's Place (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf; https://health.alaska.gov/dbh/Pages/ResidentialSUD/facilities/Jakes-Place.aspx; https://www.kdlg.org/public-safety/2023-06-08/dillingham-grapples-with-recent-opioid-overdoses-shares-resources-for-emergencies-and-prevention"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "6000 Kanakanak Rd, Dillingham, AK 99576 (per Alaska DBH facility page; residential treatment program)",
+    "city": "Dillingham",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-842-5266",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): State DBH facility page confirms Jake's Place (BBAHC residential treatment, 6000 Kanakanak Rd, same phone) but is under revision and never mentions naloxone. No independent naloxone source; 2023 KDLG lists other Dillingham sites.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "ak-kodiak-kodiak-area-native-associ",
+    "name": "Kodiak Area Native Association - pharmacy (Project HOPE partner)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Alaska Project HOPE partner list (official",
+      "phone numbers only; call ahead to verify availability) https://health.alaska.gov/media/0wnbtynk/projecthopecontacts.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Street address not published in source",
+    "city": "Kodiak",
+    "state": "AK",
+    "zip": "",
+    "phone": "907-486-9870",
+    "notes": "NOT VERIFIED - single source. Official list gives name, city and phone only; independent second source and street address still needed. | Second-source search 2026-10-28 (STILL_SINGLE): No independent source found for KANA pharmacy naloxone; searches returned only the state Project HOPE list and general Kodiak news. Street address still unpublished.. Hours: Not listed. Type: Tribal/Community Health Clinic - Project HOPE Partner"
+  },
+  {
+    "id": "tx-abilene-book-therapy-host--tayl",
+    "name": "Book Therapy (host); Taylor Alliance for Prevention / Abilene Recovery Council",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KTXS First Narcan vending machine unveiled in Abilene (https://ktxs.com/news/local/first-narcan-vending-machine-unveiled-in-abilene); Vending Times Abilene",
+      "Texas home to free Narcan vending machine (https://www.vendingtimes.com/news/abilene-texas-home-to-free-narcan-vending-machine/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1017 Butternut St, Abilene, TX (in front of Book Therapy, used bookstore)",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Two news sources, no official page; address from KTXS only (Vending Times gives no street address). Grant-funded; stocked by West Texas Harm Reduction and Big Country Reentry Coalition per KTXS. Articles dated Aug 2024; confirm machine still operating.. Hours: 24/7 per Vending Times. Type: Vending Machine"
+  },
+  {
+    "id": "tx-bastrop-bastrop-county-cares-uth",
+    "name": "Bastrop County Cares (UTHealth Houston Texas ICON placement)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KVUE Narcan vending machine Bastrop (https://kvue.com/article/news/local/narcan-vending-machine-bastrop-texas/269-f2425477-2a31-467c-a28a-4c0aee885f98); Elgin Courier Narcan vending machine debuts in Bastrop (https://www.elgincourier.com/article/2994",
+      "narcan-vending-machine-debuts-in-bastrop); Hoodline UT Health Houston introduces free naloxone vending machine in Bastrop (https://hoodline.com/2024/09/ut-health-houston-introduces-free-naloxone-vending-machine-in-bastrop-amid-texas-opioid-crisis/)"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "806 Water St, Bastrop, TX (outside Bastrop County Cares)",
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Address agreed by two outlets; no official page found; hours not published. Sept 2024 reports; confirm still operating.. Type: Vending Machine"
   }
 ]
