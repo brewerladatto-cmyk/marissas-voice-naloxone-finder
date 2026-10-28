@@ -7393,5 +7393,488 @@
     "zip": "",
     "phone": "540-899-4797 (district)",
     "notes": "Free kit (2 doses) after a free 10-15 minute Rapid REVIVE training at the front desk; limit one box per person per day. Address from 2023 VDH release. Hours differ between sources (2023 release: until 4:00 PM; current page: until 3:30 PM) - call to confirm.. Hours: Mon-Fri 8:30 AM-3:30 PM (current VDH page). Type: County/Local Health Department"
+  },
+  {
+    "id": "va-marion-council-of-community-serv",
+    "name": "Council of Community Services - Appalachian Drop-In Center (Harm Reduction Services)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Virginia 211 listing https://search.211virginia.org/search/abc36c6c-27e8-5498-bdb1-dfae37a4fe8a; https://therc.vdh.virginia.gov/search/ce9b8ae6-45e8-59ca-95ae-f7186530310b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "111 Brunswick Lane, Marion, VA 24354",
+    "city": "Marion",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. No phone or hours on listing. Council of Community Services lists an Appalachian office phone of (540) 904-7254 on a separate VDH resource page (not confirmed for this site). | Second-source search 2026-10-28 (STILL_SINGLE): VDH and Council pages list an Appalachian office phone (540-904-7254) but no Marion/Brunswick Lane address, hours or naloxone detail; Roanoke Drop-In Center page is a different site.. Hours: Not listed. Type: Harm Reduction Org"
+  },
+  {
+    "id": "va-martinsville-virginia-harm-reduction-c",
+    "name": "Virginia Harm Reduction Coalition (Martinsville office)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Virginia 211 listing https://search.211virginia.org/search/91386332-fadc-545c-87d4-a3f8954e1c66; WSLS https://wsls.com/news/local/2026/05/26/naloxone-boxes-placed-in-southside; Henry County Enterprise https://henrycountyenterprise.com/?p=51839",
+      "https://carrynaloxone.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1856 Virginia Avenue, Martinsville, VA 24112",
+    "city": "Martinsville",
+    "state": "VA",
+    "zip": "",
+    "phone": "(765) 315-9813 as listed (area code is not a Virginia code - verify before publishing)",
+    "notes": "Office address from 211 only; news sources confirm VHRC boxes in area but give no box addresses. Contact VHRC (carrynaloxone.org) for box locations.. Hours: Not listed - call. Type: Harm Reduction Org"
+  },
+  {
+    "id": "va-lexington-lexington-rockbridge-heal",
+    "name": "Lexington-Rockbridge Health Department - Harm Reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Virginia 211 listing https://search.211virginia.org/search/9bed9188-7d24-5236-87e7-b05761e29e0c; https://www.vdh.virginia.gov/central-shenandoah/harm-reduction/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "300 White Street, Lexington, VA 24450. Monthly harm reduction office hours at Augusta County Library, 1759 Jefferson Hwy, Fishersville (1st Thu 12-1 PM) and Staunton Public Library, 1 Churchville Ave, Staunton (2nd Tue 12-1 PM)",
+    "city": "Lexington",
+    "state": "VA",
+    "zip": "",
+    "phone": "(540) 463-3185; general (540) 463-6677",
+    "notes": "Two-source verified 2026-10-28. Library office hours may have changed; call first. | Second-source search 2026-10-28 (UPGRADED): VDH Central Shenandoah page: Lexington-Rockbridge gives free nasal naloxone to people who use drugs or know someone who does (call ahead); library hours with Valley CSB. VDH lists Fishersville 1st Thu 12-1 PM, not 10-11 AM; Staunton 2nd Tue 12-1 matches.. Hours: Office hours as listed at library sites; call ahead. Type: Local Health Department"
+  },
+  {
+    "id": "va-fairfax-fairfax-falls-church-comm",
+    "name": "Fairfax-Falls Church Community Services Board - REVIVE!",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Fairfax County CSB REVIVE page https://www.fairfaxcounty.gov/community-services-board/heroin-opioids/revive; https://patch.com/virginia/vienna/life-saving-narcan-offered-free-upcoming-training",
+      "https://www.fairfaxcounty.gov/community-services-board/heroin-opioids/revive"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "8221 Willow Oaks Corporate Drive, Fairfax, VA 22031 (CSB office). Naloxone issued after training",
+    "city": "Fairfax",
+    "state": "VA",
+    "zip": "",
+    "phone": "703-383-8500; csbrevive@fairfaxcounty.gov",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. Page does not state that kits are picked up at the CSB office; confirm pickup process. | Second-source search 2026-10-28 (UPGRADED): Patch (Jan 2018, older) independently reports free Narcan to residents attending REVIVE training at the Merrifield Center, 8221 Willow Oaks Corporate Dr, Fairfax; monthly classes. Confirms address and program; no current secondary source.. Hours: Virtual trainings scheduled (Nov 7 and 17, Dec 4 and 14, 2026). Type: County Behavioral Health Agency"
+  },
+  {
+    "id": "vt-bennington-greater-bennington-commun",
+    "name": "Greater Bennington Community Services - 24/7 naloxone vending machine (Turning Point Center of Bennington County)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Bennington Banner https://www.benningtonbanner.com/local-news/narcan-vending-machine-up-and-running-in-bennington/article_7e76e3c8-7b65-11ef-94ae-bf0061498065.html; VTDigger https://vtdigger.org/2024/03/19/states-2nd-narcan-vending-machine-is-coming-to-bennington/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "121 Depot Street, Bennington, VT (outside GBCS building, across from People's Park)",
+    "city": "Bennington",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "notes": "Master workbook lists Bennington machine generically; this adds exact address. Both sources are news (2024); no official Health Dept address page found.. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "vt-middlebury-turning-point-center-of-a",
+    "name": "Turning Point Center of Addison County - public health vending machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Addison Independent https://www.addisonindependent.com/2025/05/29/public-health-vending-machine-installed-at-turning-point/ (2025); same outlet's 2024 plan https://www.addisonindependent.com/2024/07/11/vending-machines-to-provide-overdose-meds-in-midd-vergennes/; https://search.vermont211.org/search/027c5b0c-234a-57c5-8d41-3cd0ef849e7b; https://ground.news/article/narcan-first-aid-hygiene-kits-free-and-accessible-24-7-in-new-vending-machine-in-addison-county"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "79 Court Street, Middlebury, VT (TPC headquarters)",
+    "city": "Middlebury",
+    "state": "VT",
+    "zip": "",
+    "phone": "802-388-4249",
+    "notes": "Two-source verified 2026-10-28. Two articles from one outlet; second is paywalled. Confirm naloxone stocking and hours with TPC. | Second-source search 2026-10-28 (UPGRADED): Vermont 211 lists a 24/7 community health vending machine at 79 Court St, Middlebury; WPTZ (June 2025) reports a free 24/7 Narcan, first-aid and hygiene vending machine in Addison County. Different outlets from Addison Independent.. Hours: Vending machine 24/7; center in person Mon/Wed/Fri 9-7, Tue/Thu 9-5, Sat-Sun 4:30-7 (Vermont 211). Type: Vending Machine"
+  },
+  {
+    "id": "vt-bristol-turning-point-center-of-a",
+    "name": "Turning Point Center of Addison County - public health vending machine (Bristol)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Addison Independent https://www.addisonindependent.com/2025/11/26/public-health-vending-machine-installed-in-bristol/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "72 Munsill Avenue, Bristol, VT (next to Bristol Police Department)",
+    "city": "Bristol",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source.  | Second-source search 2026-10-28 (STILL_SINGLE): No independent report of the Bristol machine found beyond the Addison Independent. Site details (72 Munsill Ave, installed Nov 19, 2025, Turning Point) match the original article; no other outlet located.. Hours: Not stated. Type: Vending Machine"
+  },
+  {
+    "id": "vt-st-johnsbury-vermont-cares--st-johns",
+    "name": "Vermont CARES - St. Johnsbury harm reduction office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/vermont-cares-harm-reduction-services; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://www.vtcares.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1091 Hospital Drive, St. Johnsbury, VT 05819",
+    "city": "St. Johnsbury",
+    "state": "VT",
+    "zip": "",
+    "phone": "(802) 448-4898; main (802) 528-1139; info@vtcares.org",
+    "notes": "Health Dept page confirms Vermont CARES is a state SSP but gives no addresses.. Hours: Mon-Fri 9 AM-5 PM drop-in. Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "vt-rutland-vermont-cares--rutland-h",
+    "name": "Vermont CARES - Rutland harm reduction office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/vermont-cares-harm-reduction-services; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://www.vtcares.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "131 Woodstock Ave, Unit 3, Rutland, VT",
+    "city": "Rutland",
+    "state": "VT",
+    "zip": "",
+    "phone": "(802) 238-4855",
+    "notes": "Hours: Mon-Fri 9 AM-5 PM drop-in. Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "vt-barre-vermont-cares-at-people-s",
+    "name": "Vermont CARES at People's Health and Wellness Clinic",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/vermont-cares-harm-reduction-services; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://www.vtcares.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "51 Church Street, Barre, VT",
+    "city": "Barre",
+    "state": "VT",
+    "zip": "",
+    "phone": "(802) 505-6711 or (802) 528-1135",
+    "notes": "Hours ambiguous on source. Vermont CARES is also slated to take over Burlington-area SSP service from Howard Center Safe Recovery on 6/30/26 per VDH page - confirm Burlington site address.. Hours: Listing unclear (Monday 9-5; Wed-Fri 11-3 may apply) - call to confirm. Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "vt-brattleboro-aids-project-of-southern",
+    "name": "AIDS Project of Southern Vermont (Syringe Services Program)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Vermont 211 https://search.vermont211.org/search/297a2215-ce53-511f-8ea9-35a77e47215b; NASEN https://nasen.org/sep/aids-project-of-southern-vermont-brattleboro; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://aidsprojectsouthernvermont.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "15 Grove Street, Brattleboro, VT",
+    "city": "Brattleboro",
+    "state": "VT",
+    "zip": "",
+    "phone": "(802) 254-8263 (VT211) or (802) 246-7147 (NASEN mobile line) - sources differ",
+    "notes": "Phone numbers and ZIP differ between sources; verify by calling. Brattleboro already has Groundworks in master; this is a separate site.. Hours: Tue 10 AM-2 PM walk-in; mobile delivery Wed (Bellows Falls), Thu (Brattleboro area), Fri (Bennington). Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "nh-concord-the-doorway-at-concord",
+    "name": "The Doorway at Concord",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "The Doorway NH https://thedoorway.nh.gov/doorway-concord; NH DHHS (Doorways request/supply naloxone) https://dhhs.nh.gov/news-and-media/new-hampshire-expands-access-naloxone-across-state",
+      "https://thedoorway.nh.gov/doorway-concord"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "40 Pleasant Street, Concord, NH 03301",
+    "city": "Concord",
+    "state": "NH",
+    "zip": "",
+    "phone": "2-1-1 (24/7); TTY 1-603-634-3388",
+    "notes": "Master workbook lists Doorway sites generically; exact address added.. Hours: In person Mon-Fri 8 AM-5 PM; phone 24/7 via 211. Type: State Hub (Doorway)"
+  },
+  {
+    "id": "nh-nashua-the-doorway-of-greater-na",
+    "name": "The Doorway of Greater Nashua",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "The Doorway NH https://thedoorway.nh.gov/doorway-greater-nashua; NH DHHS https://dhhs.nh.gov/news-and-media/new-hampshire-expands-access-naloxone-across-state",
+      "https://thedoorway.nh.gov/doorway-greater-nashua"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "268 Main Street, Nashua, NH 03064",
+    "city": "Nashua",
+    "state": "NH",
+    "zip": "",
+    "phone": "2-1-1 (24/7); TTY 1-603-634-3388",
+    "notes": "Hours: In person Mon-Fri 8 AM-5 PM; phone 24/7 via 211. Type: State Hub (Doorway)"
+  },
+  {
+    "id": "nh-littleton-the-doorway-at-littleton",
+    "name": "The Doorway at Littleton Regional Healthcare",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "The Doorway NH https://thedoorway.nh.gov/doorway-lrh; Littleton Regional Healthcare https://littletonhealthcare.org/clinics-and-affiliates/the-doorway-program/",
+      "https://thedoorway.nh.gov/doorway-lrh"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "11 Riverglen Lane, Suite 100, Littleton, NH 03561",
+    "city": "Littleton",
+    "state": "NH",
+    "zip": "",
+    "phone": "603-259-1659; 2-1-1 (24/7)",
+    "notes": "Separate from the 24/7 vending machine at Mt. Eustis Commons already in master.. Hours: In person Mon-Fri 8 AM-5 PM; phone 24/7 via 211. Type: State Hub (Doorway)"
+  },
+  {
+    "id": "nh-berlin-the-doorway-at-avh-andro",
+    "name": "The Doorway at AVH (Androscoggin Valley Hospital)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "AVH https://avhnh.org/?p=398; NH DHHS https://dhhs.nh.gov/news-and-media/new-hampshire-expands-access-naloxone-across-state",
+      "https://avhnh.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "AVH Professional Center, 7 Page Hill Road, Berlin, NH",
+    "city": "Berlin",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 342-5000; 2-1-1 (24/7)",
+    "notes": "Hours: Mon-Fri 8 AM-5 PM; walk-ins accepted. Type: State Hub (Doorway)"
+  },
+  {
+    "id": "nh-lebanon-the-doorway-at-dartmouth",
+    "name": "The Doorway at Dartmouth Health (Lebanon)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Dartmouth Health https://dartmouth-hitchcock.org/psychiatry/doorway; NH DHHS https://dhhs.nh.gov/news-and-media/new-hampshire-expands-access-naloxone-across-state",
+      "https://dartmouth-hitchcock.org/psychiatry/doorway"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "85 Mechanic Street, Suite 3-B1, Rivermill Complex, Lebanon, NH 03766",
+    "city": "Lebanon",
+    "state": "NH",
+    "zip": "",
+    "phone": "603-653-1860 (Lebanon Addiction Treatment Program); 2-1-1 (24/7)",
+    "notes": "Hours: Walk-in Mon-Fri 8 AM-5 PM. Type: State Hub (Doorway)"
+  },
+  {
+    "id": "nh-concord-new-hampshire-harm-reduct",
+    "name": "New Hampshire Harm Reduction Coalition / Concord Area Syringe Exchange",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/concord-area-syringe-exchange-; https://www.concordmonitor.com/2024/05/13/harm-reduction-clinics-nh-prevention-overdose-drugs-concord-nh-54950709/",
+      "https://www.facebook.com/harmreductionNH"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "3 Industrial Park Dr, Concord, NH 03301 (weekly pop-up; check Facebook for site changes)",
+    "city": "Concord",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 545-5506 (call/text)",
+    "notes": "Second source found 2026-10-28, but older or limited (see Second-Source Log); treat as lower assurance. Pop-up schedule and location may change. | Second-source search 2026-10-28 (UPGRADED): Concord Monitor (May 2024) reports the coalition runs the Concord exchange by van, 9:30 AM-1 PM, carrying free naloxone. Older secondary source; confirms program but not the Monday/3 Industrial Park Dr details or current status.. Hours: Mondays 9 AM-2 PM (pop-up). Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "nh-keene-keene-serenity-center--g",
+    "name": "Keene Serenity Center - GROW harm reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/keene-serenity-center-grow; https://www.keenesentinel.com/news/local/keene-nh-recovery-organization-finds-new-home/article_4caa692a-2a39-45cb-9770-78c160756319.html; https://www.keenesentinel.com/news/local/keene-nh-serenity-center-move/article_d258df44-97fe-4645-b7cc-a6099985dfe5.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "298A West St, Keene, NH (relocation from 24 Vernon St reported for ~March 2026; confirm by phone)",
+    "city": "Keene",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 903-4049 or (603) 563-0837; info@kscrecovery.org",
+    "notes": "NOT VERIFIED - single source.  | Second-source search 2026-10-28 (CONTRADICTED): Keene Sentinel (Jan 29, 2026): Serenity Center is leaving its Vernon St site, planning to open at 298A West St around March 1, 2026. Confirms harm reduction/needle exchange, but address likely moved; naloxone and hours not confirmed. Verify by phone.. Hours: Mon-Fri 9 AM-5 PM; deliveries by appointment (call/text 603-903-4049). Type: Recovery Center / Harm Reduction"
+  },
+  {
+    "id": "nh-lebanon-hiv-hcv-resource-center",
+    "name": "HIV/HCV Resource Center (H2RC)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/hivhcv-resource-center; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://h2rc.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2 Blacksmith Street, Lebanon, NH 03766 (mobile services by appointment)",
+    "city": "Lebanon",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 276-9698 or (603) 306-1105",
+    "notes": "VDH page confirms H2RC mobile SSP for Orange and Windsor counties VT and select NH counties; address from NASEN only.. Hours: By appointment; staff come to you. Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "va-marion-council-of-community-serv",
+    "name": "Council of Community Services - Appalachian Drop-In Center (Harm Reduction Services)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Virginia 211 listing https://search.211virginia.org/search/abc36c6c-27e8-5498-bdb1-dfae37a4fe8a; https://therc.vdh.virginia.gov/search/ce9b8ae6-45e8-59ca-95ae-f7186530310b"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "111 Brunswick Lane, Marion, VA 24354",
+    "city": "Marion",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source. No phone or hours on listing. Council of Community Services lists an Appalachian office phone of (540) 904-7254 on a separate VDH resource page (not confirmed for this site). | Second-source search 2026-10-28 (STILL_SINGLE): VDH and Council pages list an Appalachian office phone (540-904-7254) but no Marion/Brunswick Lane address, hours or naloxone detail; Roanoke Drop-In Center page is a different site.. Hours: Not listed. Type: Harm Reduction Org"
+  },
+  {
+    "id": "va-martinsville-virginia-harm-reduction-c",
+    "name": "Virginia Harm Reduction Coalition (Martinsville office)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Virginia 211 listing https://search.211virginia.org/search/91386332-fadc-545c-87d4-a3f8954e1c66; WSLS https://wsls.com/news/local/2026/05/26/naloxone-boxes-placed-in-southside; Henry County Enterprise https://henrycountyenterprise.com/?p=51839",
+      "https://carrynaloxone.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1856 Virginia Avenue, Martinsville, VA 24112",
+    "city": "Martinsville",
+    "state": "VA",
+    "zip": "",
+    "phone": "(765) 315-9813 as listed (area code is not a Virginia code - verify before publishing)",
+    "notes": "Office address from 211 only; news sources confirm VHRC boxes in area but give no box addresses. Contact VHRC (carrynaloxone.org) for box locations.. Hours: Not listed - call. Type: Harm Reduction Org"
+  },
+  {
+    "id": "va-lexington-lexington-rockbridge-heal",
+    "name": "Lexington-Rockbridge Health Department - Harm Reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Virginia 211 listing https://search.211virginia.org/search/9bed9188-7d24-5236-87e7-b05761e29e0c; https://www.vdh.virginia.gov/central-shenandoah/harm-reduction/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "300 White Street, Lexington, VA 24450. Monthly harm reduction office hours at Augusta County Library, 1759 Jefferson Hwy, Fishersville (1st Thu 12-1 PM) and Staunton Public Library, 1 Churchville Ave, Staunton (2nd Tue 12-1 PM)",
+    "city": "Lexington",
+    "state": "VA",
+    "zip": "",
+    "phone": "(540) 463-3185; general (540) 463-6677",
+    "notes": "Two-source verified 2026-10-28. Library office hours may have changed; call first. | Second-source search 2026-10-28 (UPGRADED): VDH Central Shenandoah page: Lexington-Rockbridge gives free nasal naloxone to people who use drugs or know someone who does (call ahead); library hours with Valley CSB. VDH lists Fishersville 1st Thu 12-1 PM, not 10-11 AM; Staunton 2nd Tue 12-1 matches.. Hours: Office hours as listed at library sites; call ahead. Type: Local Health Department"
+  },
+  {
+    "id": "vt-bristol-turning-point-center-of-a",
+    "name": "Turning Point Center of Addison County - public health vending machine (Bristol)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Addison Independent https://www.addisonindependent.com/2025/11/26/public-health-vending-machine-installed-in-bristol/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "72 Munsill Avenue, Bristol, VT (next to Bristol Police Department)",
+    "city": "Bristol",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - single source.  | Second-source search 2026-10-28 (STILL_SINGLE): No independent report of the Bristol machine found beyond the Addison Independent. Site details (72 Munsill Ave, installed Nov 19, 2025, Turning Point) match the original article; no other outlet located.. Hours: Not stated. Type: Vending Machine"
+  },
+  {
+    "id": "vt-st-johnsbury-vermont-cares--st-johns",
+    "name": "Vermont CARES - St. Johnsbury harm reduction office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/vermont-cares-harm-reduction-services; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://www.vtcares.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1091 Hospital Drive, St. Johnsbury, VT 05819",
+    "city": "St. Johnsbury",
+    "state": "VT",
+    "zip": "",
+    "phone": "(802) 448-4898; main (802) 528-1139; info@vtcares.org",
+    "notes": "Health Dept page confirms Vermont CARES is a state SSP but gives no addresses.. Hours: Mon-Fri 9 AM-5 PM drop-in. Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "vt-brattleboro-aids-project-of-southern",
+    "name": "AIDS Project of Southern Vermont (Syringe Services Program)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Vermont 211 https://search.vermont211.org/search/297a2215-ce53-511f-8ea9-35a77e47215b; NASEN https://nasen.org/sep/aids-project-of-southern-vermont-brattleboro; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://aidsprojectsouthernvermont.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "15 Grove Street, Brattleboro, VT",
+    "city": "Brattleboro",
+    "state": "VT",
+    "zip": "",
+    "phone": "(802) 254-8263 (VT211) or (802) 246-7147 (NASEN mobile line) - sources differ",
+    "notes": "Phone numbers and ZIP differ between sources; verify by calling. Brattleboro already has Groundworks in master; this is a separate site.. Hours: Tue 10 AM-2 PM walk-in; mobile delivery Wed (Bellows Falls), Thu (Brattleboro area), Fri (Bennington). Type: Syringe Services / Harm Reduction"
+  },
+  {
+    "id": "nh-littleton-the-doorway-at-littleton",
+    "name": "The Doorway at Littleton Regional Healthcare",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "The Doorway NH https://thedoorway.nh.gov/doorway-lrh; Littleton Regional Healthcare https://littletonhealthcare.org/clinics-and-affiliates/the-doorway-program/",
+      "https://thedoorway.nh.gov/doorway-lrh"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "11 Riverglen Lane, Suite 100, Littleton, NH 03561",
+    "city": "Littleton",
+    "state": "NH",
+    "zip": "",
+    "phone": "603-259-1659; 2-1-1 (24/7)",
+    "notes": "Separate from the 24/7 vending machine at Mt. Eustis Commons already in master.. Hours: In person Mon-Fri 8 AM-5 PM; phone 24/7 via 211. Type: State Hub (Doorway)"
+  },
+  {
+    "id": "nh-berlin-the-doorway-at-avh-andro",
+    "name": "The Doorway at AVH (Androscoggin Valley Hospital)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "AVH https://avhnh.org/?p=398; NH DHHS https://dhhs.nh.gov/news-and-media/new-hampshire-expands-access-naloxone-across-state",
+      "https://avhnh.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "AVH Professional Center, 7 Page Hill Road, Berlin, NH",
+    "city": "Berlin",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 342-5000; 2-1-1 (24/7)",
+    "notes": "Hours: Mon-Fri 8 AM-5 PM; walk-ins accepted. Type: State Hub (Doorway)"
+  },
+  {
+    "id": "nh-keene-keene-serenity-center--g",
+    "name": "Keene Serenity Center - GROW harm reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/keene-serenity-center-grow; https://www.keenesentinel.com/news/local/keene-nh-recovery-organization-finds-new-home/article_4caa692a-2a39-45cb-9770-78c160756319.html; https://www.keenesentinel.com/news/local/keene-nh-serenity-center-move/article_d258df44-97fe-4645-b7cc-a6099985dfe5.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "298A West St, Keene, NH (relocation from 24 Vernon St reported for ~March 2026; confirm by phone)",
+    "city": "Keene",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 903-4049 or (603) 563-0837; info@kscrecovery.org",
+    "notes": "NOT VERIFIED - single source.  | Second-source search 2026-10-28 (CONTRADICTED): Keene Sentinel (Jan 29, 2026): Serenity Center is leaving its Vernon St site, planning to open at 298A West St around March 1, 2026. Confirms harm reduction/needle exchange, but address likely moved; naloxone and hours not confirmed. Verify by phone.. Hours: Mon-Fri 9 AM-5 PM; deliveries by appointment (call/text 603-903-4049). Type: Recovery Center / Harm Reduction"
+  },
+  {
+    "id": "nh-lebanon-hiv-hcv-resource-center",
+    "name": "HIV/HCV Resource Center (H2RC)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN https://nasen.org/sep/hivhcv-resource-center; Vermont Dept of Health SSP list https://www.healthvermont.gov/node/4071",
+      "https://h2rc.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2 Blacksmith Street, Lebanon, NH 03766 (mobile services by appointment)",
+    "city": "Lebanon",
+    "state": "NH",
+    "zip": "",
+    "phone": "(603) 276-9698 or (603) 306-1105",
+    "notes": "VDH page confirms H2RC mobile SSP for Orange and Windsor counties VT and select NH counties; address from NASEN only.. Hours: By appointment; staff come to you. Type: Syringe Services / Harm Reduction"
   }
 ]
