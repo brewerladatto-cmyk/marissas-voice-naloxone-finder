@@ -428,9 +428,9 @@ function updateMap(filtered) {
   if (!map) return;
   markers.forEach(m => map.removeLayer(m));
   markers = [];
-  const withCoords = filtered.filter(i => i.coordinates && typeof i.coordinates.lat === "number");
+  const withCoords = filtered.filter(i => i.lat && i.lng);
   withCoords.forEach(item => {
-    const marker = L.marker([item.coordinates.lat, item.coordinates.lng]).addTo(map);
+    const marker = L.marker([item.lat, item.lng]).addTo(map);
     marker.bindPopup(`<strong>${item.name}</strong><br>${item.city || ""} ${item.state || ""}`);
     markers.push(marker);
   });
@@ -481,7 +481,8 @@ const zipCoords = {
 async function load() {
   try {
     const res = await fetch(DATA_URL);
-    all = await res.json();
+    const data = await res.json();
+    all = Array.isArray(data) ? data : (data.listings || []);
     render();
   } catch (e) {
     document.getElementById('status').textContent = 'Could not load listings. Please try again later.';
@@ -490,8 +491,9 @@ async function load() {
 
 function matches(item, q, state, filters, center, maxMiles) {
   if (state && item.state && item.state !== state) return false;
-  if (filters.size && !filters.has(item.category || 'free_naloxone')) {
-    const text = (item.name + ' ' + (item.notes || '')).toLowerCase();
+  const cat = item.cat || item.category || 'free_naloxone';
+  if (filters.size && !filters.has(cat)) {
+    const text = (item.name + ' ' + (item.notes || item.statusNote || '')).toLowerCase();
     let hit = false;
     if (filters.has('treatment') && /treatment|recovery|rehab/.test(text)) hit = true;
     if (filters.has('family') && /family|support/.test(text)) hit = true;
@@ -499,11 +501,11 @@ function matches(item, q, state, filters, center, maxMiles) {
     if (filters.has('harm') && /syringe|harm reduction|needle/.test(text)) hit = true;
     if (filters.has('mail_order') && /mail|online|ship/.test(text)) hit = true;
     if (filters.has('training') && /training|education/.test(text)) hit = true;
-    if (filters.has('free_naloxone')) hit = true;
+    if (filters.has('free_naloxone') || filters.has('naloxone')) hit = true;
     if (!hit) return false;
   }
-  if (center && maxMiles && maxMiles !== 'all' && item.coordinates && typeof item.coordinates.lat === 'number') {
-    const dist = haversine(center[0], center[1], item.coordinates.lat, item.coordinates.lng);
+  if (center && maxMiles && maxMiles !== 'all' && item.lat && item.lng) {
+    const dist = haversine(center[0], center[1], item.lat, item.lng);
     if (dist > parseFloat(maxMiles)) return false;
   }
   if (!q || q === 'Near my location') return true;
@@ -531,11 +533,11 @@ function render() {
   if (currentView === 'map') updateMap(filtered);
   el.innerHTML = filtered.slice(0, 30).map(item => `
     <article class="result-card">
-      <span class="badge">${(item.verification || 'unconfirmed').replace('_',' ')}</span>
+      <span class="badge">${(item.status || item.verification || 'unconfirmed').replace('_',' ')}</span>
       <h3>${item.name}</h3>
-      <p>${item.notes || ''}</p>
+      <p>${item.notes || item.statusNote || ''}</p>
       <div style="font-size:0.85rem;color:#6B6275;margin-top:0.4rem;">
-        ${item.city || ''} ${item.state || ''} ${item.zip || ''} · Checked ${item.last_checked || ''}
+        ${item.city || ''} ${item.state || ''} ${item.zip || ''} · ${item.address || ''}
       </div>
     </article>
   `).join('');
