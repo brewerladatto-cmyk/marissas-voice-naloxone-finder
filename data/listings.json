@@ -3687,5 +3687,338 @@
     "zip": "",
     "phone": "505-866-2116",
     "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): News-Bulletin (Aug 2025): dispenser at LLFD Station No. 2, west of I-25 off Main St; open 8am-5pm Mon-Fri, public may call 505-866-2116 after hours. Single source reviewed; no official page found.. Hours: 8am-5pm Mon-Fri; call 505-866-2116 after hours. Type: Vending Machine"
+  },
+  {
+    "id": "ms-gulfport-singing-river-health-syst",
+    "name": "Singing River Health System",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WLOX + Singing River"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside ER entrances at Gulfport, Ocean Springs, and Pascagoula hospitals",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - thousands of doses. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "mo-conway-i-44-rest-easy-naloxone-projec",
+    "name": "Rest Easy Naloxone Project",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Vending Times"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Two I-44 welcome centers near Conway",
+    "city": "Conway (I-44)",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Distribution Boxes"
+  },
+  {
+    "id": "nv-elko-trac-b-exchange",
+    "name": "Trac-B Exchange",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://www.harmreductioncenterlv.com/impact-exchange-vending-machines; https://nextdistro.org/nvchoice; https://thenevadaindependent.com/article/needle-exchange-project-modeled-on-urban-efforts-aims-to-save-lives-in-rural-nevada; https://www.tracbexchange.com/",
+      "https://www.harmreductioncenterlv.com/impact-exchange-vending-machines"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Elko: Impact Exchange, 1250 Lamoille Hwy Ste 731 (also DCFS, 1010 Ruby Vista Dr Ste 101); Hawthorne: 105 A Street",
+    "city": "Elko",
+    "state": "NV",
+    "zip": "",
+    "phone": "Elko Impact Exchange (775) 738-9199; Trac-B (702) 840-6693",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Harm Reduction Center LV (Trac-B) lists vending machines at Impact Exchange Elko and 105 A St Hawthorne carrying naloxone; most sites say call for hours; 18+ with ID card needed. Mail naloxone for NV residents via NEXT Distro. Page undated.. Hours: Call for hours. Type: Vending Machines"
+  },
+  {
+    "id": "nj-paterson-black-lives-matter-paters",
+    "name": "Black Lives Matter Paterson",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NJ Spotlight News"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Five free 24/7 kiosks around Paterson",
+    "city": "Paterson",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Naloxone Kiosks"
+  },
+  {
+    "id": "nj-harm-reduction-centers--naloxone365-nj-harm-reductio",
+    "name": "NJ Harm Reduction Coalition + NJ DHS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NJHRC + NJ DHS",
+      "https://njharmreduction.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "7 Harm Reduction Centers (Asbury Park, Atlantic City, Camden, Jersey City, Newark, Paterson, Trenton); Naloxone365 free at participating pharmacies; mail via NJHRC/NEXT",
+    "city": "Harm Reduction Centers + Naloxone365",
+    "state": "NJ",
+    "zip": "",
+    "phone": "1-877-4NARCAN",
+    "notes": "Active. Hours: Varies. Type: Walk-in + pharmacy + mail"
+  },
+  {
+    "id": "nm-grants-cibola-county-health-coun",
+    "name": "Cibola County Health Council",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Instagram / local; https://www.cibolacitizen.com/node/11201"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Bluewater Fire Dept 20 Pinon St; Village of Milan 609 US Rte 66; Grants Public Library 1101 1st St; Cibola County Complex 700 E Roosevelt Ave",
+    "city": "Grants",
+    "state": "NM",
+    "zip": "",
+    "phone": "info@orcnm.com (ORCNM)",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Cibola Citizen (May 2026) says the Opioid Remediation Collaborative of NM is installing NARCAN boxes at Grants Library, Milan Village Hall, Smith's Strip Mall and Bluewater Fire Station; no Health Council role or County Complex site named. No addresses/hours.. Hours: Varies. Type: Distribution Boxes"
+  },
+  {
+    "id": "ny-queens-nyc-health-public-health",
+    "name": "NYC Health Public Health Vending Machines",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NYC Health",
+      "https://www.nyc.gov/naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "ACQC 1600 Central Ave Queens; ACQC 91-30 Van Wyck Expwy Queens; SUS 1676 Broadway Brooklyn; VOCAL-NY 2640 Pitkin Ave Brooklyn; Partnerships for Community Wellness 1100 Castleton Ave & 2134 Richmond Terrace Staten Island (24/7, enter NYC ZIP)",
+    "city": "Queens",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "ny-red-hook-dutchess-county--matters",
+    "name": "Dutchess County + MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Vending Times + MATTERS",
+      "https://mattersnetwork.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Red Hook machine at 7467 S Broadway (highest usage); additional machines in Beacon, Millbrook, Amenia, etc. (nearly 1,000 kits distributed)",
+    "city": "Red Hook",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "nc-raleigh-wake-county--partners",
+    "name": "Wake County + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Wake County",
+      "https://www.wake.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "SouthLight Healthcare 2101 Garner Road (peer drop-in); Wake County Detention Center 3301 Hammond Road; newspaper boxes via Illuminate NC",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines + boxes"
+  },
+  {
+    "id": "nc-durham-durham-county",
+    "name": "Durham County",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "St. Joseph's Episcopal Church; Durham County Detention Center lobby; Durham County Human Services building",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 some. Type: Vending Machines"
+  },
+  {
+    "id": "nd-public-health-units--ssps-nd-hhs--partners",
+    "name": "ND HHS + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ND HHS + NDSU ONE Program",
+      "https://www.hhs.nd.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Fargo Cass Public Health Harm Reduction Center; Any Positive Change Project Grand Forks; Foster County Public Health Carrington; First District Health Unit Minot; Mya's Mission Narcan box in Minot; 250+ ONE Boxes statewide; mail via NEXT / Grand Forks Health Dept",
+    "city": "Public health units + SSPs",
+    "state": "ND",
+    "zip": "",
+    "phone": "701-328-8920",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail + ONE Boxes"
+  },
+  {
+    "id": "oh-project-dawn-network-ohio-department-of-health",
+    "name": "Ohio Department of Health Project DAWN",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ODH official",
+      "https://odh.ohio.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "150+ active Project DAWN programs covering ~83 counties; free ORM by mail via NaloxoneOhio; interactive dashboard",
+    "city": "Project DAWN Network",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Distribution sites + mail"
+  },
+  {
+    "id": "oh-cleveland-metrohealth-project-dawn",
+    "name": "MetroHealth Project DAWN",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MetroHealth",
+      "https://www.metrohealth.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Harm Reduction Vending Machine outside MetroHealth Main Campus ED; multiple community clinics and mobile unit",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine + sites"
+  },
+  {
+    "id": "pa-pittsburgh-allegheny-county-health-d",
+    "name": "Allegheny County Health Department + Carnegie Libraries",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Allegheny County + local news",
+      "https://www.alleghenycounty.us"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Downtown 1 Smithfield St (24/7); Carnegie Library branches (Allegheny 1230 Federal St, Carrick 1811 Brownsville Rd, Downtown 612 Smithfield St, Hill District 2177 Centre Ave, Homewood 9101 Hamilton Ave, Knoxville 400 Brownsville Rd, South Side 2205 E Carson St); Focus on Renewal 420 Chartiers Ave McKees Rocks; JADE Wellness 809 Bingham St; Light of Life 234 Voeghtly St; Onala Recovery 1625 W Carson St; Penn Hills Library 1037 Stotler Rd; Positive Pathways 139 Wabash St; Tree of Life 1036 Brookline Blvd; Veterans Place 945 Washington Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 some. Type: Vending Machines + self-serve"
+  },
+  {
+    "id": "pa-philadelphia-prevention-point-philadel",
+    "name": "Prevention Point Philadelphia + city partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "UnityPhilly + city",
+      "https://ppponline.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Prevention Point main 2913 Kensington Ave; North Philly Resource Hub 200 E Wyoming Ave; West Philly Resource Hub 6006 W Girard Ave; Southwest 5457 Warrington Ave; Lucien E Blackwell West Philly Regional Library Narcan Near Me tower; multiple mobile sites",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Walk-in + mobile + tower"
+  },
+  {
+    "id": "ri-providence-aids-care-ocean-state--p",
+    "name": "AIDS Care Ocean State + Prevent Overdose RI",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Prevent Overdose RI + RIDOH",
+      "https://preventoverdoseri.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Broad Med 557 Broad St Providence; CODAC 349 Huntington Ave Providence; Kennedy Plaza 50 Kennedy Plaza Providence; Thundermist 186 Providence St West Warwick; Community Care Alliance 55 John A Cummings Way Woonsocket; RIDOC facilities Cranston; others (24/7, PIN via 401-781-0665)",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "",
+    "phone": "401-781-0665",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "ri-recovery-centers--harm-reduction-ridoh--prevent-over",
+    "name": "RIDOH / Prevent Overdose RI",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RIDOH",
+      "https://preventoverdoseri.org/get-naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Project Weber/RENEW, Anchor Recovery, Community Care Alliance, etc.; free mail via Prevent Overdose RI",
+    "city": "Recovery centers + harm reduction",
+    "state": "RI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "sc-columbia-innovative-solutions--ci",
+    "name": "Innovative Solutions + City of Columbia",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WLTX + WIS"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "COMET Transit Center 1745 Sumter Street (data-driven, free naloxone + FTS)",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Smart Vending Machine"
+  },
+  {
+    "id": "sc-north-charleston-charleston-county-sheriff",
+    "name": "Charleston County Sheriff\u2019s Office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Live5News"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Al Cannon Detention Center / Jail lobby 3841 Leeds Ave (24/7 free); purple stands at 3691 Leeds Ave and Positive Vibes 3355 Rivers Ave; rotating stands",
+    "city": "North Charleston",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 machine. Type: Vending Machine + stands"
+  },
+  {
+    "id": "sd-eagle-butte-emily-s-hope--partners",
+    "name": "Emily's Hope + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers + Emily's Hope",
+      "https://emilyshope.charity"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Naloxone Pods in Eagle Butte (gas station/thrift), Timber Lake (laundromat), Faulkton, Milbank (Grant County Courthouse), Mitchell (Dakota Wesleyan / Shell), Belle Fourche City Hall, Newell Post Office, Lake Andes, etc.; Emily's Hope distribution boxes statewide",
+    "city": "Eagle Butte",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / some 24/7. Type: Naloxone Pods / Boxes"
   }
 ]
