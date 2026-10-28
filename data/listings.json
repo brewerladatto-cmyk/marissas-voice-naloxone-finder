@@ -2346,5 +2346,366 @@
     "zip": "",
     "phone": "",
     "notes": "Active expanding. Hours: 24/7 many. Type: Barney Boxes + shipping. Mix urban/rural"
+  },
+  {
+    "id": "al-birmingham-jefferson-county-departme",
+    "name": "Jefferson County Department of Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "JCDH official list"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple sites (Central, Eastern, Western, libraries, transit, churches, etc.)",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - many community boxes. Hours: Varies. Type: Community Boxes / Kiosks"
+  },
+  {
+    "id": "al-mobile-mobile-county-health-depa",
+    "name": "Mobile County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news + MCHD"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Vista Medical, B-Bob\u2019s Bar, Shell Health, Semmes Pharmacy, WIC Citronelle",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active multi-purpose kiosks. Hours: Varies. Type: Vending Machines / Kiosks"
+  },
+  {
+    "id": "ak-multiple-rural-anthc-wellness-vending-ma",
+    "name": "ANTHC Wellness Vending Machines",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KUCB / ANTHC reports"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Unalaska, Anchorage, Fairbanks, Seward, Juneau, Ketchikan, Talkeetna, Kenai, Metlakatla, Naknek, Kotzebue, etc.",
+    "city": "Multiple rural",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding network. Hours: 24/7 many. Type: Vending Machines"
+  },
+  {
+    "id": "az-cottonwood-northern-arizona-healthca",
+    "name": "Northern Arizona Healthcare / YCCHS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NAH official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Verde Valley Medical Center ED exterior",
+    "city": "Cottonwood",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "az-phoenix-community-health-centers",
+    "name": "Community Health Centers (Valle del Sol, Terros, Adelante, Circle the City, etc.)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "AACHC report"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple clinic sites",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: During clinic hours / some extended. Type: Vending Machines"
+  },
+  {
+    "id": "ar-little-rock-ua-little-rock--central",
+    "name": "UA Little Rock / Central AR Harm Reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "UALR news + RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Donaghey Student Center Wellness Vending; CAHRP drop-in",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Building hours. Type: Vending Machine + Drop-in"
+  },
+  {
+    "id": "ar-fayetteville-university-of-arkansas-pa",
+    "name": "University of Arkansas Pat Walker Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "UARK official"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "SE entrance, Maple & Garland",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine (Med Kwik)"
+  },
+  {
+    "id": "ca-san-diego-san-diego-county",
+    "name": "San Diego County",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "County + RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple county sites (PIN may be required after short training)",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Many 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "ca-various-county-health--local-pro",
+    "name": "County Health / Local Programs",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Multiple county reports"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "San Rafael, Santa Rosa, Petaluma, Salinas, Grass Valley, Davis, Woodland, Stockton, Hoopa, etc.",
+    "city": "Various",
+    "state": "CA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active various. Hours: Many 24/7. Type: Vending Machines / Boxes"
+  },
+  {
+    "id": "co-denver-the-naloxone-project--dp",
+    "name": "The Naloxone Project / DPD / Colorado Coalition for the Homeless",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Denver Post + project"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2130 Stout St.; DPD stations (Holly, Washington, Cherokee)",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - thousands distributed. Hours: 24/7 many. Type: Vending Machines"
+  },
+  {
+    "id": "co-grand-junction-mesa-county-public-health",
+    "name": "Mesa County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MCPH / local news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "12+ sites (libraries, clinics, CMU, justice centers, etc.)",
+    "city": "Grand Junction",
+    "state": "CO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: 24/7. Type: Kiosks"
+  },
+  {
+    "id": "ct-all-dmhas--next-distro--loc",
+    "name": "DMHAS / NEXT Distro / Local Harm Reduction",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DMHAS / NEXT",
+      "https://nextdistro.org/connecticut"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Online / SSP sites",
+    "city": "All",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: SSPs + Mail-Order + Boxes"
+  },
+  {
+    "id": "ct-new-london-nlc-cares--overdose-acti",
+    "name": "NLC CARES / Overdose Action Team",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NBC CT / local"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Fire houses, LLHD office, and expanding sites",
+    "city": "New London",
+    "state": "CT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding to 17+. Hours: 24/7 many. Type: Unlocked Boxes"
+  },
+  {
+    "id": "fl-deland-foundations-to-freedom",
+    "name": "Foundations to Freedom",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news + RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Main office DeLand + Grocery Box Ormond Beach",
+    "city": "DeLand",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active 24/7. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "fl-new-port-richey-doh-pasco",
+    "name": "DOH-Pasco",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DOH-Pasco press",
+      "https://pasco.floridahealth.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "All Ways Center (first); planned Jail, Life Church, BayCare",
+    "city": "New Port Richey",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "notes": "First machine active; more planned. Hours: Varies. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "id-mccall-central-district-health",
+    "name": "Central District Health / Ignite Idaho / St. Luke\u2019s",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CDH + local",
+      "https://cdh.idaho.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "McCall St. Luke\u2019s ED; Cascade Food Pantry; Ignite Idaho Resource Center",
+    "city": "McCall",
+    "state": "ID",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 some. Type: Vending + Barney Boxes"
+  },
+  {
+    "id": "il-chicago-chicago-dph--cook-county",
+    "name": "Chicago DPH + Cook County Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CDPH / CCH official",
+      "https://cookcountyhealth.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Harold Washington Library, Uptown Library, Garfield Community Center, Roseland, Stroger Hospital lobby, CORE Center, Provident, courthouses, CTA stations (some 24/7 PIN 1234)",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 some. Type: Vending Machines"
+  },
+  {
+    "id": "il-elgin-kane-county-health--kenn",
+    "name": "Kane County Health + Kenneth Young Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Kane CHD + Shaw Local",
+      "https://www.kanehealth.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple court services, libraries, sheriff lobby, transportation center",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active expanding. Hours: Varies. Type: Dispensing Boxes + Machines"
+  },
+  {
+    "id": "in-all-counties-500-naloxboxes-overdose-lifeline--idoh",
+    "name": "Overdose Lifeline + IDOH",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Overdose Lifeline + IDOH",
+      "https://www.overdoselifeline.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Statewide map via Overdose Lifeline; 19+ vending machines at jails/hospitals/libraries",
+    "city": "All counties (500+ NaloxBoxes)",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active large network. Hours: 24/7 many boxes. Type: NaloxBoxes + Vending Machines"
+  },
+  {
+    "id": "in-gary-gary-health-department",
+    "name": "Gary Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Gary HD press",
+      "https://www.gary.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Adam Benjamin Metro Center, Miller K Market, IU Northwest, Gary Harm Reduction",
+    "city": "Gary",
+    "state": "IN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active 4 machines. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ia-multiple-216-sites-iowa-hhs-naloxone-nasal-s",
+    "name": "Iowa HHS Naloxone Nasal Spray Distribution Initiative",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Iowa HHS official",
+      "https://hhs.iowa.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "HHS lists 216+ distribution sites (ABBE Iowa City, ADDS Burlington, ASAC Cedar Rapids/Dubuque, All Care Council Bluffs, etc.)",
+    "city": "Multiple (216+ sites)",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational + walk-in sites"
+  },
+  {
+    "id": "ia-iowa-city-johnson-county-public-hea",
+    "name": "Johnson County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Johnson County + local news",
+      "https://johnsoncountyiowa.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Coralville Public Library; North Liberty Library; The Deadwood Iowa City; outside Johnson County HHS",
+    "city": "Iowa City",
+    "state": "IA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - 587+ units dispensed. Hours: Varies. Type: Harm Reduction Vending Machines"
   }
 ]
