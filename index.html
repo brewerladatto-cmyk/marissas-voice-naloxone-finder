@@ -8,6 +8,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <style>
 :root {
   --purple: #4A1C6B;
@@ -236,6 +238,35 @@ header::before {
   background: white;
 }
 
+.view-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1.2rem 0 0.5rem;
+}
+.view-toggle button {
+  background: var(--lavender);
+  color: var(--text);
+  border: 1.5px solid transparent;
+  padding: 0.45rem 1rem;
+  border-radius: 999px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+.view-toggle button.active {
+  background: var(--purple);
+  color: white;
+}
+
+#map {
+  height: 480px;
+  width: 100%;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 1.5rem;
+  background: #e8e4ef;
+}
+
 .stats {
   margin: 1.6rem 0 1rem;
   font-size: 0.98rem;
@@ -375,6 +406,7 @@ footer a:hover { text-decoration: underline; }
   .card { padding: 1.1rem 1.15rem; }
   .hero-banner { margin: 1rem auto 1.5rem; }
   .share-buttons { margin-left: 0; margin-top: 0.5rem; }
+  #map { height: 360px; }
 }
 </style>
 </head>
@@ -422,6 +454,12 @@ footer a:hover { text-decoration: underline; }
     </div>
   </div>
 
+  <div class="view-toggle">
+    <button type="button" id="listViewBtn" class="active">List</button>
+    <button type="button" id="mapViewBtn">Map</button>
+  </div>
+
+  <div id="map" style="display:none;"></div>
   <div class="stats" id="stats">Loading listings…</div>
   <div class="results" id="results"></div>
 </div>
@@ -442,6 +480,7 @@ footer a:hover { text-decoration: underline; }
     <p class="disclaimer">
       Listings are gathered from public sources, can change without notice, and appear here for reference only.
       This is not medical advice or an endorsement. Helplines are run by the organizations named on each listing.
+      Map pins use provided coordinates where available; verify details before traveling.
     </p>
   </div>
 </footer>
@@ -450,14 +489,44 @@ footer a:hover { text-decoration: underline; }
 const DATA_URL = 'data/listings.json';
 let all = [];
 let activeCat = '';
+let map = null;
+let markers = [];
+let currentView = 'list';
 
 async function load() {
   try {
     const res = await fetch(DATA_URL);
     all = await res.json();
+    initMap();
     render();
   } catch (e) {
     document.getElementById('stats').textContent = 'Could not load listings. Please try again later.';
+  }
+}
+
+function initMap() {
+  if (map) return;
+  map = L.map('map').setView([31.0, -97.0], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 18
+  }).addTo(map);
+}
+
+function updateMap(filtered) {
+  if (!map) return;
+  markers.forEach(m => map.removeLayer(m));
+  markers = [];
+  const withCoords = filtered.filter(item => item.coordinates && typeof item.coordinates.lat === 'number' && typeof item.coordinates.lng === 'number');
+  withCoords.forEach(item => {
+    const marker = L.marker([item.coordinates.lat, item.coordinates.lng]).addTo(map);
+    const popup = `<strong>${escapeHtml(item.name)}</strong><br>${escapeHtml(item.city || '')}, ${escapeHtml(item.state || '')}<br>${escapeHtml(item.notes || '').slice(0, 180)}…`;
+    marker.bindPopup(popup);
+    markers.push(marker);
+  });
+  if (withCoords.length) {
+    const group = L.featureGroup(markers);
+    map.fitBounds(group.getBounds().pad(0.2));
   }
 }
 
@@ -478,10 +547,22 @@ function render() {
   });
 
   const verified = filtered.filter(i => i.verification === 'verified').length;
+  const mapped = filtered.filter(i => i.coordinates).length;
   document.getElementById('stats').innerHTML =
-    `<strong>${filtered.length}</strong> listings · <strong>${verified}</strong> verified`;
+    `<strong>${filtered.length}</strong> listings · <strong>${verified}</strong> verified · <strong>${mapped}</strong> on map`;
+
+  updateMap(filtered);
 
   const el = document.getElementById('results');
+  if (currentView === 'map') {
+    el.style.display = 'none';
+    document.getElementById('map').style.display = 'block';
+    if (map) map.invalidateSize();
+    return;
+  }
+  document.getElementById('map').style.display = 'none';
+  el.style.display = 'grid';
+
   if (!filtered.length) {
     el.innerHTML = '<div class="empty">No matches. Try a different search or filter.</div>';
     return;
@@ -522,7 +603,7 @@ function render() {
 }
 
 function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]));
 }
 
 function setupShareButtons() {
@@ -541,6 +622,19 @@ document.getElementById('filters').onclick = e => {
   document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
   e.target.classList.add('active');
   activeCat = e.target.dataset.cat || '';
+  render();
+};
+
+document.getElementById('listViewBtn').onclick = () => {
+  currentView = 'list';
+  document.getElementById('listViewBtn').classList.add('active');
+  document.getElementById('mapViewBtn').classList.remove('active');
+  render();
+};
+document.getElementById('mapViewBtn').onclick = () => {
+  currentView = 'map';
+  document.getElementById('mapViewBtn').classList.add('active');
+  document.getElementById('listViewBtn').classList.remove('active');
   render();
 };
 
