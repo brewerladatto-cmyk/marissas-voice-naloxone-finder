@@ -303,5 +303,90 @@
     "phone": "(817) 757-7555",
     "coordinates": { "lat": 32.740, "lng": -97.820 },
     "notes": "Free naloxone (Narcan) dispenser inside the clinic (Conscience Conduit-style unit). Available during business hours. Serves Weatherford / Parker County area. Call ahead to confirm stock and access."
+  },
+  {
+    "id": "mn-minneapolis-fs21-vending",
+    "name": "Minneapolis Fire Station 21 NARCAN Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.minneapolismn.gov/news/2025/july/narcan-vending/",
+      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "3209 38th St E (outside Fire Station 21)",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55406",
+    "coordinates": { "lat": 44.938, "lng": -93.226 },
+    "notes": "Free anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 21. City Health Department program; no questions asked. One of four city fire-station machines."
+  },
+  {
+    "id": "mn-minneapolis-fs14-vending",
+    "name": "Minneapolis Fire Station 14 NARCAN Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.minneapolismn.gov/news/2025/may/northside-narcan/",
+      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2002 Lowry Ave N (outside Fire Station 14)",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55411",
+    "coordinates": { "lat": 45.013, "lng": -93.308 },
+    "notes": "Free anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 14 (Northside). City Health Department program."
+  },
+  {
+    "id": "il-chicago-hwl-vending",
+    "name": "Chicago Harold Washington Library Public Health Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.chicago.gov/content/dam/city/depts/cdph/behavioral-health/vending-machine/Public-Health-Vending-Machine-Brief-Dec-2025-ax.tt.cr.em.pdf",
+      "https://www.transitchicago.com/naloxone/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "400 S State St, 3rd floor (Harold Washington Library)",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60605",
+    "coordinates": { "lat": 41.876, "lng": -87.628 },
+    "notes": "Free public health vending machine with naloxone (Narcan). CDPH program; enter 1234 for naloxone. Also available at other CDPH and CTA locations citywide."
+  },
+  {
+    "id": "ny-staten-island-chance-in-life-vending",
+    "name": "Staten Island A Chance in Life Public Health Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.nyc.gov/mayors-office/news/2026/06/mayor-mamdani-opens-city-s-first-public-health-vending-machines-",
+      "https://www.silive.com/health/2026/06/free-overdose-kits-now-available-at-vending-machines-on-staten-island-alongside-other-health-supplies.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1100 Castleton Ave (A Chance in Life / The Village)",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10310",
+    "coordinates": { "lat": 40.632, "lng": -74.132 },
+    "notes": "Free 24/7 public health vending machine with naloxone and other supplies. NYC Health Department program (Staten Island expansion, June 2026). Enter NYC ZIP code to access."
+  },
+  {
+    "id": "ma-boston-codman-square-vending",
+    "name": "Codman Square Health Center Public Health Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.boston.gov/news/public-health-vending-machines-and-naloxone-access-points-announced-across-boston",
+      "https://hoodline.com/2026/08/dorchester-health-center-debuts-free-vending-machine-stocked-with-narcan-socks/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "637 Washington St (outside Codman Square Health Center)",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02124",
+    "coordinates": { "lat": 42.287, "lng": -71.073 },
+    "notes": "Free public health vending machine with naloxone (Narcan) and other supplies. Boston Public Health Commission / OD2A program. Enter ZIP code for access; 24/7 outdoor unit."
   }
 ]
