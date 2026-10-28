@@ -1,1 +1,71 @@
-PLACEHOLDER_WILL_BE_REPLACED_BY_SYSTEM_WITH_FULL_JSON
+[
+  {
+    "id": "tx-woodville-icon-vape-nation",
+    "name": "UT Health Houston ICON / Vape Nation Store Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.easttexasnews.com/stories/narcan-vending-machine-installed-in-woodville,35988",
+      "https://www.ktre.com/2025/04/29/ut-health-installs-free-narcan-vending-machine-tyler-county/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "523 South Magnolia Street (outside Vape Nation Store)",
+    "city": "Woodville",
+    "state": "TX",
+    "zip": "75979",
+    "notes": "Free anonymous 24/7 naloxone vending machine. Rural East Texas (Tyler County). Provided through UT Health Houston ICON program. Call ahead or check source; availability can change."
+  },
+  {
+    "id": "tx-longview-etcada-vending",
+    "name": "East Texas Council on Alcoholism and Drug Abuse (ETCADA) Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/",
+      "https://news-journal.com/2026/04/04/naloxone-vending-machine-in-longview-offers-free-overdose-reversing-drug/",
+      "https://www.cbs19.tv/article/news/local/free-naloxone-vending-machine-opens-expanding-access-overdose-reversing-medication-in-east-texas/501-1474ef42-bba0-4110-9482-1e16f4a317e1"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "708 Glencrest Lane (outside office)",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "75601",
+    "phone": "(903) 753-7633",
+    "notes": "Free 24/7 naloxone vending machine outside ETCADA. Official Naloxone Texas regional hub for East Texas (serves ~23\u201335 rural counties). Dispensed 150+ containers in first month of operation. No ID or payment required."
+  },
+  {
+    "id": "tx-new-boston-heartstart-vending",
+    "name": "Heartstart Heroes / Naloxone Texas Vending (Smokin Joker)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.heartstartheroes.com/Free-Naloxone-Access-Northeast-Texas.html",
+      "https://www.ksla.com/2026/05/11/narcan-vending-machines-offer-free-overdose-treatment-texarkana/",
+      "https://www.ktbs.com/news/texarkana/new-narcan-vending-machines-set-up-in-bowie-county/article_48065b02-d1e4-4d5e-8235-31e1c51b608d.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "303 E Hoskins St (corner of East Hoskins Street and North Center Street)",
+    "city": "New Boston",
+    "state": "TX",
+    "zip": "75570",
+    "notes": "Free naloxone vending machine at Smokin Joker convenience store. Installed April 2026 via Heartstart Heroes and Naloxone Texas / UT Health San Antonio. 24/7 access. Serves rural Bowie County area."
+  },
+  {
+    "id": "tx-texarkana-randy-sams-vending",
+    "name": "Randy Sams\u2019 Outreach Center / Heartstart Heroes Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.heartstartheroes.com/Free-Naloxone-Access-Northeast-Texas.html",
+      "https://www.ksla.com/2026/05/11/narcan-vending-machines-offer-free-overdose-treatment-texarkana/",
+      "https://randysams.org/contact-us"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "402 Oak Street (lobby of Randy Sams\u2019 Outreach Center)",
+    "city": "Texarkana",
+    "state": "TX",
+    "zip": "75501",
+    "phone": "(903) 792-7024",
+    "notes": "Free naloxone vending machine in the lobby. Installed April 2026 via Heartstart Heroes and Naloxone Texas. ADA-accessible. Serves surrounding rural East Texas communities. Call ahead for current stock."
+  }
+]
