@@ -267,5 +267,41 @@
     "phone": "(214) 470-2225",
     "coordinates": { "lat": 32.8045, "lng": -96.7785 },
     "notes": "Volunteer-run free naloxone, fentanyl test strips, and overdose education. Call (214) 470-2225 for current drop hours and availability (hours can vary). No cost."
+  },
+  {
+    "id": "tx-weatherford-unity-recovery-vending",
+    "name": "Unity Recovery Weatherford RCC Naloxone Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://naloxonetexas.com/regional-hubs/",
+      "https://unityrecovery.org/weatherford",
+      "https://www.facebook.com/UnityRCO/posts/new-signs-and-a-new-community-naloxone-vending-machine-that-is-available-for-fre/1114434014209873/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1704 Santa Fe Drive, Suite 200",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76086",
+    "phone": "(817) 550-6188",
+    "coordinates": { "lat": 32.759, "lng": -97.797 },
+    "notes": "Free anonymous 24/7 naloxone vending machine at Unity Recovery\u2019s Weatherford Recovery Community Center. Official Naloxone Texas regional hub for Region 3 (Tarrant County and surrounding western DFW counties). No ID or payment required. Also offers peer support and training."
+  },
+  {
+    "id": "tx-weatherford-ntace-dispenser",
+    "name": "North Texas Addiction Counseling & Education Free Naloxone Dispenser",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.weatherforddemocrat.com/news/nonprofit-coalition-places-free-narcam-anti-seizure-med-vending-machines-in-texas-one-in-weatherford/article_a4ac3349-9cc8-42da-9cda-95c2b7f63911.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1506 Mineral Wells Highway",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76086",
+    "phone": "(817) 757-7555",
+    "coordinates": { "lat": 32.740, "lng": -97.820 },
+    "notes": "Free naloxone (Narcan) dispenser inside the clinic (Conscience Conduit-style unit). Available during business hours. Serves Weatherford / Parker County area. Call ahead to confirm stock and access."
   }
 ]
