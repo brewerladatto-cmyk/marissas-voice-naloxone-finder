@@ -6228,5 +6228,204 @@
     "zip": "",
     "phone": "",
     "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): San Diego County OD2A page lists Pala Reservation naloxone vending machine (34884 Lilac Extension Rd, 24/7); 10News (4/2023) places it at Pala Fire Department, free kits. County page undated; address match to fire dept is inferred.. Hours: 24/7. Type: Naloxone Vending Machine. Tribal program"
+  },
+  {
+    "id": "wa-seattle-king-county-public-health",
+    "name": "King County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "King County",
+      "https://kingcounty.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Peer Seattle 1520 Bellevue Ave Suite 100; Peer Kent 216 W Gowe St Suite 300; Maleng Regional Justice Center 620 W James St 2nd Floor Kent (and others)",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "wa-all-wa-doh-naloxone-finder",
+    "name": "WA DOH Naloxone Finder + mail",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WA DOH",
+      "https://doh.wa.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Statewide map of free sites including boxes/vending; free mail available",
+    "city": "All",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Interactive locator + mail"
+  },
+  {
+    "id": "wv-morgantown-vandalia-health",
+    "name": "Vandalia Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "My Buckhannon"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Public boxes at hospital entrances: Mon Medical Center Morgantown; Mon Marion Neighborhood Hospital White Hall; Mon Preston Memorial Hospital Kingwood; Mon Stonewall Jackson Memorial Hospital Weston",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Distribution Boxes"
+  },
+  {
+    "id": "wv-charleston-soar-wv",
+    "name": "SOAR WV",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WV Gazette-Mail; https://wvpublic.org/story/health-science/advocates-celebrate-first-year-of-narcan-vending-machine/",
+      "https://soarwv.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Unitarian Universalist Congregation; Women\u2019s Health Center on Washington St West; Living AIDS Memorial Garden on Washington St East (and more planned)",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): WV Public (4/2024): SOAR WV newspaper-style box at a Charleston west side church, unlocked, free Narcan; Women's Health Center has a Narcan vending machine. Memorial Garden site and 2025-26 status not confirmed; soarwv.org unreachable.. Hours: Varies. Type: Newspaper-style boxes"
+  },
+  {
+    "id": "us-reservation-communities-vinita-start-cherokee-nation",
+    "name": "Cherokee Nation Behavioral Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Anadisgoi + Claremore Progress; https://www.kgou.org/health/2026-06-30/more-people-sick-or-dying-after-five-years-of-sterile-syringe-distributions-harm-reduction-law-set-to-expire; https://anadisgoi.com/index.php/government-stories/harm-reduction-is-a-key-tool-for-healing-addiction-and-restoring-communities"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Mobile van providing free naloxone, syringe services, wound care to tribal and non-tribal residents on reservation (launched Vinita 2023; expanding)",
+    "city": "Reservation communities (Vinita start)",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Cherokee Nation harm reduction program active: 20,000+ Narcan doses distributed (KGOU 6/30/2026), weekly mobile outreach (Anadisgoi 3/2025). Van not named in recent sources; Oklahoma harm reduction law sunset 7/1/2026 may affect syringe services.. Hours: Mobile schedule. Type: Harm Reduction Mobile Van. Tribal program"
+  },
+  {
+    "id": "us-stigler-choctaw-nation-health",
+    "name": "Choctaw Nation Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://biskinik.com/news/new-vending-machines-offer-access-to-lifesaving-naloxone-and-fentanyl-tests/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Stigler and McAlester health clinics (around-the-clock access; open to community regardless of tribal affiliation)",
+    "city": "Stigler",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Choctaw Nation's Biskinik (Sept 1, 2026): vending machines at McAlester and Stigler clinics, 24-hour access, free naloxone and fentanyl test strips, open to community regardless of tribal affiliation. Machines are state-stocked.. Hours: 24/7. Type: Vending Machines. Tribal program"
+  },
+  {
+    "id": "us-multiple-nashville-area-tribes-ihs-nashville-area",
+    "name": "IHS Nashville Area",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HigherGov contract notice; https://app.govly.com/public/opportunities/16863166; https://samsearch.co/gov-explore/federal/naloxone-vending-machines-delivery-and-set-up/75H71526Q00029"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Approximately 10 machines to be distributed to key public hubs supporting Nashville Area Tribes (BPA for manufacturing/delivery; indoor/outdoor capable)",
+    "city": "Multiple Nashville Area Tribes",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Planned / in process | Re-verified 2026-10-28 (PARTIAL): Federal solicitation (posted 7/24/2026, responses due 8/17/2026) seeks about 10 naloxone vending machines with install within 4 months of order; no award listed. Still planned, not operating.. Hours: 24/7 planned. Type: Naloxone Vending Machines (planned). Tribal program"
+  },
+  {
+    "id": "fl-county-health-depts--cabinets-florida-doh--dcf-overd",
+    "name": "Florida DOH / DCF Overdose Prevention",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "DOH official + local news",
+      "https://www.floridahealth.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "All 67 CHD offices; Bradford County cabinets (Starke, Hampton); Citrus County proposed 19 cabinets (libraries, fire stations); Monroe Keys distribution",
+    "city": "County health depts + cabinets",
+    "state": "FL",
+    "zip": "",
+    "phone": "",
+    "notes": "Active statewide CHD. Hours: Varies / 24/7 some cabinets. Type: Walk-in + Cabinets"
+  },
+  {
+    "id": "ga-multiple-counties-georgia-overdose-preventi",
+    "name": "Georgia Overdose Prevention map",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "GOP + local news",
+      "https://ganaloxone.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "121+ sites on GaNaloxone.com; Macon Recovers boxes; North Central HD machines in Macon-Bibb & Houston County; rural Care Stations (Statesboro, Vidalia)",
+    "city": "Multiple counties",
+    "state": "GA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active network. Hours: Many 24/7. Type: Boxes + Vending"
+  },
+  {
+    "id": "ga-covington-newton-county-so--gnr-he",
+    "name": "Newton County SO / GNR Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "FOX 5 / AJC"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Detention Center (24/7) + West Side Precinct; Rockdale SO machines",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 some. Type: Vending Machines"
+  },
+  {
+    "id": "hi-hilo-hhhrc--bisac--hift",
+    "name": "HHHRC + BISAC + HIFT",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HHHRC + HIFT",
+      "https://www.hhhrc.org/naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Hilo YMCA, BISAC (some 24/7); rural hubs Kohala Resilience, Tutu\u2019s House Kamuela, H\u0101m\u0101kua-Kohala Health Honoka\u02bba",
+    "city": "Hilo",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 some. Type: Vending + Hubs"
+  },
+  {
+    "id": "hi-outer-islands-hhhrc-mail--partners",
+    "name": "HHHRC mail + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "HHHRC",
+      "https://www.hhhrc.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Mail-based for Kauai, Lanai, Molokai residents",
+    "city": "Outer islands",
+    "state": "HI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active mail. Hours: Mail. Type: Mail-Order primary"
   }
 ]
