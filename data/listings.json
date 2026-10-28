@@ -5917,5 +5917,316 @@
     "zip": "",
     "phone": "",
     "notes": "Active. Hours: Varies. Type: Vending + Walk-in"
+  },
+  {
+    "id": "tx-longview-etcada",
+    "name": "ETCADA",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Longview News-Journal",
+      "https://naloxonetexas.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside ETCADA office 708 Glencrest Lane (first in Gregg County; covers 35 East Texas counties)",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "pa-multiple-cmsu-behavioral-health",
+    "name": "CMSU Behavioral Health & Developmental Services",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Daily Item; https://www.dailyitem.com/news/cmsu-rolling-out-naloxone-newsstands-in-five-county-area/article_bc389008-9a59-4f91-918a-c6aaa0707a71.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Geisinger Bloomsburg Hospital (Columbia); Geisinger Medical Center (Montour); Geisinger Shamokin Area Community Hospital (Northumberland); Snyder County Adult Probation Office foyer 2nd floor Snyder County Courthouse Middleburg; Union County Courthouse Lewisburg (pending)",
+    "city": "Multiple",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Daily Item 3/12/2026: CMSU newsstands with free naloxone at Geisinger Bloomsburg, Geisinger Medical Center, Shamokin hospital and Snyder Courthouse (2nd floor); Union Courthouse still pending. Hours not stated. Single news source.. Hours: Varies. Type: Naloxone Newsstands"
+  },
+  {
+    "id": "tx-woodville-uthealth-houston-icon",
+    "name": "UTHealth Houston ICON",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KTRE; https://www.ktre.com/2025/04/29/ut-health-installs-free-narcan-vending-machine-tyler-county/; https://www.easttexasnews.com/stories/narcan-vending-machine-installed-in-woodville",
+      "35988"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "523 South Magnolia Street, outside Vape Nation Store, Woodville (24/7 free)",
+    "city": "Woodville",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): KTRE (Apr 2025) reports UT Health's free NARCAN machine outside Vape Nation, 523 S Magnolia, Woodville, available 24 hours; East Texas News (Apr 2025) confirms the address and public use. No 2026 source found.. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ut-all-utah-naloxone--next-dist",
+    "name": "Utah Naloxone + NEXT Distro",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Utah Naloxone + NEXT"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free mail to any Utah address after short training",
+    "city": "All",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mail. Type: Mail-order"
+  },
+  {
+    "id": "va-all-vdh--dbhds--next-distro",
+    "name": "VDH / DBHDS + NEXT Distro / Chris Atwood Foundation",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VDH + NEXT"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free at local health departments and harm reduction programs; free mail to any Virginia address",
+    "city": "All",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "nc-multiple-small-towns-rural-phvms-ecu-led-proj",
+    "name": "Rural PHVMs (ECU-led project)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ECU News + Harm Reduction Journal; https://www.researchprotocols.org/2025/1/e64913"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Community-informed machines in six rural counties (example: Carteret Community College student center); free naloxone + other supplies, 24/7 preferred",
+    "city": "Multiple small towns",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): ECU protocol (2025) names FIVE counties (Carteret, Jackson, Surry, Stanly, Swain; not Cabarrus) and describes machines as planned; no installed sites or Carteret CC location confirmed.. Hours: 24/7 preferred. Type: Public Health Vending Machines"
+  },
+  {
+    "id": "mt-missoula-multiple-local--cskt-tri",
+    "name": "Multiple local + CSKT Tribal",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Montana Free Press + RehabSeekers + KPAX"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Missoula: Mountain Line Transfer Center 200 W Pine St (24/7 outdoor); Missoula Food Bank 1720 Wyoming St; Helena machines at Law and Justice Center and drop-in centers; Hardin H.O.P.E. recovery center kiosk; HRDC Warming Centers Bozeman & Livingston; CSKT Tribal Health machines in Pablo, Polson, St. Ignatius (expanding to Elmo, Hot Springs)",
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / many 24/7. Type: Vending Machines / Kiosks"
+  },
+  {
+    "id": "ak-seward-anthc-community-health-ve",
+    "name": "ANTHC Community Health Vending Machines + Project HOPE",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KUCB + ANTHC + Alaska DOH",
+      "https://anthc.org/chvm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "ANTHC outdoor kiosks in Unalaska (Grand Aleutian Hotel), Seward, Kotzebue, Naknek, Talkeetna, Metlakatla, Kenai and more; Project HOPE kits via public health nursing, tribal orgs, and mail through iknowmine.org",
+    "city": "Seward",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 preferred. Type: Vending Machines + Kits"
+  },
+  {
+    "id": "nm-espa\u00f1ola-rio-arriba-county--orcnm",
+    "name": "Rio Arriba County + ORCNM",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Santa Fe New Mexican + Cibola Citizen; https://www.santafenewmexican.com/news/local_news/naloxone-vending-machines-may-be-tied-to-declining-overdose-rates-in-rio-arriba-county/article_e225ac7a-65c3-4073-a238-7478e6acf354.html; https://www.cibolacitizen.com/node/11201; https://www.riograndesun.com/?p=98828"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Rio Arriba: 34 machines/boxes placed since Oct 2025 (e.g. El Moreno Minimarket, Starbucks, Food King in Espanola; Tierra Amarilla Courthouse); Cibola County: Grants Public Library, Milan Village Hall, Smith's Strip Mall, Bluewater Village Fire Station",
+    "city": "Espa\u00f1ola",
+    "state": "NM",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Santa Fe New Mexican 6/5/2026: Rio Arriba program active, 34 machines placed since Oct 2025 incl El Moreno Minimarket (Espana), Tierra Amarilla. Cibola: ORCNM release lists the 4 sites (undated). 24/7 hours not stated in sources; '19+' is outdated.. Hours: 24/7. Type: Naloxboxes"
+  },
+  {
+    "id": "az-flagstaff-coconino-hhs--northern-a",
+    "name": "Coconino HHS + Northern Arizona Healthcare + Yavapai",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "AZ Family + RehabSeekers; https://www.coconino.az.gov/VendingMachine; https://www.nahealth.com/nah-installs-harm-reduction-vending-machine-at-verde-valley-medical-center/",
+      "https://www.coconino.az.gov/VendingMachine"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Flagstaff: CCHHS lobby, 2625 N King St (M-F 8am-5pm, closed holidays) + Flagstaff Medical Center machine near main ED entrance; Cottonwood: Verde Valley Medical Center, 269 S Candy Ln, outside ED (24/7)",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): County page: free naloxone machine in CCHHS Flagstaff lobby (M-F 8-5) and at Flagstaff Medical Center ED; NAH (10/27/2025): Verde Valley Med Center machine, 269 S Candy Ln, open 24h. Machines not tied to a single clinic eligibility.. Hours: Varies / Cottonwood 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "ky-jackson-county-health-depts--tur",
+    "name": "County health depts + Turning Point",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Breathitt HD Facebook + WKYT + KBSI; https://www.wkyt.com/2026/08/05/cynthiana-police-health-department-install-11-community-naloxone-boxes-harrison-county/; https://findnaloxone.ky.gov/Pages/index.aspx; https://www.kbsi23.com/news/narcan-distribution-stands-now-available-throughout-western-ky/",
+      "https://findnaloxone.ky.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Breathitt: Altro Church of God 14260 State Hwy 1110 Jackson; Rousseau VFD 9421 Hwy 30 E Noctor; Dex Mini Mart 9719 KY-30 Jackson and others; Harrison County 11 boxes (e.g. WEDCO 364 Oddville Ave Cynthiana, Harrison Memorial Hospital ED vestibule); western KY stands in Ballard, Calloway, Graves, McCracken and other counties via Turning Point",
+    "city": "Jackson",
+    "state": "KY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): WKYT 8/5/2026: Harrison County installed 11 free 24/7 boxes (WEDCO 364 Oddville Ave, hospital ED vestibule confirmed); findnaloxone.ky.gov live. Breathitt addresses and Turning Point stands (KBSI 2023, no addresses) not re-confirmed.. Hours: Varies / many 24/7. Type: Distribution Boxes"
+  },
+  {
+    "id": "wv-branchland-lincoln-county-outreach",
+    "name": "Lincoln County Outreach + Wise Path",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers + WAJR; https://www.herald-dispatch.com/news/narcan-dispensing-machine-placed-in-lincoln-county/article_d31e70e7-ec5d-4baf-9f9d-bf0872ea17f1.html; https://wajr.com/first-naloxone-vending-machine-in-the-state-moved-to-24-7-access-location/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "McClellan's Convenience Store Branchland (Lincoln County); Wise Path Recovery Center 900 Fairmont Road Morgantown (24/7 vestibule)",
+    "city": "Branchland",
+    "state": "WV",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Herald-Dispatch (Jul 2025, updated Aug 2026) confirms Lincoln County Community Outreach machine at McClellan's, Branchland. WAJR (Apr 2024) confirms Wise Path 900 Fairmont Rd vestibule, 24/7. Cost and Branchland hours not stated; no 2025-26 Wise Path source.. Hours: Varies / Morgantown 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "us-fort-washakie-area-eastern-shoshone-tribal-h",
+    "name": "Eastern Shoshone Tribal Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Wyoming Public Media"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Tribal Health office + Rocky Mountain Hall (community center, open all day)",
+    "city": "Fort Washakie area",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / community center extended. Type: Harm Reduction Vending Machines. Tribal program"
+  },
+  {
+    "id": "us-shawnee-cpn-medical-education",
+    "name": "CPN Medical Education",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Potawatomi.org; https://www.potawatomi.org/?p=51142; https://www.nativeoklahoma.us/machines-dispense-lifesaving-medication/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "FireLake Discount Foods; FireLake Entertainment Center; Grand Casino Hotel & Resort (75 boxes capacity each; plans for more)",
+    "city": "Shawnee",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Potawatomi.org (Apr 3, 2025) and Native Oklahoma confirm three free Narcan machines at FireLake Discount Foods, FireLake Entertainment Center and Grand Casino; 75 boxes each, no age limit. Entertainment Center unit to move when new casino opens.. Hours: Varies by host location (not stated by source). Type: Narcan Vending Machines. Tribal program"
+  },
+  {
+    "id": "us-nett-lake-bois-forte-tribal-health",
+    "name": "Bois Forte Tribal Health + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Native News Online; https://www.timberjay.com/stories/new-health-care-vending-machines-go-live-friday",
+      "20700; https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-025-01244-6"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Nett Lake C Store; Fortune Bay (machine in age-restricted gaming area adjacent to slot machines)",
+    "city": "Nett Lake",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Timberjay (10/2023): free machines at Nett Lake C Store and Fortune Bay, no limit. Harm Reduction Journal (2025): casino unit is in the age-restricted gaming area; data end Mar 2024. Current operation not confirmed.. Hours: Public. Type: Public Health Vending Machines. Tribal program"
+  },
+  {
+    "id": "us-mission-yellowhawk-tribal-health",
+    "name": "Yellowhawk Tribal Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Yellowhawk.org; https://yellowhawk.org/yellowhawk-tribal-health-center-launches-harm-reduction-vending-machines-to-support-community-health-and-safety/",
+      "https://yellowhawk.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside Mission Market; Wildhorse Resort & Casino (one outdoor-rated; 24/7 planned)",
+    "city": "Mission",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Yellowhawk page (posted 11/4/2025) confirms machines at Wildhorse Resort & Casino and outside Mission Market, one outdoor-rated, free naloxone and hygiene items, 'soon' 24/7. Does not confirm they are operating yet.. Hours: 24/7 preferred. Type: Harm Reduction Vending Machines. Tribal program"
+  },
+  {
+    "id": "us-reno-reno-sparks-tribal-health",
+    "name": "Reno-Sparks Tribal Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RSIC.org; https://www.rsic.org/m/newsflash?cat=1; https://renothisweek.com/rsic/events/narcan-training"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "15 Kuenzli Street Reno (temporary then outside); outside RSIC Administration 34 Reservation Rd Reno; Hungry Valley gym lower-level 9075 Eagle Canyon Dr Sparks",
+    "city": "Reno",
+    "state": "US",
+    "zip": "",
+    "phone": "RSTHC Behavioral Health 775-329-5162",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): RSIC.org news (posted Aug 12, 2026): three Healthy Products kiosks (RSTHC 15 Kuenzli St, RSIC Admin 34 Reservation Rd, Hungry Valley gym) with free Narcan; limit 2/day via phone QR code. Aimed at Colony community.. Hours: Public. Type: Healthy Products Vending Machines / Kiosks. Tribal program"
+  },
+  {
+    "id": "us-forest-county-potawatomi-health-divisio",
+    "name": "Potawatomi Health Division",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Milwaukee Journal Sentinel; https://www.wxpr.org/health/2025-03-18/narcan-vending-machines-are-helping-save-lives-in-the-forest-county-potawatomi-community"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Four machines: We Care, Health and Wellness (Crandon), Prevention, and old Tribal Hall (no street addresses published)",
+    "city": "Forest County",
+    "state": "US",
+    "zip": "",
+    "phone": "715-478-4332",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): WXPR (Mar 2025): machines operating at four Forest County Potawatomi sites (We Care, Health and Wellness in Crandon, Prevention, old Tribal Hall), free, open to anyone; record said two. Help line 715-478-4332.. Hours: Public. Type: Narcan Vending Machines. Tribal program"
+  },
+  {
+    "id": "us-pala-pala-band-of-mission-indi",
+    "name": "Pala Band of Mission Indians + Harm Reduction Coalition of San Diego",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Indian Gaming; https://sandiegocounty.gov/hhsa/programs/phs/od2a/naloxone.html; https://www.10news.com/news/local-news/pala-band-of-mission-indians-gets-first-naloxone-vending-machine-on-tribal-land"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Pala Fire Department / Pala Reservation, 34884 Lilac Extension Rd, Pala CA 92059 (first on sovereign land)",
+    "city": "Pala",
+    "state": "US",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): San Diego County OD2A page lists Pala Reservation naloxone vending machine (34884 Lilac Extension Rd, 24/7); 10News (4/2023) places it at Pala Fire Department, free kits. County page undated; address match to fire dept is inferred.. Hours: 24/7. Type: Naloxone Vending Machine. Tribal program"
   }
 ]
