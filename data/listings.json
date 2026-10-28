@@ -4020,5 +4020,319 @@
     "zip": "",
     "phone": "",
     "notes": "Active. Hours: Varies / some 24/7. Type: Naloxone Pods / Boxes"
+  },
+  {
+    "id": "ny-buffalo-matters-network",
+    "name": "MATTERS Network",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Alba de Vida 254 Virginia St; Group Ministries 1333 Jefferson Ave; others",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "ny-matters-network-matters-harm-reduction-ve",
+    "name": "MATTERS Harm Reduction Vending Machines",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS official",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Interactive map of 24/7 free machines (naloxone + FTS + xylazine strips) across the state",
+    "city": "MATTERS Network",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "nc-charlotte-mecklenburg-county",
+    "name": "Mecklenburg County",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RehabSeekers; https://www.wbtv.com/2024/10/28/mecklenburg-county-opens-first-free-public-health-vending-machine/; https://wcnc.com/article/news/health/mecklenburg-county-sheriffs-office-unveils-new-narcan-vending-machine/275-c76990f3-6325-4d09-b8e8-36abdb3f6a31; https://www.wfae.org/text/health/2026-06-02/mecklenburg-county-public-health-reports-fewer-overdoses-more-narcan"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Ella B. Scarborough Community Resource Center, 430 Stitt Rd, Charlotte (free; registration by cell phone required); Mecklenburg County Sheriff's Office Arrest Processing Center machine (jail facility, public access unclear)",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): WBTV 10/2024: free naloxone at Ella B. Scarborough center, 430 Stitt Rd; users register by cell phone. Sheriff APC machine (WCNC) appears aimed at people released from jail, not clearly public. No 2025-26 confirmation; county 6/2026 says kits by online request.. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "nc-greensboro-guilford-county-public-he",
+    "name": "Guilford County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WXII + GCSTOP"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Greensboro Detention Center 201 S Edgeworth St; High Point Detention Center 507 E Green Dr; Triad Health Project High Point",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "oh-columbus-ohio-state-wexner-medical",
+    "name": "Ohio State Wexner Medical Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "OSU"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "RPAC (inside west entrance, during hours); King Avenue United Methodist Church outside front entrance (24/7, corner of Neil Ave and King Ave)",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "oh-delaware-delaware-county-jail",
+    "name": "Delaware County Jail",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Local news"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Lobby of Delaware County Jail (24/7) - 524 kits distributed in first year",
+    "city": "Delaware",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "nj-multiple-parks-camden-county-addiction-a",
+    "name": "Camden County Addiction Awareness Task Force",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Camden County",
+      "https://www.camdencounty.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Newton Lake Park, Timber Creek Park, New Brooklyn Park, Wiggins Waterfront Park, Cooper River Park boathouse/restrooms, county driving range; all public schools (250+ kits)",
+    "city": "Multiple parks",
+    "state": "NJ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / 24/7 some. Type: NaloxBoxes"
+  },
+  {
+    "id": "pa-overdose-prevention-program-pa-department-of-drug-an",
+    "name": "PA Department of Drug and Alcohol Programs",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "PA DDAP",
+      "https://www.pa.gov/agencies/ddap"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Statewide partner network for free naloxone and test strips (walk-in/pickup/delivery); mail-to-home via Prevention Point Pittsburgh + NEXT Distro",
+    "city": "Overdose Prevention Program",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "sc-camden-alpha-behavioral-health-c",
+    "name": "ALPHA Behavioral Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Facebook / local; https://www.wistv.com/2025/07/23/gamechanger-narcan-vending-machines-expanded-kershaw-county/; https://kool1027.com/?p=3798; https://schealthviz.sc.edu/Data/Sites/1/media/downloads/tipsc_resources/naloxone_distributors_handout_2025 Final.pdf"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Kershaw County Detention Center 101 Bramblewood Plantation Rd Camden; Elgin Town Hall 2469 Main St; Bethune Town Hall 302 Norwood St E; Mt Pisgah CRC 5160 Mt Pisgah Rd; Chesterfield Detention Center 319 Goodale Rd; Cowboy Corner 118 S Pearl St Pageland; Bay Springs FD 8894 Hartsville Ruby Rd; etc.",
+    "city": "Camden",
+    "state": "SC",
+    "zip": "",
+    "phone": "Kershaw 803-432-6902; Chesterfield 843-623-7062; Lee 803-484-6025",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): WIS (Jul 2025) and KOOL (Jun 2025) confirm ALPHA machines at Kershaw Detention Center and Mt. Pisgah plus a Bethune Town Hall kiosk; Elgin was still planned. Chesterfield/Pageland/Bay Springs sites not found. Naloxone free (SC Opioid Recovery Fund).. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "sc-multiple-libraries-nexus-care-of-beaufort-co",
+    "name": "Nexus Care of Beaufort County",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Savannah Business Journal"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Beaufort Library 311 Scott St; Bluffton Branch 120 Palmetto Way; Hilton Head Branch 11 Beach City Rd; Lobeco 1862 Task Pkwy; Port Royal 1408 Paris Ave; St Helena 6355 Jonathan Francis Sr Rd; Myrtle Park Govt Bldg 4819 Bluffton Pkwy (up to 65 boxes each)",
+    "city": "Multiple libraries",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Naloxone Kiosks"
+  },
+  {
+    "id": "sd-public-health--let-s-be-clear-sd-sd-dss-division-of-",
+    "name": "SD DSS Division of Behavioral Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SD DSS",
+      "https://letsbeclearsd.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Local public health units and community partners; free kits via Let's Be Clear SD / mail",
+    "city": "Public health + Let's Be Clear SD",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "tn-knoxville-metro-drug-coalition--pa",
+    "name": "Metro Drug Coalition + partners",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "WATE + Hoodline"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Gateway Recovery Community Center 530 W 5th Ave (outside, 24/7, 200 boxes); Knox County Jail machine",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "tn-nashville-metro-public-health-depar",
+    "name": "Metro Public Health Department + Fund Recovery",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Nashville.gov + WKRN",
+      "https://www.nashville.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Twice Daily 1702 West End Ave; Exxon 2200 Brick Church Pike; Tennessee Justice Center 155 Lafayette St; Davidson County Sheriff\u2019s Office facilities (Downtown Detention Center and Harding Place)",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 many. Type: Vending Machines"
+  },
+  {
+    "id": "tx-eagle-pass-safe-ep--city",
+    "name": "SAFE EP + city",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Maverick Times"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Downtown Eagle Pass Fire Station 590 Quarry St (launched Oct 23 2026)",
+    "city": "Eagle Pass",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "tx-austin-nice-project--central-he",
+    "name": "NICE Project + Central Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NICE + Statesman",
+      "https://niceprojectatx.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "NICE: Sunrise 4430 Menchaca Rd; Sahara 1413 Webberville Rd; Terrazas Branch Library 1105 E Cesar Chavez St; Rio Market 620 W 29th St; Central Health expanding to 45 sites including CommUnityCare clinics, Integral Care, SAFE Alliance, Travis County Jail",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 many. Type: Vending Machines"
+  },
+  {
+    "id": "ri-providence-aids-care-ocean-state--e",
+    "name": "AIDS Care Ocean State / ENCORE",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RIDOH report + Prevent Overdose RI",
+      "https://preventoverdoseri.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Broad Med 557 Broad St; CODAC 349 Huntington Ave; Kennedy Plaza 50 Kennedy Plaza; Providence Community Health Center 31 Atwood St (all 24/7, PIN via 401-781-0665)",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "",
+    "phone": "401-781-0665",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "ri-west-warwick-thundermist-health-center",
+    "name": "Thundermist Health Center",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Prevent Overdose RI",
+      "https://preventoverdoseri.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "186 Providence Street, West Warwick (24/7)",
+    "city": "West Warwick",
+    "state": "RI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machine"
+  },
+  {
+    "id": "sd-sioux-falls-emily-s-hope",
+    "name": "Emily's Hope",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Emily's Hope",
+      "https://emilyshope.charity"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Sioux Falls: Jones421 Market 421 N Phillips Ave; Falls Community Health 521 N Main Ave; Tires Tires Tires 2317 S Minnesota Ave & 1720 S St Michaels Cir; Face It Together 5020 S Tennis Lane #4; Sanford Health. Rapid City: Project Recovery 625 Flormann St; Monument Health sites. Pine Ridge/Rosebud: Oglala Sioux Tribe Building; Buche Foods Pine Ridge & Mission; Oyate Teca Project Kyle. Watertown: Prairie Lakes Hospital ER; Watertown Regional Library. Others: Sisseton Buche Ace Hardware 2211 SD Hwy 10; Vermillion Pump \u2019n Pak 629 Stanford St; Pierre Capital Area Counseling 2001 Eastgate Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / some 24/7. Type: Distribution Boxes + Pods"
+  },
+  {
+    "id": "ut-ogden-weber-county-sheriff-s-of",
+    "name": "Weber County Sheriff\u2019s Office",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KSL + ABC4"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1400 Depot Drive, Ogden UT 84404 (lobby; code 1234; free anonymous)",
+    "city": "Ogden",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
   }
 ]
