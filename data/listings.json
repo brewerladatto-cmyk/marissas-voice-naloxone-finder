@@ -4334,5 +4334,317 @@
     "zip": "",
     "phone": "",
     "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "nc-wilson-wilson-county-substance-p",
+    "name": "Wilson County Substance Prevention Coalition",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Instagram + NC Health News"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "14 locations including RC3 217-A Barnes Street (side entrance), Health Dept, Library branches, DSS, town halls, churches",
+    "city": "Wilson",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 many. Type: Vending Machines / Kiosks"
+  },
+  {
+    "id": "nc-siler-city-chatham-county-public-hea",
+    "name": "Chatham County Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "CBS17"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Outside public health office in Siler City (24/7)",
+    "city": "Siler City",
+    "state": "NC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "oh-lebanon-warren-county-health-dist",
+    "name": "Warren County Health District",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "X post; https://warrencohealthoh.gov/healthcare/community-health-education/project-dawn-naloxone-kits; https://warrencohealthoh.gov/?p=7695",
+      "https://warrencohealthoh.gov/healthcare/community-health-education/project-dawn-naloxone-kits"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "204 Cook Road, Lebanon",
+    "city": "Lebanon",
+    "state": "OH",
+    "zip": "",
+    "phone": "513-695-1271 (Project DAWN kits); main 513-695-1228",
+    "notes": "NOT VERIFIED - could not re-confirm on 2026-10-28. Active | Re-verified 2026-10-28 (UNCONFIRMED): Warren County Health District page lists Project DAWN naloxone kits by phone 513-695-1271 (main 513-695-1228); no vending machine or 204 Cook Rd box found. Could not re-confirm vending machine. | Second-source search 2026-10-28 (STILL_SINGLE): Health district's page confirms Project DAWN kits by phone (513-695-1271) only; no vending machine or 204 Cook Rd box found on it or in news searches.. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "oh-multiple-counties-ohio-guidestone",
+    "name": "Ohio Guidestone",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Northwest Signal; https://ohioguidestone.org/locations/northwest-ohio/henry/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple machines across Williams, Henry, Defiance, Hancock counties (e.g., 600 Freedom Drive Napoleon)",
+    "city": "Multiple counties",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "notes": "NOT VERIFIED - could not re-confirm on 2026-10-28. Active | Re-verified 2026-10-28 (UNCONFIRMED): Could not re-confirm. Searches found no article or OhioGuidestone page on harm reduction vending machines; OhioGuidestone Henry County page lists 600 Freedom Dr as a ReadyCare walk-in clinic with no mention of naloxone machines. | Second-source search 2026-10-28 (STILL_SINGLE): No independent source found for OhioGuidestone naloxone vending machines in NW Ohio; OhioGuidestone Henry County page and The Centers' vending page (Cleveland only) do not mention them. Existing note already flags it as unconfirmed.. Hours: Varies. Type: Harm Reduction Vending Machines"
+  },
+  {
+    "id": "ny-hudson-catholic-charities--matt",
+    "name": "Catholic Charities / MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "713 Union St, Hudson, NY 12534 (24/7)",
+    "city": "Hudson",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ny-carmel-hamlet-putnam-county-social-serv",
+    "name": "Putnam County Social Services / MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "110 Old Rte 6 #2, Carmel Hamlet, NY 10512 (24/7)",
+    "city": "Carmel Hamlet",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "sc-dph-clinics--community-distributors-sc-department-of",
+    "name": "SC Department of Public Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SC DPH",
+      "https://dph.sc.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free opioid overdose kits at all DPH health clinics; community distributors; mail via NEXT",
+    "city": "DPH clinics + community distributors",
+    "state": "SC",
+    "zip": "",
+    "phone": "1-855-472-3432",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "tn-memphis-shelby-county-health-depa",
+    "name": "Shelby County Health Department",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SCHD"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Hickory Hill Public Health Clinic 6590 Kirby Center Cove (naloxone + FTS)",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Harm Reduction Vending Machine"
+  },
+  {
+    "id": "tn-regional-overdose-prevention-specialists-tdmhsas-rop",
+    "name": "TDMHSAS ROPS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "TDMHSAS",
+      "https://www.tn.gov/behavioral-health"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Regional specialists and local partners distribute free naloxone; mail options available",
+    "city": "Regional Overdose Prevention Specialists",
+    "state": "TN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "tx-san-antonio-1upsatx",
+    "name": "1UPsatx",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NASEN"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "2120 El Paso St (24/7, naloxone + hygiene + FTS when available)",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "",
+    "phone": "210-528-0705",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machine"
+  },
+  {
+    "id": "tx-naloxone-texas--regional-hubs-naloxone-texas--ut-hea",
+    "name": "Naloxone Texas / UT Health San Antonio + TODA",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Naloxone Texas + DSHS TODA",
+      "https://naloxonetexas.com"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free online order for anyone in Texas; 10 regional hubs (e.g. Central Plains Center Plainview, Unity Recovery Weatherford, ETCADA Longview, Center for Recovery and Wellness Resources Houston, Communities for Recovery Austin, Corazon Ministries San Antonio); freestanding dispensers/vending via application; interactive locator map",
+    "city": "Naloxone Texas + regional hubs",
+    "state": "TX",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mail / varies. Type: Mail + hubs + dispensers"
+  },
+  {
+    "id": "pa-reading-ymca-of-reading-and-berks",
+    "name": "YMCA of Reading and Berks County (Health To Go; Penn State College of Medicine / SOS Berks Opioid Coalition)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Narcotics.com; https://berksweekly.com/?p=48240"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Entrance lobby of 24/7 staffed community organization in Reading (dispensed 686 naloxone doses + 870 FTS in 15 months)",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): May 2024 report: Health To Go vending machine in the YMCA of Reading and Berks County lobby, open 24/7, run by Penn State College of Medicine with SOS Berks Opioid Coalition. No 2026 source.. Hours: 24/7. Type: Harm Reduction Vending Machine"
+  },
+  {
+    "id": "ri-woonsocket-community-care-alliance",
+    "name": "Community Care Alliance",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "RIDOH report",
+      "https://preventoverdoseri.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "55 John A. Cummings Way, Woonsocket (24/7)",
+    "city": "Woonsocket",
+    "state": "RI",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machine"
+  },
+  {
+    "id": "sc-greenville-challenges-inc",
+    "name": "Challenges Inc.",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Post and Courier; https://www.postandcourier.com/greenville/news/upstate-greenville-naloxone-vending-box-challenges-inc/article_8f68e6a8-7c1a-11ef-a538-f3fecf67adb0.html"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "AID Upstate facility lobby (newspaper-style box, low-barrier)",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Post and Courier (10/2024): Challenges Inc. installed a naloxone box in the AID Upstate lobby 9/26/2024; free, open to the public, no questions. No 2025-26 confirmation or hours found.. Hours: Varies. Type: Naloxone Vending Box"
+  },
+  {
+    "id": "ut-ogden-multiple-ogden-pd-weber",
+    "name": "Multiple (Ogden PD, Weber Human Services, Midtown, Lantern House, USARA, Seager)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Standard-Examiner + Utah Policy"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "6\u201310 harm reduction machines across Ogden/Weber County (code 1234; naloxone + FTS + hygiene)",
+    "city": "Ogden",
+    "state": "UT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machines"
+  },
+  {
+    "id": "ut-salt-lake-city-salt-lake-harm-reduction",
+    "name": "Salt Lake Harm Reduction Project",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "SLHRP; https://www.fox13now.com/news/local-news/salt-lake-city/salt-lake-harm-reduction-project-adds-third-naloxone-box-downtown; https://utahdhhs.211utah.org/provider/salt-lake-harm-reduction-project"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Box outside office at 1400 S 1100 E (Sugar House); also Indie Square (Murray) and Under the Umbrella Bookstore (downtown SLC)",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "phone": "801-702-3539",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Fox13 (July 2026): SLHRP box outside its Sugar House office plus boxes at Indie Square (Murray) and Under the Umbrella Bookstore downtown; anonymous/after-hours pickup. 211 Utah lists 1400 S 1100 E, 801-702-3539, shrpexchange.org.. Hours: 24/7. Type: Naloxey Boxey"
+  },
+  {
+    "id": "vt-johnson-public-vending-machines",
+    "name": "Public vending machines",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VT Helplink + RehabSeekers; https://vtdigger.org/2024/03/19/states-2nd-narcan-vending-machine-is-coming-to-bennington/; https://www.addisonindependent.com/2025/05/29/public-health-vending-machine-installed-at-turning-point/; https://www.addisonindependent.com/2025/11/26/public-health-vending-machine-installed-in-bristol/; https://www.addisonindependent.com/2024/07/11/vending-machines-to-provide-overdose-meds-in-midd-vergennes/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Johnson Health Center (Johnson); Greater Bennington Community Services, Depot St (Bennington); Turning Point Center, 79 Court St (Middlebury); 72 Munsill Ave next to Bristol Police (Bristol)",
+    "city": "Johnson",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active | Re-verified 2026-10-28 (CONFIRMED): Johnson (Aug 2023), Bennington (Depot St, 2024), Middlebury (79 Court St, Jun 2025) and Bristol (72 Munsill Ave, Nov 2025) machines confirmed by VTDigger and Addison Independent; free. 24/7 stated for Bennington and goal for Addison County.. Hours: 24/7. Type: Vending Machines"
+  },
+  {
+    "id": "vt-all-vermont-department-of-hea",
+    "name": "Vermont Department of Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "VT DOH",
+      "https://www.healthvermont.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Free Overdose Prevention Kit by mail; walk-in at recovery centers, hospitals, and partners (e.g. North Country Hospital 189 Prouty Dr Newport; Groundworks Collaborative 60 Main St Brattleboro; Central Vermont Addiction Medicine 300 Granger Rd Berlin)",
+    "city": "All",
+    "state": "VT",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mail / varies. Type: Mail + partner sites"
+  },
+  {
+    "id": "va-richmond-city-of-richmond-oosur",
+    "name": "City of Richmond OOSUR",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Axios + RVA.gov + Richmond Free Press"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Marshall Plaza 900 E Marshall St; Southside Plaza 4100 Hull St; East End Library 1200 N 25th St (24/7 free anonymous naloxone + FTS + hygiene); expanding to North Avenue, Broad Rock, Ginter Park libraries",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Harm Reduction Vending Machines"
   }
 ]
