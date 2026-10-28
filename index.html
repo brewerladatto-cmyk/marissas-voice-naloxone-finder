@@ -190,7 +190,7 @@ nav .espanol { border: 1.5px solid var(--purple); }
     <a href="#search" class="find-help">Find help</a>
     <a href="https://www.marissasvoice.org" target="_blank">How to give naloxone</a>
     <a href="https://www.marissasvoice.org" target="_blank">About</a>
-    <button class="espanol" onclick="alert('Spanish version coming soon.')">Español</button>
+    <button class="espanol" id="langToggle">Español</button>
   </nav>
 </header>
 
@@ -318,6 +318,89 @@ let all = [];
 let userLat = null, userLng = null;
 let activeFilters = new Set(['free_naloxone']);
 
+const i18n = {
+  en: {
+    langBtn: "Español",
+    title: "Marissa’s Voice Naloxone Finder & Support",
+    meta: "FREE · CONFIDENTIAL · DATA CHECKED OCT 8, 2026 – OCT 13, 2026",
+    heading: "Marissa’s Voice<br>Naloxone Finder<br>& Support",
+    desc: "Find free naloxone, treatment and family support near you. Enter a ZIP code, a city and state, or a county, or pick a state. Every listing shows its source and the date we last checked it.",
+    zipLabel: "ZIP CODE, CITY AND STATE, OR COUNTY",
+    useLoc: "Use my location",
+    stateLabel: "OR CHOOSE A STATE",
+    within: "WITHIN",
+    show: "SHOW",
+    findBtn: "Find help",
+    typeLabel: "Type of help",
+    openNow: "Open now (verified hours only)",
+    coverage: "Street-level listings are live in 50 of 51 places (50 states and D.C.). Statewide resources are available everywhere. Listings were last checked Oct 8, 2026 – Oct 13, 2026.",
+    noResults: "No matches yet. Try a different ZIP, city, or remove filters. Statewide resources are available.",
+    showing: "Showing results for",
+    withinMiles: "within"
+  },
+  es: {
+    langBtn: "English",
+    title: "Localizador de Naloxona y Apoyo de la Voz de Marissa",
+    meta: "GRATIS · CONFIDENCIAL · DATOS VERIFICADOS 8 OCT 2026 – 13 OCT 2026",
+    heading: "Localizador de Naloxona<br>y Apoyo de la<br>Voz de Marissa",
+    desc: "Encuentra naloxona gratuita, tratamiento y apoyo familiar cerca de ti. Ingresa un código postal, ciudad y estado, o condado, o elige un estado. Cada listado muestra su fuente y la fecha en que lo verificamos.",
+    zipLabel: "CÓDIGO POSTAL, CIUDAD Y ESTADO, O CONDADO",
+    useLoc: "Usar mi ubicación",
+    stateLabel: "O ELIGE UN ESTADO",
+    within: "DENTRO DE",
+    show: "MOSTRAR",
+    findBtn: "Buscar ayuda",
+    typeLabel: "Tipo de ayuda",
+    openNow: "Abierto ahora (solo horarios verificados)",
+    coverage: "Listados a nivel de calle disponibles en 50 de 51 lugares (50 estados y D.C.). Recursos estatales disponibles en todas partes. Listados verificados por última vez 8 oct 2026 – 13 oct 2026.",
+    noResults: "Sin coincidencias aún. Prueba otro código postal, ciudad o quita filtros. Hay recursos estatales disponibles.",
+    showing: "Mostrando resultados para",
+    withinMiles: "dentro de"
+  }
+};
+
+let currentLang = "en";
+
+function applyLang(lang) {
+  currentLang = lang;
+  const t = i18n[lang];
+  document.title = t.title;
+  document.querySelector(".left .meta").textContent = t.meta;
+  document.querySelector(".left h2").innerHTML = t.heading;
+  document.querySelector(".left p").textContent = t.desc;
+  document.querySelector(".form-card label").textContent = t.zipLabel;
+  document.getElementById("useLoc").textContent = t.useLoc;
+  document.querySelectorAll(".form-card label")[1].textContent = t.stateLabel;
+  document.querySelectorAll(".form-card label")[2].textContent = t.within;
+  document.querySelectorAll(".form-card label")[3].textContent = t.show;
+  document.querySelector(".find-btn").textContent = t.findBtn;
+  document.querySelectorAll(".form-card label")[4].textContent = t.typeLabel;
+  document.getElementById("openNow").textContent = t.openNow;
+  document.querySelector(".coverage").textContent = t.coverage;
+  document.getElementById("langToggle").textContent = t.langBtn;
+  const pills = document.querySelectorAll("#pills button");
+  if (lang === "es") {
+    pills[0].textContent = "Naloxona gratuita (en persona)";
+    pills[1].textContent = "Pedido por correo y en línea";
+    pills[2].textContent = "Tratamiento";
+    pills[3].textContent = "Apoyo familiar";
+    pills[4].textContent = "Reducción de daños y jeringas";
+    pills[5].textContent = "Línea de ayuda o reuniones";
+    pills[6].textContent = "Capacitación";
+  } else {
+    pills[0].textContent = "Free naloxone (in person)";
+    pills[1].textContent = "Mail-order and online";
+    pills[2].textContent = "Treatment";
+    pills[3].textContent = "Family support";
+    pills[4].textContent = "Harm reduction and syringe services";
+    pills[5].textContent = "Helpline or meeting finder";
+    pills[6].textContent = "Training";
+  }
+  render();
+}
+
+document.getElementById("langToggle").onclick = () => applyLang(currentLang === "en" ? "es" : "en");
+
 function haversine(lat1, lon1, lat2, lon2) {
   const R = 3958.8;
   const dLat = (lat2 - lat1) * Math.PI / 180;
@@ -376,12 +459,12 @@ function render() {
   else if (/^\d{5}$/.test(q) && zipCoords[q]) center = zipCoords[q];
   const maxMiles = within === 'all' ? null : within;
   const filtered = all.filter(item => matches(item, q, state, activeFilters, center, maxMiles));
-  let status = q ? `Showing results for ${q}` : 'Showing all matching listings';
-  if (center && maxMiles) status += ` within ${maxMiles} miles`;
+  let status = q ? `${i18n[currentLang].showing} ${q}` : (currentLang === 'es' ? 'Mostrando todos los listados coincidentes' : 'Showing all matching listings');
+  if (center && maxMiles) status += ` ${i18n[currentLang].withinMiles} ${maxMiles} ${currentLang === 'es' ? 'millas' : 'miles'}`;
   document.getElementById('status').textContent = status + '.';
   const el = document.getElementById('results');
   if (!filtered.length) {
-    el.innerHTML = '<div style="background:white;color:#2A2433;padding:1.5rem;border-radius:14px;text-align:center;">No matches yet. Try a different ZIP, city, or remove filters. Statewide resources are available.</div>';
+    el.innerHTML = `<div style="background:white;color:#2A2433;padding:1.5rem;border-radius:14px;text-align:center;">${i18n[currentLang].noResults}</div>`;
     return;
   }
   el.innerHTML = filtered.slice(0, 30).map(item => `
