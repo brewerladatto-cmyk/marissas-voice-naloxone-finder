@@ -5290,5 +5290,320 @@
     "zip": "",
     "phone": "988 / 1-800-981-0023",
     "notes": "Active. Hours: Request anytime. Type: Mail / phone request"
+  },
+  {
+    "id": "me-multiple-maine-naloxone-distributi",
+    "name": "Maine Naloxone Distribution Initiative + MAP",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Maine DHHS + MAP",
+      "https://getmainenaloxone.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "getmainenaloxone.org map; Maine Access Points statewide mail; syringe access programs (Bangor, Portland, Augusta, etc.)",
+    "city": "Multiple",
+    "state": "ME",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational + mail + SSP"
+  },
+  {
+    "id": "md-orp-map-maryland-department-of-he",
+    "name": "Maryland Department of Health",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MDH official",
+      "https://health.maryland.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "health.maryland.gov interactive ORP map; mail-order in certain counties",
+    "city": "ORP map",
+    "state": "MD",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Overdose Response Programs + mail"
+  },
+  {
+    "id": "mn-multiple-mdh--dhs--harm-reductio",
+    "name": "MDH / DHS + Harm Reduction Sisters",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MDH + NEXT",
+      "https://www.health.state.mn.us"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Naloxone Ordering Portal; syringe service programs; mail via Harm Reduction Sisters / NEXT",
+    "city": "Multiple",
+    "state": "MN",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Organizational + mail"
+  },
+  {
+    "id": "mo-multiple-get-mo-naloxone--monetwo",
+    "name": "Get MO Naloxone / MoNetwork",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Get MO Naloxone"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Mail-based naloxone statewide; local distribution partners",
+    "city": "Multiple",
+    "state": "MO",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Mail. Type: Mail-Order + partners"
+  },
+  {
+    "id": "nh-the-doorway-sites-nh-dhhs-the-doorway",
+    "name": "NH DHHS The Doorway",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NH DHHS",
+      "https://www.thedoorway.nh.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple Doorway locations (Concord, Cheshire Medical, Laconia, etc.) provide free naloxone",
+    "city": "The Doorway sites",
+    "state": "NH",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Walk-in"
+  },
+  {
+    "id": "nm-public-health-offices-nmdoh-harm-reduction-prog",
+    "name": "NMDOH Harm Reduction Program",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NMDOH",
+      "https://www.nmharmreduction.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "NMDOH Public Health Offices statewide; mail via NMHarmReduction.org / Naloxone Saves",
+    "city": "Public Health Offices",
+    "state": "NM",
+    "zip": "",
+    "phone": "505-270-5943",
+    "notes": "Active. Hours: Varies / mail. Type: Walk-in + mail"
+  },
+  {
+    "id": "ny-tupper-lake-community-connections-out",
+    "name": "Community Connections Outreach & Recovery / MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "64 Demars Blvd, Tupper Lake, NY 12986 (24/7)",
+    "city": "Tupper Lake",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ny-saranac-lake-citizen-advocates--allia",
+    "name": "Citizen Advocates / Alliance for Positive Health / MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "70 Edgewood Rd, Saranac Lake, NY 12983 (24/7)",
+    "city": "Saranac Lake",
+    "state": "NY",
+    "zip": "",
+    "phone": "518-891-5535",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ny-utica-helio-health--matters",
+    "name": "Helio Health / MATTERS",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "MATTERS",
+      "https://mattersnetwork.org/vm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "1008 Cornelia St, Utica, NY 13502 (24/7)",
+    "city": "Utica",
+    "state": "NY",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ak-unalaska-anthc-community-health-ve",
+    "name": "ANTHC Community Health Vending + Project HOPE",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "KUCB / ANTHC",
+      "https://anthc.org/chvm/"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Unalaska (tribal/community site)",
+    "city": "Unalaska",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active rural vending. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ak-seward-qutekcak-native-tribe-com",
+    "name": "Qutekcak Native Tribe Community Health Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "AK Business Mag / RehabSeekers"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "221 3rd Ave. (near Seward Children's Museum / QNT building)",
+    "city": "Seward",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Vending Machine"
+  },
+  {
+    "id": "ak-kotzebue-maniilaq-association--an",
+    "name": "Maniilaq Association / ANTHC Vending",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ANTHC / AK Business Mag"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Kotzebue tribal health site",
+    "city": "Kotzebue",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7 likely. Type: Vending Machine"
+  },
+  {
+    "id": "ak-naknek-cama-i-community-health-c",
+    "name": "Cama\u2019i Community Health Center / ANTHC",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ANTHC reports"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Naknek",
+    "city": "Naknek",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "ak-metlakatla-annette-island-service-un",
+    "name": "Annette Island Service Unit / ANTHC",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "ANTHC"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Metlakatla",
+    "city": "Metlakatla",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: Varies. Type: Vending Machine"
+  },
+  {
+    "id": "ak-bethel-area-communities-toksook-bay-tununak-etc--ykh",
+    "name": "YKHC + Project HOPE outreach",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "UAA College of Health",
+      "https://health.alaska.gov"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Multiple Yukon-Kuskokwim villages",
+    "city": "Bethel area communities (Toksook Bay, Tununak, etc.)",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active outreach. Hours: Outreach events. Type: Community distribution + mail"
+  },
+  {
+    "id": "ak-nome-norton-sound-health-corpo",
+    "name": "Norton Sound Health Corporation",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "NSHC press release",
+      "https://www.nortonsoundhealth.org"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Patient Hostel lobby (24-hour)",
+    "city": "Nome",
+    "state": "AK",
+    "zip": "",
+    "phone": "",
+    "notes": "Active. Hours: 24/7. Type: Dispensing Machine"
+  },
+  {
+    "id": "az-county-health-depts-teva-settlement--county",
+    "name": "Teva Settlement / County HD distribution",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "AZ AG Office Teva distribution"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "County health departments (Apache, Cochise, Gila, Graham, Greenlee, La Paz, Mohave, Navajo, etc.)",
+    "city": "County health depts",
+    "state": "AZ",
+    "zip": "",
+    "phone": "",
+    "notes": "Active bulk supply. Hours: Varies. Type: Walk-in / bulk to local"
+  },
+  {
+    "id": "ar-mountain-home-asumh--end-overdose",
+    "name": "ASUMH / End Overdose",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Baxter Bulletin / End Overdose"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "Arkansas State University-Mountain Home campus",
+    "city": "Mountain Home",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active - one of 12 rural cabinets. Hours: Campus hours. Type: Naloxone Cabinet/Box"
+  },
+  {
+    "id": "ar-multiple-mainline-health-systems",
+    "name": "Mainline Health Systems / ARORP Naloxone Hero",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "Deltaplex News / ARORP"
+    ],
+    "last_checked": "2026-10-28",
+    "address": "South Arkansas clinics / outreach",
+    "city": "Multiple",
+    "state": "AR",
+    "zip": "",
+    "phone": "",
+    "notes": "Active funding period. Hours: Varies. Type: Community distribution"
   }
 ]
