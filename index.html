@@ -271,6 +271,22 @@ let all = [];
 let userLat = null, userLng = null;
 let activeFilters = new Set(['free_naloxone']);
 
+function haversine(lat1, lon1, lat2, lon2) {
+  const R = 3958.8;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+
+const zipCoords = {
+  "75116": [32.6518, -96.9083],
+  "75201": [32.787, -96.799],
+  "75216": [32.688, -96.792],
+  "75001": [32.962, -96.838],
+  "76102": [32.755, -97.333]
+};
+
 async function load() {
   try {
     const res = await fetch(DATA_URL);
@@ -281,7 +297,7 @@ async function load() {
   }
 }
 
-function matches(item, q, state, filters) {
+function matches(item, q, state, filters, center, maxMiles) {
   if (state && item.state && item.state !== state) return false;
   if (filters.size && !filters.has(item.category || 'free_naloxone')) {
     const text = (item.name + ' ' + (item.notes || '')).toLowerCase();
@@ -295,7 +311,11 @@ function matches(item, q, state, filters) {
     if (filters.has('free_naloxone')) hit = true;
     if (!hit) return false;
   }
-  if (!q) return true;
+  if (center && maxMiles && maxMiles !== 'all' && item.coordinates && typeof item.coordinates.lat === 'number') {
+    const dist = haversine(center[0], center[1], item.coordinates.lat, item.coordinates.lng);
+    if (dist > parseFloat(maxMiles)) return false;
+  }
+  if (!q || q === 'Near my location') return true;
   const hay = [item.name, item.city, item.state, item.address, item.zip, item.notes, item.organization].filter(Boolean).join(' ').toLowerCase();
   return q.toLowerCase().split(/\s+/).every(t => hay.includes(t));
 }
@@ -303,14 +323,21 @@ function matches(item, q, state, filters) {
 function render() {
   const q = document.getElementById('q').value.trim();
   const state = document.getElementById('state').value;
-  const filtered = all.filter(item => matches(item, q, state, activeFilters));
-  document.getElementById('status').textContent = q ? `Showing results for ${q}.` : 'Showing all matching listings.';
+  const within = document.getElementById('within').value;
+  let center = null;
+  if (userLat && userLng) center = [userLat, userLng];
+  else if (/^\d{5}$/.test(q) && zipCoords[q]) center = zipCoords[q];
+  const maxMiles = within === 'all' ? null : within;
+  const filtered = all.filter(item => matches(item, q, state, activeFilters, center, maxMiles));
+  let status = q ? `Showing results for ${q}` : 'Showing all matching listings';
+  if (center && maxMiles) status += ` within ${maxMiles} miles`;
+  document.getElementById('status').textContent = status + '.';
   const el = document.getElementById('results');
   if (!filtered.length) {
     el.innerHTML = '<div style="background:white;color:#2A2433;padding:1.5rem;border-radius:14px;text-align:center;">No matches yet. Try a different ZIP, city, or remove filters. Statewide resources are available.</div>';
     return;
   }
-  el.innerHTML = filtered.slice(0, 20).map(item => `
+  el.innerHTML = filtered.slice(0, 30).map(item => `
     <article class="result-card">
       <span class="badge">${(item.verification || 'unconfirmed').replace('_',' ')}</span>
       <h3>${item.name}</h3>
