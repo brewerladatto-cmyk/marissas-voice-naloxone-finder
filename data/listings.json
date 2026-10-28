@@ -359,10 +359,11 @@
     "id": "mn-minneapolis-fs21-vending",
     "name": "Minneapolis Fire Station 21 NARCAN Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.minneapolismn.gov/news/2025/july/narcan-vending/",
-      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
+      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/",
+      "https://www.minneapolismn.gov/government/departments/fire/fire-station-locations/station-21/"
     ],
     "last_checked": "2026-10-28",
     "address": "3209 38th St E (outside Fire Station 21)",
@@ -370,16 +371,16 @@
     "state": "MN",
     "zip": "55406",
     "coordinates": {
-      "lat": 44.938,
-      "lng": -93.226
+      "lat": 44.934,
+      "lng": -93.2254
     },
-    "notes": "Free anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 21. City Health Department program; no questions asked. One of four city fire-station machines."
+    "notes": "Free, anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 21 (first city machine, installed July 2024). Minneapolis Health Department program; no questions asked. One of four city fire-station machines."
   },
   {
     "id": "mn-minneapolis-fs14-vending",
     "name": "Minneapolis Fire Station 14 NARCAN Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.minneapolismn.gov/news/2025/may/northside-narcan/",
       "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
@@ -390,10 +391,10 @@
     "state": "MN",
     "zip": "55411",
     "coordinates": {
-      "lat": 45.013,
-      "lng": -93.308
+      "lat": 45.0133,
+      "lng": -93.3045
     },
-    "notes": "Free anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 14 (Northside). City Health Department program."
+    "notes": "Free, anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 14 (Northside, installed May 2025). Minneapolis Health Department program; no questions asked."
   },
   {
     "id": "il-chicago-hwl-vending",
@@ -459,7 +460,7 @@
     "id": "mn-minneapolis-fs5-vending",
     "name": "Minneapolis Fire Station 5 NARCAN Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.minneapolismn.gov/news/2025/october/third-narcan-vending-machine-installed/",
       "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
@@ -470,16 +471,16 @@
     "state": "MN",
     "zip": "55407",
     "coordinates": {
-      "lat": 44.954,
-      "lng": -93.255
+      "lat": 44.9537,
+      "lng": -93.2525
     },
-    "notes": "Free anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 5. City Health Department program; no questions asked. One of four city fire-station machines."
+    "notes": "Free, anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 5 (installed October 2025). Minneapolis Health Department program; no questions asked."
   },
   {
     "id": "mn-minneapolis-fs12-vending",
     "name": "Minneapolis Fire Station 12 NARCAN Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
     ],
@@ -489,10 +490,10 @@
     "state": "MN",
     "zip": "55417",
     "coordinates": {
-      "lat": 44.907,
-      "lng": -93.226
+      "lat": 44.9053,
+      "lng": -93.2242
     },
-    "notes": "Free anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 12. City Health Department program; no questions asked. Fourth city fire-station machine (installed September 2026)."
+    "notes": "Free, anonymous 24/7 NARCAN vending machine outside Minneapolis Fire Station 12 (fourth city machine, installed September 2026). Minneapolis Health Department program; no questions asked."
   },
   {
     "id": "il-chicago-garfield-csc-vending",
@@ -615,7 +616,7 @@
     "id": "co-denver-dpd-admin-vending",
     "name": "Denver Police Administration Building Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "unconfirmed",
     "source": [
       "https://www.denverpost.com/2025/07/01/naloxone-opioid-overdose-vending-machines-denver-police/",
       "https://kdvr.com/news/local/naloxone-vending-machines-added-at-3-denver-police-stations/"
@@ -626,10 +627,10 @@
     "state": "CO",
     "zip": "80204",
     "coordinates": {
-      "lat": 39.737,
-      "lng": -104.995
+      "lat": 39.7374,
+      "lng": -104.9917
     },
-    "notes": "Free naloxone vending machine outside Denver Police Administration Building. Partnership with The Naloxone Project. No questions asked."
+    "notes": "Free 24/7 outdoor naloxone vending machine reported outside the Denver Police Administration Building (Denver Police / The Naloxone Project partnership). Unconfirmed: news sources only; call or check the source before traveling."
   },
   {
     "id": "co-denver-health-vendy",
@@ -922,10 +923,10 @@
     "state": "NY",
     "zip": "12571",
     "coordinates": {
-      "lat": 41.995,
-      "lng": -73.875
+      "lat": 41.994,
+      "lng": -73.8766
     },
-    "notes": "Free anonymous 24/7 naloxone (Narcan) and test strip vending machine. Part of Dutchess County / MATTERS Network program. Most used of six county machines. Enter code 8377 + birth year + zip. No cost."
+    "notes": "Free 24/7 naloxone (Narcan) and fentanyl/xylazine test strip vending machine, Dutchess County Department of Mental Health / MATTERS Network. Enter 8377, then birth year and ZIP; up to three free items. Most-used of six county machines."
   },
   {
     "id": "ny-amenia-matters-vending",
@@ -1002,10 +1003,10 @@
     "state": "NY",
     "zip": "12601",
     "coordinates": {
-      "lat": 41.705,
-      "lng": -73.921
+      "lat": 41.7188,
+      "lng": -73.9304
     },
-    "notes": "Free 24/7 naloxone vending machine at Dutchess County Stabilization Center. MATTERS Network."
+    "notes": "Free 24/7 naloxone (Narcan) and test strip vending machine at the Dutchess County Stabilization Center, Dutchess County Department of Mental Health / MATTERS Network. Enter 8377, then birth year and ZIP."
   },
   {
     "id": "ny-poughkeepsie-rose-vending",
@@ -1035,7 +1036,9 @@
     "source": [
       "https://www.cbsnews.com/pittsburgh/news/outdoor-naloxone-vending-machine-installed-in-downtown-pittsburgh/",
       "https://www.harmreductionallegheny.org/list-of-resources",
-      "https://content.govdelivery.com/accounts/PAALLEGHENYCO/bulletins/4043a7d"
+      "https://content.govdelivery.com/accounts/PAALLEGHENYCO/bulletins/4043a7d",
+      "https://www.post-gazette.com/news/health/2026/01/21/free-narcan-downtown-pittsburgh/stories/202601210070",
+      "https://www.wesa.fm/politics-government/2026-01-23/free-naloxone-vending-machine-downtown-pittsburgh"
     ],
     "last_checked": "2026-10-28",
     "address": "1 Smithfield Street (outdoor, outside Human Services Building)",
@@ -1043,10 +1046,10 @@
     "state": "PA",
     "zip": "15222",
     "coordinates": {
-      "lat": 40.442,
-      "lng": -79.997
+      "lat": 40.4368,
+      "lng": -80.0009
     },
-    "notes": "Free anonymous 24/7 outdoor naloxone vending machine. Allegheny County Health Department / DHS. No questions asked. Installed January 2026."
+    "notes": "Free, anonymous 24/7 outdoor naloxone vending machine outside the Allegheny County Human Services Building. Allegheny County Health Department / Department of Human Services; installed January 2026."
   },
   {
     "id": "wi-stoughton-health-vending",
@@ -1112,7 +1115,7 @@
     "id": "mo-stlouis-arca-vending",
     "name": "ARCA Assisted Recovery Centers Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.arcamidwest.com/naloxone-vending-machine"
     ],
@@ -1123,49 +1126,10 @@
     "zip": "63103",
     "phone": "314-645-6840",
     "coordinates": {
-      "lat": 38.631,
-      "lng": -90.199
+      "lat": 38.6303,
+      "lng": -90.2007
     },
-    "notes": "Free naloxone (nasal and injectable) vending machine at ARCA. No appointment needed for walk-in treatment; machine provides anonymous access. Confirm current stock."
-  },
-  {
-    "id": "ny-redhook-matters-vending",
-    "name": "MATTERS / Dutchess County Naloxone Vending - Red Hook",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b",
-      "https://www.thedailycatch.org/articles/red-hooks-narcan-vending-machine-is-the-most-used-in-dutchess-county-as-overdoses-decline/"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "7467 S. Broadway (outside Village Hall)",
-    "city": "Red Hook",
-    "state": "NY",
-    "zip": "12571",
-    "coordinates": {
-      "lat": 41.9943,
-      "lng": -73.8767
-    },
-    "notes": "Free 24/7 naloxone (Narcan) and test strips vending machine via MATTERS and Dutchess County Department of Mental Health. Most-used machine in the county. No ID required."
-  },
-  {
-    "id": "ny-poughkeepsie-stabilization-vending",
-    "name": "Dutchess County Stabilization Center Naloxone Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://content.govdelivery.com/accounts/NYDUTCHESS/bulletins/427ab6b"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "230 North Rd",
-    "city": "Poughkeepsie",
-    "state": "NY",
-    "zip": "12601",
-    "coordinates": {
-      "lat": 41.72,
-      "lng": -73.92
-    },
-    "notes": "Free 24/7 naloxone vending machine at Dutchess County Stabilization Center. MATTERS / county program. Call or check source for current stock."
+    "notes": "Free naloxone nasal spray and injectable in ARCA's vending machine; operator page lists 24/7 access. Confirm current stock by phone."
   },
   {
     "id": "ny-beacon-gov-center-vending",
@@ -1203,22 +1167,6 @@
     "notes": "Free naloxone vending machine via The Naloxone Project. High-usage pilot location. 24/7 outdoor access. No cost or ID required."
   },
   {
-    "id": "co-denver-dpd-admin-vending",
-    "name": "Denver Police Administration Building Naloxone Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://www.denverpost.com/2025/07/01/naloxone-opioid-overdose-vending-machines-denver-police/",
-      "https://kdvr.com/news/local/naloxone-vending-machines-added-at-3-denver-police-stations/"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "1331 Cherokee St",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80204",
-    "notes": "Free 24/7 outdoor naloxone vending machine outside Denver Police Administration Building. The Naloxone Project / DPD partnership."
-  },
-  {
     "id": "co-denver-dpd-district2-vending",
     "name": "DPD District 2 Station Naloxone Vending",
     "category": "free_naloxone",
@@ -1234,26 +1182,6 @@
     "notes": "Free outdoor naloxone vending machine at Denver Police District 2 Station. The Naloxone Project."
   },
   {
-    "id": "mo-stlouis-arca-vending",
-    "name": "ARCA Assisted Recovery Centers Naloxone Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://www.arcamidwest.com/naloxone-vending-machine"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "1430 Olive Street",
-    "city": "St. Louis",
-    "state": "MO",
-    "zip": "63103",
-    "phone": "314-645-6840",
-    "coordinates": {
-      "lat": 38.631,
-      "lng": -90.197
-    },
-    "notes": "Free naloxone nasal spray and injectable available in ARCA vending machine. 24/7 access. Official program page confirms location."
-  },
-  {
     "id": "mo-pagedale-cinema-vending",
     "name": "St. Louis County 24:1 Cinema Naloxone Vending",
     "category": "free_naloxone",
@@ -1267,90 +1195,5 @@
     "state": "MO",
     "zip": "63133",
     "notes": "Free naloxone vending machine as part of St. Louis County 'I Carry for My Community' campaign. One of multiple county machines."
-  },
-  {
-    "id": "mn-minneapolis-fs21-vending",
-    "name": "Minneapolis Fire Station 21 NARCAN Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://www.minneapolismn.gov/news/2025/july/narcan-vending/",
-      "https://www.minneapolismn.gov/government/departments/fire/fire-station-locations/station-21/"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "3209 38th St. E. (outside)",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55406",
-    "coordinates": {
-      "lat": 44.939,
-      "lng": -93.234
-    },
-    "notes": "City of Minneapolis free 24/7 anonymous NARCAN vending machine outside Fire Station 21. First pilot machine; high usage. No questions asked."
-  },
-  {
-    "id": "mn-minneapolis-fs14-vending",
-    "name": "Minneapolis Fire Station 14 NARCAN Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "2002 Lowry Ave. N. (outside)",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55411",
-    "notes": "Free 24/7 NARCAN vending machine outside Minneapolis Fire Station 14. City Health Department program."
-  },
-  {
-    "id": "mn-minneapolis-fs5-vending",
-    "name": "Minneapolis Fire Station 5 NARCAN Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "2700 Bloomington Ave. S. (outside)",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55407",
-    "notes": "Free 24/7 NARCAN vending machine outside Minneapolis Fire Station 5."
-  },
-  {
-    "id": "mn-minneapolis-fs12-vending",
-    "name": "Minneapolis Fire Station 12 NARCAN Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://www.minneapolismn.gov/news/2026/september/fourth-minneapolis-narcan-vending-machine/"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "5401 33rd Ave S. (outside)",
-    "city": "Minneapolis",
-    "state": "MN",
-    "zip": "55417",
-    "notes": "Fourth Minneapolis free 24/7 NARCAN vending machine, installed 2026 outside Fire Station 12."
-  },
-  {
-    "id": "pa-pittsburgh-smithfield-vending",
-    "name": "Allegheny County Human Services Naloxone Vending",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "https://www.post-gazette.com/news/health/2026/01/21/free-narcan-downtown-pittsburgh/stories/202601210070",
-      "https://www.wesa.fm/politics-government/2026-01-23/free-naloxone-vending-machine-downtown-pittsburgh"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "1 Smithfield St (outside)",
-    "city": "Pittsburgh",
-    "state": "PA",
-    "zip": "15222",
-    "coordinates": {
-      "lat": 40.442,
-      "lng": -79.997
-    },
-    "notes": "Free 24/7 outdoor naloxone vending machine outside Allegheny County Human Services Building. ACHD / DHS partnership. Low-barrier access."
   }
 ]
