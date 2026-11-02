@@ -2842,18 +2842,21 @@
     "id": "ks-multiple-cities-dccca-kansas-naloxone-pro",
     "name": "DCCCA Kansas Naloxone Program",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "DCCCA official + news",
-      "https://www.dccca.org"
+      "https://www.dccca.org",
+      "https://www.dccca.org/naloxone-vending-machines/",
+      "https://www.sedgwickcounty.org/health/od2a/prevent-overdose/",
+      "https://www.dccca.org/naloxone-kit-request-form/"
     ],
-    "last_checked": "2026-10-28",
-    "address": "Machines in Pittsburg (Crawford MH), Lawrence Transit, Garden City (Compass), Overland Park (Catholic Charities), Hutchinson (Crossover), Salina (CKF), Wichita (DCCCA), KCK Public Library",
+    "last_checked": "2026-11-02",
+    "address": "Crawford County Mental Health 3103 N. Michigan St, Pittsburg; Transit Center 2315 Bob Billings Pkwy, Lawrence; Compass Behavioral Health 1111 E. Spruce St, Garden City; Catholic Charities 9806 W. 87th St, Overland Park; Crossover Recovery Center 400 W. 2nd Ave, Hutchinson; CKF Addiction Treatment 617 E. Elm St, Salina; DCCCA 8901 E. Orme St, Wichita; KCK Public Library 625 Minnesota Ave, Kansas City",
     "city": "Multiple cities",
     "state": "KS",
     "zip": "",
     "phone": "",
-    "notes": "Active expanding. Hours: Varies. Type: Vending Machines + mail"
+    "notes": "Active. Free naloxone vending machines in 8 Kansas cities: tap the naloxone box on screen and enter your ZIP code. Kansas residents can also request free kits by mail via DCCCA's online form. Hours: follow each building. Type: Vending Machines + mail"
   },
   {
     "id": "ks-lawrence-city--dccca--heartland",
@@ -8581,5 +8584,176 @@
     "zip": "",
     "phone": "",
     "notes": "Active. Hours: 24/7 some. Type: Vending Machines"
+  },
+  {
+    "id": "dc-washington-dc-fire-ems-fmcs-vending",
+    "name": "DC Fire & EMS Harm Reduction Vending Machines (DC Health / FMCS)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dchealth.dc.gov/release/new-vending-machines-provide-life-saving-products-naloxone-along-wellness-products-district",
+      "https://www.fmcsinc.org/harm-reduction-services-2/",
+      "https://dbh.dc.gov/page/where-can-i-get-naloxone-dc"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "Outside firehouses: Engine 7, 1101 Half St SW; Engine 27, 4201 Minnesota Ave NE; Engine 33, 101 Atlantic St SE. DC DBH also lists machines at Engine 2 (500 F St NW), Engine 12 (2225 5th St NE) and Engine 26 (1340 Rhode Island Ave NE)",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "",
+    "notes": "Free harm reduction vending machines outside DC Fire & EMS stations, placed so they can be reached at any time of day. Stocked with NARCAN, fentanyl test strips and wellness items. Pilot run by DC Health with Family and Medical Counseling Service (FMCS). Engine 27 address is listed as 4260 Minnesota Ave NE in the 2023 DC Health release and 4201 on the FMCS page."
+  },
+  {
+    "id": "dc-washington-hips-vending-machines",
+    "name": "HIPS Overdose Prevention and Response Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.hips.org/overdose-prevention-and-response-vending-machines.html",
+      "https://dbh.dc.gov/page/where-can-i-get-naloxone-dc"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "1525 7th St NW (outside Bread for the City NW); 1640 Marion Barry Ave SE (outside Bread for the City SE); 1201 Sycamore Dr SE (outside Whitman-Walker Max Robinson Center); 14th St NW alley near Lyman's Tavern; 1355 New York Ave NE (outside the men's shelter)",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "202-779-0486",
+    "notes": "Free outdoor vending machines with NARCAN and other health supplies, run by HIPS with DC Health support. Free enrollment by phone (hotline 202-779-0486, 1-9 PM) gives an access code; DC DBH lists access code 9999 for the Bread for the City NW machine. Lyman's Tavern address appears as 3720 14th St NW (HIPS) and 2720 14th St NW (DBH)."
+  },
+  {
+    "id": "dc-districtwide-dbh-live-long-dc",
+    "name": "DC Department of Behavioral Health LIVE.LONG.DC Naloxone (Pharmacies + Delivery)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://dbh.dc.gov/page/where-can-i-get-naloxone-dc",
+      "https://livelong.dc.gov/page/resources-LLDC",
+      "https://nextdistro.org/washingtondc"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "Participating pharmacies and community sites in every ward (CVS, Walgreens, Unity Health Care pharmacies, Whitman-Walker Health 1525 14th St NW, HIPS 906 H St NE, Bread for the City and others); vending machine at Unity Upper Cardozo 3020 14th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "",
+    "phone": "Text LiveLongDC to 888-811",
+    "notes": "Free NARCAN in every DC ward with no ID, no cost and no prescription. Text LiveLongDC to 888-811 to find the nearest site or request free delivery to a DC address (no P.O. boxes). Questions: naloxone@dc.gov."
+  },
+  {
+    "id": "md-baltimore-charm-city-care-connection-hrvm",
+    "name": "Baltimore City Harm Reduction Vending Machine (Charm City Care Connection)",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.baltimorecity.gov/health/our-work/substance-use/harm-reduction-vending-machine",
+      "https://foxbaltimore.com/news/local/baltimore-drug-harm-reduction-vending-machine"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "1214 N. Wolfe St. (outside Charm City Care Connection)",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21213",
+    "phone": "",
+    "notes": "Free 24/7 outdoor vending machine with Narcan, test strips, wound care and hygiene kits. Get a free access code from staff or by scanning the QR code on the machine; the city says no personal information is required. Baltimore City Health Department pilot. City Staying Alive program also offers free naloxone and training."
+  },
+  {
+    "id": "md-anne-arundel-health-to-go-vending",
+    "name": "Anne Arundel County Health-to-Go Naloxone Vending Machines",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.aahealth.org/behavioral-health/prevention-and-education/health-go-vending-machines"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "13 sites incl. American Legion Post 141, 1707 Forest Dr, Annapolis (noon-11 PM daily); Jennifer Road Detention Center, 131 Jennifer Rd, Annapolis (8 AM-10 PM daily); Ordnance Road Correctional Center, 600 E Ordnance Rd, Glen Burnie (8 AM-10 PM daily); Severn Center, 1160 A Reece Rd, Severn (8 AM-8 PM daily); county libraries and health buildings during open hours",
+    "city": "Anne Arundel County",
+    "state": "MD",
+    "zip": "",
+    "phone": "410-222-1842",
+    "notes": "Free naloxone vending machines run by the Anne Arundel County Department of Health; choose the item and enter its code on the keypad. Not 24/7; hours follow each building. Report low stock at aapower@aacounty.org. Single official source; no secondary confirmation found on 2026-11-02."
+  },
+  {
+    "id": "ks-kansas-city-wyandotte-county-public-health",
+    "name": "Unified Government Public Health Department (Wyandotte County) Free NARCAN",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.wycokck.org/Departments/Health/Clinical-and-Non-Clinical-Services/Non-Clinical-Services/Substance-Use",
+      "https://www.dccca.org/naloxone-vending-machines/"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "Walk-in: 619 Ann Ave (front desk, M-F 8:30 AM-5 PM). Vending machines: Cross-Lines 736 Shawnee Ave; KCK Main Library 625 Minnesota Ave; KCK South Branch Library 3104 Strong Ave; West Wyandotte Library 1737 N. 82nd St; Willa Gill Multi-Service Center 645 Nebraska Ave",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "66101",
+    "phone": "(913) 573-8855",
+    "notes": "Free NARCAN and fentanyl test strips at the health department front desk, plus free NARCAN vending machines at five Kansas City, KS locations (machines follow building hours). DCCCA confirms the KCK Main Library machine."
+  },
+  {
+    "id": "ks-topeka-sent-save-a-life-stations",
+    "name": "SENT Topeka Save-a-Life Narcan Stations",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://senttopeka.com/2024/10/21/narcan-made-available-at-4-topeka-businesses-to-fight-fentanyl-overdoses-ksnt/",
+      "KSNT (Oct 21, 2024)"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "SENT Topeka 455 SE Golf Park Blvd; Tilton's 1100 SW Sixth St; Gayle's 600 NW Paramore St; T'z Whiskey Barrel Lounge 501 NW Lyman Rd",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "",
+    "phone": "(785) 783-2535",
+    "notes": "Free outdoor Save-a-Life boxes with Narcan and recovery resource information outside four Topeka locations, launched Oct 2024. Restocking status not re-confirmed since 2024; call SENT to check."
+  },
+  {
+    "id": "in-indianapolis-marion-county-jail-vending",
+    "name": "Marion County Jail Naloxone Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://mirrorindy.org/free-naloxboxes-save-lives/",
+      "https://www.narcan-finder.com/indiana/indianapolis-in/marion-county-jail/"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "695 Justice Way (Marion County Adult Detention Center)",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46203",
+    "phone": "317-327-1700",
+    "notes": "Repurposed vending machine holding up to 300 free naloxone kits, listed as accessible 24/7. Mirror Indy gives the address as 675 Justice Way; the finder listing gives 695."
+  },
+  {
+    "id": "in-indianapolis-iu-indianapolis-naloxboxes",
+    "name": "IU Indianapolis NaloxBox Opioid Rescue Kits",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://studentaffairs.indianapolis.iu.edu/health/wellness-programs/resources/naloxbox-opioid-rescue-kits.html",
+      "https://mirrorindy.org/free-naloxboxes-save-lives/"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "Vermont St. Garage 1004 W. Vermont St (1st floor pay station); Lockefield Village 980 Indiana Ave (north entrance); Library Breezeway 755 W. Michigan St (2nd floor); ICTC 535 W. Michigan St (1st floor)",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46202",
+    "phone": "",
+    "notes": "Free NaloxBox rescue kits with naloxone nasal spray from Overdose Lifeline, listed by IU as available 24/7. Indoor boxes may depend on building access. Mirror Indy reports 70+ NaloxBoxes within 10 miles of downtown Indianapolis."
+  },
+  {
+    "id": "in-indianapolis-marion-county-public-health-suos",
+    "name": "Marion County Public Health Department Substance Use Outreach Services",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://mirrorindy.org/free-naloxboxes-save-lives/",
+      "https://www.in.gov/health/overdose-prevention/naloxone/"
+    ],
+    "last_checked": "2026-11-02",
+    "address": "1650 N. College Ave; harm reduction sites incl. 1434 Shelby St and Damien Center 26 N. Arsenal Ave",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46202",
+    "phone": "317-221-4618",
+    "notes": "Free Narcan kits (two nasal sprays) and free training from Marion County Public Health. Indiana Department of Health lists Marion County and Damien Center weekday harm reduction hours; call ahead because hours change."
   }
 ]
