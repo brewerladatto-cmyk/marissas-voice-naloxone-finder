@@ -39,7 +39,7 @@
       "lat": 32.5081,
       "lng": -94.7467
     },
-    "notes": "Free 24/7 naloxone vending machine outside ETCADA. Official Naloxone Texas regional hub for East Texas (serves ~23\u201335 rural counties). Dispensed 150+ containers in first month of operation. No ID or payment required."
+    "notes": "Free 24/7 naloxone vending machine outside ETCADA. Official Naloxone Texas regional hub for East Texas (serves ~23–35 rural counties). Dispensed 150+ containers in first month of operation. No ID or payment required."
   },
   {
     "id": "tx-new-boston-heartstart-vending",
@@ -64,7 +64,7 @@
   },
   {
     "id": "tx-texarkana-randy-sams-vending",
-    "name": "Randy Sams\u2019 Outreach Center / Heartstart Heroes Naloxone Vending",
+    "name": "Randy Sams’ Outreach Center / Heartstart Heroes Naloxone Vending",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -73,7 +73,7 @@
       "https://randysams.org/contact-us"
     ],
     "last_checked": "2026-10-28",
-    "address": "402 Oak Street (lobby of Randy Sams\u2019 Outreach Center)",
+    "address": "402 Oak Street (lobby of Randy Sams’ Outreach Center)",
     "city": "Texarkana",
     "state": "TX",
     "zip": "75501",
@@ -185,7 +185,7 @@
       "lat": 32.2824,
       "lng": -95.2804
     },
-    "notes": "Free walk-in naloxone (Narcan) available Monday\u2013Friday, roughly 9 a.m.\u20134 p.m. East Texas nonprofit serving rural communities. Basic contact info may be requested for grant reporting; no cost."
+    "notes": "Free walk-in naloxone (Narcan) available Monday–Friday, roughly 9 a.m.–4 p.m. East Texas nonprofit serving rural communities. Basic contact info may be requested for grant reporting; no cost."
   },
   {
     "id": "tx-dallas-metrocare-lancaster-kiest-vending",
@@ -207,7 +207,7 @@
       "lat": 32.7035,
       "lng": -96.7875
     },
-    "notes": "Free public health vending machine with naloxone (Narcan) and other supplies at Metrocare Lancaster-Kiest Adult Mental Health Clinic. Launched January 2026 in partnership with Dallas County Health and Human Services (DCHHS). Clinic hours Mon\u2013Fri 8 a.m.\u20135 p.m.; confirm vending access and stock on site. No cost."
+    "notes": "Free public health vending machine with naloxone (Narcan) and other supplies at Metrocare Lancaster-Kiest Adult Mental Health Clinic. Launched January 2026 in partnership with Dallas County Health and Human Services (DCHHS). Clinic hours Mon–Fri 8 a.m.–5 p.m.; confirm vending access and stock on site. No cost."
   },
   {
     "id": "tx-denton-rubber-gloves-vending",
@@ -269,7 +269,7 @@
       "lat": 32.7845,
       "lng": -96.782
     },
-    "notes": "Free Narcan (naloxone) vending machine at Deep Ellum Community Center. Installed September 2024 by Conscience Conduit and LIVEGY; artful design. Additional machines in the area. Call or check for current hours/stock; community center open Wed\u2013Sun noon\u20137 p.m."
+    "notes": "Free Narcan (naloxone) vending machine at Deep Ellum Community Center. Installed September 2024 by Conscience Conduit and LIVEGY; artful design. Additional machines in the area. Call or check for current hours/stock; community center open Wed–Sun noon–7 p.m."
   },
   {
     "id": "tx-dallas-apaa-mlk-vending",
@@ -333,7 +333,7 @@
       "lat": 32.759,
       "lng": -97.797
     },
-    "notes": "Free anonymous 24/7 naloxone vending machine at Unity Recovery\u2019s Weatherford Recovery Community Center. Official Naloxone Texas regional hub for Region 3 (Tarrant County and surrounding western DFW counties). No ID or payment required. Also offers peer support and training."
+    "notes": "Free anonymous 24/7 naloxone vending machine at Unity Recovery’s Weatherford Recovery Community Center. Official Naloxone Texas regional hub for Region 3 (Tarrant County and surrounding western DFW counties). No ID or payment required. Also offers peer support and training."
   },
   {
     "id": "tx-weatherford-ntace-dispenser",
@@ -905,7 +905,7 @@
       "lat": 29.762,
       "lng": -95.39
     },
-    "notes": "Free naloxone (Narcan) vending machine in the coffee lounge. Accessible during regular business hours (approx Mon-Thu 8:30am\u20139pm, Fri 8:30am\u20135pm, Sat 8:30am-1:30pm). No cost, no personal information required. Naloxone Texas style unit."
+    "notes": "Free naloxone (Narcan) vending machine in the coffee lounge. Accessible during regular business hours (approx Mon-Thu 8:30am–9pm, Fri 8:30am–5pm, Sat 8:30am-1:30pm). No cost, no personal information required. Naloxone Texas style unit."
   },
   {
     "id": "ny-redhook-matters-vending",
@@ -1921,7 +1921,7 @@
   },
   {
     "id": "al-mobile-b-bob-s-bar-kiosk",
-    "name": "B-Bob\u2019s Bar Kiosk",
+    "name": "B-Bob’s Bar Kiosk",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -2249,7 +2249,7 @@
   },
   {
     "id": "fl-jail-lobbies-broward-sheriff-s-office",
-    "name": "Broward Sheriff\u2019s Office",
+    "name": "Broward Sheriff’s Office",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -2280,8 +2280,8 @@
     "notes": "Active. Hours: 24/7 many. Type: Overdose Aid Kits / Boxes. Central GA"
   },
   {
-    "id": "hi-hilo-hhhrc--bisac--hawai\u02bbi-isla",
-    "name": "HHHRC + BISAC + Hawai\u02bbi Island Fentanyl Task Force",
+    "id": "hi-hilo-hhhrc--bisac--hawaiʻi-isla",
+    "name": "HHHRC + BISAC + Hawaiʻi Island Fentanyl Task Force",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -2289,7 +2289,7 @@
       "https://www.hhhrc.org/naloxone"
     ],
     "last_checked": "2026-10-28",
-    "address": "Hilo: YMCA 300 W Lanikaula; BISAC sites (24/7 some); hubs in Kohala, Kamuela, Honoka\u02bba",
+    "address": "Hilo: YMCA 300 W Lanikaula; BISAC sites (24/7 some); hubs in Kohala, Kamuela, Honokaʻa",
     "city": "Hilo",
     "state": "HI",
     "zip": "",
@@ -2314,7 +2314,7 @@
     "notes": "Active. Hours: Varies. Type: Vending + Distribution. Urban + neighbor mail"
   },
   {
-    "id": "id-coeur-d\u2019alene-panhandle-health-district",
+    "id": "id-coeur-d’alene-panhandle-health-district",
     "name": "Panhandle Health District",
     "category": "free_naloxone",
     "verification": "partly_verified",
@@ -2324,7 +2324,7 @@
     ],
     "last_checked": "2026-10-28",
     "address": "St. Vincent de Paul Pantry 1317 N 1st St (business hours); Shoshone County Fire 911 Bunker Ave (24/7)",
-    "city": "Coeur d\u2019Alene",
+    "city": "Coeur d’Alene",
     "state": "ID",
     "zip": "",
     "phone": "",
@@ -2372,7 +2372,7 @@
       "Local news + MCHD"
     ],
     "last_checked": "2026-10-28",
-    "address": "Vista Medical, B-Bob\u2019s Bar, Shell Health, Semmes Pharmacy, WIC Citronelle",
+    "address": "Vista Medical, B-Bob’s Bar, Shell Health, Semmes Pharmacy, WIC Citronelle",
     "city": "Mobile",
     "state": "AL",
     "zip": "",
@@ -2591,7 +2591,7 @@
   },
   {
     "id": "id-mccall-central-district-health",
-    "name": "Central District Health / Ignite Idaho / St. Luke\u2019s",
+    "name": "Central District Health / Ignite Idaho / St. Luke’s",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -2599,7 +2599,7 @@
       "https://cdh.idaho.gov"
     ],
     "last_checked": "2026-10-28",
-    "address": "McCall St. Luke\u2019s ED; Cascade Food Pantry; Ignite Idaho Resource Center",
+    "address": "McCall St. Luke’s ED; Cascade Food Pantry; Ignite Idaho Resource Center",
     "city": "McCall",
     "state": "ID",
     "zip": "",
@@ -3120,7 +3120,7 @@
   },
   {
     "id": "ma-billerica-area-middlesex-sheriff-s-offic",
-    "name": "Middlesex Sheriff\u2019s Office",
+    "name": "Middlesex Sheriff’s Office",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -3260,8 +3260,8 @@
       "KCTV5 + Vending Times"
     ],
     "last_checked": "2026-10-28",
-    "address": "Lee\u2019s Summit HQ area; Raytown Synergy One Lending (expanding to Independence, Grandview, etc.)",
-    "city": "Lee\u2019s Summit",
+    "address": "Lee’s Summit HQ area; Raytown Synergy One Lending (expanding to Independence, Grandview, etc.)",
+    "city": "Lee’s Summit",
     "state": "MO",
     "zip": "",
     "phone": "",
@@ -3993,7 +3993,7 @@
   },
   {
     "id": "sc-north-charleston-charleston-county-sheriff",
-    "name": "Charleston County Sheriff\u2019s Office",
+    "name": "Charleston County Sheriff’s Office",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -4231,7 +4231,7 @@
       "https://www.nashville.gov"
     ],
     "last_checked": "2026-10-28",
-    "address": "Twice Daily 1702 West End Ave; Exxon 2200 Brick Church Pike; Tennessee Justice Center 155 Lafayette St; Davidson County Sheriff\u2019s Office facilities (Downtown Detention Center and Harding Place)",
+    "address": "Twice Daily 1702 West End Ave; Exxon 2200 Brick Church Pike; Tennessee Justice Center 155 Lafayette St; Davidson County Sheriff’s Office facilities (Downtown Detention Center and Harding Place)",
     "city": "Nashville",
     "state": "TN",
     "zip": "",
@@ -4315,7 +4315,7 @@
       "https://emilyshope.charity"
     ],
     "last_checked": "2026-10-28",
-    "address": "Sioux Falls: Jones421 Market 421 N Phillips Ave; Falls Community Health 521 N Main Ave; Tires Tires Tires 2317 S Minnesota Ave & 1720 S St Michaels Cir; Face It Together 5020 S Tennis Lane #4; Sanford Health. Rapid City: Project Recovery 625 Flormann St; Monument Health sites. Pine Ridge/Rosebud: Oglala Sioux Tribe Building; Buche Foods Pine Ridge & Mission; Oyate Teca Project Kyle. Watertown: Prairie Lakes Hospital ER; Watertown Regional Library. Others: Sisseton Buche Ace Hardware 2211 SD Hwy 10; Vermillion Pump \u2019n Pak 629 Stanford St; Pierre Capital Area Counseling 2001 Eastgate Ave",
+    "address": "Sioux Falls: Jones421 Market 421 N Phillips Ave; Falls Community Health 521 N Main Ave; Tires Tires Tires 2317 S Minnesota Ave & 1720 S St Michaels Cir; Face It Together 5020 S Tennis Lane #4; Sanford Health. Rapid City: Project Recovery 625 Flormann St; Monument Health sites. Pine Ridge/Rosebud: Oglala Sioux Tribe Building; Buche Foods Pine Ridge & Mission; Oyate Teca Project Kyle. Watertown: Prairie Lakes Hospital ER; Watertown Regional Library. Others: Sisseton Buche Ace Hardware 2211 SD Hwy 10; Vermillion Pump ’n Pak 629 Stanford St; Pierre Capital Area Counseling 2001 Eastgate Ave",
     "city": "Sioux Falls",
     "state": "SD",
     "zip": "",
@@ -4324,7 +4324,7 @@
   },
   {
     "id": "ut-ogden-weber-county-sheriff-s-of",
-    "name": "Weber County Sheriff\u2019s Office",
+    "name": "Weber County Sheriff’s Office",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -4578,7 +4578,7 @@
       "Standard-Examiner + Utah Policy"
     ],
     "last_checked": "2026-10-28",
-    "address": "6\u201310 harm reduction machines across Ogden/Weber County (code 1234; naloxone + FTS + hygiene)",
+    "address": "6–10 harm reduction machines across Ogden/Weber County (code 1234; naloxone + FTS + hygiene)",
     "city": "Ogden",
     "state": "UT",
     "zip": "",
@@ -4791,7 +4791,7 @@
       "PennWatch + DDAP"
     ],
     "last_checked": "2026-10-28",
-    "address": "Barney Boxes in all school districts; Huntingdon Borough Police; Huntingdon County Children\u2019s Services; Juniata and Mifflin food pantries; Geisinger Lewistown Hospital (nearly 1,200 doses distributed)",
+    "address": "Barney Boxes in all school districts; Huntingdon Borough Police; Huntingdon County Children’s Services; Juniata and Mifflin food pantries; Geisinger Lewistown Hospital (nearly 1,200 doses distributed)",
     "city": "Multiple",
     "state": "PA",
     "zip": "",
@@ -4857,7 +4857,7 @@
       "https://www.southwestach.org"
     ],
     "last_checked": "2026-10-28",
-    "address": "XChange Church 21810 NE 37th Ave Ridgefield; Lifeline Connections 1601 E Fourth Plain Blvd Vancouver; Recovery Caf\u00e9 3312 E Fourth Plain Blvd Vancouver; Clark County Jail lobby 707 W 13th St Vancouver; Legacy Salmon Creek 2121 NE 139th St Vancouver; One Community Health Northshore 875 SW Rock Creek Dr Stevenson; Klickitat Valley Health 317 Sanders Way Goldendale",
+    "address": "XChange Church 21810 NE 37th Ave Ridgefield; Lifeline Connections 1601 E Fourth Plain Blvd Vancouver; Recovery Café 3312 E Fourth Plain Blvd Vancouver; Clark County Jail lobby 707 W 13th St Vancouver; Legacy Salmon Creek 2121 NE 139th St Vancouver; One Community Health Northshore 875 SW Rock Creek Dr Stevenson; Klickitat Valley Health 317 Sanders Way Goldendale",
     "city": "Vancouver",
     "state": "WA",
     "zip": "",
@@ -4905,7 +4905,7 @@
       "RehabSeekers; https://www.herald-dispatch.com/news/narcan-dispensing-machine-placed-in-lincoln-county/article_d31e70e7-ec5d-4baf-9f9d-bf0872ea17f1.html"
     ],
     "last_checked": "2026-10-28",
-    "address": "McClellan\u2019s Convenience Store (naloxone + FTS)",
+    "address": "McClellan’s Convenience Store (naloxone + FTS)",
     "city": "Branchland",
     "state": "WV",
     "zip": "",
@@ -4938,7 +4938,7 @@
       "HNG News + Patch"
     ],
     "last_checked": "2026-10-28",
-    "address": "Outside SSM Health St. Mary\u2019s Hospital Park St Madison; UW Health University Hospital ED Highland Ave Madison; Sunshine Place 18 Rickel Rd Sun Prairie (outside south end); Stoughton Health ED vestibule 900 Ridge St Stoughton (24/7)",
+    "address": "Outside SSM Health St. Mary’s Hospital Park St Madison; UW Health University Hospital ED Highland Ave Madison; Sunshine Place 18 Rickel Rd Sun Prairie (outside south end); Stoughton Health ED vestibule 900 Ridge St Stoughton (24/7)",
     "city": "Madison",
     "state": "WI",
     "zip": "",
@@ -5099,14 +5099,14 @@
   },
   {
     "id": "pr-san-juan-gua-kia",
-    "name": "Gua\u2019kia",
+    "name": "Gua’kia",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
       "HarmReductionFinder"
     ],
     "last_checked": "2026-10-28",
-    "address": "San Juan PR 00925 (R\u00edo Piedras area outreach); call to confirm",
+    "address": "San Juan PR 00925 (Río Piedras area outreach); call to confirm",
     "city": "San Juan",
     "state": "PR",
     "zip": "",
@@ -5114,8 +5114,8 @@
     "notes": "Active. Hours: Varies. Type: Harm Reduction / SSP"
   },
   {
-    "id": "pr-san-juan-el-punto-en-la-monta\u00f1a-i",
-    "name": "El Punto en la Monta\u00f1a, Inc",
+    "id": "pr-san-juan-el-punto-en-la-montaña-i",
+    "name": "El Punto en la Montaña, Inc",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -5131,8 +5131,8 @@
     "notes": "Active. Hours: Wed 9-3. Type: Harm Reduction / SSP"
   },
   {
-    "id": "pr-island-wide-assmca-administraci\u00f3n-de",
-    "name": "ASSMCA (Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n)",
+    "id": "pr-island-wide-assmca-administración-de",
+    "name": "ASSMCA (Administración de Servicios de Salud Mental y Contra la Adicción)",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -5155,7 +5155,7 @@
       "Metro PR + Primera Hora"
     ],
     "last_checked": "2026-10-28",
-    "address": "Distributed to merchants and artisans during Fiestas de la Calle San Sebasti\u00e1n (and similar large events) for rapid access",
+    "address": "Distributed to merchants and artisans during Fiestas de la Calle San Sebastián (and similar large events) for rapid access",
     "city": "Viejo San Juan",
     "state": "PR",
     "zip": "",
@@ -5222,7 +5222,7 @@
       "https://intercambiospr.org"
     ],
     "last_checked": "2026-10-28",
-    "address": "Clinic: 165 Calle Diego Zalduondo, Altos, Fajardo PR 00738 (and new site #14 Calle Antonio R. Barcel\u00f3); La M\u00f3vil RV and outreach to Can\u00f3vanas, Lo\u00edza, R\u00edo Grande, Luquillo, Naguabo, Humacao, Yabucoa, Juncos, Gurabo, Caguas and more",
+    "address": "Clinic: 165 Calle Diego Zalduondo, Altos, Fajardo PR 00738 (and new site #14 Calle Antonio R. Barceló); La Móvil RV and outreach to Canóvanas, Loíza, Río Grande, Luquillo, Naguabo, Humacao, Yabucoa, Juncos, Gurabo, Caguas and more",
     "city": "Fajardo",
     "state": "PR",
     "zip": "",
@@ -5238,7 +5238,7 @@
       "Instagram (nnepuertorico)"
     ],
     "last_checked": "2026-10-28",
-    "address": "4 stations: Sector Los Bravos (Calle del Carmen), Sector El Parque (Calle Parque), ACUTAS (Calle Bell\u00edsima), Barrio Ingenio (Villas del Sol); restocked Mondays",
+    "address": "4 stations: Sector Los Bravos (Calle del Carmen), Sector El Parque (Calle Parque), ACUTAS (Calle Bellísima), Barrio Ingenio (Villas del Sol); restocked Mondays",
     "city": "Sabana Seca",
     "state": "PR",
     "zip": "",
@@ -5255,7 +5255,7 @@
       "https://www.salud.pr.gov"
     ],
     "last_checked": "2026-10-28",
-    "address": "Examples: CDT Adjuntas (Calle Rius Rivera); Aguada Medical Center (Carr 115 KM 24.5 Bo. Asomante); Policl\u00ednica Familiar Factor (Bo. Factor km 65.6 Carr PR 2, Animas/Arecibo); full list updated July 2026 by Salud PR",
+    "address": "Examples: CDT Adjuntas (Calle Rius Rivera); Aguada Medical Center (Carr 115 KM 24.5 Bo. Asomante); Policlínica Familiar Factor (Bo. Factor km 65.6 Carr PR 2, Animas/Arecibo); full list updated July 2026 by Salud PR",
     "city": "Adjuntas",
     "state": "PR",
     "zip": "",
@@ -5497,7 +5497,7 @@
   },
   {
     "id": "ak-naknek-cama-i-community-health-c",
-    "name": "Cama\u2019i Community Health Center / ANTHC",
+    "name": "Cama’i Community Health Center / ANTHC",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -5840,7 +5840,7 @@
   },
   {
     "id": "sd-eagle-butte-emily-s-hope-naloxone-pod",
-    "name": "Emily\u2019s Hope Naloxone Pods",
+    "name": "Emily’s Hope Naloxone Pods",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -5873,7 +5873,7 @@
   },
   {
     "id": "id-mccall-ignite-idaho--st-luke-s",
-    "name": "Ignite Idaho + St. Luke\u2019s + Cascade Food Pantry",
+    "name": "Ignite Idaho + St. Luke’s + Cascade Food Pantry",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -5881,7 +5881,7 @@
       "https://couragetoconnectidaho.com/overdose-prevention/"
     ],
     "last_checked": "2026-10-28",
-    "address": "St. Luke\u2019s McCall Medical Center 1000 State St (24/7); Cascade Food Pantry 1470 S Main Hwy 55 Cascade (24/7)",
+    "address": "St. Luke’s McCall Medical Center 1000 State St (24/7); Cascade Food Pantry 1470 S Main Hwy 55 Cascade (24/7)",
     "city": "McCall",
     "state": "ID",
     "zip": "",
@@ -5890,14 +5890,14 @@
   },
   {
     "id": "id-kellogg-shoshone-county-fire--fa",
-    "name": "Shoshone County Fire + Father Bill\u2019s Kitchen",
+    "name": "Shoshone County Fire + Father Bill’s Kitchen",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
       "Panhandle Health District; https://cdapress.com/news/2023/dec/04/narcan-stations-add-lifesaving-tools; https://www.kxly.com/news/free-narcan-vending-machines-now-available-in-kootenai-shoshone-counties/article_f100a38e-92fe-11ee-9637-e3068c24fae1.html"
     ],
     "last_checked": "2026-10-28",
-    "address": "Shoshone County Fire District #2 911 Bunker Ave Kellogg; Father Bill\u2019s Kitchen 1317 N 1st Street Coeur d\u2019Alene",
+    "address": "Shoshone County Fire District #2 911 Bunker Ave Kellogg; Father Bill’s Kitchen 1317 N 1st Street Coeur d’Alene",
     "city": "Kellogg",
     "state": "ID",
     "zip": "",
@@ -6053,7 +6053,7 @@
     "notes": "Active. Hours: 24/7 preferred. Type: Vending Machines + Kits"
   },
   {
-    "id": "nm-espa\u00f1ola-rio-arriba-county--orcnm",
+    "id": "nm-española-rio-arriba-county--orcnm",
     "name": "Rio Arriba County + ORCNM",
     "category": "free_naloxone",
     "verification": "partly_verified",
@@ -6062,7 +6062,7 @@
     ],
     "last_checked": "2026-10-28",
     "address": "Rio Arriba: 34 machines/boxes placed since Oct 2025 (e.g. El Moreno Minimarket, Starbucks, Food King in Espanola; Tierra Amarilla Courthouse); Cibola County: Grants Public Library, Milan Village Hall, Smith's Strip Mall, Bluewater Village Fire Station",
-    "city": "Espa\u00f1ola",
+    "city": "Española",
     "state": "NM",
     "zip": "",
     "phone": "",
@@ -6292,7 +6292,7 @@
       "https://soarwv.org"
     ],
     "last_checked": "2026-10-28",
-    "address": "Unitarian Universalist Congregation; Women\u2019s Health Center on Washington St West; Living AIDS Memorial Garden on Washington St East (and more planned)",
+    "address": "Unitarian Universalist Congregation; Women’s Health Center on Washington St West; Living AIDS Memorial Garden on Washington St East (and more planned)",
     "city": "Charleston",
     "state": "WV",
     "zip": "",
@@ -6407,7 +6407,7 @@
       "https://www.hhhrc.org/naloxone"
     ],
     "last_checked": "2026-10-28",
-    "address": "Hilo YMCA, BISAC (some 24/7); rural hubs Kohala Resilience, Tutu\u2019s House Kamuela, H\u0101m\u0101kua-Kohala Health Honoka\u02bba",
+    "address": "Hilo YMCA, BISAC (some 24/7); rural hubs Kohala Resilience, Tutu’s House Kamuela, Hāmākua-Kohala Health Honokaʻa",
     "city": "Hilo",
     "state": "HI",
     "zip": "",
@@ -6619,7 +6619,7 @@
       "The Real WV + Herald-Dispatch"
     ],
     "last_checked": "2026-10-28",
-    "address": "CAMC General, Memorial, Teays Valley, and Women and Children\u2019s hospitals (public access)",
+    "address": "CAMC General, Memorial, Teays Valley, and Women and Children’s hospitals (public access)",
     "city": "Charleston",
     "state": "WV",
     "zip": "",
@@ -6694,7 +6694,7 @@
   },
   {
     "id": "ok-all-ok-i-m-ready-odmhsas",
-    "name": "OK I\u2019m Ready (ODMHSAS)",
+    "name": "OK I’m Ready (ODMHSAS)",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -6743,7 +6743,7 @@
   },
   {
     "id": "id-mccall-cdh--ignite-idaho--st",
-    "name": "CDH / Ignite Idaho / St. Luke\u2019s",
+    "name": "CDH / Ignite Idaho / St. Luke’s",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -6751,7 +6751,7 @@
       "https://cdh.idaho.gov"
     ],
     "last_checked": "2026-10-28",
-    "address": "St. Luke\u2019s McCall ED; Cascade Food Pantry; Ignite Idaho Resource Center; CDH McCall",
+    "address": "St. Luke’s McCall ED; Cascade Food Pantry; Ignite Idaho Resource Center; CDH McCall",
     "city": "McCall",
     "state": "ID",
     "zip": "",
@@ -7004,7 +7004,7 @@
   },
   {
     "id": "or-oregon-city-clackamas-county-sheriff",
-    "name": "Clackamas County Sheriff\u2019s Office",
+    "name": "Clackamas County Sheriff’s Office",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -7037,7 +7037,7 @@
   },
   {
     "id": "or-southern-oregon-max-s-mission",
-    "name": "Max\u2019s Mission",
+    "name": "Max’s Mission",
     "category": "free_naloxone",
     "verification": "partly_verified",
     "source": [
@@ -8755,5 +8755,91 @@
     "zip": "46202",
     "phone": "317-221-4618",
     "notes": "Free Narcan kits (two nasal sprays) and free training from Marion County Public Health. Indiana Department of Health lists Marion County and Damien Center weekday harm reduction hours; call ahead because hours change."
+  },
+  {
+    "id": "ne-omaha-douglas-county-health-resource-vending-machines",
+    "name": "Douglas County Health Department Health Resource Vending Machines",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.douglascountyhealth.com/health-resource-vending-machines",
+      "https://www.ketv.com/article/community-wide-effort-offer-more-resources-addiction/64627345",
+      "https://newsletter.douglascounty-ne.gov/home/january-2025"
+    ],
+    "last_checked": "2026-11-09",
+    "address": "1111 S 41st St (Douglas County Health Department); also Washington Branch Library 2868 Ames Ave, Siena Francis House 1117 N 17th St, Together Omaha 2419 Leavenworth St, Milton R Abrahams Library 5111 N 90th St, Yates Illuminates 3260 Davenport St, American Dream 7402 F St, Nebraska Urban Indian Health Coalition 2226 N St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68105",
+    "phone": "",
+    "notes": "Free, anonymous health resource vending machines; naloxone is among the listed items, along with fentanyl test strips and wound kits. The health department describes the machines as open 24/7, but access can depend on the host building, and items change with availability. Items can also be reserved online for pickup at testandgo.com/kiosk-locator. Each machine lists a customer service number for help."
+  },
+  {
+    "id": "ct-bloomfield-harm-reduction-cabinets",
+    "name": "Town of Bloomfield + West Hartford-Bloomfield Health District Harm Reduction Cabinets",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.bloomfieldct.gov/1256/Overdose-Prevention-and-Harm-Reduction",
+      "https://www.linkedin.com/posts/town-of-bloomfield_bloomfieldct-communityhealth-harmreduction-activity-7486077888019030016-POYd"
+    ],
+    "last_checked": "2026-11-09",
+    "address": "Bloomfield Police Headquarters, 785 Park Ave (front entrance); Alvin and Beatrice Wood Human Services Center, 330 Park Ave",
+    "city": "Bloomfield",
+    "state": "CT",
+    "zip": "",
+    "phone": "860-561-7901",
+    "notes": "Two community cabinets with free naloxone (Narcan), fentanyl and xylazine test strips, and personal care items. The town says both cabinets are available 24 hours a day, 7 days a week, and use is free and anonymous with no ID, sign-in, or explanation needed. Phone is the West Hartford-Bloomfield Health District. Secondary confirmation is from the town's own announcement, so this is partly verified."
+  },
+  {
+    "id": "ct-hartford-cthra-the-drop-and-hub",
+    "name": "CT Harm Reduction Alliance (CTHRA) The Drop and The Hub",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://liveloud.org/stay-safe/get-free-naloxone/",
+      "https://ctmirror.org/2026/09/21/how-to-get-narcan-naloxone-ct/"
+    ],
+    "last_checked": "2026-11-09",
+    "address": "The Drop drop-in center, 557 Albany Ave; The Hub, 28 Grand St (06106)",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06112",
+    "phone": "860-263-8720",
+    "notes": "Free naloxone from the Connecticut Harm Reduction Alliance, listed on the state's LiveLOUD free naloxone page; information is kept confidential. The Drop is listed Monday-Friday 9 AM-5 PM and Saturday 9 AM-2 PM; The Hub Monday-Friday 8 AM-4 PM. Call ahead to confirm hours and supply."
+  },
+  {
+    "id": "nv-sparks-life-change-center-impact-exchange-vending",
+    "name": "Trac-B Impact Exchange Vending Machine at The Life Change Center - Sparks",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.harmreductioncenterlv.com/impact-exchange-vending-machines",
+      "https://www.wakeupnv.org/resources"
+    ],
+    "last_checked": "2026-11-09",
+    "address": "1755 Sullivan Ln (machine is outside the building)",
+    "city": "Sparks",
+    "state": "NV",
+    "zip": "89431",
+    "phone": "",
+    "notes": "Trac-B lists this harm reduction vending machine as accessible 24 hours, 365 days, outside the building. All items are free, including nasal and injectable naloxone. Adults 18+ sign up once for a free vending card (some form of ID needed) online or at Trac-B; after that, supplies can be taken without speaking to anyone. Products may vary by site."
+  },
+  {
+    "id": "wy-casper-natrona-county-health-department",
+    "name": "Casper-Natrona County Health Department Narcan Training",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://casperpublichealth.org/community-education/",
+      "https://harmreductionfinder.com/wyoming/"
+    ],
+    "last_checked": "2026-11-09",
+    "address": "1017 S Conwell St",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601",
+    "phone": "307-235-9340",
+    "notes": "Free Narcan training for individuals and groups; people who complete the training receive two doses of Narcan to carry. Call to schedule training and confirm pickup."
   }
 ]
