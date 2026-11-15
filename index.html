@@ -1,1 +1,589 @@
-PLACEHOLDER
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Marissa’s Voice Naloxone Finder & Support</title>
+<meta name="description" content="Find free naloxone, treatment, and family support near you. Every listing shows its source and last-checked date.">
+<link rel="icon" href="images/logo.png" type="image/png">
+<link rel="apple-touch-icon" href="images/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo" crossorigin=""></script>
+<style>
+:root {
+  --purple: #4A1C6B;
+  --purple-deep: #2D0F47;
+  --purple-mid: #5B2C6F;
+  --teal: #0D9488;
+  --gold: #C9A227;
+  --gold-soft: #E8D48B;
+  --lavender: #F7F4FB;
+  --white: #FFFFFF;
+  --text: #2A2433;
+  --muted: #6B6275;
+  --shadow: 0 10px 40px rgba(74, 28, 107, 0.12);
+  --radius: 20px;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; font-family: "Open Sans", system-ui, sans-serif; background: linear-gradient(160deg, var(--purple-deep) 0%, var(--purple) 55%, var(--purple-mid) 100%); color: white; min-height: 100vh; }
+header {
+  background: white;
+  color: var(--purple);
+  padding: 0.75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+.brand { display: flex; align-items: center; gap: 0.75rem; }
+.brand img { width: 52px; height: 52px; border-radius: 50%; object-fit: cover; }
+.brand-text h1 { font-family: "Montserrat", sans-serif; font-size: 1.25rem; margin: 0; font-weight: 700; }
+.brand-text p { font-size: 0.72rem; margin: 0.1rem 0 0; letter-spacing: 0.04em; color: var(--teal); font-weight: 600; }
+nav { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+nav a, nav button {
+  text-decoration: none;
+  color: var(--purple);
+  font-weight: 600;
+  font-size: 0.92rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+nav .find-help { background: var(--purple); color: white; }
+nav .espanol { border: 1.5px solid var(--purple); }
+.emergency {
+  background: var(--purple-deep);
+  text-align: center;
+  padding: 0.55rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.emergency a { color: var(--gold-soft); text-decoration: underline; }
+.main {
+  display: grid;
+  grid-template-columns: 1fr 420px;
+  gap: 2.5rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1.5rem 3rem;
+  align-items: start;
+}
+.left h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 3.1rem;
+  font-weight: 700;
+  line-height: 1.05;
+  margin: 0.4rem 0 1rem;
+}
+.left .meta { font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.85; margin-bottom: 0.5rem; }
+.left p { font-size: 1.05rem; max-width: 480px; line-height: 1.55; opacity: 0.95; }
+.emergency-cards { display: flex; gap: 0.75rem; margin-top: 1.5rem; flex-wrap: wrap; }
+.emergency-cards .card {
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 12px;
+  padding: 0.85rem 1rem;
+  min-width: 140px;
+  flex: 1;
+}
+.emergency-cards .num { font-size: 1.4rem; font-weight: 700; color: var(--gold-soft); }
+.emergency-cards .label { font-size: 0.8rem; opacity: 0.9; }
+.form-card {
+  background: white;
+  color: var(--text);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.3rem 1.6rem;
+  box-shadow: var(--shadow);
+}
+.form-card label { display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 0.9rem 0 0.35rem; }
+.form-card input, .form-card select {
+  width: 100%;
+  padding: 0.75rem 0.9rem;
+  border: 1.5px solid #e5e0ee;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-family: inherit;
+}
+.form-card button.use-loc {
+  width: 100%;
+  margin-top: 0.6rem;
+  padding: 0.7rem;
+  border: 1.5px solid var(--purple);
+  background: white;
+  color: var(--purple);
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.form-card .row { display: flex; gap: 0.75rem; }
+.form-card .row > div { flex: 1; }
+.form-card .find-btn {
+  width: 100%;
+  margin: 1rem 0 0.8rem;
+  padding: 0.95rem;
+  background: var(--purple);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.pills { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 0.4rem 0 0.6rem; }
+.pills button {
+  background: #f3eef8;
+  color: var(--purple);
+  border: none;
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.pills button.active { background: var(--purple); color: white; }
+.open-now {
+  margin-top: 0.5rem;
+  background: white;
+  border: 1.5px solid #e5e0ee;
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.open-now.active { background: var(--teal); color: white; border-color: var(--teal); }
+.status { font-size: 0.88rem; color: var(--muted); margin: 0.8rem 0 0.3rem; }
+.coverage { font-size: 0.78rem; color: var(--muted); line-height: 1.45; }
+.results { margin-top: 1.5rem; display: grid; gap: 0.9rem; }
+.result-card {
+  background: white;
+  color: var(--text);
+  border-radius: 14px;
+  padding: 1.1rem 1.2rem;
+  box-shadow: 0 4px 16px rgba(74,28,107,0.08);
+  border-left: 4px solid var(--teal);
+}
+.result-card h3 { margin: 0 0 0.35rem; color: var(--purple); font-size: 1.05rem; }
+.result-card .badge { float: right; font-size: 0.7rem; background: #e6f7f5; color: var(--teal); padding: 0.2rem 0.5rem; border-radius: 999px; font-weight: 700; }
+@media (max-width: 900px) {
+  .main { grid-template-columns: 1fr; }
+  .left h2 { font-size: 2.3rem; }
+  header { justify-content: center; text-align: center; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <img src="images/logo.png" alt="Marissa’s Voice logo" onerror="this.style.display='none'">
+    <div class="brand-text">
+      <h1>Marissa’s Voice</h1>
+      <p>CARRY NALOXONE. BE INFORMED. SAVE A LIFE.</p>
+    </div>
+  </div>
+  <nav>
+    <a href="#search" class="find-help">Find help</a>
+    <a href="https://www.marissasvoice.org" target="_blank">How to give naloxone</a>
+    <a href="https://www.marissasvoice.org" target="_blank">About</a>
+    <button class="espanol" id="langToggle">Español</button>
+  </nav>
+</header>
+
+<div class="emergency">
+  In an emergency, call <a href="tel:911">911</a>. Struggling? Call or text <a href="tel:988">988</a>. &nbsp; LAY • SPRAY • STAY
+</div>
+
+<div class="main" id="search">
+  <div class="left">
+    <div class="meta">FREE · CONFIDENTIAL · DATA CHECKED OCT 8, 2026 – OCT 13, 2026</div>
+    <h2>Marissa’s Voice<br>Naloxone Finder<br>& Support</h2>
+    <p>Find free naloxone, treatment and family support near you. Enter a ZIP code, a city and state, or a county, or pick a state. Every listing shows its source and the date we last checked it.</p>
+    <div class="emergency-cards">
+      <div class="card"><div class="num">911</div><div class="label">Overdose or emergency</div></div>
+      <div class="card"><div class="num">988</div><div class="label">Call or text, crisis support</div></div>
+      <div class="card"><div class="num">SAMHSA</div><div class="label">1-800-662-HELP (4357), treatment help 24/7</div></div>
+    </div>
+  </div>
+
+  <div class="form-card">
+    <label>ZIP CODE, CITY AND STATE, OR COUNTY</label>
+    <input type="text" id="q" placeholder="75116 or Dallas, TX" value="75116">
+
+    <button type="button" class="use-loc" id="useLoc">Use my location</button>
+
+    <label>OR CHOOSE A STATE</label>
+    <select id="state">
+      <option value="">Pick a state</option>
+      <option value="AL">Alabama</option>
+      <option value="AK">Alaska</option>
+      <option value="AZ">Arizona</option>
+      <option value="AR">Arkansas</option>
+      <option value="CA">California</option>
+      <option value="CO">Colorado</option>
+      <option value="CT">Connecticut</option>
+      <option value="DE">Delaware</option>
+      <option value="DC">District of Columbia</option>
+      <option value="FL">Florida</option>
+      <option value="GA">Georgia</option>
+      <option value="HI">Hawaii</option>
+      <option value="ID">Idaho</option>
+      <option value="IL">Illinois</option>
+      <option value="IN">Indiana</option>
+      <option value="IA">Iowa</option>
+      <option value="KS">Kansas</option>
+      <option value="KY">Kentucky</option>
+      <option value="LA">Louisiana</option>
+      <option value="ME">Maine</option>
+      <option value="MD">Maryland</option>
+      <option value="MA">Massachusetts</option>
+      <option value="MI">Michigan</option>
+      <option value="MN">Minnesota</option>
+      <option value="MS">Mississippi</option>
+      <option value="MO">Missouri</option>
+      <option value="MT">Montana</option>
+      <option value="NE">Nebraska</option>
+      <option value="NV">Nevada</option>
+      <option value="NH">New Hampshire</option>
+      <option value="NJ">New Jersey</option>
+      <option value="NM">New Mexico</option>
+      <option value="NY">New York</option>
+      <option value="NC">North Carolina</option>
+      <option value="ND">North Dakota</option>
+      <option value="OH">Ohio</option>
+      <option value="OK">Oklahoma</option>
+      <option value="OR">Oregon</option>
+      <option value="PA">Pennsylvania</option>
+      <option value="RI">Rhode Island</option>
+      <option value="SC">South Carolina</option>
+      <option value="SD">South Dakota</option>
+      <option value="TN">Tennessee</option>
+      <option value="TX" selected>Texas</option>
+      <option value="UT">Utah</option>
+      <option value="VT">Vermont</option>
+      <option value="VA">Virginia</option>
+      <option value="WA">Washington</option>
+      <option value="WV">West Virginia</option>
+      <option value="WI">Wisconsin</option>
+      <option value="WY">Wyoming</option>
+    </select>
+
+    <div class="row">
+      <div>
+        <label>WITHIN</label>
+        <select id="within">
+          <option value="25">25 miles</option>
+          <option value="50" selected>50 miles</option>
+          <option value="100">100 miles</option>
+          <option value="all">Any distance</option>
+        </select>
+      </div>
+      <div>
+        <label>SHOW</label>
+        <select id="show">
+          <option value="all" selected>All listings</option>
+          <option value="verified">Verified only</option>
+        </select>
+      </div>
+    </div>
+
+    <button type="button" class="find-btn" id="searchBtn">Find help</button>
+
+    <label>Type of help</label>
+    <div class="pills" id="pills">
+      <button type="button" data-filter="free_naloxone" class="active">Free naloxone (in person)</button>
+      <button type="button" data-filter="mail_order">Mail-order and online</button>
+      <button type="button" data-filter="treatment">Treatment</button>
+      <button type="button" data-filter="family">Family support</button>
+      <button type="button" data-filter="harm">Harm reduction and syringe services</button>
+      <button type="button" data-filter="helpline">Helpline or meeting finder</button>
+      <button type="button" data-filter="training">Training</button>
+    </div>
+    <button type="button" class="open-now" id="openNow">Open now (verified hours only)</button>
+
+    <div class="status" id="status">Showing results for ZIP 75116.</div>
+    <div class="coverage">Street-level listings are live in 50 of 51 places (50 states and D.C.). Statewide resources are available everywhere. Listings were last checked Oct 8, 2026 – Oct 13, 2026.</div>
+  </div>
+</div>
+
+<div style="max-width:1200px;margin:1.5rem auto;padding:0 1.5rem;">
+  <div class="view-toggle" style="display:flex;gap:0.5rem;margin-bottom:0.8rem;">
+    <button type="button" id="listViewBtn" class="active" style="background:var(--purple);color:white;border:none;padding:0.45rem 1rem;border-radius:999px;font-weight:600;cursor:pointer;">List</button>
+    <button type="button" id="mapViewBtn" style="background:#f3eef8;color:var(--purple);border:none;padding:0.45rem 1rem;border-radius:999px;font-weight:600;cursor:pointer;">Map</button>
+  </div>
+  <div id="map" style="height:480px;width:100%;border-radius:20px;display:none;background:#e8e4ef;"></div>
+</div>
+
+<div class="results" id="results" style="max-width:1200px;margin:0 auto 3rem;padding:0 1.5rem;"></div>
+
+<script>
+const DATA_URL = 'data/listings.json';
+let all = [];
+let userLat = null, userLng = null;
+let activeFilters = new Set(['free_naloxone']);
+
+const i18n = {
+  en: {
+    langBtn: "Español",
+    title: "Marissa’s Voice Naloxone Finder & Support",
+    meta: "FREE · CONFIDENTIAL · DATA CHECKED OCT 8, 2026 – OCT 13, 2026",
+    heading: "Marissa’s Voice<br>Naloxone Finder<br>& Support",
+    desc: "Find free naloxone, treatment and family support near you. Enter a ZIP code, a city and state, or a county, or pick a state. Every listing shows its source and the date we last checked it.",
+    zipLabel: "ZIP CODE, CITY AND STATE, OR COUNTY",
+    useLoc: "Use my location",
+    stateLabel: "OR CHOOSE A STATE",
+    within: "WITHIN",
+    show: "SHOW",
+    findBtn: "Find help",
+    typeLabel: "Type of help",
+    openNow: "Open now (verified hours only)",
+    coverage: "Street-level listings are live in 50 of 51 places (50 states and D.C.). Statewide resources are available everywhere. Listings were last checked Oct 8, 2026 – Oct 13, 2026.",
+    noResults: "No matches yet. Try a different ZIP, city, or remove filters. Statewide resources are available.",
+    showing: "Showing results for",
+    withinMiles: "within"
+  },
+  es: {
+    langBtn: "English",
+    title: "Localizador de Naloxona y Apoyo de la Voz de Marissa",
+    meta: "GRATIS · CONFIDENCIAL · DATOS VERIFICADOS 8 OCT 2026 – 13 OCT 2026",
+    heading: "Localizador de Naloxona<br>y Apoyo de la<br>Voz de Marissa",
+    desc: "Encuentra naloxona gratuita, tratamiento y apoyo familiar cerca de ti. Ingresa un código postal, ciudad y estado, o condado, o elige un estado. Cada listado muestra su fuente y la fecha en que lo verificamos.",
+    zipLabel: "CÓDIGO POSTAL, CIUDAD Y ESTADO, O CONDADO",
+    useLoc: "Usar mi ubicación",
+    stateLabel: "O ELIGE UN ESTADO",
+    within: "DENTRO DE",
+    show: "MOSTRAR",
+    findBtn: "Buscar ayuda",
+    typeLabel: "Tipo de ayuda",
+    openNow: "Abierto ahora (solo horarios verificados)",
+    coverage: "Listados a nivel de calle disponibles en 50 de 51 lugares (50 estados y D.C.). Recursos estatales disponibles en todas partes. Listados verificados por última vez 8 oct 2026 – 13 oct 2026.",
+    noResults: "Sin coincidencias aún. Prueba otro código postal, ciudad o quita filtros. Hay recursos estatales disponibles.",
+    showing: "Mostrando resultados para",
+    withinMiles: "dentro de"
+  }
+};
+
+let currentLang = "en";
+
+function applyLang(lang) {
+  currentLang = lang;
+  const t = i18n[lang];
+  document.title = t.title;
+  document.querySelector(".left .meta").textContent = t.meta;
+  document.querySelector(".left h2").innerHTML = t.heading;
+  document.querySelector(".left p").textContent = t.desc;
+  document.querySelector(".form-card label").textContent = t.zipLabel;
+  document.getElementById("useLoc").textContent = t.useLoc;
+  document.querySelectorAll(".form-card label")[1].textContent = t.stateLabel;
+  document.querySelectorAll(".form-card label")[2].textContent = t.within;
+  document.querySelectorAll(".form-card label")[3].textContent = t.show;
+  document.querySelector(".find-btn").textContent = t.findBtn;
+  document.querySelectorAll(".form-card label")[4].textContent = t.typeLabel;
+  document.getElementById("openNow").textContent = t.openNow;
+  document.querySelector(".coverage").textContent = t.coverage;
+  document.getElementById("langToggle").textContent = t.langBtn;
+  const pills = document.querySelectorAll("#pills button");
+  if (lang === "es") {
+    pills[0].textContent = "Naloxona gratuita (en persona)";
+    pills[1].textContent = "Pedido por correo y en línea";
+    pills[2].textContent = "Tratamiento";
+    pills[3].textContent = "Apoyo familiar";
+    pills[4].textContent = "Reducción de daños y jeringas";
+    pills[5].textContent = "Línea de ayuda o reuniones";
+    pills[6].textContent = "Capacitación";
+  } else {
+    pills[0].textContent = "Free naloxone (in person)";
+    pills[1].textContent = "Mail-order and online";
+    pills[2].textContent = "Treatment";
+    pills[3].textContent = "Family support";
+    pills[4].textContent = "Harm reduction and syringe services";
+    pills[5].textContent = "Helpline or meeting finder";
+    pills[6].textContent = "Training";
+  }
+  render();
+}
+
+document.getElementById("langToggle").onclick = () => applyLang(currentLang === "en" ? "es" : "en");
+
+let map = null;
+let markers = [];
+let currentView = "list";
+
+function initMap() {
+  if (map) return;
+  map = L.map("map").setView([31.0, -97.0], 6);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "&copy; OpenStreetMap",
+    maxZoom: 18
+  }).addTo(map);
+}
+
+function updateMap(filtered) {
+  if (!map) return;
+  markers.forEach(m => map.removeLayer(m));
+  markers = [];
+  const withCoords = filtered.filter(i => i.lat && i.lng);
+  withCoords.forEach(item => {
+    const marker = L.marker([item.lat, item.lng]).addTo(map);
+    marker.bindPopup(`<strong>${item.name}</strong><br>${item.city || ""} ${item.state || ""}`);
+    markers.push(marker);
+  });
+  if (withCoords.length) {
+    const group = L.featureGroup(markers);
+    map.fitBounds(group.getBounds().pad(0.2));
+  }
+}
+
+document.getElementById("listViewBtn").onclick = () => {
+  currentView = "list";
+  document.getElementById("listViewBtn").style.background = "var(--purple)";
+  document.getElementById("listViewBtn").style.color = "white";
+  document.getElementById("mapViewBtn").style.background = "#f3eef8";
+  document.getElementById("mapViewBtn").style.color = "var(--purple)";
+  document.getElementById("map").style.display = "none";
+  document.getElementById("results").style.display = "grid";
+};
+document.getElementById("mapViewBtn").onclick = () => {
+  currentView = "map";
+  document.getElementById("mapViewBtn").style.background = "var(--purple)";
+  document.getElementById("mapViewBtn").style.color = "white";
+  document.getElementById("listViewBtn").style.background = "#f3eef8";
+  document.getElementById("listViewBtn").style.color = "var(--purple)";
+  document.getElementById("results").style.display = "none";
+  document.getElementById("map").style.display = "block";
+  if (!map) initMap();
+  if (map) setTimeout(() => map.invalidateSize(), 100);
+  updateMap(all.filter(item => matches(item, document.getElementById("q").value.trim(), document.getElementById("state").value, activeFilters, null, null)));
+};
+
+function haversine(lat1, lon1, lat2, lon2) {
+  const R = 3958.8;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+
+const zipCoords = {
+  "75116": [32.6518, -96.9083],
+  "75201": [32.787, -96.799],
+  "75216": [32.688, -96.792],
+  "75001": [32.962, -96.838],
+  "76102": [32.755, -97.333]
+};
+
+async function load() {
+  try {
+    const res = await fetch(DATA_URL);
+    const data = await res.json();
+    all = Array.isArray(data) ? data : (data.listings || []);
+    render();
+  } catch (e) {
+    document.getElementById('status').textContent = 'Could not load listings. Please try again later.';
+  }
+}
+
+function matches(item, q, state, filters, center, maxMiles) {
+  if (state && item.state && item.state !== state) return false;
+  const cat = item.cat || item.category || 'free_naloxone';
+  if (filters.size && !filters.has(cat)) {
+    const text = (item.name + ' ' + (item.notes || item.statusNote || '')).toLowerCase();
+    let hit = false;
+    if (filters.has('treatment') && /treatment|recovery|rehab/.test(text)) hit = true;
+    if (filters.has('family') && /family|support/.test(text)) hit = true;
+    if (filters.has('helpline') && /helpline|hotline|988|samhsa/.test(text)) hit = true;
+    if (filters.has('harm') && /syringe|harm reduction|needle/.test(text)) hit = true;
+    if (filters.has('mail_order') && /mail|online|ship/.test(text)) hit = true;
+    if (filters.has('training') && /training|education/.test(text)) hit = true;
+    if (filters.has('free_naloxone') || filters.has('naloxone')) hit = true;
+    if (!hit) return false;
+  }
+  if (center && maxMiles && maxMiles !== 'all' && item.lat && item.lng) {
+    const dist = haversine(center[0], center[1], item.lat, item.lng);
+    if (dist > parseFloat(maxMiles)) return false;
+  }
+  if (!q || q === 'Near my location') return true;
+  const hay = [item.name, item.city, item.state, item.address, item.zip, item.notes, item.organization].filter(Boolean).join(' ').toLowerCase();
+  return q.toLowerCase().split(/\s+/).every(t => hay.includes(t));
+}
+
+function render() {
+  const q = document.getElementById('q').value.trim();
+  const state = document.getElementById('state').value;
+  const within = document.getElementById('within').value;
+  let center = null;
+  if (userLat && userLng) center = [userLat, userLng];
+  else if (/^\d{5}$/.test(q) && zipCoords[q]) center = zipCoords[q];
+  const maxMiles = within === 'all' ? null : within;
+  const filtered = all.filter(item => matches(item, q, state, activeFilters, center, maxMiles));
+  let status = q ? `${i18n[currentLang].showing} ${q}` : (currentLang === 'es' ? 'Mostrando todos los listados coincidentes' : 'Showing all matching listings');
+  if (center && maxMiles) status += ` ${i18n[currentLang].withinMiles} ${maxMiles} ${currentLang === 'es' ? 'millas' : 'miles'}`;
+  document.getElementById('status').textContent = status + '.';
+  const el = document.getElementById('results');
+  if (!filtered.length) {
+    el.innerHTML = `<div style="background:white;color:#2A2433;padding:1.5rem;border-radius:14px;text-align:center;">${i18n[currentLang].noResults}</div>`;
+    return;
+  }
+  if (currentView === 'map') updateMap(filtered);
+  el.innerHTML = filtered.slice(0, 30).map(item => `
+    <article class="result-card">
+      <span class="badge">${(item.status || item.verification || 'unconfirmed').replace('_',' ')}</span>
+      <h3>${item.name}</h3>
+      <p>${item.notes || item.statusNote || ''}</p>
+      <div style="font-size:0.85rem;color:#6B6275;margin-top:0.4rem;">
+        ${item.city || ''} ${item.state || ''} ${item.zip || ''} · ${item.address || ''}
+      </div>
+    </article>
+  `).join('');
+}
+
+document.getElementById('searchBtn').onclick = render;
+document.getElementById('q').oninput = render;
+document.getElementById('state').onchange = render;
+document.getElementById('pills').onclick = e => {
+  if (e.target.tagName !== 'BUTTON') return;
+  e.target.classList.toggle('active');
+  const f = e.target.dataset.filter;
+  if (e.target.classList.contains('active')) activeFilters.add(f); else activeFilters.delete(f);
+  render();
+};
+document.getElementById('useLoc').onclick = () => {
+  if (!navigator.geolocation) return alert('Geolocation not supported.');
+  navigator.geolocation.getCurrentPosition(pos => {
+    userLat = pos.coords.latitude;
+    userLng = pos.coords.longitude;
+    document.getElementById('q').value = 'Near my location';
+    document.getElementById('status').textContent = 'Using your location…';
+    render();
+  }, () => alert('Could not get location.'));
+};
+
+load();
+</script>
+
+<footer style="background:rgba(0,0,0,0.25);padding:2rem 1.5rem;text-align:center;margin-top:2rem;font-size:0.9rem;">
+  <div style="margin-bottom:1rem;">
+    <a href="https://www.guidestar.org/profile/93-1546199" target="_blank" rel="noopener noreferrer" aria-label="Marissa’s Voice Inc. Candid Seal of Transparency">
+      <img src="https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/15098498/svg"
+           alt="Candid Gold Seal of Transparency"
+           width="108" height="108"
+           style="border:0;display:inline-block;background:white;border-radius:8px;padding:4px;" />
+    </a>
+    <p style="margin:0.6rem 0 0;opacity:0.9;">Marissa’s Voice Inc. holds a <strong>Candid Gold Seal of Transparency</strong>.</p>
+  </div>
+  <p style="margin:0.4rem 0;opacity:0.85;">
+    Marissa’s Voice Inc. · 501(c)(3) · EIN 93-1546199 · Duncanville, Texas<br>
+    <a href="https://www.marissasvoice.org" target="_blank" rel="noopener" style="color:#E8D48B;">marissasvoice.org</a>
+    · <a href="https://www.guidestar.org/profile/93-1546199" target="_blank" rel="noopener" style="color:#E8D48B;">Candid profile</a>
+  </p>
+  <p style="margin:0.8rem 0 0;font-size:0.8rem;opacity:0.7;">Educational information only. Not medical advice. In an emergency, call 911.</p>
+</footer>
+
+</body>
+</html>
