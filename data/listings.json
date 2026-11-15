@@ -45,13 +45,13 @@
     "id": "tx-new-boston-heartstart-vending",
     "name": "Heartstart Heroes / Naloxone Texas Vending (Smokin Joker)",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.heartstartheroes.com/Free-Naloxone-Access-Northeast-Texas.html",
       "https://www.ksla.com/2026/05/11/narcan-vending-machines-offer-free-overdose-treatment-texarkana/",
       "https://www.ktbs.com/news/texarkana/new-narcan-vending-machines-set-up-in-bowie-county/article_48065b02-d1e4-4d5e-8235-31e1c51b608d.html"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "303 E Hoskins St (corner of East Hoskins Street and North Center Street)",
     "city": "New Boston",
     "state": "TX",
@@ -66,13 +66,13 @@
     "id": "tx-texarkana-randy-sams-vending",
     "name": "Randy Sams’ Outreach Center / Heartstart Heroes Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.heartstartheroes.com/Free-Naloxone-Access-Northeast-Texas.html",
       "https://www.ksla.com/2026/05/11/narcan-vending-machines-offer-free-overdose-treatment-texarkana/",
       "https://randysams.org/contact-us"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "402 Oak Street (lobby of Randy Sams’ Outreach Center)",
     "city": "Texarkana",
     "state": "TX",
@@ -164,7 +164,7 @@
       "lat": 28.7093,
       "lng": -100.501
     },
-    "notes": "Free naloxone vending machine launched October 2026 by SAFE EP and the City of Eagle Pass at the downtown fire station. Rural/border community access via Naloxone Texas. No cost; call ahead for hours or stock if needed."
+    "notes": "Free naloxone vending machine launched Oct 23, 2026 by SAFE EP and the City of Eagle Pass at the downtown fire station. Rural/border community access via Naloxone Texas. No cost; hours vary; call ahead for hours or stock if needed. Merged three Eagle Pass SAFE EP listings (tx-eagle-pass-safe-ep-vending, tx-eagle-pass-safe-ep--city, tx-eagle-pass-safe-ep) on 2026-11-15."
   },
   {
     "id": "tx-tyler-socialworx-walkin",
@@ -191,13 +191,13 @@
     "id": "tx-dallas-metrocare-lancaster-kiest-vending",
     "name": "Metrocare Lancaster-Kiest Clinic Public Health Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.metrocareservices.org/wp-content/uploads/2026/02/Narcan-Ribbon-Cutting-Press-Release.pdf",
       "https://x.com/NTBHA6/status/2017614062587191389",
       "https://www.metrocareservices.org/location/metrocare-lancaster-kiest-adult-mental-health-clinic/"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "3330 S Lancaster Rd",
     "city": "Dallas",
     "state": "TX",
@@ -656,12 +656,12 @@
     "id": "tx-austin-central-health-cec-vending",
     "name": "Central Health Clinical Education Center Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.centralhealth.net/naloxone-vending-machines/",
       "https://www.centralhealth.net/central-health-further-expanding-naloxone-distribution-network-across-travis-county/"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "1400 N Interstate Hwy 35",
     "city": "Austin",
     "state": "TX",
@@ -733,12 +733,13 @@
     "id": "tx-edinburg-adult-probation-vending",
     "name": "Hidalgo County Adult Probation Office Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.valleycentral.com/community/free-narcan-available-in-vending-machines-across-hidalgo-county/",
-      "https://bhsst.org/first-narcan-vending-machine-in-the-rio-grande-valley/"
+      "https://bhsst.org/first-narcan-vending-machine-in-the-rio-grande-valley/",
+      "https://www.hchd.org/342/News-Releases"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "3100 US-281 BUS",
     "city": "Edinburg",
     "state": "TX",
@@ -753,12 +754,12 @@
     "id": "tx-edinburg-hchhs-central-vending",
     "name": "Hidalgo County HCHHS Central Office Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://www.valleycentral.com/community/free-narcan-available-in-vending-machines-across-hidalgo-county/",
       "https://www.hchd.org/342/News-Releases"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "1304 S 25th Ave",
     "city": "Edinburg",
     "state": "TX",
@@ -830,12 +831,12 @@
     "id": "tx-sanantonio-1upsatx-vending",
     "name": "1UPsatx Harm Reduction Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://nasen.org/sep/1upsatx",
       "https://linktr.ee/1UPsatx"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "2120 El Paso St",
     "city": "San Antonio",
     "state": "TX",
@@ -851,12 +852,12 @@
     "id": "tx-sanantonio-utsa-vending",
     "name": "UT San Antonio Health Science Center Naloxone Vending",
     "category": "free_naloxone",
-    "verification": "partly_verified",
+    "verification": "verified",
     "source": [
       "https://news.uthscsa.edu/ut-san-antonio-launches-naloxone-vending-machine-on-campus-to-combat-opioid-overdose-crisis/",
       "https://bewelltexas.org/ut-san-antonio-launches-naloxone-vending-machine-on-campus-to-combat-opioid-overdose-crisis/"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "Lecture Hall Commons (between Starbucks and Briscoe Library), Health Science Center",
     "city": "San Antonio",
     "state": "TX",
@@ -1080,7 +1081,7 @@
       "https://www.wkow.com/news/dane-county-expands-access-to-overdose-prevention-supplies-with-new-vending-machines/article_fd055b1e-eaf2-4ae3-b932-46935e14d6d6.html",
       "https://www.danecounty.gov/PressDetail/11979"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "18 Rickel Road (outside Sunshine Place)",
     "city": "Sun Prairie",
     "state": "WI",
@@ -1321,7 +1322,7 @@
       "https://pasco.floridahealth.gov/2025/12/09/doh-pasco-introduces-harm-reduction-vending-machines/",
       "https://www.tampabay28.com/news/region-pasco/harm-reduction-vending-machines-in-pasco-county-provide-free-resources-to-the-community"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "Behind BayCare Behavioral Health facility (call for exact location)",
     "city": "Dade City",
     "state": "FL",
@@ -1335,7 +1336,7 @@
     "source": [
       "https://duval.floridahealth.gov/programs-and-services/wellness-programs/od2a-overdose-data-to-action/narcan-distribution/"
     ],
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-09",
     "address": "515 West 6th St",
     "city": "Jacksonville",
     "state": "FL",
@@ -4239,22 +4240,6 @@
     "notes": "Active. Hours: 24/7 many. Type: Vending Machines"
   },
   {
-    "id": "tx-eagle-pass-safe-ep--city",
-    "name": "SAFE EP + city",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "Maverick Times"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "Downtown Eagle Pass Fire Station 590 Quarry St (launched Oct 23 2026)",
-    "city": "Eagle Pass",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "notes": "Active. Hours: Varies. Type: Vending Machine"
-  },
-  {
     "id": "tx-austin-nice-project--central-he",
     "name": "NICE Project + Central Health",
     "category": "free_naloxone",
@@ -5854,22 +5839,6 @@
     "zip": "",
     "phone": "",
     "notes": "Active | Re-verified 2026-10-28 (PARTIAL): Emily's Hope active in 2025 (Avera boxes in Sioux Falls/Yankton; statewide box expansion, gas stations/libraries typical). Specific small-town pod sites (Newell, Belle Fourche, Milbank) not verified.. Hours: Varies. Type: Pods / Boxes"
-  },
-  {
-    "id": "tx-eagle-pass-safe-ep",
-    "name": "SAFE EP",
-    "category": "free_naloxone",
-    "verification": "partly_verified",
-    "source": [
-      "The Maverick Times"
-    ],
-    "last_checked": "2026-10-28",
-    "address": "Downtown Eagle Pass Fire Station, 590 Quarry St (launched Oct 2026)",
-    "city": "Eagle Pass",
-    "state": "TX",
-    "zip": "",
-    "phone": "",
-    "notes": "Active. Hours: Varies. Type: Vending Machine"
   },
   {
     "id": "id-mccall-ignite-idaho--st-luke-s",
