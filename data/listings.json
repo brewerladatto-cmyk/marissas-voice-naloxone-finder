@@ -8810,5 +8810,122 @@
     "zip": "82601",
     "phone": "307-235-9340",
     "notes": "Free Narcan training for individuals and groups; people who complete the training receive two doses of Narcan to carry. Call to schedule training and confirm pickup."
+  },
+  {
+    "id": "ga-atlanta-little-five-points-pharmacy-narcan-kiosk",
+    "name": "Little Five Points Pharmacy 24/7 Narcan Kiosk",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://www.atlantanewsfirst.com/2026/06/10/free-naloxone-map-across-state-unveiled-new-247-narcan-kiosk-opens-atlanta/",
+      "https://www.narcan-finder.com/georgia/atlanta-ga/little-five-points-pharmacy/"
+    ],
+    "last_checked": "2026-11-16",
+    "address": "484 Moreland Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30307",
+    "phone": "404-524-4466",
+    "notes": "Outdoor kiosk outside the pharmacy, reported as accessible 24/7 and stocked with free Narcan (naloxone) and fentanyl test strips (installed June 2026 with Georgia Overdose Prevention). The pharmacy also gives Narcan free at the counter."
+  },
+  {
+    "id": "ga-macon-macon-bibb-county-health-dept-vending",
+    "name": "Macon-Bibb County Health Department Harm Reduction Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.41nbc.com/north-central-health-district-installs-harm-reduction-vending-machines-in-macon-bibb-houston-county/",
+      "https://northcentralhealthdistrict.org/macon-bibb-county-health-department/"
+    ],
+    "last_checked": "2026-11-16",
+    "address": "1600 Forsyth St",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31201",
+    "phone": "478-745-0411",
+    "notes": "North Central Health District harm reduction vending machine with free naloxone nasal spray, fentanyl and xylazine test strips, and hygiene kits. 24/7 access not confirmed; call ahead for hours."
+  },
+  {
+    "id": "ga-warner-robins-houston-county-health-dept-vending",
+    "name": "Houston County Health Department Harm Reduction Vending Machine",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://hhjonline.com/houston-county-health-department-installs-harm-reduction-vending-machine-offering-narcan-testing-kits-hygiene-supplies/",
+      "https://www.41nbc.com/north-central-health-district-installs-harm-reduction-vending-machines-in-macon-bibb-houston-county/",
+      "https://northcentralhealthdistrict.org/houston-county-health-department/"
+    ],
+    "last_checked": "2026-11-16",
+    "address": "98 Cohen Walker Dr",
+    "city": "Warner Robins",
+    "state": "GA",
+    "zip": "31088",
+    "phone": "478-218-2000",
+    "notes": "North Central Health District vending machine; supplies, including Narcan and drug testing kits, are free and anonymous. 24/7 access not confirmed; call ahead for hours."
+  },
+  {
+    "id": "ga-conyers-rockdale-county-sheriff-naloxone-vending",
+    "name": "Rockdale County Sheriff's Office Naloxone Vending Machines (with GNR Public Health)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.rockdalesheriff.com/narcanresources/"
+    ],
+    "last_checked": "2026-11-16",
+    "address": "911 Chambers Dr NW",
+    "city": "Conyers",
+    "state": "GA",
+    "zip": "30012",
+    "phone": "770-278-8000",
+    "notes": "Free, confidential naloxone vending machines in the front lobby of the RCSO Jail and at the RCSO Southside Precinct. Machines use tokens (no cash); ask for up to two tokens at the front reception window. Call ahead for hours."
+  },
+  {
+    "id": "me-portland-portland-public-health-syringe-service",
+    "name": "Portland Public Health Syringe Service Program (\"The Exchange\")",
+    "category": "free_naloxone",
+    "verification": "verified",
+    "source": [
+      "https://getmainenaloxone.org/end-user/",
+      "https://wgme.com/news/local/portland-police-report-spike-in-overdoses-urge-public-to-access-free-narcan-resources-maine-opioid-crisis-911"
+    ],
+    "last_checked": "2026-11-16",
+    "address": "39 Forest Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "207-482-5121",
+    "notes": "City public health program offering free Narcan and training. Listed hours Monday-Friday 9am-4pm; call ahead to confirm."
+  },
+  {
+    "id": "me-augusta-health-reach-harm-reduction",
+    "name": "Health Reach Harm Reduction (MaineGeneral)",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://getmainenaloxone.org/end-user/"
+    ],
+    "last_checked": "2026-11-16",
+    "address": "9 Green St, 2nd Floor",
+    "city": "Augusta",
+    "state": "ME",
+    "zip": "04330",
+    "phone": "207-621-3768",
+    "notes": "Syringe access program listed by Get Maine Naloxone as offering free intranasal Narcan. Listed hours Mon/Tue/Thu 8:30am-4:30pm, Wed 11am-4:30pm, Fri 12:30-4:30pm; call ahead to confirm."
+  },
+  {
+    "id": "hi-waianae-wcchc-naloxone-vending-machine",
+    "name": "Waianae Coast Comprehensive Health Center Naloxone Vending Machine",
+    "category": "free_naloxone",
+    "verification": "partly_verified",
+    "source": [
+      "https://www.hhhrc.org/post/naloxone-vending-machines",
+      "https://www.hawaiinewsnow.com/2023/08/30/life-saving-medication-reverse-overdoses-installed-vending-machines-around-hawaii/"
+    ],
+    "last_checked": "2026-11-16",
+    "address": "86-260 Farrington Hwy",
+    "city": "Waianae",
+    "state": "HI",
+    "zip": "96792",
+    "notes": "Listed by HHHRC as a host of a free naloxone vending machine funded by the Hawaii Department of Health. Exact machine placement and hours not confirmed; check HHHRC's vending machine map or call the health center before visiting."
   }
 ]
